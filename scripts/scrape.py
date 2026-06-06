@@ -116,6 +116,7 @@ def update_index(snapshots: dict, now: datetime):
     
     # 每日摘要
     summary_path = DATA_DIR / date_str / "_summary.json"
+    summary_path.parent.mkdir(parents=True, exist_ok=True)
     summary = {"date": date_str, "platforms": {}}
     if summary_path.exists():
         with open(summary_path, "r", encoding="utf-8") as f:
@@ -123,14 +124,12 @@ def update_index(snapshots: dict, now: datetime):
     
     for key, snap in snapshots.items():
         if key not in summary["platforms"]:
-            summary["platforms"][key] = {"snapshots": 0, "total_items": set()}
+            summary["platforms"][key] = {"snapshots": 0, "total_items": 0}
         summary["platforms"][key]["snapshots"] += 1
         summary["platforms"][key]["last_time"] = now.strftime("%H:%M")
     
     with open(summary_path, "w", encoding="utf-8") as f:
-        # Convert set to list for JSON
-        summary_clean = json.loads(json.dumps(summary))
-        json.dump(summary_clean, f, ensure_ascii=False, separators=(",", ":"))
+        json.dump(summary, f, ensure_ascii=False, separators=(",", ":"))
 
 def main():
     now = datetime.now(CST)
