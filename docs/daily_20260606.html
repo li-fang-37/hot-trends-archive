@@ -1,0 +1,367 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<title>每日热搜简报 · 2026.6.6</title>
+<style>
+  :root {
+    --primary: #3b63d3;
+    --fire: #ef4444;
+    --hot: #f59e0b;
+    --normal: #9ca3af;
+    --bg: #f5f6f8;
+    --card: #ffffff;
+    --text: #1f2937;
+    --muted: #6b7280;
+    --border: #e5e7eb;
+  }
+  *{margin:0;padding:0;box-sizing:border-box}
+  body{
+    font-family: -apple-system, "PingFang SC", "Microsoft YaHei", "Helvetica Neue", sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    font-size: 15px;
+    line-height: 1.6;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  /* Header */
+  .header{
+    background: var(--primary);
+    color: #fff;
+    padding: 20px 16px 16px;
+    position: sticky;
+    top: 0;
+    z-index: 10;
+  }
+  .header h1{font-size: 20px;font-weight: 700;letter-spacing: .5px}
+  .header .sub{font-size: 13px;opacity:.8;margin-top:4px;display:flex;justify-content:space-between}
+  .header .mood{font-size: 13px;margin-top:8px;opacity:.9;padding:6px 10px;background:rgba(255,255,255,.12);border-radius:8px}
+
+  /* Sections */
+  .section{margin:12px 12px 0;background:var(--card);border-radius:12px;overflow:hidden;box-shadow:0 1px 3px rgba(0,0,0,.04)}
+  .section-title{
+    font-size: 15px;font-weight: 700;padding:14px 16px 10px;
+    display:flex;align-items:center;gap:8px;
+  }
+  .section-title .icon{font-size:18px}
+  .section-body{padding:0 16px 14px}
+
+  /* Fire items */
+  .fire-item{
+    background: #fef2f2;
+    border:1px solid #fecaca;
+    border-radius:10px;
+    padding:12px;
+    margin-bottom:10px;
+  }
+  .fire-item:last-child{margin-bottom:0}
+  .fire-item .head{display:flex;align-items:center;gap:6px;font-weight:600;font-size:14px}
+  .fire-item .head .hot-val{font-size:12px;color:var(--fire);font-weight:700;margin-left:auto}
+  .fire-item .src{font-size:11px;color:var(--muted);margin-top:2px}
+  .fire-item .topic-link{
+    display:block;margin-top:8px;padding:8px 10px;background:#fff;border:1px solid #fecaca;
+    border-radius:8px;font-size:13px;color:var(--primary);font-weight:500;text-decoration:none;
+    line-height:1.4;
+  }
+  .fire-item .topic-link:hover{background:#fef2f2}
+
+  /* Category list */
+  .cat-block{margin-bottom:12px}
+  .cat-block:last-child{margin-bottom:0}
+  .cat-header{
+    font-size:13px;font-weight:600;color:var(--muted);
+    padding:4px 0 6px;display:flex;align-items:center;gap:6px;
+  }
+  .cat-header .badge{font-size:10px;padding:1px 6px;border-radius:3px;font-weight:600;margin-left:auto}
+  .badge-fire{background:#fef2f2;color:var(--fire)}
+  .badge-hot{background:#fffbeb;color:var(--hot)}
+  .badge-norm{background:#f3f4f6;color:var(--normal)}
+  .hot-item{
+    display:flex;align-items:flex-start;gap:8px;
+    padding:6px 0;font-size:14px;border-bottom:1px solid #f3f4f6;
+  }
+  .hot-item:last-child{border-bottom:none}
+  .hot-item .tag{flex-shrink:0;font-size:12px;width:50px;text-align:center;padding:1px 0;border-radius:4px;font-weight:600}
+  .tag-fire{background:#fef2f2;color:var(--fire)}
+  .tag-hot{background:#fffbeb;color:var(--hot)}
+  .tag-norm{background:#f3f4f6;color:var(--normal)}
+  .hot-item .title{flex:1;line-height:1.4}
+  .hot-item .src{font-size:11px;color:var(--muted);margin-left:4px}
+
+  /* 灵感卡片 */
+  .inspire-card{
+    border:1px solid var(--border);
+    border-radius:10px;padding:14px;margin-bottom:10px;
+    border-left:3px solid var(--primary);
+  }
+  .inspire-card:last-child{margin-bottom:0}
+  .inspire-card .conflict{font-size:12px;color:var(--muted);margin-bottom:4px}
+  .inspire-card .conflict strong{color:var(--text)}
+  .inspire-card .topic{font-size:15px;font-weight:600;color:var(--primary);margin-bottom:8px;line-height:1.5}
+  .inspire-card .views{font-size:13px;line-height:1.5}
+  .inspire-card .views .pro{color:#059669;margin-bottom:2px}
+  .inspire-card .views .con{color:#dc2626}
+
+  /* 说明 */
+  .footer{padding:16px 16px 32px;text-align:center;font-size:12px;color:var(--normal)}
+</style>
+</head>
+<body>
+
+<div class="header">
+  <h1>🔥 每日热搜简报</h1>
+  <div class="sub">
+    <span>2026年6月6日 · 周六</span>
+    <span>高考前夜</span>
+  </div>
+  <div class="mood">📌 今日情绪：焦虑 + 吃瓜 · 高考全民关注 + 美股暴跌刷屏</div>
+</div>
+
+<!-- 今日总览 -->
+<div class="section">
+  <div class="section-title"><span class="icon">📌</span> 今日总览</div>
+  <div class="section-body" style="font-size:14px;line-height:1.7;color:#374151">
+    <p style="margin-bottom:8px">今天是高考前夜（6月6日），全平台被高考相关话题持续霸榜。与此同时，美股暴跌引发全民关注——英伟达市值一夜蒸发2.2万亿登上微博热搜，"如何看待美股一夜蒸发2万亿"在头条引爆近1800万热度。两股情绪交织：一边是全民为考生加油的温情仪式，一边是市场震荡带来的不安与讨论。</p>
+    <p>社会议题方面，北京市政协主席被查以近2000万热度领跑头条；上海医院挂号费5000元、16岁女孩被捅重伤等事件引发舆论对公平与安全的讨论。知乎侧关注康师傅冰红茶销量下滑、AI生成内容责任归属、职场内耗等话题。</p>
+  </div>
+</div>
+
+<!-- 今日爆点 -->
+<div class="section">
+  <div class="section-title"><span class="icon">🔥</span> 今日爆点</div>
+  <div class="section-body">
+    <div class="fire-item">
+      <div class="head">
+        <span>美股一夜蒸发2万亿</span>
+        <span class="hot-val">🔥 1769万</span>
+      </div>
+      <div class="src">来源：头条 · 英伟达市值蒸发2.2万亿同步上榜（微博）</div>
+      <a class="topic-link" href="#">
+        🎯 价值冲突：技术繁荣 vs 系统性风险<br>
+        辩题：科技巨头的市值震荡是市场的正常调整 / 系统性风险的警示信号<br>
+        正方：产业基本面未变，周期回调是常态，创新仍在加速。<br>
+        反方：估值过度集中，一旦坍塌波及全链条，这不是孤立事件。
+      </a>
+    </div>
+
+    <div class="fire-item">
+      <div class="head">
+        <span>北京市政协主席被查</span>
+        <span class="hot-val">🔥 1955万</span>
+      </div>
+      <div class="src">来源：头条</div>
+      <a class="topic-link" href="#">
+        🎯 价值冲突：反腐效率 vs 制度信任<br>
+        辩题：高级别官员落马常态化有利于 / 不利于公众对制度的信心<br>
+        正方：有腐必惩证明制度有效，长期积累信任。<br>
+        反方：高频落马说明系统本身有问题，公众只会更麻木。
+      </a>
+    </div>
+
+    <div class="fire-item">
+      <div class="head">
+        <span>高考倒计时1天 · 全城护航</span>
+        <span class="hot-val">🔥 多平台千万级</span>
+      </div>
+      <div class="src">抖音·头条·微博全线霸榜</div>
+      <a class="topic-link" href="#">
+        🎯 价值冲突：仪式感赋能 vs 焦虑叠加<br>
+        辩题：全民营造的"高考仪式感"对考生是动力 / 压力<br>
+        正方：仪式感提供社会支持，强化使命感，缓解孤立感。<br>
+        反方：全城气氛让考生觉得"考不好对不起所有人"，焦虑翻倍。
+      </a>
+    </div>
+  </div>
+</div>
+
+<!-- 热搜速览 -->
+<div class="section">
+  <div class="section-title"><span class="icon">📋</span> 热搜速览·按议题分类</div>
+  <div class="section-body">
+
+    <!-- 政策·制度 -->
+    <div class="cat-block">
+      <div class="cat-header">
+        🏛️ 政策·制度 <span class="badge badge-norm">2条</span>
+      </div>
+      <div class="hot-item">
+        <span class="tag tag-fire">🔥1955万</span>
+        <span class="title">北京市政协主席被查 北京市委表态<span class="src">头条</span></span>
+      </div>
+      <div class="hot-item">
+        <span class="tag tag-norm">⚪40万</span>
+        <span class="title">上海一医院妇科专家挂号费5000元<span class="src">微博</span></span>
+      </div>
+    </div>
+
+    <!-- 科技·AI · 经济 -->
+    <div class="cat-block">
+      <div class="cat-header">
+        🤖 科技·AI·经济 <span class="badge badge-fire">3条</span>
+      </div>
+      <div class="hot-item">
+        <span class="tag tag-fire">🔥1769万</span>
+        <span class="title">如何看待美股一夜蒸发2万亿<span class="src">头条</span></span>
+      </div>
+      <div class="hot-item">
+        <span class="tag tag-hot">🟠47万</span>
+        <span class="title">英伟达市值一夜蒸发2.2万亿<span class="src">微博</span></span>
+      </div>
+      <div class="hot-item">
+        <span class="tag tag-norm">⚪27万</span>
+        <span class="title">AI文风太好认<span class="src">微博</span></span>
+      </div>
+    </div>
+
+    <!-- 互联网·舆论·文化 -->
+    <div class="cat-block">
+      <div class="cat-header">
+        🌐 互联网·舆论·文化 <span class="badge badge-hot">3条</span>
+      </div>
+      <div class="hot-item">
+        <span class="tag tag-hot">🟠88万</span>
+        <span class="title">谢娜今晚有好消息宣布<span class="src">微博</span></span>
+      </div>
+      <div class="hot-item">
+        <span class="tag tag-norm">⚪30万</span>
+        <span class="title">曝沈月文章抄袭<span class="src">微博</span></span>
+      </div>
+      <div class="hot-item">
+        <span class="tag tag-norm">⚪27万</span>
+        <span class="title">AI入侵李荣浩<span class="src">微博</span></span>
+      </div>
+    </div>
+
+    <!-- 教育·高考 -->
+    <div class="cat-block">
+      <div class="cat-header">
+        🏫 教育·高考 <span class="badge badge-fire">6条</span>
+      </div>
+      <div class="hot-item">
+        <span class="tag tag-fire">🔥1297万</span>
+        <span class="title">全抖音为2026高考加油<span class="src">抖音</span></span>
+      </div>
+      <div class="hot-item">
+        <span class="tag tag-fire">🔥971万</span>
+        <span class="title">高考倒计时1天<span class="src">头条</span></span>
+      </div>
+      <div class="hot-item">
+        <span class="tag tag-hot">🟠89万</span>
+        <span class="title">教育部发布4条高考特别提醒<span class="src">微博</span></span>
+      </div>
+      <div class="hot-item">
+        <span class="tag tag-norm">⚪31万</span>
+        <span class="title">老师考前遗失整摞准考证被市民捡到<span class="src">微博</span></span>
+      </div>
+      <div class="hot-item">
+        <span class="tag tag-norm">⚪27万</span>
+        <span class="title">高考时间<span class="src">微博</span></span>
+      </div>
+      <div class="hot-item">
+        <span class="tag tag-norm">⚪—</span>
+        <span class="title">南开大学学生买拍立得被骗220万<span class="src">知乎</span></span>
+      </div>
+    </div>
+
+    <!-- 青年处境·情绪 -->
+    <div class="cat-block">
+      <div class="cat-header">
+        💬 青年处境·情绪 <span class="badge badge-hot">2条</span>
+      </div>
+      <div class="hot-item">
+        <span class="tag tag-hot">🟠55万</span>
+        <span class="title">吃完的榴莲别急着扔<span class="src">微博</span></span>
+      </div>
+      <div class="hot-item">
+        <span class="tag tag-norm">⚪—</span>
+        <span class="title">每天下班后满脑子都是单位中的烂人烂事，该怎么办<span class="src">知乎</span></span>
+      </div>
+    </div>
+
+    <!-- 社会正义·道德 -->
+    <div class="cat-block">
+      <div class="cat-header">
+        ⚖️ 社会正义·道德 <span class="badge badge-hot">3条</span>
+      </div>
+      <div class="hot-item">
+        <span class="tag tag-norm">⚪32万</span>
+        <span class="title">26岁轻生女孩被曝年幼时遭亲戚性侵<span class="src">微博</span></span>
+      </div>
+      <div class="hot-item">
+        <span class="tag tag-norm">⚪30万</span>
+        <span class="title">16岁女孩被捅重伤行凶者轻生身亡<span class="src">微博</span></span>
+      </div>
+      <div class="hot-item">
+        <span class="tag tag-norm">⚪—</span>
+        <span class="title">河北地质大学通报学生在女厕偷拍并伤人<span class="src">知乎</span></span>
+      </div>
+    </div>
+
+    <!-- 价值观·哲学·人生 -->
+    <div class="cat-block">
+      <div class="cat-header">
+        📚 价值观·哲学·人生 <span class="badge badge-norm">1条</span>
+      </div>
+      <div class="hot-item">
+        <span class="tag tag-norm">⚪—</span>
+        <span class="title">一直有物种灭绝，怎么没见过有新的物种产生<span class="src">知乎</span></span>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+<!-- 今日辩题灵感 -->
+<div class="section">
+  <div class="section-title"><span class="icon">💡</span> 今日辩题灵感</div>
+  <div class="section-body">
+
+    <div class="inspire-card">
+      <div class="conflict"><strong>价值冲突</strong> · 全民仪式感 · 社会支持 vs 焦虑叠加</div>
+      <div class="topic">全民营造的"高考仪式感"对考生是动力 / 压力</div>
+      <div class="views">
+        <div class="pro">正方：全城护航、全民加油传递的是"你不是一个人在战斗"，提供社会支持系统，缓解孤立感，转化为使命感。</div>
+        <div class="con">反方：全民围观制造了"考不好对不起所有人"的心理负担，仪式感越重，失败成本越不可承受，焦虑加倍。</div>
+      </div>
+    </div>
+
+    <div class="inspire-card">
+      <div class="conflict"><strong>价值冲突</strong> · AI可识别性 · 技术透明 vs 创造力降级</div>
+      <div class="topic">AI生成内容"一眼就能认出"是技术的进步 / 人类表达的降级</div>
+      <div class="views">
+        <div class="pro">正方：可识别性是透明度的胜利，用户能区分机器和人的内容，避免信息污染，这是负责任的AI。</div>
+        <div class="con">反方：一眼认出是因为AI在模仿人类的"平均表达"，这种平均化正在拉低创作的多样性和审美天花板。</div>
+      </div>
+    </div>
+
+    <div class="inspire-card">
+      <div class="conflict"><strong>价值冲突</strong> · 热搜机制 · 信息知情 vs 情绪消费</div>
+      <div class="topic">全民围观"美股暴跌"折射出国人投资焦虑加剧 / 吃瓜心态未变</div>
+      <div class="views">
+        <div class="pro">正方：越来越多人关心宏观经济的涨跌，说明民众资产配置意识觉醒，焦虑里有真实利益关切。</div>
+        <div class="con">反方：大多数人连持仓都没有，刷"暴跌"跟刷"明星塌房"没有区别，消费的是情绪不是信息。</div>
+      </div>
+    </div>
+
+    <div class="inspire-card">
+      <div class="conflict"><strong>价值冲突</strong> · 日常消耗 · 自我保护 vs 主动改变</div>
+      <div class="topic">每天被工作环境中的"烂人烂事"持续消耗，应该先调整心态 / 果断离开</div>
+      <div class="views">
+        <div class="pro">正方：调整心态是可控的、即时的解决方案，离开需要成本，在没有退路时这是最理性的自我保护。</div>
+        <div class="con">反方：长期调整心态等于在腐烂的环境里训练自己的忍受力，正确的答案是离开，哪怕需要时间准备。</div>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+<!-- 说明 -->
+<div class="footer">
+  🔍 关注关键词热度追踪即将上线<br>
+  数据来源：60s API · 自动生成于 2026.06.06 20:00
+</div>
+
+</body>
+</html>
