@@ -1,0 +1,63 @@
+name: 热搜抓取
+
+on:
+  schedule:
+    # 每30分钟运行一次 (北京时间 06:00 - 23:59)
+    - cron: '*/30 0-15 * * *'
+    - cron: '30 16-23 * * *'
+  workflow_dispatch:  # 手动触发
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pages: write
+      id-token: write
+
+    steps:
+      - name: 检出仓库
+        uses: actions/checkout@v4
+
+      - name: 设置 Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: 运行抓取脚本
+        run: python scripts/scrape.py
+
+      - name: 提交并推送数据
+        run: |
+          git config user.name "hot-trends-bot"
+          git config user.email "bot@hot-trends.local"
+          git add -A data/
+          # 只有有变更时才提交
+          if git diff --cached --quiet; then
+            echo "无新数据，跳过提交"
+          else
+            git commit -m "📊 热搜快照 $(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M')"
+            git push
+          fi
+
+      - name: 上传 Pages 产物
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs/
+
+  deploy:
+    needs: scrape
+    if: always()
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - name: 部署到 GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
