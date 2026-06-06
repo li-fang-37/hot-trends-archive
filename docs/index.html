@@ -5,66 +5,64 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 <title>热搜档案</title>
 <style>
-  *{margin:0;padding:0;box-sizing:border-box}
-  body{font-family:-apple-system,"PingFang SC","Microsoft YaHei","Helvetica Neue",sans-serif;background:#f5f6f8;color:#1f2937;font-size:15px;-webkit-font-smoothing:antialiased}
-  .header{background:#3b63d3;color:#fff;padding:16px;position:sticky;top:0;z-index:10}
-  .header h1{font-size:18px;font-weight:700}
-  .header .sub{font-size:12px;opacity:.8;margin-top:2px}
-  .search-wrap{padding:10px 12px;background:#fff;border-bottom:1px solid #e5e7eb;display:flex;gap:8px}
-  .search-wrap input{flex:1;padding:8px 12px;border:1px solid #e5e7eb;border-radius:8px;font-size:14px;outline:none;background:#f7f8fa}
-  .search-wrap input:focus{border-color:#3b63d3;background:#fff}
-  .main{display:flex;flex-direction:row;min-height:calc(100vh - 110px)}
-  .sidebar{width:220px;background:#fff;border-right:1px solid #e5e7eb;overflow-y:auto;flex-shrink:0}
-  .sidebar .cal-nav{padding:10px 10px 4px;display:flex;align-items:center;justify-content:space-between}
-  .sidebar .cal-nav button{background:none;border:1px solid #e5e7eb;border-radius:6px;padding:4px 10px;cursor:pointer;font-size:13px}
-  .sidebar .cal-nav .label{font-size:13px;font-weight:600}
-  .calendar{display:grid;grid-template-columns:repeat(7,1fr);gap:2px;padding:6px 8px 10px}
-  .cal-header{text-align:center;font-size:10px;color:#9ca3af;padding:2px 0}
-  .cal-day{aspect-ratio:1;display:flex;align-items:center;justify-content:center;font-size:12px;border-radius:6px;color:#d1d5db;position:relative}
-  .cal-day.has-data{color:#1f2937;cursor:pointer;font-weight:500}
-  .cal-day.has-data:hover{background:#eef1ff;color:#3b63d3}
-  .cal-day.selected{background:#3b63d3!important;color:#fff!important}
-  .cal-day.today{outline:2px solid #3b63d3;outline-offset:-2px}
-  .cal-day .dot{position:absolute;bottom:2px;left:50%;transform:translateX(-50%);width:4px;height:4px;border-radius:50%;background:#3b63d3}
-  .content{flex:1;overflow-y:auto;padding:12px 14px;background:#f5f6f8}
-  .content .empty{text-align:center;padding:60px 20px;color:#9ca3af;font-size:14px}
-  .content .date-title{font-size:15px;font-weight:600;margin-bottom:10px}
-  .timeline{position:relative}
-  .time-slot{margin-bottom:12px}
-  .time-label{font-size:12px;font-weight:600;color:#6b7280;padding:4px 0;display:flex;align-items:center;gap:8px}
-  .time-label::after{content:'';flex:1;height:1px;background:#e5e7eb}
-  .items{display:grid;gap:5px}
-  .item{display:flex;align-items:center;gap:8px;padding:7px 10px;background:#fff;border-radius:8px;border:1px solid #e5e7eb;font-size:14px}
-  .item .rank{font-size:12px;font-weight:700;color:#9ca3af;min-width:20px;text-align:center}
-  .item .rank.r1{color:#ef4444}
-  .item .rank.r2{color:#f59e0b}
-  .item .rank.r3{color:#8b5cf6}
-  .item .title{flex:1;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
-  .item .title a{color:inherit;text-decoration:none}
-  .item .title a:hover{color:#3b63d3}
-  .item .hot{font-size:11px;font-weight:600;white-space:nowrap;padding:1px 6px;border-radius:3px}
-  .item .hot.hot-fire{color:#ef4444;background:#fef2f2}
-  .item .hot.hot-50{color:#f59e0b;background:#fffbeb}
-  .item .hot.hot-norm{color:#9ca3af;background:#f3f4f6}
-  .tag{display:inline-block;font-size:10px;padding:1px 5px;border-radius:3px;font-weight:600;margin-left:4px}
-  .tag-fire{color:#ef4444;background:#fef2f2}
-  .tag-hot{color:#f59e0b;background:#fffbeb}
-  .tag-norm{color:#9ca3af;background:#f3f4f6}
-  .search-res{font-size:13px;color:#6b7280;margin-bottom:8px}
-  @media(max-width:640px){
-    .sidebar{width:160px}
-    .content{padding:10px}
-  }
-  .loading{text-align:center;padding:40px;color:#9ca3af;font-size:13px}
-  .loading .sp{display:inline-block;width:16px;height:16px;border:2px solid #e5e7eb;border-top-color:#3b63d3;border-radius:50%;animation:spin .6s linear infinite;margin-right:6px;vertical-align:middle}
-  @keyframes spin{to{transform:rotate(360deg)}}
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:-apple-system,"PingFang SC","Microsoft YaHei","Helvetica Neue",sans-serif;background:#f5f6f8;color:#1f2937;font-size:14px;-webkit-font-smoothing:antialiased}
+.header{background:#3b63d3;color:#fff;padding:14px 16px;position:sticky;top:0;z-index:20}
+.header h1{font-size:17px;font-weight:700}
+.header .sub{font-size:11px;opacity:.7;margin-top:1px}
+.search-bar{display:flex;gap:6px;padding:8px 12px;background:#fff;border-bottom:1px solid #e5e7eb;position:sticky;top:55px;z-index:19}
+.search-bar input{flex:1;padding:7px 12px;border:1px solid #e5e7eb;border-radius:8px;font-size:13px;outline:none;background:#f7f8fa}
+.search-bar input:focus{border-color:#3b63d3;background:#fff}
+.search-bar button{padding:6px 12px;border:1px solid #e5e7eb;border-radius:8px;background:#fff;font-size:12px;cursor:pointer;color:#6b7280;display:none}
+.main{display:flex;min-height:calc(100vh - 105px)}
+.sidebar{width:180px;background:#fff;border-right:1px solid #e5e7eb;overflow-y:auto;flex-shrink:0}
+.sidebar .cal-nav{padding:10px 8px 4px;display:flex;align-items:center;justify-content:space-between}
+.sidebar .cal-nav button{background:none;border:1px solid #e5e7eb;border-radius:6px;padding:3px 8px;cursor:pointer;font-size:12px;color:#374151}
+.sidebar .cal-nav .label{font-size:12px;font-weight:600}
+.calendar{display:grid;grid-template-columns:repeat(7,1fr);gap:1px;padding:4px 6px 8px}
+.cal-header{text-align:center;font-size:9px;color:#9ca3af;padding:2px 0}
+.cal-day{aspect-ratio:1;display:flex;align-items:center;justify-content:center;font-size:11px;border-radius:5px;color:#d1d5db;position:relative;cursor:default}
+.cal-day.has-data{color:#1f2937;cursor:pointer;font-weight:500}
+.cal-day.has-data:hover{background:#eef1ff;color:#3b63d3}
+.cal-day.selected{background:#3b63d3!important;color:#fff!important;font-weight:600}
+.cal-day.today{outline:2px solid #3b63d3;outline-offset:-2px}
+.cal-day .dot{position:absolute;bottom:1px;left:50%;transform:translateX(-50%);width:3px;height:3px;border-radius:50%;background:#3b63d3}
+.content{flex:1;overflow-y:auto;padding:10px 12px;background:#f5f6f8}
+.platform-tabs{display:flex;gap:4px;margin-bottom:10px;overflow-x:auto;padding-bottom:4px;-webkit-overflow-scrolling:touch}
+.platform-tab{padding:4px 12px;border-radius:14px;font-size:12px;border:1px solid #e5e7eb;background:#fff;color:#6b7280;cursor:pointer;white-space:nowrap;transition:all .15s;flex-shrink:0}
+.platform-tab:hover{border-color:#3b63d3;color:#3b63d3}
+.platform-tab.active{background:#3b63d3;color:#fff;border-color:#3b63d3}
+.date-title{font-size:14px;font-weight:600;margin-bottom:8px;color:#374151}
+.date-title .count{font-size:11px;color:#9ca3af;font-weight:400;margin-left:6px}
+.time-group{margin-bottom:10px}
+.time-label{font-size:11px;font-weight:600;color:#6b7280;padding:3px 0 5px;display:flex;align-items:center;gap:6px;position:sticky;top:0;background:#f5f6f8;z-index:2}
+.time-label::after{content:'';flex:1;height:1px;background:#e5e7eb}
+.time-label .pname{font-size:10px;color:#9ca3af;font-weight:400}
+.items{display:grid;gap:4px}
+.item{display:flex;align-items:center;gap:6px;padding:6px 8px;background:#fff;border-radius:6px;border:1px solid #e5e7eb;font-size:13px}
+.item .rank{font-size:11px;font-weight:700;color:#9ca3af;min-width:18px;text-align:center;flex-shrink:0}
+.item .rank.r1{color:#ef4444}.item .rank.r2{color:#f59e0b}.item .rank.r3{color:#8b5cf6}
+.item .title{flex:1;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;line-height:1.3}
+.item .title a{color:inherit;text-decoration:none}
+.item .title a:hover{color:#3b63d3}
+.item .hot-tag{font-size:10px;font-weight:600;padding:1px 5px;border-radius:3px;flex-shrink:0}
+.item .hot-tag.fire{color:#ef4444;background:#fef2f2}
+.item .hot-tag.warm{color:#f59e0b;background:#fffbeb}
+.item .hot-tag.norm{color:#9ca3af;background:#f3f4f6}
+.search-result{font-size:12px;color:#6b7280;margin-bottom:6px}
+.empty-state{text-align:center;padding:50px 20px;color:#9ca3af;font-size:13px}
+.loading{text-align:center;padding:30px;color:#9ca3af;font-size:13px}
+.loading .sp{display:inline-block;width:14px;height:14px;border:2px solid #e5e7eb;border-top-color:#3b63d3;border-radius:50%;animation:spin .6s linear infinite;margin-right:5px;vertical-align:middle}
+@keyframes spin{to{transform:rotate(360deg)}}
+@media(max-width:640px){.sidebar{width:150px}.content{padding:8px}}
+.sidebar-title{font-size:11px;font-weight:600;color:#9ca3af;padding:8px 8px 4px;text-transform:uppercase;letter-spacing:.5px}
 </style>
 </head>
 <body>
-<div class="header"><h1>🔥 热搜档案</h1><div class="sub">浏览历史热搜 · 点击查看详情</div></div>
-<div class="search-wrap">
-  <input id="searchInput" placeholder="搜索关键词..." autocomplete="off">
-  <button id="clearBtn" style="padding:6px 12px;border:1px solid #e5e7eb;border-radius:8px;background:#fff;color:#6b7280;font-size:12px;cursor:pointer;display:none">清空</button>
+<div class="header"><h1>🔥 热搜档案</h1><div class="sub">点击左侧日期查看 · 按平台筛选 · 搜索关键词</div></div>
+<div class="search-bar">
+  <input id="searchInput" placeholder="🔍 搜关键词…" autocomplete="off">
+  <button id="clearBtn">清除</button>
 </div>
 <div class="main">
 <div class="sidebar">
@@ -75,93 +73,114 @@
   </div>
   <div class="calendar" id="calendar"></div>
 </div>
-<div class="content" id="content"><div class="empty">📊 加载中...</div></div>
+<div class="content" id="content">
+  <div class="empty-state">📊 从左侧选择日期</div>
+</div>
 </div>
 <script>
 const STATE={dates:{},currentDate:'',currentPlatform:'all',searchQuery:''};
+const NAMES={weibo:'微博',zhihu:'知乎',baidu:'百度',douyin:'抖音',bili:'B站',toutiao:'头条'};
 async function loadJSON(u){const r=await fetch(u);if(!r.ok)throw Error();return r.json()}
 
 async function init(){
   try{
     const idx=await loadJSON('./data/index.json');
     STATE.dates=idx.dates||{};
-    renderCal();
+    renderCalendar();
     const ds=Object.keys(STATE.dates).sort();
     if(ds.length)selectDate(ds[ds.length-1]);
-    else document.getElementById('content').innerHTML='<div class="empty">📭 暂无数据</div>';
+    else document.getElementById('content').innerHTML='<div class="empty-state">📭 暂无数据</div>';
   }catch(e){
-    document.getElementById('content').innerHTML='<div class="empty">⚠️ 数据加载失败，请稍后重试</div>';
+    document.getElementById('content').innerHTML='<div class="empty-state">⚠️ 数据加载失败</div>';
   }
-  const inp=document.getElementById('searchInput');
-  const btn=document.getElementById('clearBtn');
+  const inp=document.getElementById('searchInput'),btn=document.getElementById('clearBtn');
   let timer;
-  inp.addEventListener('input',()=>{clearTimeout(timer);timer=setTimeout(()=>{STATE.searchQuery=inp.value.trim();btn.style.display=STATE.searchQuery?'block':'none';renderContent()},400)});
+  inp.addEventListener('input',()=>{clearTimeout(timer);timer=setTimeout(()=>{STATE.searchQuery=inp.value.trim();btn.style.display=STATE.searchQuery?'block':'none';renderContent()},350)});
   btn.addEventListener('click',()=>{inp.value='';STATE.searchQuery='';btn.style.display='none';renderContent();inp.focus()});
-  document.getElementById('prevMonth').addEventListener('click',()=>{const d=new Date(document.getElementById('calLabel').textContent.replace('年','/').replace('月','/1'));d.setMonth(d.getMonth()-1);renderCal(d.getFullYear(),d.getMonth()+1)});
-  document.getElementById('nextMonth').addEventListener('click',()=>{const d=new Date(document.getElementById('calLabel').textContent.replace('年','/').replace('月','/1'));d.setMonth(d.getMonth()+1);renderCal(d.getFullYear(),d.getMonth()+1)});
+  document.getElementById('prevMonth').addEventListener('click',()=>{const d=new Date(document.getElementById('calLabel').textContent.replace('年','/').replace('月','/1'));d.setMonth(d.getMonth()-1);renderCalendar(d.getFullYear(),d.getMonth()+1)});
+  document.getElementById('nextMonth').addEventListener('click',()=>{const d=new Date(document.getElementById('calLabel').textContent.replace('年','/').replace('月','/1'));d.setMonth(d.getMonth()+1);renderCalendar(d.getFullYear(),d.getMonth()+1)});
 }
 
-function renderCal(y,m){
+function renderCalendar(y,m){
   const now=new Date();y=y||now.getFullYear();m=m||now.getMonth()+1;
   document.getElementById('calLabel').textContent=y+'年'+String(m).padStart(2,'0')+'月';
   const cal=document.getElementById('calendar');
-  const h=['日','一','二','三','四','五','六'];
-  cal.innerHTML=h.map(d=>'<div class="cal-header">'+d+'</div>').join('');
+  cal.innerHTML='<div class="cal-header">日</div><div class="cal-header">一</div><div class="cal-header">二</div><div class="cal-header">三</div><div class="cal-header">四</div><div class="cal-header">五</div><div class="cal-header">六</div>';
   const first=new Date(y,m-1,1).getDay(),days=new Date(y,m,0).getDate();
   const todayStr=now.toISOString().slice(0,10);
   for(let i=0;i<first;i++)cal.innerHTML+='<div></div>';
   for(let d=1;d<=days;d++){
     const ds=y+'-'+String(m).padStart(2,'0')+'-'+String(d).padStart(2,'0');
     const has=!!STATE.dates[ds],sel=ds===STATE.currentDate?'selected':'',td=ds===todayStr?'today':'';
-    cal.innerHTML+='<div class="cal-day '+ (has?'has-data ':'')+sel+' '+td+'" data-date="'+ds+'">'+d+(has?'<div class="dot"></div>':'')+'</div>';
+    cal.innerHTML+='<div class="cal-day '+(has?'has-data ':'')+sel+' '+td+'" data-date="'+ds+'">'+d+(has?'<div class="dot"></div>':'')+'</div>';
   }
   document.querySelectorAll('.cal-day.has-data').forEach(el=>el.addEventListener('click',()=>selectDate(el.dataset.date)));
 }
 
 function selectDate(ds){
   STATE.currentDate=ds;
-  renderCal(parseInt(ds.slice(0,4)),parseInt(ds.slice(5,7)));
+  renderCalendar(parseInt(ds.slice(0,4)),parseInt(ds.slice(5,7)));
   renderContent();
 }
 
 async function renderContent(){
   const area=document.getElementById('content');
   const q=STATE.searchQuery.trim();
-  if(!STATE.currentDate&&!q){area.innerHTML='<div class="empty">📊 请从左侧选择日期</div>';return}
   if(q){await renderSearch(area,q);return}
-  if(!STATE.currentDate){area.innerHTML='<div class="empty">📊 请从左侧选择日期</div>';return}
+  if(!STATE.currentDate){area.innerHTML='<div class="empty-state">📊 从左侧选择日期</div>';return}
   const dd=STATE.dates[STATE.currentDate];
-  if(!dd){area.innerHTML='<div class="empty">📭 该日期暂无数据</div>';return}
-  area.innerHTML='<div class="date-title">📆 '+STATE.currentDate+'</div><div class="loading"><span class="sp"></span> 加载数据...</div>';
+  if(!dd){area.innerHTML='<div class="empty-state">📭 暂无数据</div>';return}
+  
   const pfs=Object.keys(dd.platforms||{});
-  const names={weibo:'微博',zhihu:'知乎',baidu:'百度',douyin:'抖音',bili:'B站',toutiao:'头条'};
-  let html='';
-  for(const p of pfs){
+  const sel=STATE.currentPlatform;
+  const filtered=sel==='all'?pfs:pfs.filter(p=>p===sel);
+  
+  // Platform tabs
+  let html='<div class="platform-tabs"><button class="platform-tab '+(sel==='all'?'active':'')+'" data-p="all">全部</button>';
+  pfs.forEach(p=>{html+='<button class="platform-tab '+(p===sel?'active':'')+'" data-p="'+p+'">'+ (NAMES[p]||p)+'</button>'});
+  html+='</div>';
+  
+  html+='<div class="date-title">📆 '+STATE.currentDate+'<span class="count">'+filtered.length+' 平台</span></div><div class="loading"><span class="sp"></span> 加载中...</div>';
+  area.innerHTML=html;
+  document.querySelectorAll('.platform-tab').forEach(el=>{el.addEventListener('click',()=>{STATE.currentPlatform=el.dataset.p;renderContent()})});
+  
+  const slots=[];
+  for(const p of filtered){
     const times=dd.platforms[p]||[];
     for(const t of times){
       try{
         const data=await loadJSON('./data/'+p+'/'+STATE.currentDate+'/'+t+'.json');
-        if(!data||!data.items)continue;
-        const tl=t.slice(0,2)+':'+t.slice(2);
-        html+='<div class="time-slot"><div class="time-label">'+tl+' '+ (names[p]||p)+'</div><div class="items">';
-        for(const item of data.items){
-          const v=parseInt(item.hot_value)||0;
-          const hc=v>=1000000?'hot-fire':v>=500000?'hot-50':'hot-norm';
-          const rc=item.rank<=3?'r'+item.rank:'';
-          const lbl=v>=1000000?'爆':v>=500000?'热':'普';
-          html+='<div class="item"><span class="rank '+rc+'">'+item.rank+'</span><span class="title">'+(item.link?'<a href="'+item.link+'" target="_blank">'+esc(item.title)+'</a>':esc(item.title))+'</span><span class="hot '+hc+'">'+fmt(v)+' <span class="tag-'+hc.slice(4)+'">'+lbl+'</span></span></div>';
-        }
-        html+='</div></div>';
+        if(data&&data.items)slots.push({platform:p,time:t,items:data.items});
       }catch(e){}
     }
   }
-  area.innerHTML='<div class="date-title">📆 '+STATE.currentDate+'</div>'+html;
+  slots.sort((a,b)=>a.time.localeCompare(b.time));
+  
+  html='<div class="platform-tabs"><button class="platform-tab '+(sel==='all'?'active':'')+'" data-p="all">全部</button>';
+  pfs.forEach(p=>{html+='<button class="platform-tab '+(p===sel?'active':'')+'" data-p="'+p+'">'+ (NAMES[p]||p)+'</button>'});
+  html+='</div><div class="date-title">📆 '+STATE.currentDate+'<span class="count">'+slots.length+' 个快照</span></div>';
+  
+  if(slots.length===0){html+='<div class="empty-state">📭 暂无数据</div>';area.innerHTML=html;return}
+  
+  for(const slot of slots){
+    const tl=slot.time.slice(0,2)+':'+slot.time.slice(2);
+    html+='<div class="time-group"><div class="time-label">🕐 '+tl+' <span class="pname">'+(NAMES[slot.platform]||slot.platform)+'</span></div><div class="items">';
+    for(const item of slot.items){
+      const v=parseInt(item.hot_value)||0;
+      const cls=v>=1000000?'fire':v>=500000?'warm':'norm';
+      const rc=item.rank<=3?'r'+item.rank:'';
+      const lbl=v>=1000000?'🔥'+fmt(v):v>=500000?'🟠'+fmt(v):fmt(v);
+      html+='<div class="item"><span class="rank '+rc+'">'+item.rank+'</span><span class="title">'+(item.link?'<a href="'+item.link+'" target="_blank">'+esc(item.title)+'</a>':esc(item.title))+'</span><span class="hot-tag '+cls+'">'+lbl+'</span></div>';
+    }
+    html+='</div></div>';
+  }
+  area.innerHTML=html;
+  document.querySelectorAll('.platform-tab').forEach(el=>{el.addEventListener('click',()=>{STATE.currentPlatform=el.dataset.p;renderContent()})});
 }
 
 async function renderSearch(area,q){
-  area.innerHTML='<div class="date-title">🔍 搜索"'+esc(q)+'"</div><div class="loading"><span class="sp"></span> 搜索中...</div>';
+  area.innerHTML='<div class="date-title">🔍 "'+esc(q)+'"</div><div class="loading"><span class="sp"></span> 搜索中...</div>';
   const res=[];
-  const names={weibo:'微博',zhihu:'知乎',baidu:'百度',douyin:'抖音',bili:'B站',toutiao:'头条'};
   for(const [ds,dd] of Object.entries(STATE.dates)){
     for(const [p,times] of Object.entries(dd.platforms||{})){
       for(const t of times){
@@ -169,31 +188,26 @@ async function renderSearch(area,q){
           const data=await loadJSON('./data/'+p+'/'+ds+'/'+t+'.json');
           if(!data||!data.items)continue;
           for(const item of data.items){
-            if(item.title.includes(q))res.push({date:ds,platform:names[p]||p,time:t,...item});
+            if(item.title.includes(q))res.push({date:ds,platform:NAMES[p]||p,time:t,...item});
           }
         }catch(e){}
       }
     }
   }
   res.sort((a,b)=>a.date!=b.date?a.date.localeCompare(b.date):a.time.localeCompare(b.time));
-  if(res.length===0){area.innerHTML='<div class="date-title">🔍 搜索"'+esc(q)+'"</div><div class="empty">未找到相关结果</div>';return}
-  area.innerHTML='<div class="date-title">🔍 搜索"'+esc(q)+'"</div><div class="search-res">共 '+res.length+' 条结果</div>';
+  if(res.length===0){area.innerHTML='<div class="date-title">🔍 "'+esc(q)+'"</div><div class="empty-state">未找到相关结果</div>';return}
+  area.innerHTML='<div class="date-title">🔍 "'+esc(q)+'"</div><div class="search-result">共 '+res.length+' 条</div>';
   let html='',last='';
   for(const item of res){
-    if(item.date+item.platform!==last){
-      if(last)html+='</div></div>';
-      html+='<div class="time-slot"><div class="time-label">'+item.date+' · '+item.platform+'</div><div class="items">';
-      last=item.date+item.platform;
-    }
+    if(item.date!==last){if(last)html+='</div></div>';html+='<div class="time-group"><div class="time-label">📅 '+item.date+' · '+item.platform+'</div><div class="items">';last=item.date}
     const v=parseInt(item.hot_value)||0;
-    const hc=v>=1000000?'hot-fire':v>=500000?'hot-50':'hot-norm';
+    const cls=v>=1000000?'fire':v>=500000?'warm':'norm';
     const rc=item.rank<=3?'r'+item.rank:'';
-    const lbl=v>=1000000?'爆':v>=500000?'热':'普';
     const tl=item.time.slice(0,2)+':'+item.time.slice(2);
-    html+='<div class="item"><span class="rank '+rc+'">'+item.rank+'</span><span class="title">'+tl+' '+(item.link?'<a href="'+item.link+'" target="_blank">'+esc(item.title)+'</a>':esc(item.title))+'</span><span class="hot '+hc+'">'+fmt(v)+' <span class="tag-'+hc.slice(4)+'">'+lbl+'</span></span></div>';
+    html+='<div class="item"><span class="rank '+rc+'">'+item.rank+'</span><span class="title">'+tl+' '+(item.link?'<a href="'+item.link+'" target="_blank">'+esc(item.title)+'</a>':esc(item.title))+'</span><span class="hot-tag '+cls+'">'+fmt(v)+'</span></div>';
   }
   html+='</div></div>';
-  area.innerHTML='<div class="date-title">🔍 搜索"'+esc(q)+'"</div><div class="search-res">共 '+res.length+' 条结果</div>'+html;
+  area.innerHTML='<div class="date-title">🔍 "'+esc(q)+'"</div><div class="search-result">共 '+res.length+' 条</div>'+html;
 }
 
 function fmt(v){if(v>=100000000)return (v/100000000).toFixed(1)+'亿';if(v>=10000)return (v/10000).toFixed(v>=100000?0:1)+'万';return v}
