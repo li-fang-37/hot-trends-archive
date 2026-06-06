@@ -5,252 +5,746 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 <title>热搜档案</title>
 <style>
-*{margin:0;padding:0;box-sizing:border-box}
-body{font-family:-apple-system,"PingFang SC","Microsoft YaHei","Helvetica Neue",sans-serif;background:#f2f3f5;color:#1f2937;font-size:14px;-webkit-font-smoothing:antialiased}
-.header{background:#3b63d3;color:#fff;padding:14px 16px;position:sticky;top:0;z-index:20}
-.header h1{font-size:17px;font-weight:700}
-.header .sub{font-size:11px;opacity:.7;margin-top:1px}
-.search-bar{display:flex;gap:6px;padding:8px 12px;background:#fff;border-bottom:1px solid #e5e7eb;position:sticky;top:52px;z-index:19}
-.search-bar input{flex:1;padding:7px 12px;border:1px solid #e5e7eb;border-radius:8px;font-size:13px;outline:none;background:#f7f8fa}
-.search-bar input:focus{border-color:#3b63d3;background:#fff}
-.search-bar button{padding:6px 12px;border:1px solid #e5e7eb;border-radius:8px;background:#fff;font-size:12px;cursor:pointer;color:#6b7280;display:none}
-.main{display:flex;min-height:calc(100vh - 100px)}
-.sidebar{width:160px;background:#fff;border-right:1px solid #e5e7eb;overflow-y:auto;flex-shrink:0}
-.sidebar .cal-nav{padding:10px 6px 4px;display:flex;align-items:center;justify-content:space-between}
-.sidebar .cal-nav button{background:none;border:1px solid #e5e7eb;border-radius:6px;padding:3px 6px;cursor:pointer;font-size:11px;color:#374151}
-.sidebar .cal-nav .label{font-size:11px;font-weight:600}
-.calendar{display:grid;grid-template-columns:repeat(7,1fr);gap:1px;padding:4px 4px 8px}
-.cal-header{text-align:center;font-size:8px;color:#9ca3af;padding:2px 0}
-.cal-day{aspect-ratio:1;display:flex;align-items:center;justify-content:center;font-size:10px;border-radius:4px;color:#d1d5db;position:relative;cursor:default}
-.cal-day.has-data{color:#1f2937;cursor:pointer;font-weight:500}
-.cal-day.has-data:hover{background:#eef1ff;color:#3b63d3}
-.cal-day.selected{background:#3b63d3!important;color:#fff!important;font-weight:600}
-.cal-day.today{outline:2px solid #3b63d3;outline-offset:-2px}
-.cal-day .dot{position:absolute;bottom:1px;left:50%;transform:translateX(-50%);width:3px;height:3px;border-radius:50%;background:#3b63d3}
-.content{flex:1;overflow-y:auto;padding:10px 12px;background:#f2f3f5}
+:root {
+  --primary: #3b63d3;
+  --primary-light: #e8edfc;
+  --primary-bg: rgba(59,99,211,0.06);
+  --bg: #f0f2f5;
+  --card: #ffffff;
+  --text: #1a1a2e;
+  --text2: #6b7280;
+  --text3: #9ca3af;
+  --border: #e5e7eb;
+  --radius: 10px;
+  --shadow: 0 1px 4px rgba(0,0,0,0.05);
+  --red: #ef4444;
+  --orange: #f59e0b;
+  --gray: #9ca3af;
+  --p-weibo: #d63031;
+  --p-zhihu: #3b63d3;
+  --p-baidu: #e67e22;
+  --p-douyin: #00b894;
+  --p-bili: #e84393;
+  --p-toutiao: #636e72;
+  --header-h: 52px;
+  --bar-h: 42px;
+}
+*,*::before,*::after{margin:0;padding:0;box-sizing:border-box}
+html,body{height:100%;overflow:hidden}
+body{
+  font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Microsoft YaHei','微软雅黑','PingFang SC','Noto Sans CJK SC',sans-serif;
+  background:var(--bg);color:var(--text);font-size:14px;-webkit-font-smoothing:antialiased;
+  display:flex;flex-direction:column;
+}
+/* scrollbar */
+::-webkit-scrollbar{width:4px;height:4px}
+::-webkit-scrollbar-track{background:transparent}
+::-webkit-scrollbar-thumb{background:var(--text3);border-radius:4px}
 
-/* 时间选择条 */
-.time-strip{display:flex;gap:4px;margin-bottom:8px;overflow-x:auto;padding:4px 0;-webkit-overflow-scrolling:touch;scrollbar-width:none}
-.time-strip::-webkit-scrollbar{display:none}
-.time-pill{padding:5px 12px;border-radius:16px;font-size:12px;border:1px solid #e5e7eb;background:#fff;color:#6b7280;cursor:pointer;white-space:nowrap;flex-shrink:0;transition:all .15s}
-.time-pill:hover{border-color:#3b63d3;color:#3b63d3}
-.time-pill.active{background:#3b63d3;color:#fff;border-color:#3b63d3;font-weight:600}
-.time-pill .t-count{font-size:9px;opacity:.6;margin-left:4px}
+/* ===== Header ===== */
+.header{
+  position:sticky;top:0;z-index:200;
+  background:var(--card);border-bottom:1px solid var(--border);
+  display:flex;align-items:center;gap:10px;
+  padding:0 14px;height:var(--header-h);
+}
+.header h1{font-size:16px;font-weight:700;color:var(--primary);white-space:nowrap;letter-spacing:.5px}
+.header .search-wrap{flex:1;position:relative;max-width:320px}
+.header .search-wrap input{
+  width:100%;height:32px;padding:0 10px 0 30px;
+  border:1px solid var(--border);border-radius:8px;font-size:13px;
+  background:var(--bg);outline:none;transition:border-color .2s;
+}
+.header .search-wrap input:focus{border-color:var(--primary);box-shadow:0 0 0 3px rgba(59,99,211,0.1)}
+.header .search-wrap .s-icon{position:absolute;left:9px;top:50%;transform:translateY(-50%);color:var(--text3);font-size:14px;pointer-events:none}
+.header .info{font-size:12px;color:var(--text2);white-space:nowrap}
 
-/* 平台 Tab */
-.plat-strip{display:flex;gap:4px;margin-bottom:8px;overflow-x:auto;padding:4px 0;-webkit-overflow-scrolling:touch;scrollbar-width:none}
-.plat-strip::-webkit-scrollbar{display:none}
-.plat-pill{padding:4px 10px;border-radius:12px;font-size:11px;border:1px solid #e5e7eb;background:#fff;color:#6b7280;cursor:pointer;white-space:nowrap;flex-shrink:0;transition:all .15s}
-.plat-pill:hover{border-color:#3b63d3;color:#3b63d3}
-.plat-pill.active{background:#3b63d3;color:#fff;border-color:#3b63d3}
+/* ===== Scroll bars container ===== */
+.bars-wrap{
+  position:sticky;top:var(--header-h);z-index:150;
+  background:var(--card);border-bottom:1px solid var(--border);
+  padding:0;
+}
+.bar-row{
+  display:flex;align-items:center;overflow-x:auto;overflow-y:hidden;
+  -webkit-overflow-scrolling:touch;scrollbar-width:none;gap:0;
+  padding:0 10px;height:var(--bar-h);
+}
+.bar-row::-webkit-scrollbar{display:none}
+.bar-row .label{
+  font-size:11px;color:var(--text3);white-space:nowrap;margin-right:6px;flex-shrink:0;
+}
+.pill{
+  flex-shrink:0;display:inline-flex;align-items:center;justify-content:center;
+  height:28px;padding:0 12px;margin:0 3px;
+  border-radius:14px;font-size:12px;font-weight:500;cursor:pointer;
+  border:1px solid var(--border);background:var(--bg);color:var(--text2);
+  transition:all .15s;white-space:nowrap;user-select:none;-webkit-tap-highlight-color:transparent;
+}
+.pill.active,.pill:hover{background:var(--primary);color:#fff;border-color:var(--primary)}
+.pill.p-active{background:var(--primary);color:#fff;border-color:var(--primary)}
+.pill.p-inactive{border-color:var(--border);opacity:.7}
 
-/* 结果列表 */
-.date-title{font-size:14px;font-weight:600;margin-bottom:8px;color:#374151}
-.date-title .count{font-size:11px;color:#9ca3af;font-weight:400;margin-left:6px}
-.items{display:grid;gap:4px}
-.item{display:flex;align-items:center;gap:6px;padding:6px 8px;background:#fff;border-radius:6px;border:1px solid #e5e7eb;font-size:13px}
-.item .rank{font-size:11px;font-weight:700;color:#9ca3af;min-width:18px;text-align:center;flex-shrink:0}
-.item .rank.r1{color:#ef4444}.item .rank.r2{color:#f59e0b}.item .rank.r3{color:#8b5cf6}
-.item .title{flex:1;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
-.item .title a{color:inherit;text-decoration:none}
-.item .title a:hover{color:#3b63d3}
-.item .tag{font-size:10px;font-weight:600;padding:1px 5px;border-radius:3px;flex-shrink:0}
-.item .tag.fire{color:#ef4444;background:#fef2f2}
-.item .tag.warm{color:#f59e0b;background:#fffbeb}
-.item .tag.norm{color:#9ca3af;background:#f3f4f6}
-.item .plat-tag{font-size:9px;padding:1px 4px;border-radius:3px;flex-shrink:0}
-.plat-we{background:#fff0f0;color:#d63031}
-.plat-zh{background:#eef1ff;color:#3b63d3}
-.plat-bd{background:#fff8e1;color:#e67e22}
-.plat-dy{background:#f0fff4;color:#00b894}
-.plat-bl{background:#fff0f7;color:#e84393}
-.plat-tt{background:#f0f0f0;color:#636e72}
-.empty-state{text-align:center;padding:50px 20px;color:#9ca3af;font-size:13px}
-.loading{text-align:center;padding:30px;color:#9ca3af;font-size:13px}
-.loading .sp{display:inline-block;width:14px;height:14px;border:2px solid #e5e7eb;border-top-color:#3b63d3;border-radius:50%;animation:spin .6s linear infinite;margin-right:5px;vertical-align:middle}
+/* ===== Main layout ===== */
+.layout{display:flex;flex:1;overflow:hidden}
+
+/* ===== Calendar sidebar ===== */
+.cal-sidebar{
+  width:140px;min-width:140px;background:var(--card);
+  border-right:1px solid var(--border);overflow-y:auto;overflow-x:hidden;
+  padding:10px 8px;display:flex;flex-direction:column;
+}
+.cal-sidebar .cal-title{
+  font-size:12px;font-weight:600;color:var(--text2);margin-bottom:6px;text-align:center;
+}
+.cal-nav{
+  display:flex;align-items:center;justify-content:space-between;margin-bottom:6px;
+}
+.cal-nav .ym{font-size:13px;font-weight:600}
+.cal-nav button{
+  background:none;border:1px solid var(--border);border-radius:5px;
+  width:24px;height:24px;cursor:pointer;font-size:13px;color:var(--text3);
+  display:flex;align-items:center;justify-content:center;
+  transition:all .15s;line-height:1;
+}
+.cal-nav button:hover{background:var(--primary-light);color:var(--primary);border-color:var(--primary)}
+.cal-grid{
+  display:grid;grid-template-columns:repeat(7,1fr);gap:1px;text-align:center;
+}
+.cal-grid .dh{font-size:10px;color:var(--text3);padding:2px 0;font-weight:500}
+.cal-grid .day{
+  font-size:12px;padding:4px 0;border-radius:4px;cursor:default;color:var(--text3);
+  transition:all .12s;line-height:1.4;
+}
+.cal-grid .day.has{color:var(--primary);font-weight:600;cursor:pointer}
+.cal-grid .day.has:hover{background:var(--primary-light)}
+.cal-grid .day.sel{background:var(--primary);color:#fff!important;font-weight:600}
+.cal-grid .day.empty{visibility:hidden}
+.cal-grid .day.tdy{text-decoration:underline;text-underline-offset:2px}
+
+/* ===== Content area ===== */
+.content{flex:1;overflow-y:auto;padding:12px 12px 80px;-webkit-overflow-scrolling:touch}
+
+/* Loading / empty */
+.loading,.empty-state{display:flex;flex-direction:column;align-items:center;justify-content:center;padding:60px 20px;color:var(--text3);font-size:14px;gap:10px}
+.loading .spinner{width:20px;height:20px;border:2.5px solid var(--border);border-top-color:var(--primary);border-radius:50%;animation:spin .7s linear infinite}
 @keyframes spin{to{transform:rotate(360deg)}}
-.search-result{font-size:12px;color:#6b7280;margin-bottom:6px}
-@media(max-width:640px){.sidebar{width:130px}.content{padding:8px}}
+.empty-state .big-icon{font-size:36px;opacity:.4}
+
+/* ===== Platform card ===== */
+.plat-card{
+  background:var(--card);border-radius:var(--radius);box-shadow:var(--shadow);
+  margin-bottom:12px;overflow:hidden;
+}
+.plat-card .pc-header{
+  display:flex;align-items:center;justify-content:space-between;
+  padding:10px 14px;border-bottom:1px solid var(--border);
+}
+.plat-card .pc-header .pc-name{
+  font-size:14px;font-weight:600;display:flex;align-items:center;gap:6px;
+}
+.plat-card .pc-header .pc-name .dot{
+  width:8px;height:8px;border-radius:50%;display:inline-block;flex-shrink:0;
+}
+.plat-card .pc-header .pc-time{font-size:11px;color:var(--text3)}
+.plat-card .pc-body{padding:0}
+.plat-card .pc-footer{
+  padding:8px 14px;border-top:1px solid var(--border);
+  text-align:center;
+}
+.plat-card .pc-footer button{
+  background:none;border:none;color:var(--primary);font-size:13px;font-weight:500;
+  cursor:pointer;padding:4px 12px;border-radius:6px;transition:background .15s;
+  -webkit-tap-highlight-color:transparent;
+}
+.plat-card .pc-footer button:hover{background:var(--primary-bg)}
+.plat-card .pc-footer button:active{background:var(--primary-light)}
+
+/* ===== Hot item ===== */
+.hot-item{
+  display:flex;align-items:center;gap:8px;padding:7px 14px;
+  cursor:pointer;transition:background .12s;border-bottom:1px solid var(--border);
+  -webkit-tap-highlight-color:transparent;
+}
+.hot-item:last-child{border-bottom:none}
+.hot-item:hover{background:var(--primary-bg)}
+.hot-item .r-rank{
+  font-size:12px;font-weight:700;color:var(--text3);min-width:20px;text-align:center;flex-shrink:0;
+}
+.hot-item .r-rank.top3{color:var(--primary)}
+.hot-item .r-rank.r1{color:var(--red)}
+.hot-item .r-body{flex:1;min-width:0}
+.hot-item .r-title{
+  font-size:13px;font-weight:500;color:var(--text);text-decoration:none;
+  display:block;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;
+}
+.hot-item .r-title:active{color:var(--primary)}
+.hot-item .r-bar-wrap{margin-top:3px;display:flex;align-items:center;gap:6px}
+.hot-item .r-bar{
+  height:4px;border-radius:2px;flex:1;background:var(--bg);overflow:hidden;
+}
+.hot-item .r-bar-inner{height:100%;border-radius:2px;transition:width .3s ease}
+.hot-item .r-val{font-size:11px;color:var(--text3);white-space:nowrap;flex-shrink:0}
+
+.hot-item .r-change{
+  font-size:11px;white-space:nowrap;flex-shrink:0;min-width:30px;text-align:right;
+}
+.hot-item .r-change.new{color:var(--red);font-weight:600}
+.hot-item .r-change.up{color:var(--orange)}
+.hot-item .r-change.down{color:var(--text3)}
+
+/* ===== Search results ===== */
+.sr-list{display:flex;flex-direction:column;gap:4px}
+.sr-item{
+  display:flex;align-items:center;gap:8px;padding:8px 12px;
+  background:var(--card);border-radius:8px;box-shadow:var(--shadow);cursor:pointer;
+  transition:background .12s;-webkit-tap-highlight-color:transparent;
+}
+.sr-item:hover{background:var(--primary-bg)}
+.sr-item .sr-platform{font-size:11px;padding:1px 6px;border-radius:4px;color:#fff;white-space:nowrap;flex-shrink:0}
+.sr-item .sr-title{flex:1;font-size:13px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.sr-item .sr-date{font-size:11px;color:var(--text3);white-space:nowrap;flex-shrink:0}
+.sr-item .sr-hot{font-size:11px;color:var(--text2);white-space:nowrap;flex-shrink:0}
+.sr-header{font-size:14px;color:var(--text2);margin-bottom:10px}
+.sr-header strong{color:var(--text)}
+
+/* ===== Responsive ===== */
+@media(max-width:768px){
+  .cal-sidebar{width:100%;min-width:unset;max-height:200px;border-right:none;border-bottom:1px solid var(--border)}
+  .layout{flex-direction:column}
+  .header{padding:0 10px;height:48px}
+  .header h1{font-size:14px}
+  .header .search-wrap{max-width:none}
+  .header .info{display:none}
+  .content{padding:10px 10px 70px}
+  :root{--header-h:48px;--bar-h:38px}
+  .bar-row{padding:0 8px;height:var(--bar-h)}
+  .pill{height:26px;padding:0 10px;font-size:11px}
+  .plat-card .pc-header{padding:8px 12px}
+  .hot-item{padding:6px 12px}
+  .plat-card .pc-footer{padding:6px 12px}
+  .plat-card .pc-footer button{font-size:12px}
+}
 </style>
 </head>
 <body>
-<div class="header"><h1>🔥 热搜档案</h1><div class="sub">←选日期 →选时段 →选平台 快速定位</div></div>
-<div class="search-bar">
-  <input id="searchInput" placeholder="🔍 搜关键词…" autocomplete="off">
-  <button id="clearBtn">清除</button>
-</div>
-<div class="main">
-<div class="sidebar">
-  <div class="cal-nav">
-    <button id="prevMonth">‹</button>
-    <span class="label" id="calLabel"></span>
-    <button id="nextMonth">›</button>
+
+<div class="header">
+  <h1>🔥 热搜档案</h1>
+  <div class="search-wrap">
+    <span class="s-icon">🔍</span>
+    <input type="text" id="searchInput" placeholder="搜索关键词…" autocomplete="off">
   </div>
-  <div class="calendar" id="calendar"></div>
+  <span class="info" id="headerInfo">加载中…</span>
 </div>
-<div class="content" id="content">
-  <div class="empty-state">📊 从左侧选择日期</div>
+
+<div class="bars-wrap">
+  <div class="bar-row" id="timeBar">
+    <span class="label">⏱</span>
+    <span class="pill active" data-time="">全部时段</span>
+  </div>
+  <div class="bar-row" id="platBar">
+    <span class="label">📱</span>
+    <span class="pill active" data-platform="">全部平台</span>
+    <span class="pill" data-platform="weibo" style="--p:var(--p-weibo)">微博</span>
+    <span class="pill" data-platform="zhihu" style="--p:var(--p-zhihu)">知乎</span>
+    <span class="pill" data-platform="baidu" style="--p:var(--p-baidu)">百度</span>
+    <span class="pill" data-platform="douyin" style="--p:var(--p-douyin)">抖音</span>
+    <span class="pill" data-platform="bili" style="--p:var(--p-bili)">B站</span>
+    <span class="pill" data-platform="toutiao" style="--p:var(--p-toutiao)">头条</span>
+  </div>
 </div>
+
+<div class="layout">
+  <aside class="cal-sidebar" id="calSidebar">
+    <div class="cal-title">📅 日期</div>
+    <div class="cal-nav">
+      <button id="prevMonth">‹</button>
+      <span class="ym" id="calYM"></span>
+      <button id="nextMonth">›</button>
+    </div>
+    <div class="cal-grid" id="calGrid"></div>
+  </aside>
+
+  <main class="content" id="content">
+    <div class="empty-state">
+      <div class="big-icon">📋</div>
+      <div>从左侧日历选择日期</div>
+    </div>
+  </main>
 </div>
+
 <script>
-const STATE={dates:{},currentDate:'',allSlots:[],selectedTime:'all',selectedPlat:'all',searchQuery:''};
-const NAMES={weibo:'微博',zhihu:'知乎',baidu:'百度',douyin:'抖音',bili:'B站',toutiao:'头条'};
-const PLAT_CLS={weibo:'plat-we',zhihu:'plat-zh',baidu:'plat-bd',douyin:'plat-dy',bili:'plat-bl',toutiao:'plat-tt'};
-async function loadJSON(u){const r=await fetch(u);if(!r.ok)throw Error();return r.json()}
+// ====== Constants ======
+const PLAT_META = {
+  weibo:{label:'微博',color:'#d63031'},
+  zhihu:{label:'知乎',color:'#3b63d3'},
+  baidu:{label:'百度',color:'#e67e22'},
+  douyin:{label:'抖音',color:'#00b894'},
+  bili:{label:'B站',color:'#e84393'},
+  toutiao:{label:'头条',color:'#636e72'},
+};
+const PLAT_KEYS = Object.keys(PLAT_META);
 
-async function init(){
+// ====== State ======
+const S = {
+  index: null,               // index.json data
+  curDate: null,             // selected date string
+  curYear: 0,                // calendar year
+  curMonth: 0,               // calendar month
+  selTime: '',               // selected time pill value
+  selPlat: '',               // selected platform pill value
+  searchQ: '',               // search query
+  // Cached data: { 'date:platform:time': dataObj }
+  cache: {},
+  // For current view: { time: [...items], prevTime: [...items] } per platform
+};
+
+// ====== Utils ======
+function numFmt(n){
+  if(n==null)return'—';
+  if(typeof n==='string'){const v=parseFloat(n);return isNaN(v)?n:numFmt(v)}
+  if(n>=1e8)return(n/1e8).toFixed(1)+'亿';
+  if(n>=1e4)return(n/1e4).toFixed(1)+'万';
+  return String(Math.round(n));
+}
+function barColor(v){
+  const n=typeof v==='string'?parseFloat(v):v;
+  if(isNaN(n))return'var(--gray)';
+  if(n>=1000000)return'var(--red)';
+  if(n>=500000)return'var(--orange)';
+  return'var(--primary)';
+}
+function hotTag(v){
+  const n=typeof v==='string'?parseFloat(v):v;
+  if(isNaN(n))return'';
+  if(n>=1000000)return'爆';
+  if(n>=500000)return'热';
+  return'';
+}
+function esc(s){
+  const d=document.createElement('div');d.textContent=s;return d.innerHTML;
+}
+function clamp(v,min,max){return Math.max(min,Math.min(max,v))}
+
+// ====== Fetch with cache ======
+async function loadData(platform,date,time){
+  const key=`${date}:${platform}:${time}`;
+  if(S.cache[key])return S.cache[key];
+  const url=`./data/${platform}/${date}/${time}.json`;
   try{
-    const idx=await loadJSON('./data/index.json');
-    STATE.dates=idx.dates||{};
-    renderCalendar();
-    const ds=Object.keys(STATE.dates).sort();
-    if(ds.length)selectDate(ds[ds.length-1]);
-    else document.getElementById('content').innerHTML='<div class="empty-state">📭 暂无数据</div>';
+    const res=await fetch(url);
+    if(!res.ok)throw new Error('HTTP '+res.status);
+    const data=await res.json();
+    S.cache[key]=data;
+    return data;
   }catch(e){
-    document.getElementById('content').innerHTML='<div class="empty-state">⚠️ 数据加载失败</div>';
+    console.warn('Load fail:',url,e);
+    return null;
   }
-  const inp=document.getElementById('searchInput'),btn=document.getElementById('clearBtn');
-  let timer;
-  inp.addEventListener('input',()=>{clearTimeout(timer);timer=setTimeout(()=>{STATE.searchQuery=inp.value.trim();btn.style.display=STATE.searchQuery?'block':'none';renderContent()},350)});
-  btn.addEventListener('click',()=>{inp.value='';STATE.searchQuery='';btn.style.display='none';renderContent();inp.focus()});
-  document.getElementById('prevMonth').addEventListener('click',()=>{const d=new Date(document.getElementById('calLabel').textContent.replace('年','/').replace('月','/1'));d.setMonth(d.getMonth()-1);renderCalendar(d.getFullYear(),d.getMonth()+1)});
-  document.getElementById('nextMonth').addEventListener('click',()=>{const d=new Date(document.getElementById('calLabel').textContent.replace('年','/').replace('月','/1'));d.setMonth(d.getMonth()+1);renderCalendar(d.getFullYear(),d.getMonth()+1)});
 }
 
-function renderCalendar(y,m){
-  const now=new Date();y=y||now.getFullYear();m=m||now.getMonth()+1;
-  document.getElementById('calLabel').textContent=y+'年'+String(m).padStart(2,'0')+'月';
-  const cal=document.getElementById('calendar');
-  cal.innerHTML='<div class="cal-header">日</div><div class="cal-header">一</div><div class="cal-header">二</div><div class="cal-header">三</div><div class="cal-header">四</div><div class="cal-header">五</div><div class="cal-header">六</div>';
-  const first=new Date(y,m-1,1).getDay(),days=new Date(y,m,0).getDate();
-  const todayStr=now.toISOString().slice(0,10);
-  for(let i=0;i<first;i++)cal.innerHTML+='<div></div>';
-  for(let d=1;d<=days;d++){
-    const ds=y+'-'+String(m).padStart(2,'0')+'-'+String(d).padStart(2,'0');
-    const has=!!STATE.dates[ds],sel=ds===STATE.currentDate?'selected':'',td=ds===todayStr?'today':'';
-    cal.innerHTML+='<div class="cal-day '+(has?'has-data ':'')+sel+' '+td+'" data-date="'+ds+'">'+d+(has?'<div class="dot"></div>':'')+'</div>';
+// ====== Index ======
+async function loadIndex(){
+  try{
+    S.index=await fetch('./data/index.json').then(r=>{if(!r.ok)throw new Error('HTTP '+r.status);return r.json()});
+    const dates=Object.keys(S.index.dates).sort();
+    document.getElementById('headerInfo').textContent=dates.length+' 天';
+    if(dates.length){
+      const last=dates[dates.length-1];
+      const [y,m]=last.split('-').map(Number);
+      S.curYear=y;S.curMonth=m;
+    }else{
+      const d=new Date();S.curYear=d.getFullYear();S.curMonth=d.getMonth()+1;
+    }
+    renderCal();
+    if(dates.length)selectDate(dates[dates.length-1]);
+  }catch(e){
+    console.error(e);
+    document.getElementById('headerInfo').textContent='❌ 加载失败';
+    document.getElementById('content').innerHTML=
+      '<div class="empty-state"><div class="big-icon">⚠️</div><div>无法加载 data/index.json</div></div>';
   }
-  document.querySelectorAll('.cal-day.has-data').forEach(el=>el.addEventListener('click',()=>selectDate(el.dataset.date)));
 }
 
-function selectDate(ds){
-  STATE.currentDate=ds;
-  STATE.selectedTime='all';
-  STATE.selectedPlat='all';
-  loadSlots(ds);
-  renderCalendar(parseInt(ds.slice(0,4)),parseInt(ds.slice(5,7)));
-  renderContent();
+// ====== Calendar ======
+function daysInMonth(y,m){return new Date(y,m,0).getDate()}
+
+function renderCal(){
+  const {curYear:y,curMonth:m}=S;
+  document.getElementById('calYM').textContent=`${y}年${String(m).padStart(2,'0')}月`;
+  const datesMap=S.index?S.index.dates:{};
+  const hasDate={};
+  for(const d of Object.keys(datesMap))hasDate[d]=true;
+  const firstDay=new Date(y,m-1,1).getDay();
+  const total=daysInMonth(y,m);
+  const today=new Date().toISOString().slice(0,10);
+  let html='';
+  for(const h of['日','一','二','三','四','五','六'])html+=`<div class="dh">${h}</div>`;
+  for(let i=0;i<firstDay;i++)html+='<div class="day empty"></div>';
+  for(let d=1;d<=total;d++){
+    const ds=`${y}-${String(m).padStart(2,'0')}-${String(d).padStart(2,'0')}`;
+    const has=!!hasDate[ds];
+    const cls=['day'];
+    if(has)cls.push('has');
+    if(ds===S.curDate)cls.push('sel');
+    if(ds===today)cls.push('tdy');
+    html+=`<div class="${cls.join(' ')}" data-date="${ds}">${d}</div>`;
+  }
+  document.getElementById('calGrid').innerHTML=html;
+  document.querySelectorAll('.day.has').forEach(el=>{
+    el.addEventListener('click',()=>selectDate(el.dataset.date));
+  });
 }
 
-async function loadSlots(ds){
-  STATE.allSlots=[];
-  const dd=STATE.dates[ds];
-  if(!dd)return;
-  for(const [p,times] of Object.entries(dd.platforms||{})){
-    for(const t of times){
-      try{
-        const data=await loadJSON('./data/'+p+'/'+ds+'/'+t+'.json');
-        if(data&&data.items)STATE.allSlots.push({platform:p,time:t,items:data.items});
-      }catch(e){}
+document.getElementById('prevMonth').addEventListener('click',()=>{
+  S.curMonth--;if(S.curMonth<1){S.curMonth=12;S.curYear--}renderCal();
+});
+document.getElementById('nextMonth').addEventListener('click',()=>{
+  S.curMonth++;if(S.curMonth>12){S.curMonth=1;S.curYear++}renderCal();
+});
+
+// ====== Date selection ======
+async function selectDate(dateStr){
+  S.curDate=dateStr;
+  // Reset time/platform selection
+  S.selTime='';
+  S.selPlat='';
+  renderCal();
+  renderTimeBar();
+  renderPlatBar();
+  await renderView();
+}
+
+// ====== Render time bar ======
+function renderTimeBar(){
+  const bar=document.getElementById('timeBar');
+  let html='<span class="label">⏱</span>';
+  html+=`<span class="pill ${S.selTime===''?'active':''}" data-time="">全部时段</span>`;
+  if(S.curDate&&S.index){
+    const dateInfo=S.index.dates[S.curDate];
+    if(dateInfo){
+      // Collect all unique times across platforms
+      const timeSet=new Set();
+      for(const plat of PLAT_KEYS){
+        const times=dateInfo.platforms[plat];
+        if(times)times.forEach(t=>timeSet.add(t));
+      }
+      const sorted=Array.from(timeSet).sort();
+      for(const t of sorted){
+        const active=S.selTime===t?'active':'';
+        html+=`<span class="pill ${active}" data-time="${t}">${t.slice(0,2)}:${t.slice(2)}</span>`;
+      }
     }
   }
-  STATE.allSlots.sort((a,b)=>a.time.localeCompare(b.time));
+  bar.innerHTML=html;
+  bar.querySelectorAll('.pill[data-time]').forEach(el=>{
+    el.addEventListener('click',()=>{
+      S.selTime=el.dataset.time;
+      renderTimeBar();
+      renderView();
+    });
+  });
 }
 
-function renderContent(){
-  const area=document.getElementById('content');
-  const q=STATE.searchQuery.trim();
-  if(q){renderSearch(area,q);return}
-  if(!STATE.currentDate){area.innerHTML='<div class="empty-state">📊 从左侧选择日期</div>';return}
-  if(STATE.allSlots.length===0){area.innerHTML='<div class="empty-state">📭 暂无数据</div>';return}
-
-  // Get unique times and platforms
-  const times=[...new Set(STATE.allSlots.map(s=>s.time))].sort();
-  const plats=[...new Set(STATE.allSlots.map(s=>s.platform))].sort();
-
-  // Filter by selected time + platform
-  let filtered=STATE.allSlots;
-  if(STATE.selectedTime!=='all')filtered=filtered.filter(s=>s.time===STATE.selectedTime);
-  if(STATE.selectedPlat!=='all')filtered=filtered.filter(s=>s.platform===STATE.selectedPlat);
-
-  // Build HTML
-  let html='<div class="date-title">📆 '+STATE.currentDate+'</div>';
-
-  // Time pills
-  html+='<div class="time-strip"><button class="time-pill '+(STATE.selectedTime==='all'?'active':'')+'" data-t="all">🕐 全部时段</button>';
-  times.forEach(t=>{
-    const tl=t.slice(0,2)+':'+t.slice(2);
-    const cnt=STATE.allSlots.filter(s=>s.time===t).length;
-    html+='<button class="time-pill '+(t===STATE.selectedTime?'active':'')+'" data-t="'+t+'">'+tl+' <span class="t-count">'+cnt+'</span></button>';
+// ====== Render platform bar ======
+function renderPlatBar(){
+  const bar=document.getElementById('platBar');
+  // Keep the static label + all/individual items, just update active
+  bar.querySelectorAll('.pill').forEach(el=>{
+    const p=el.dataset.platform;
+    if(p===undefined)return;
+    if(p===''){
+      el.classList.toggle('active',S.selPlat==='');
+    }else{
+      el.classList.toggle('active',S.selPlat===p);
+    }
   });
-  html+='</div>';
+}
 
-  // Platform pills
-  html+='<div class="plat-strip"><button class="plat-pill '+(STATE.selectedPlat==='all'?'active':'')+'" data-p="all">📋 全部</button>';
-  plats.forEach(p=>{
-    html+='<button class="plat-pill '+(p===STATE.selectedPlat?'active':'')+'" data-p="'+p+'">'+(NAMES[p]||p)+'</button>';
-  });
-  html+='</div>';
+// ====== Main render ======
+function getTimeLabel(t){return t.slice(0,2)+':'+t.slice(2)}
 
-  // Content
-  if(filtered.length===0){
-    html+='<div class="empty-state">该时段/平台暂无数据</div>';
-  } else {
-    let total=0;
-    for(const slot of filtered)total+=slot.items.length;
-    html+='<div style="font-size:12px;color:#9ca3af;margin-bottom:6px">共 '+total+' 条热搜</div><div class="items">';
-    for(const slot of filtered){
-      for(const item of slot.items){
-        const v=parseInt(item.hot_value)||0;
-        const cls=v>=1000000?'fire':v>=500000?'warm':'norm';
-        const rc=item.rank<=3?'r'+item.rank:'';
-        const lbl=v>=1000000?'🔥':v>=500000?'🟠':'';
-        html+='<div class="item"><span class="rank '+rc+'">'+item.rank+'</span><span class="plat-tag '+PLAT_CLS[slot.platform]+'">'+(NAMES[slot.platform]||slot.platform)+'</span><span class="title">'+(item.link?'<a href="'+item.link+'" target="_blank">'+esc(item.title)+'</a>':esc(item.title))+'</span><span class="tag '+cls+'">'+lbl+fmt(v)+'</span></div>';
+function getTimesForDate(dateStr){
+  const di=S.index.dates[dateStr];
+  if(!di)return[];
+  const timeSet=new Set();
+  for(const plat of PLAT_KEYS){
+    const times=di.platforms[plat];
+    if(times)times.forEach(t=>timeSet.add(t));
+  }
+  return Array.from(timeSet).sort();
+}
+
+// Get items for a platform at a specific time on a date
+async function getItems(platform,date,time){
+  const data=await loadData(platform,date,time);
+  if(!data||!data.items)return[];
+  return data.items.map((item,i)=>({
+    ...item,
+    hot_value:typeof item.hot_value==='string'?parseFloat(item.hot_value)||0:(item.hot_value||0),
+    rank:item.rank||(i+1),
+  })).sort((a,b)=>a.rank-b.rank);
+}
+
+async function renderView(){
+  const body=document.getElementById('content');
+  if(!S.curDate||!S.index){
+    body.innerHTML='<div class="empty-state"><div class="big-icon">📋</div><div>从左侧日历选择日期</div></div>';
+    return;
+  }
+  const dateInfo=S.index.dates[S.curDate];
+  if(!dateInfo){
+    body.innerHTML='<div class="empty-state"><div class="big-icon">📭</div><div>此日期暂无数据</div></div>';
+    return;
+  }
+  body.innerHTML='<div class="loading"><div class="spinner"></div>加载中…</div>';
+
+  const allTimes=getTimesForDate(S.curDate);
+  const selTime=S.selTime||(allTimes.length?allTimes[allTimes.length-1]:'');
+  const timesToRender=S.selTime?[S.selTime]:[selTime];
+  const showAll=S.selTime==='';
+
+  let targetTimes;
+  if(showAll){
+    // Get the last time for each platform
+    targetTimes=timesToRender;
+  }else{
+    targetTimes=timesToRender;
+  }
+
+  // Determine which platforms to render
+  let platsToRender;
+  if(S.selPlat){
+    platsToRender=[S.selPlat];
+  }else{
+    platsToRender=PLAT_KEYS.filter(p=>dateInfo.platforms[p]&&dateInfo.platforms[p].length>0);
+  }
+
+  // For each platform, find the latest available time (or use selected time)
+  async function getTargetTime(plat){
+    const times=dateInfo.platforms[plat]||[];
+    if(!times.length)return null;
+    if(S.selTime){
+      return times.includes(S.selTime)?S.selTime:null;
+    }
+    // Latest time for this platform
+    return times[times.length-1];
+  }
+
+  // Get previous time for comparison
+  function getPrevTime(plat,curTime){
+    const times=dateInfo.platforms[plat]||[];
+    const idx=times.indexOf(curTime);
+    return idx>0?times[idx-1]:null;
+  }
+
+  // Build cards
+  let html='';
+
+  for(const plat of platsToRender){
+    const targetTime=await getTargetTime(plat);
+    if(!targetTime)continue;
+    const prevTime=getPrevTime(plat,targetTime);
+
+    // Load data
+    const [curItems,prevItems]=await Promise.all([
+      getItems(plat,S.curDate,targetTime),
+      prevTime?getItems(plat,S.curDate,prevTime):Promise.resolve([]),
+    ]);
+
+    if(!curItems.length&&!showAll)continue;
+    if(!curItems.length)continue;
+
+    // Build comparison map
+    const prevMap={};
+    for(const item of prevItems){
+      prevMap[item.title]=item;
+    }
+
+    // Determine how many items to show
+    const isFiltered=S.selPlat!=='';
+    const maxShow=isFiltered?curItems.length:Math.min(5,curItems.length);
+    const showItems=curItems.slice(0,maxShow);
+    const hasMore=curItems.length>maxShow;
+
+    const meta=PLAT_META[plat]||{label:plat,color:'#666'};
+
+    html+=`<div class="plat-card" data-platform="${plat}">
+      <div class="pc-header">
+        <div class="pc-name">
+          <span class="dot" style="background:${meta.color}"></span>
+          ${meta.label}
+        </div>
+        <div class="pc-time">${getTimeLabel(targetTime)}</div>
+      </div>
+      <div class="pc-body">`;
+
+    for(const item of showItems){
+      const prev=prevMap[item.title];
+      let changeHTML='';
+      let changeTag='';
+      if(!prev){
+        changeTag='🔴新';
+        changeHTML=`<span class="r-change new">${changeTag}</span>`;
+      }else{
+        const diff=prev.rank-item.rank;
+        if(diff>0){
+          changeTag=`📈${diff}`;
+          changeHTML=`<span class="r-change up">${changeTag}</span>`;
+        }else if(diff<0){
+          changeTag=`📉${Math.abs(diff)}`;
+          changeHTML=`<span class="r-change down">${changeTag}</span>`;
+        }else{
+          changeTag='—';
+          changeHTML=`<span class="r-change" style="color:var(--text3)">${changeTag}</span>`;
+        }
       }
+
+      const rCls=item.rank<=3?'top3':'';
+      const r1Cls=item.rank===1?'r1':'';
+      const hc=barColor(item.hot_value);
+      const pct=curItems.length?clamp((item.hot_value/Math.max(...curItems.map(x=>x.hot_value)))*100,5,100):0;
+      const tag=hotTag(item.hot_value);
+
+      html+=`<div class="hot-item" data-title="${esc(item.title)}">
+        <span class="r-rank ${rCls} ${r1Cls}">${item.rank}</span>
+        <div class="r-body">
+          <a class="r-title" href="${esc(item.link||'#')}" target="_blank" rel="noopener">${esc(item.title)}${tag?' · '+tag:''}</a>
+          <div class="r-bar-wrap">
+            <div class="r-bar"><div class="r-bar-inner" style="width:${pct}%;background:${hc}"></div></div>
+            <span class="r-val">${numFmt(item.hot_value)}</span>
+          </div>
+        </div>
+        ${changeHTML}
+      </div>`;
+    }
+
+    html+=`</div>`;
+    if(hasMore){
+      html+=`<div class="pc-footer">
+        <button data-platform="${plat}" data-expand="${targetTime}">展开全部 ${curItems.length} 条 &darr;</button>
+      </div>`;
+    }
+    html+=`</div>`;
+  }
+
+  if(!html){
+    body.innerHTML='<div class="empty-state"><div class="big-icon">📭</div><div>暂无数据</div></div>';
+    return;
+  }
+
+  body.innerHTML=html;
+
+  // Expand buttons
+  body.querySelectorAll('[data-expand]').forEach(btn=>{
+    btn.addEventListener('click',()=>{
+      const plat=btn.dataset.platform;
+      S.selPlat=plat;
+      renderPlatBar();
+      renderView();
+    });
+  });
+}
+
+// ====== Search ======
+let searchTimer=null;
+document.getElementById('searchInput').addEventListener('input',function(){
+  clearTimeout(searchTimer);
+  searchTimer=setTimeout(()=>doSearch(this.value.trim()),300);
+});
+
+async function doSearch(q){
+  S.searchQ=q;
+  const body=document.getElementById('content');
+  if(!q){
+    if(S.curDate)renderView();
+    else body.innerHTML='<div class="empty-state"><div class="big-icon">📋</div><div>从左侧日历选择日期</div></div>';
+    return;
+  }
+  body.innerHTML='<div class="loading"><div class="spinner"></div>搜索中…</div>';
+  try{
+    const results=[];
+    const dates=Object.keys(S.index.dates).sort().reverse();
+    const limit=50;
+    for(const date of dates){
+      if(results.length>=limit)break;
+      const di=S.index.dates[date];
+      for(const plat of PLAT_KEYS){
+        const times=di.platforms[plat];
+        if(!times)continue;
+        // Only check the latest time per platform to keep search fast
+        const latest=times[times.length-1];
+        const data=await loadData(plat,date,latest);
+        if(!data||!data.items)continue;
+        for(const item of data.items){
+          if(item.title.includes(q)){
+            results.push({title:item.title,date,platform:plat,time:latest,hot:item.hot_value});
+            if(results.length>=limit)break;
+          }
+        }
+        if(results.length>=limit)break;
+      }
+    }
+    if(!results.length){
+      body.innerHTML=`<div class="empty-state"><div class="big-icon">🔍</div><div>未找到「${esc(q)}」相关结果</div></div>`;
+      return;
+    }
+    let html=`<div class="sr-header">搜索「<strong>${esc(q)}</strong>」共 ${results.length} 条结果</div><div class="sr-list">`;
+    for(const r of results){
+      const meta=PLAT_META[r.platform]||{label:r.platform,color:'#666'};
+      html+=`<div class="sr-item" data-date="${r.date}" data-title="${esc(r.title)}">
+        <span class="sr-platform" style="background:${meta.color}">${meta.label}</span>
+        <span class="sr-title">${esc(r.title)}</span>
+        <span class="sr-date">${r.date}</span>
+        <span class="sr-hot">${numFmt(r.hot)}</span>
+      </div>`;
     }
     html+='</div>';
+    body.innerHTML=html;
+    body.querySelectorAll('.sr-item').forEach(el=>{
+      el.addEventListener('click',function(){
+        const date=this.dataset.date;
+        const title=this.dataset.title;
+        if(date&&title){
+          S.searchQ='';
+          document.getElementById('searchInput').value='';
+          selectDate(date).then(()=>{
+            // Find matching item and scroll to it
+            setTimeout(()=>{
+              const items=document.querySelectorAll('.hot-item');
+              for(const item of items){
+                if(item.dataset.title===title){
+                  item.scrollIntoView({behavior:'smooth',block:'center'});
+                  item.style.background='var(--primary-light)';
+                  setTimeout(()=>item.style.background='',1500);
+                  break;
+                }
+              }
+            },200);
+          });
+        }
+      });
+    });
+  }catch(e){
+    console.error(e);
+    body.innerHTML=`<div class="empty-state"><div class="big-icon">⚠️</div><div>搜索出错</div></div>`;
   }
-  area.innerHTML=html;
-
-  // Bind events
-  document.querySelectorAll('.time-pill').forEach(el=>el.addEventListener('click',()=>{STATE.selectedTime=el.dataset.t;renderContent()}));
-  document.querySelectorAll('.plat-pill').forEach(el=>el.addEventListener('click',()=>{STATE.selectedPlat=el.dataset.p;renderContent()}));
 }
 
-async function renderSearch(area,q){
-  area.innerHTML='<div class="date-title">🔍 "'+esc(q)+'"</div><div class="loading"><span class="sp"></span> 搜索中...</div>';
-  const res=[];
-  for(const [ds,dd] of Object.entries(STATE.dates)){
-    for(const [p,times] of Object.entries(dd.platforms||{})){
-      for(const t of times){
-        try{
-          const data=await loadJSON('./data/'+p+'/'+ds+'/'+t+'.json');
-          if(!data||!data.items)continue;
-          for(const item of data.items){
-            if(item.title.includes(q))res.push({date:ds,platform:p,time:t,...item});
-          }
-        }catch(e){}
-      }
-    }
-  }
-  res.sort((a,b)=>a.date!=b.date?a.date.localeCompare(b.date):a.time.localeCompare(b.time));
-  if(res.length===0){area.innerHTML='<div class="date-title">🔍 "'+esc(q)+'"</div><div class="empty-state">未找到相关结果</div>';return}
-  area.innerHTML='<div class="date-title">🔍 "'+esc(q)+'"</div><div class="search-result">共 '+res.length+' 条</div>';
-  let html='',last='';
-  for(const item of res){
-    if(item.date!==last){if(last)html+='</div></div>';html+='<div class="items" style="margin-top:8px"><div style="font-size:12px;font-weight:600;color:#6b7280;padding:4px 0">📅 '+item.date+'</div>';last=item.date}
-    const v=parseInt(item.hot_value)||0;
-    const cls=v>=1000000?'fire':v>=500000?'warm':'norm';
-    const rc=item.rank<=3?'r'+item.rank:'';
-    html+='<div class="item"><span class="rank '+rc+'">'+item.rank+'</span><span class="plat-tag '+PLAT_CLS[item.platform]+'">'+(NAMES[item.platform]||item.platform)+'</span><span class="title">'+(item.link?'<a href="'+item.link+'" target="_blank">'+esc(item.title)+'</a>':esc(item.title))+'</span><span class="tag '+cls+'">'+fmt(v)+'</span></div>';
-  }
-  html+='</div>';
-  area.innerHTML='<div class="date-title">🔍 "'+esc(q)+'"</div><div class="search-result">共 '+res.length+' 条</div>'+html;
-}
+// ====== Platform bar click handlers (static) ======
+document.querySelectorAll('#platBar .pill[data-platform]').forEach(el=>{
+  el.addEventListener('click',()=>{
+    const p=el.dataset.platform;
+    S.selPlat=p||'';
+    // Clear search when switching platform
+    renderPlatBar();
+    renderView();
+  });
+});
 
-function fmt(v){if(v>=100000000)return (v/100000000).toFixed(1)+'亿';if(v>=10000)return (v/10000).toFixed(v>=100000?0:1)+'万';return v}
-function esc(s){if(!s)return'';const d=document.createElement('div');d.textContent=s;return d.innerHTML}
-document.addEventListener('DOMContentLoaded',init);
+// ====== Init ======
+loadIndex();
 </script>
 </body>
 </html>
