@@ -2,1105 +2,203 @@
 <html lang="zh-CN">
 <head>
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>热搜归档</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<title>热搜档案</title>
 <style>
-  :root {
-    --primary: #3b63d3;
-    --primary-light: #e8edfc;
-    --bg: #f8f9fa;
-    --card: #ffffff;
-    --text: #1a1a2e;
-    --text-secondary: #6b7280;
-    --border: #e2e6ef;
-    --hot-red: #e74c3c;
-    --hot-orange: #f39c12;
-    --hot-gray: #95a5a6;
-    --radius: 10px;
-    --shadow: 0 1px 3px rgba(0,0,0,0.06);
-  }
-
-  *, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
-
-  body {
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Microsoft YaHei', '微软雅黑', sans-serif;
-    background: var(--bg);
-    color: var(--text);
-    min-height: 100vh;
-    display: flex;
-    flex-direction: column;
-  }
-
-  /* Header */
-  .header {
-    background: var(--card);
-    border-bottom: 1px solid var(--border);
-    padding: 16px 28px;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    gap: 20px;
-    position: sticky;
-    top: 0;
-    z-index: 100;
-  }
-
-  .header h1 {
-    font-size: 18px;
-    font-weight: 600;
-    color: var(--primary);
-    white-space: nowrap;
-  }
-
-  .search-box {
-    flex: 1;
-    max-width: 420px;
-    position: relative;
-  }
-
-  .search-box input {
-    width: 100%;
-    padding: 9px 14px 9px 38px;
-    border: 1px solid var(--border);
-    border-radius: 8px;
-    font-size: 14px;
-    background: var(--bg);
-    outline: none;
-    transition: border-color .2s;
-  }
-
-  .search-box input:focus {
-    border-color: var(--primary);
-    box-shadow: 0 0 0 3px rgba(59,99,211,0.12);
-  }
-
-  .search-box .icon {
-    position: absolute;
-    left: 12px;
-    top: 50%;
-    transform: translateY(-50%);
-    color: var(--text-secondary);
-    font-size: 15px;
-    pointer-events: none;
-  }
-
-  .header-info {
-    font-size: 13px;
-    color: var(--text-secondary);
-    white-space: nowrap;
-  }
-
-  /* Main layout */
-  .main {
-    display: flex;
-    flex: 1;
-    overflow: hidden;
-  }
-
-  /* Left sidebar — calendar */
-  .sidebar {
-    width: 280px;
-    min-width: 280px;
-    background: var(--card);
-    border-right: 1px solid var(--border);
-    padding: 16px;
-    overflow-y: auto;
-    display: flex;
-    flex-direction: column;
-    gap: 6px;
-  }
-
-  .sidebar-label {
-    font-size: 13px;
-    font-weight: 500;
-    color: var(--text-secondary);
-    margin-bottom: 6px;
-  }
-
-  .cal-nav {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    margin-bottom: 10px;
-  }
-
-  .cal-nav .ym {
-    font-size: 15px;
-    font-weight: 600;
-  }
-
-  .cal-nav button {
-    background: none;
-    border: 1px solid var(--border);
-    border-radius: 6px;
-    width: 30px;
-    height: 30px;
-    cursor: pointer;
-    font-size: 15px;
-    color: var(--text-secondary);
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    transition: all .15s;
-  }
-
-  .cal-nav button:hover {
-    background: var(--primary-light);
-    color: var(--primary);
-    border-color: var(--primary);
-  }
-
-  .cal-grid {
-    display: grid;
-    grid-template-columns: repeat(7,1fr);
-    gap: 2px;
-    text-align: center;
-  }
-
-  .cal-grid .day-header {
-    font-size: 11px;
-    color: var(--text-secondary);
-    padding: 4px 0;
-    font-weight: 500;
-  }
-
-  .cal-grid .day {
-    font-size: 13px;
-    padding: 6px 0;
-    border-radius: 6px;
-    cursor: default;
-    color: var(--text-secondary);
-    transition: all .15s;
-  }
-
-  .cal-grid .day.has-data {
-    color: var(--primary);
-    font-weight: 600;
-    cursor: pointer;
-  }
-
-  .cal-grid .day.has-data:hover {
-    background: var(--primary-light);
-  }
-
-  .cal-grid .day.selected {
-    background: var(--primary);
-    color: #fff !important;
-    font-weight: 600;
-  }
-
-  .cal-grid .day.empty {
-    visibility: hidden;
-  }
-
-  .cal-grid .day.today {
-    text-decoration: underline;
-    text-underline-offset: 3px;
-  }
-
-  /* Right content */
-  .content {
-    flex: 1;
-    overflow-y: auto;
-    padding: 20px 28px;
-  }
-
-  .content-header {
-    margin-bottom: 16px;
-  }
-
-  .content-header .date-title {
-    font-size: 16px;
-    font-weight: 600;
-  }
-
-  .content-header .date-title span {
-    color: var(--text-secondary);
-    font-weight: 400;
-    font-size: 13px;
-    margin-left: 8px;
-  }
-
-  /* Platform section */
-  .platform-section {
-    margin-bottom: 24px;
-  }
-
-  .platform-header {
-    display: flex;
-    align-items: center;
-    gap: 8px;
-    margin-bottom: 10px;
-    padding-bottom: 8px;
-    border-bottom: 2px solid var(--primary-light);
-  }
-
-  .platform-header .name {
-    font-size: 15px;
-    font-weight: 600;
-  }
-
-  .platform-header .count {
-    font-size: 12px;
-    color: var(--text-secondary);
-    background: var(--bg);
-    padding: 1px 9px;
-    border-radius: 10px;
-  }
-
-  /* Timeline */
-  .timeline {
-    position: relative;
-    padding-left: 56px;
-  }
-
-  .timeline::before {
-    content: '';
-    position: absolute;
-    left: 19px;
-    top: 0;
-    bottom: 0;
-    width: 2px;
-    background: var(--border);
-  }
-
-  .time-group {
-    position: relative;
-    margin-bottom: 16px;
-  }
-
-  .time-dot {
-    position: absolute;
-    left: -38px;
-    top: 5px;
-    width: 10px;
-    height: 10px;
-    border-radius: 50%;
-    background: var(--primary);
-    border: 2px solid var(--card);
-    z-index: 1;
-  }
-
-  .time-label {
-    font-size: 12px;
-    font-weight: 600;
-    color: var(--primary);
-    margin-bottom: 6px;
-  }
-
-  .item-list {
-    display: flex;
-    flex-direction: column;
-    gap: 5px;
-  }
-
-  .hot-item {
-    display: flex;
-    align-items: center;
-    gap: 10px;
-    padding: 8px 12px;
-    border-radius: 8px;
-    background: var(--bg);
-    cursor: pointer;
-    transition: all .15s;
-    border: 1px solid transparent;
-  }
-
-  .hot-item:hover {
-    background: var(--primary-light);
-    border-color: rgba(59,99,211,0.2);
-  }
-
-  .hot-item.selected {
-    background: var(--primary-light);
-    border-color: var(--primary);
-  }
-
-  .hot-item .rank {
-    font-size: 13px;
-    font-weight: 700;
-    color: var(--text-secondary);
-    min-width: 24px;
-    text-align: center;
-  }
-
-  .hot-item .rank.top3 {
-    color: var(--primary);
-  }
-
-  .hot-item .title {
-    flex: 1;
-    font-size: 14px;
-    color: var(--text);
-    text-decoration: none;
-    word-break: break-word;
-    line-height: 1.4;
-  }
-
-  .hot-item .title:hover {
-    color: var(--primary);
-  }
-
-  .hot-item .hot-value {
-    font-size: 12px;
-    font-weight: 600;
-    padding: 2px 8px;
-    border-radius: 4px;
-    white-space: nowrap;
-  }
-
-  .hot-value.hot-red {
-    background: #fde8e8;
-    color: var(--hot-red);
-  }
-
-  .hot-value.hot-orange {
-    background: #fef3d5;
-    color: var(--hot-orange);
-  }
-
-  .hot-value.hot-gray {
-    background: #f0f0f0;
-    color: var(--hot-gray);
-  }
-
-  /* Search results */
-  .search-results {
-    padding: 4px 0;
-  }
-
-  .search-results .sr-header {
-    font-size: 14px;
-    font-weight: 500;
-    margin-bottom: 12px;
-    color: var(--text-secondary);
-  }
-
-  .search-results .sr-header strong {
-    color: var(--text);
-  }
-
-  .sr-item {
-    display: flex;
-    align-items: center;
-    gap: 8px;
-    padding: 7px 10px;
-    border-radius: 6px;
-    cursor: pointer;
-    transition: background .15s;
-    border-bottom: 1px solid var(--border);
-  }
-
-  .sr-item:last-child { border-bottom: none; }
-  .sr-item:hover { background: var(--primary-light); }
-
-  .sr-item .sr-date {
-    font-size: 11px;
-    color: var(--text-secondary);
-    white-space: nowrap;
-    font-family: monospace;
-  }
-
-  .sr-item .sr-platform {
-    font-size: 11px;
-    background: var(--primary-light);
-    color: var(--primary);
-    padding: 1px 6px;
-    border-radius: 4px;
-    white-space: nowrap;
-  }
-
-  .sr-item .sr-title {
-    flex: 1;
-    font-size: 13px;
-  }
-
-  .sr-item .sr-hot {
-    font-size: 11px;
-    font-weight: 600;
-  }
-
-  .sr-item .sr-rank {
-    font-size: 11px;
-    color: var(--text-secondary);
-  }
-
-  /* Trend chart */
-  .trend-panel {
-    display: none;
-    background: var(--card);
-    border: 1px solid var(--border);
-    border-radius: var(--radius);
-    padding: 20px;
-    margin-top: 20px;
-    box-shadow: var(--shadow);
-  }
-
-  .trend-panel.open {
-    display: block;
-  }
-
-  .trend-panel .trend-title {
-    font-size: 14px;
-    font-weight: 600;
-    margin-bottom: 4px;
-  }
-
-  .trend-panel .trend-sub {
-    font-size: 12px;
-    color: var(--text-secondary);
-    margin-bottom: 14px;
-  }
-
-  .trend-panel .trend-close {
-    float: right;
-    background: none;
-    border: none;
-    font-size: 18px;
-    color: var(--text-secondary);
-    cursor: pointer;
-    padding: 0 4px;
-    line-height: 1;
-  }
-
-  .trend-panel .trend-close:hover { color: var(--text); }
-
-  canvas#trendChart {
-    width: 100% !important;
-    height: 220px !important;
-    border-radius: 6px;
-  }
-
-  .chart-container {
-    position: relative;
-  }
-
-  .chart-container .no-data {
-    position: absolute;
-    inset: 0;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    color: var(--text-secondary);
-    font-size: 14px;
-  }
-
-  /* Loading & empty */
-  .loading {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    padding: 60px 20px;
-    color: var(--text-secondary);
-    font-size: 14px;
-    gap: 8px;
-  }
-
-  .loading .spinner {
-    width: 18px;
-    height: 18px;
-    border: 2px solid var(--border);
-    border-top-color: var(--primary);
-    border-radius: 50%;
-    animation: spin .7s linear infinite;
-  }
-
-  @keyframes spin { to { transform: rotate(360deg); } }
-
-  .empty-state {
-    text-align: center;
-    padding: 60px 20px;
-    color: var(--text-secondary);
-    font-size: 14px;
-  }
-
-  .empty-state .big-icon { font-size: 40px; margin-bottom: 12px; opacity: 0.4; }
-
-  /* Responsive */
-  @media (max-width: 768px) {
-    .sidebar { width: 100%; min-width: unset; max-height: 300px; border-right: none; border-bottom: 1px solid var(--border); }
-    .main { flex-direction: column; }
-    .content { padding: 16px; }
-    .header { flex-wrap: wrap; padding: 12px 16px; }
-    .header h1 { font-size: 16px; }
-    .search-box { max-width: 100%; order: 3; }
-    .header-info { display: none; }
-    .timeline { padding-left: 40px; }
-    .hot-item { padding: 6px 10px; }
-  }
+  *{margin:0;padding:0;box-sizing:border-box}
+  body{font-family:-apple-system,"PingFang SC","Microsoft YaHei","Helvetica Neue",sans-serif;background:#f5f6f8;color:#1f2937;font-size:15px;-webkit-font-smoothing:antialiased}
+  .header{background:#3b63d3;color:#fff;padding:16px;position:sticky;top:0;z-index:10}
+  .header h1{font-size:18px;font-weight:700}
+  .header .sub{font-size:12px;opacity:.8;margin-top:2px}
+  .search-wrap{padding:10px 12px;background:#fff;border-bottom:1px solid #e5e7eb;display:flex;gap:8px}
+  .search-wrap input{flex:1;padding:8px 12px;border:1px solid #e5e7eb;border-radius:8px;font-size:14px;outline:none;background:#f7f8fa}
+  .search-wrap input:focus{border-color:#3b63d3;background:#fff}
+  .main{display:flex;flex-direction:row;min-height:calc(100vh - 110px)}
+  .sidebar{width:220px;background:#fff;border-right:1px solid #e5e7eb;overflow-y:auto;flex-shrink:0}
+  .sidebar .cal-nav{padding:10px 10px 4px;display:flex;align-items:center;justify-content:space-between}
+  .sidebar .cal-nav button{background:none;border:1px solid #e5e7eb;border-radius:6px;padding:4px 10px;cursor:pointer;font-size:13px}
+  .sidebar .cal-nav .label{font-size:13px;font-weight:600}
+  .calendar{display:grid;grid-template-columns:repeat(7,1fr);gap:2px;padding:6px 8px 10px}
+  .cal-header{text-align:center;font-size:10px;color:#9ca3af;padding:2px 0}
+  .cal-day{aspect-ratio:1;display:flex;align-items:center;justify-content:center;font-size:12px;border-radius:6px;color:#d1d5db;position:relative}
+  .cal-day.has-data{color:#1f2937;cursor:pointer;font-weight:500}
+  .cal-day.has-data:hover{background:#eef1ff;color:#3b63d3}
+  .cal-day.selected{background:#3b63d3!important;color:#fff!important}
+  .cal-day.today{outline:2px solid #3b63d3;outline-offset:-2px}
+  .cal-day .dot{position:absolute;bottom:2px;left:50%;transform:translateX(-50%);width:4px;height:4px;border-radius:50%;background:#3b63d3}
+  .content{flex:1;overflow-y:auto;padding:12px 14px;background:#f5f6f8}
+  .content .empty{text-align:center;padding:60px 20px;color:#9ca3af;font-size:14px}
+  .content .date-title{font-size:15px;font-weight:600;margin-bottom:10px}
+  .timeline{position:relative}
+  .time-slot{margin-bottom:12px}
+  .time-label{font-size:12px;font-weight:600;color:#6b7280;padding:4px 0;display:flex;align-items:center;gap:8px}
+  .time-label::after{content:'';flex:1;height:1px;background:#e5e7eb}
+  .items{display:grid;gap:5px}
+  .item{display:flex;align-items:center;gap:8px;padding:7px 10px;background:#fff;border-radius:8px;border:1px solid #e5e7eb;font-size:14px}
+  .item .rank{font-size:12px;font-weight:700;color:#9ca3af;min-width:20px;text-align:center}
+  .item .rank.r1{color:#ef4444}
+  .item .rank.r2{color:#f59e0b}
+  .item .rank.r3{color:#8b5cf6}
+  .item .title{flex:1;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+  .item .title a{color:inherit;text-decoration:none}
+  .item .title a:hover{color:#3b63d3}
+  .item .hot{font-size:11px;font-weight:600;white-space:nowrap;padding:1px 6px;border-radius:3px}
+  .item .hot.hot-fire{color:#ef4444;background:#fef2f2}
+  .item .hot.hot-50{color:#f59e0b;background:#fffbeb}
+  .item .hot.hot-norm{color:#9ca3af;background:#f3f4f6}
+  .tag{display:inline-block;font-size:10px;padding:1px 5px;border-radius:3px;font-weight:600;margin-left:4px}
+  .tag-fire{color:#ef4444;background:#fef2f2}
+  .tag-hot{color:#f59e0b;background:#fffbeb}
+  .tag-norm{color:#9ca3af;background:#f3f4f6}
+  .search-res{font-size:13px;color:#6b7280;margin-bottom:8px}
+  @media(max-width:640px){
+    .sidebar{width:160px}
+    .content{padding:10px}
+  }
+  .loading{text-align:center;padding:40px;color:#9ca3af;font-size:13px}
+  .loading .sp{display:inline-block;width:16px;height:16px;border:2px solid #e5e7eb;border-top-color:#3b63d3;border-radius:50%;animation:spin .6s linear infinite;margin-right:6px;vertical-align:middle}
+  @keyframes spin{to{transform:rotate(360deg)}}
 </style>
 </head>
 <body>
-
-<div class="header">
-  <h1>📊 热搜归档</h1>
-  <div class="search-box">
-    <span class="icon">🔍</span>
-    <input type="text" id="searchInput" placeholder="搜索热搜关键词…" autocomplete="off">
-  </div>
-  <div class="header-info" id="headerInfo">加载中…</div>
+<div class="header"><h1>🔥 热搜档案</h1><div class="sub">浏览历史热搜 · 点击查看详情</div></div>
+<div class="search-wrap">
+  <input id="searchInput" placeholder="搜索关键词..." autocomplete="off">
+  <button id="clearBtn" style="padding:6px 12px;border:1px solid #e5e7eb;border-radius:8px;background:#fff;color:#6b7280;font-size:12px;cursor:pointer;display:none">清空</button>
 </div>
-
 <div class="main">
-  <aside class="sidebar" id="sidebar">
-    <div class="sidebar-label">📅 选择日期</div>
-    <div class="cal-nav">
-      <button id="prevMonth">‹</button>
-      <span class="ym" id="calYM"></span>
-      <button id="nextMonth">›</button>
-    </div>
-    <div class="cal-grid" id="calGrid"></div>
-  </aside>
-
-  <section class="content" id="content">
-    <div class="content-header">
-      <div class="date-title" id="dateTitle">请选择一个日期 <span>从左侧日历中选择</span></div>
-    </div>
-    <div id="contentBody">
-      <div class="empty-state">
-        <div class="big-icon">📋</div>
-        <div>从左侧日历选择一个有数据的日期查看热搜</div>
-      </div>
-    </div>
-
-    <!-- Trend panel -->
-    <div class="trend-panel" id="trendPanel">
-      <button class="trend-close" id="trendClose">✕</button>
-      <div class="trend-title" id="trendTitle">热度趋势</div>
-      <div class="trend-sub" id="trendSub"></div>
-      <div class="chart-container">
-        <canvas id="trendChart"></canvas>
-      </div>
-    </div>
-  </section>
+<div class="sidebar">
+  <div class="cal-nav">
+    <button id="prevMonth">‹</button>
+    <span class="label" id="calLabel"></span>
+    <button id="nextMonth">›</button>
+  </div>
+  <div class="calendar" id="calendar"></div>
 </div>
-
+<div class="content" id="content"><div class="empty">📊 加载中...</div></div>
+</div>
 <script>
-// ====== State ======
-const state = {
-  index: null,
-  currentDate: null,
-  currentYear: 0,
-  currentMonth: 0,
-  selectedKeyword: null,
-  searchQuery: '',
-  trendData: [],
-};
+const STATE={dates:{},currentDate:'',currentPlatform:'all',searchQuery:''};
+async function loadJSON(u){const r=await fetch(u);if(!r.ok)throw Error();return r.json()}
 
-// ====== Util ======
-function fmtNum(n) {
-  if (n === null || n === undefined) return '—';
-  if (typeof n === 'string') { const v = parseFloat(n); return isNaN(v) ? n : fmtNum(v); }
-  if (n >= 100000000) return (n / 100000000).toFixed(1) + '亿';
-  if (n >= 10000) return (n / 10000).toFixed(1) + '万';
-  return String(Math.round(n));
-}
-
-function hotClass(val) {
-  const v = typeof val === 'string' ? parseFloat(val) : val;
-  if (isNaN(v)) return 'hot-gray';
-  if (v >= 1000000) return 'hot-red';
-  if (v >= 500000) return 'hot-orange';
-  return 'hot-gray';
-}
-
-function hotLabel(val) {
-  const v = typeof val === 'string' ? parseFloat(val) : val;
-  if (isNaN(v)) return '—';
-  if (v >= 1000000) return '爆';
-  if (v >= 500000) return '热';
-  return '';
-}
-
-function escHtml(s) {
-  const div = document.createElement('div');
-  div.textContent = s;
-  return div.innerHTML;
-}
-
-// ====== Fetch helpers ======
-async function fetchJSON(url) {
-  const res = await fetch(url);
-  if (!res.ok) throw new Error(`HTTP ${res.status}`);
-  return res.json();
-}
-
-// ====== Index loading ======
-async function loadIndex() {
-  try {
-    state.index = await fetchJSON('./data/index.json');
-    document.getElementById('headerInfo').textContent =
-      '共 ' + Object.keys(state.index.dates).length + ' 天数据';
-    const dates = Object.keys(state.index.dates).sort();
-    if (dates.length > 0) {
-      const last = dates[dates.length - 1];
-      const ymd = last.split('-');
-      state.currentYear = parseInt(ymd[0]);
-      state.currentMonth = parseInt(ymd[1]);
-    } else {
-      const d = new Date();
-      state.currentYear = d.getFullYear();
-      state.currentMonth = d.getMonth() + 1;
-    }
-    renderCalendar();
-    // Auto-select latest date
-    if (dates.length > 0) {
-      selectDate(dates[dates.length - 1]);
-    }
-  } catch (e) {
-    console.error(e);
-    document.getElementById('headerInfo').textContent = '❌ 加载数据失败';
-    document.getElementById('contentBody').innerHTML =
-      '<div class="empty-state"><div class="big-icon">⚠️</div><div>无法加载数据，请确保 data/index.json 存在</div></div>';
+async function init(){
+  try{
+    const idx=await loadJSON('./data/index.json');
+    STATE.dates=idx.dates||{};
+    renderCal();
+    const ds=Object.keys(STATE.dates).sort();
+    if(ds.length)selectDate(ds[ds.length-1]);
+    else document.getElementById('content').innerHTML='<div class="empty">📭 暂无数据</div>';
+  }catch(e){
+    document.getElementById('content').innerHTML='<div class="empty">⚠️ 数据加载失败，请稍后重试</div>';
   }
+  const inp=document.getElementById('searchInput');
+  const btn=document.getElementById('clearBtn');
+  let timer;
+  inp.addEventListener('input',()=>{clearTimeout(timer);timer=setTimeout(()=>{STATE.searchQuery=inp.value.trim();btn.style.display=STATE.searchQuery?'block':'none';renderContent()},400)});
+  btn.addEventListener('click',()=>{inp.value='';STATE.searchQuery='';btn.style.display='none';renderContent();inp.focus()});
+  document.getElementById('prevMonth').addEventListener('click',()=>{const d=new Date(document.getElementById('calLabel').textContent.replace('年','/').replace('月','/1'));d.setMonth(d.getMonth()-1);renderCal(d.getFullYear(),d.getMonth()+1)});
+  document.getElementById('nextMonth').addEventListener('click',()=>{const d=new Date(document.getElementById('calLabel').textContent.replace('年','/').replace('月','/1'));d.setMonth(d.getMonth()+1);renderCal(d.getFullYear(),d.getMonth()+1)});
 }
 
-// ====== Calendar ======
-function daysInMonth(y, m) { return new Date(y, m, 0).getDate(); }
-
-function renderCalendar() {
-  const { currentYear: y, currentMonth: m } = state;
-  document.getElementById('calYM').textContent = `${y} 年 ${String(m).padStart(2,'0')} 月`;
-
-  const datesMap = state.index ? (state.index.dates || {}) : {};
-  const hasDate = {};
-  for (const d of Object.keys(datesMap)) {
-    hasDate[d] = true;
+function renderCal(y,m){
+  const now=new Date();y=y||now.getFullYear();m=m||now.getMonth()+1;
+  document.getElementById('calLabel').textContent=y+'年'+String(m).padStart(2,'0')+'月';
+  const cal=document.getElementById('calendar');
+  const h=['日','一','二','三','四','五','六'];
+  cal.innerHTML=h.map(d=>'<div class="cal-header">'+d+'</div>').join('');
+  const first=new Date(y,m-1,1).getDay(),days=new Date(y,m,0).getDate();
+  const todayStr=now.toISOString().slice(0,10);
+  for(let i=0;i<first;i++)cal.innerHTML+='<div></div>';
+  for(let d=1;d<=days;d++){
+    const ds=y+'-'+String(m).padStart(2,'0')+'-'+String(d).padStart(2,'0');
+    const has=!!STATE.dates[ds],sel=ds===STATE.currentDate?'selected':'',td=ds===todayStr?'today':'';
+    cal.innerHTML+='<div class="cal-day '+ (has?'has-data ':'')+sel+' '+td+'" data-date="'+ds+'">'+d+(has?'<div class="dot"></div>':'')+'</div>';
   }
-
-  const firstDay = new Date(y, m - 1, 1).getDay(); // 0=Sun
-  const total = daysInMonth(y, m);
-  const todayStr = new Date().toISOString().slice(0,10);
-
-  let html = '';
-  const headers = ['日','一','二','三','四','五','六'];
-  for (const h of headers) {
-    html += `<div class="day-header">${h}</div>`;
-  }
-  for (let i = 0; i < firstDay; i++) {
-    html += '<div class="day empty"></div>';
-  }
-  for (let d = 1; d <= total; d++) {
-    const ds = `${y}-${String(m).padStart(2,'0')}-${String(d).padStart(2,'0')}`;
-    const has = !!hasDate[ds];
-    const cls = ['day'];
-    if (has) cls.push('has-data');
-    if (ds === state.currentDate) cls.push('selected');
-    if (ds === todayStr) cls.push('today');
-    html += `<div class="${cls.join(' ')}" data-date="${ds}">${d}</div>`;
-  }
-  document.getElementById('calGrid').innerHTML = html;
-
-  // Click handlers
-  document.querySelectorAll('.day.has-data').forEach(el => {
-    el.addEventListener('click', () => selectDate(el.dataset.date));
-  });
+  document.querySelectorAll('.cal-day.has-data').forEach(el=>el.addEventListener('click',()=>selectDate(el.dataset.date)));
 }
 
-document.getElementById('prevMonth').addEventListener('click', () => {
-  state.currentMonth--;
-  if (state.currentMonth < 1) { state.currentMonth = 12; state.currentYear--; }
-  renderCalendar();
-});
-
-document.getElementById('nextMonth').addEventListener('click', () => {
-  state.currentMonth++;
-  if (state.currentMonth > 12) { state.currentMonth = 1; state.currentYear++; }
-  renderCalendar();
-});
-
-// ====== Date selection ======
-async function selectDate(dateStr) {
-  state.currentDate = dateStr;
-  state.selectedKeyword = null;
-  document.getElementById('trendPanel').classList.remove('open');
-  renderCalendar();
-
-  const d = new Date(dateStr + 'T00:00:00');
-  const weekdays = ['日','一','二','三','四','五','六'];
-  document.getElementById('dateTitle').innerHTML =
-    `${dateStr} <span>星期${weekdays[d.getDay()]}</span>`;
-
-  const body = document.getElementById('contentBody');
-  body.innerHTML = '<div class="loading"><div class="spinner"></div>正在加载热点数据…</div>';
-
-  try {
-    const dateInfo = state.index.dates[dateStr];
-    if (!dateInfo) {
-      body.innerHTML = '<div class="empty-state"><div class="big-icon">📭</div><div>此日期暂无数据</div></div>';
-      return;
-    }
-
-    const platforms = dateInfo.platforms || {};
-    const platformNames = Object.keys(platforms).sort();
-
-    let allHTML = '';
-    for (const plat of platformNames) {
-      const times = platforms[plat];
-      const sectionHTML = await renderPlatform(dateStr, plat, times);
-      allHTML += sectionHTML;
-    }
-
-    if (!allHTML) {
-      body.innerHTML = '<div class="empty-state"><div class="big-icon">📭</div><div>此日期暂无数据</div></div>';
-      return;
-    }
-
-    body.innerHTML = allHTML;
-
-    // Attach item click handlers for trending
-    document.querySelectorAll('.hot-item').forEach(el => {
-      el.addEventListener('click', function() {
-        document.querySelectorAll('.hot-item.selected').forEach(x => x.classList.remove('selected'));
-        this.classList.add('selected');
-        const keyword = this.dataset.keyword;
-        if (keyword) showTrend(keyword);
-      });
-    });
-  } catch (e) {
-    console.error(e);
-    body.innerHTML = '<div class="empty-state"><div class="big-icon">⚠️</div><div>加载失败</div></div>';
-  }
+function selectDate(ds){
+  STATE.currentDate=ds;
+  renderCal(parseInt(ds.slice(0,4)),parseInt(ds.slice(5,7)));
+  renderContent();
 }
 
-async function renderPlatform(dateStr, platform, times) {
-  const plats = state.index.dates[dateStr].platforms;
-  const snapCount = times.length;
-
-  let itemsHTML = '';
-  for (const time of times) {
-    const url = `./data/${platform}/${dateStr}/${time}.json`;
-    let data;
-    try {
-      data = await fetchJSON(url);
-    } catch {
-      continue;
-    }
-    if (!data || !data.items || !data.items.length) continue;
-
-    const items = data.items.sort((a, b) => (a.rank || 999) - (b.rank || 999));
-    let listHTML = '';
-    for (const item of items) {
-      const hc = hotClass(item.hot_value);
-      const hl = hotLabel(item.hot_value);
-      const rankCls = item.rank && item.rank <= 3 ? 'top3' : '';
-      listHTML += `
-        <div class="hot-item" data-keyword="${escHtml(item.title)}" data-hot="${item.hot_value ?? ''}">
-          <span class="rank ${rankCls}">${item.rank ?? '—'}</span>
-          <a class="title" href="${escHtml(item.link || '#')}" target="_blank" rel="noopener">${escHtml(item.title)}</a>
-          <span class="hot-value ${hc}">${fmtNum(item.hot_value)}${hl ? ' · ' + hl : ''}</span>
-        </div>
-      `;
-    }
-
-    if (listHTML) {
-      itemsHTML += `
-        <div class="time-group">
-          <div class="time-dot"></div>
-          <div class="time-label">${time.slice(0,2)}:${time.slice(2)}</div>
-          <div class="item-list">${listHTML}</div>
-        </div>
-      `;
+async function renderContent(){
+  const area=document.getElementById('content');
+  const q=STATE.searchQuery.trim();
+  if(!STATE.currentDate&&!q){area.innerHTML='<div class="empty">📊 请从左侧选择日期</div>';return}
+  if(q){await renderSearch(area,q);return}
+  if(!STATE.currentDate){area.innerHTML='<div class="empty">📊 请从左侧选择日期</div>';return}
+  const dd=STATE.dates[STATE.currentDate];
+  if(!dd){area.innerHTML='<div class="empty">📭 该日期暂无数据</div>';return}
+  area.innerHTML='<div class="date-title">📆 '+STATE.currentDate+'</div><div class="loading"><span class="sp"></span> 加载数据...</div>';
+  const pfs=Object.keys(dd.platforms||{});
+  const names={weibo:'微博',zhihu:'知乎',baidu:'百度',douyin:'抖音',bili:'B站',toutiao:'头条'};
+  let html='';
+  for(const p of pfs){
+    const times=dd.platforms[p]||[];
+    for(const t of times){
+      try{
+        const data=await loadJSON('./data/'+p+'/'+STATE.currentDate+'/'+t+'.json');
+        if(!data||!data.items)continue;
+        const tl=t.slice(0,2)+':'+t.slice(2);
+        html+='<div class="time-slot"><div class="time-label">'+tl+' '+ (names[p]||p)+'</div><div class="items">';
+        for(const item of data.items){
+          const v=parseInt(item.hot_value)||0;
+          const hc=v>=1000000?'hot-fire':v>=500000?'hot-50':'hot-norm';
+          const rc=item.rank<=3?'r'+item.rank:'';
+          const lbl=v>=1000000?'爆':v>=500000?'热':'普';
+          html+='<div class="item"><span class="rank '+rc+'">'+item.rank+'</span><span class="title">'+(item.link?'<a href="'+item.link+'" target="_blank">'+esc(item.title)+'</a>':esc(item.title))+'</span><span class="hot '+hc+'">'+fmt(v)+' <span class="tag-'+hc.slice(4)+'">'+lbl+'</span></span></div>';
+        }
+        html+='</div></div>';
+      }catch(e){}
     }
   }
-
-  if (!itemsHTML) return '';
-
-  const platformLabel = platform;
-  return `
-    <div class="platform-section" data-platform="${escHtml(platform)}">
-      <div class="platform-header">
-        <span class="name">📱 ${escHtml(platformLabel)}</span>
-        <span class="count">${snapCount} 个快照</span>
-      </div>
-      <div class="timeline">${itemsHTML}</div>
-    </div>
-  `;
+  area.innerHTML='<div class="date-title">📆 '+STATE.currentDate+'</div>'+html;
 }
 
-// ====== Trend chart ======
-async function showTrend(keyword) {
-  state.selectedKeyword = keyword;
-  const panel = document.getElementById('trendPanel');
-  panel.classList.add('open');
-  document.getElementById('trendTitle').textContent = `📈 热度趋势`;
-  document.getElementById('trendSub').textContent = `「${keyword}」在 ${state.currentDate} 的快照热度值`;
-
-  const canvas = document.getElementById('trendChart');
-  const ctx = canvas.getContext('2d');
-  const dpr = window.devicePixelRatio || 1;
-  const rect = canvas.getBoundingClientRect();
-  canvas.width = rect.width * dpr;
-  canvas.height = 220 * dpr;
-  canvas.style.height = '220px';
-  ctx.scale(dpr, dpr);
-
-  const W = rect.width;
-  const H = 220;
-
-  ctx.clearRect(0, 0, W, H);
-
-  const dateInfo = state.index.dates[state.currentDate];
-  if (!dateInfo) return;
-
-  const points = [];
-
-  for (const [plat, times] of Object.entries(dateInfo.platforms || {})) {
-    for (const time of times) {
-      try {
-        const data = await fetchJSON(`./data/${plat}/${state.currentDate}/${time}.json`);
-        if (!data || !data.items) continue;
-        for (const item of data.items) {
-          if (item.title === keyword && item.hot_value != null && item.hot_value !== '') {
-            const val = typeof item.hot_value === 'string' ? parseFloat(item.hot_value) : item.hot_value;
-            if (!isNaN(val)) {
-              points.push({ time: time, value: val, platform: data.platform_name || plat });
-            }
+async function renderSearch(area,q){
+  area.innerHTML='<div class="date-title">🔍 搜索"'+esc(q)+'"</div><div class="loading"><span class="sp"></span> 搜索中...</div>';
+  const res=[];
+  const names={weibo:'微博',zhihu:'知乎',baidu:'百度',douyin:'抖音',bili:'B站',toutiao:'头条'};
+  for(const [ds,dd] of Object.entries(STATE.dates)){
+    for(const [p,times] of Object.entries(dd.platforms||{})){
+      for(const t of times){
+        try{
+          const data=await loadJSON('./data/'+p+'/'+ds+'/'+t+'.json');
+          if(!data||!data.items)continue;
+          for(const item of data.items){
+            if(item.title.includes(q))res.push({date:ds,platform:names[p]||p,time:t,...item});
           }
-        }
-      } catch {}
-    }
-  }
-
-  points.sort((a,b) => a.time.localeCompare(b.time));
-
-  if (points.length === 0) {
-    ctx.fillStyle = '#6b7280';
-    ctx.font = '14px -apple-system, "Microsoft YaHei", sans-serif';
-    ctx.textAlign = 'center';
-    ctx.fillText('无热度数据', W/2, H/2);
-    state.trendData = [];
-    return;
-  }
-
-  state.trendData = points;
-
-  const pad = { top: 16, bottom: 28, left: 50, right: 16 };
-  const chartW = W - pad.left - pad.right;
-  const chartH = H - pad.top - pad.bottom;
-
-  const values = points.map(p => p.value);
-  const maxVal = Math.max(...values);
-  const minVal = Math.min(...values);
-  const range = maxVal - minVal || 1;
-
-  // Grid lines
-  ctx.strokeStyle = '#e2e6ef';
-  ctx.lineWidth = 1;
-  ctx.setLineDash([4, 4]);
-  for (let i = 0; i <= 4; i++) {
-    const y = pad.top + (chartH * i) / 4;
-    ctx.beginPath();
-    ctx.moveTo(pad.left, y);
-    ctx.lineTo(W - pad.right, y);
-    ctx.stroke();
-  }
-  ctx.setLineDash([]);
-
-  // Y-axis labels
-  ctx.fillStyle = '#6b7280';
-  ctx.font = '11px -apple-system, "Microsoft YaHei", sans-serif';
-  ctx.textAlign = 'right';
-  ctx.textBaseline = 'middle';
-  for (let i = 0; i <= 4; i++) {
-    const val = maxVal - (range * i) / 4;
-    const y = pad.top + (chartH * i) / 4;
-    ctx.fillText(fmtNum(val), pad.left - 8, y);
-  }
-
-  // X-axis labels
-  ctx.textAlign = 'center';
-  ctx.textBaseline = 'top';
-  const labels = points.map(p => p.time.slice(0,2) + ':' + p.time.slice(2));
-  // Only show some labels if too many
-  const maxLabels = 8;
-  const step = Math.max(1, Math.floor(labels.length / maxLabels));
-  for (let i = 0; i < labels.length; i += step) {
-    const x = pad.left + (i / (points.length - 1 || 1)) * chartW;
-    ctx.fillText(labels[i], x, H - pad.bottom + 6);
-  }
-  // Always show last
-  if (points.length > 1 && (points.length - 1) % step !== 0) {
-    const x = pad.left + chartW;
-    ctx.fillText(labels[labels.length - 1], x, H - pad.bottom + 6);
-  }
-
-  // Draw line
-  ctx.beginPath();
-  ctx.strokeStyle = '#3b63d3';
-  ctx.lineWidth = 2;
-  ctx.lineJoin = 'round';
-  ctx.lineCap = 'round';
-
-  for (let i = 0; i < points.length; i++) {
-    const x = pad.left + (i / (points.length - 1 || 1)) * chartW;
-    const y = pad.top + chartH - ((points[i].value - minVal) / range) * chartH;
-    if (i === 0) ctx.moveTo(x, y);
-    else ctx.lineTo(x, y);
-  }
-  ctx.stroke();
-
-  // Gradient fill
-  ctx.beginPath();
-  for (let i = 0; i < points.length; i++) {
-    const x = pad.left + (i / (points.length - 1 || 1)) * chartW;
-    const y = pad.top + chartH - ((points[i].value - minVal) / range) * chartH;
-    if (i === 0) ctx.moveTo(x, y);
-    else ctx.lineTo(x, y);
-  }
-  ctx.lineTo(pad.left + chartW, pad.top + chartH);
-  ctx.lineTo(pad.left, pad.top + chartH);
-  ctx.closePath();
-
-  const grad = ctx.createLinearGradient(0, pad.top, 0, pad.top + chartH);
-  grad.addColorStop(0, 'rgba(59,99,211,0.25)');
-  grad.addColorStop(1, 'rgba(59,99,211,0.02)');
-  ctx.fillStyle = grad;
-  ctx.fill();
-
-  // Draw dots
-  for (let i = 0; i < points.length; i++) {
-    const x = pad.left + (i / (points.length - 1 || 1)) * chartW;
-    const y = pad.top + chartH - ((points[i].value - minVal) / range) * chartH;
-    ctx.beginPath();
-    ctx.arc(x, y, 3.5, 0, Math.PI * 2);
-    ctx.fillStyle = '#3b63d3';
-    ctx.fill();
-    ctx.strokeStyle = '#fff';
-    ctx.lineWidth = 2;
-    ctx.stroke();
-  }
-}
-
-document.getElementById('trendClose').addEventListener('click', () => {
-  document.getElementById('trendPanel').classList.remove('open');
-  document.querySelectorAll('.hot-item.selected').forEach(x => x.classList.remove('selected'));
-  state.selectedKeyword = null;
-});
-
-// ====== Search ======
-let searchTimer = null;
-document.getElementById('searchInput').addEventListener('input', function() {
-  clearTimeout(searchTimer);
-  searchTimer = setTimeout(() => doSearch(this.value.trim()), 300);
-});
-
-async function doSearch(query) {
-  state.searchQuery = query;
-  if (!query) {
-    if (state.currentDate) {
-      selectDate(state.currentDate);
-    } else {
-      document.getElementById('contentBody').innerHTML =
-        '<div class="empty-state"><div class="big-icon">🔍</div><div>输入关键词搜索…</div></div>';
-    }
-    return;
-  }
-
-  const body = document.getElementById('contentBody');
-  body.innerHTML = '<div class="loading"><div class="spinner"></div>搜索中…</div>';
-
-  try {
-    const results = [];
-    const dates = Object.keys(state.index.dates || {}).sort();
-
-    // Limit search scope for performance
-    const searchDates = dates.slice(-30); // last 30 days
-
-    for (const dateStr of searchDates) {
-      const dateInfo = state.index.dates[dateStr];
-      if (!dateInfo) continue;
-      for (const [plat, times] of Object.entries(dateInfo.platforms || {})) {
-        for (const time of times) {
-          try {
-            const data = await fetchJSON(`./data/${plat}/${dateStr}/${time}.json`);
-            if (!data || !data.items) continue;
-            for (const item of data.items) {
-              if (item.title.toLowerCase().includes(query.toLowerCase())) {
-                results.push({
-                  date: dateStr,
-                  platform: data.platform_name || plat,
-                  platKey: plat,
-                  time: time,
-                  title: item.title,
-                  hot: item.hot_value,
-                  rank: item.rank,
-                  link: item.link,
-                });
-              }
-            }
-          } catch {}
-        }
+        }catch(e){}
       }
     }
-
-    if (results.length === 0) {
-      body.innerHTML = '<div class="empty-state"><div class="big-icon">🔍</div><div>未找到匹配「' + escHtml(query) + '」的结果</div></div>';
-      return;
-    }
-
-    // Sort by date desc, then time
-    results.sort((a,b) => {
-      if (a.date !== b.date) return b.date.localeCompare(a.date);
-      return b.time.localeCompare(a.time);
-    });
-
-    // Deduplicate by title+date
-    const seen = new Set();
-    const unique = [];
-    for (const r of results) {
-      const key = r.title + '|' + r.date;
-      if (!seen.has(key)) { seen.add(key); unique.push(r); }
-    }
-
-    let html = `<div class="search-results">
-      <div class="sr-header">搜索 "<strong>${escHtml(query)}</strong>" — 找到 ${unique.length} 条结果</div>`;
-
-    for (const r of unique) {
-      const hc = hotClass(r.hot);
-      html += `
-        <div class="sr-item" data-title="${escHtml(r.title)}" data-date="${escHtml(r.date)}">
-          <span class="sr-date">${r.date}</span>
-          <span class="sr-platform">${escHtml(r.platform)}</span>
-          <span class="sr-rank">#${r.rank ?? '—'}</span>
-          <span class="sr-title"><a href="${escHtml(r.link || '#')}" target="_blank" rel="noopener" style="color:inherit;text-decoration:none;">${escHtml(r.title)}</a></span>
-          <span class="sr-hot ${hc}">${fmtNum(r.hot)}</span>
-        </div>
-      `;
-    }
-    html += '</div>';
-    body.innerHTML = html;
-
-    // Click on search result -> jump to that date and show trend
-    document.querySelectorAll('.sr-item').forEach(el => {
-      el.addEventListener('click', function() {
-        const title = this.dataset.title;
-        const date = this.dataset.date;
-        if (date && title) {
-          state.searchQuery = '';
-          document.getElementById('searchInput').value = '';
-          selectDate(date).then(() => {
-            // Find and click matching item
-            const items = document.querySelectorAll('.hot-item');
-            for (const item of items) {
-              if (item.dataset.keyword === title) {
-                item.click();
-                item.scrollIntoView({ behavior: 'smooth', block: 'center' });
-                break;
-              }
-            }
-          });
-        }
-      });
-    });
-  } catch (e) {
-    console.error(e);
-    body.innerHTML = '<div class="empty-state"><div class="big-icon">⚠️</div><div>搜索出错</div></div>';
   }
+  res.sort((a,b)=>a.date!=b.date?a.date.localeCompare(b.date):a.time.localeCompare(b.time));
+  if(res.length===0){area.innerHTML='<div class="date-title">🔍 搜索"'+esc(q)+'"</div><div class="empty">未找到相关结果</div>';return}
+  area.innerHTML='<div class="date-title">🔍 搜索"'+esc(q)+'"</div><div class="search-res">共 '+res.length+' 条结果</div>';
+  let html='',last='';
+  for(const item of res){
+    if(item.date+item.platform!==last){
+      if(last)html+='</div></div>';
+      html+='<div class="time-slot"><div class="time-label">'+item.date+' · '+item.platform+'</div><div class="items">';
+      last=item.date+item.platform;
+    }
+    const v=parseInt(item.hot_value)||0;
+    const hc=v>=1000000?'hot-fire':v>=500000?'hot-50':'hot-norm';
+    const rc=item.rank<=3?'r'+item.rank:'';
+    const lbl=v>=1000000?'爆':v>=500000?'热':'普';
+    const tl=item.time.slice(0,2)+':'+item.time.slice(2);
+    html+='<div class="item"><span class="rank '+rc+'">'+item.rank+'</span><span class="title">'+tl+' '+(item.link?'<a href="'+item.link+'" target="_blank">'+esc(item.title)+'</a>':esc(item.title))+'</span><span class="hot '+hc+'">'+fmt(v)+' <span class="tag-'+hc.slice(4)+'">'+lbl+'</span></span></div>';
+  }
+  html+='</div></div>';
+  area.innerHTML='<div class="date-title">🔍 搜索"'+esc(q)+'"</div><div class="search-res">共 '+res.length+' 条结果</div>'+html;
 }
 
-// ====== Init ======
-loadIndex();
+function fmt(v){if(v>=100000000)return (v/100000000).toFixed(1)+'亿';if(v>=10000)return (v/10000).toFixed(v>=100000?0:1)+'万';return v}
+function esc(s){if(!s)return'';const d=document.createElement('div');d.textContent=s;return d.innerHTML}
+document.addEventListener('DOMContentLoaded',init);
 </script>
 </body>
 </html>
