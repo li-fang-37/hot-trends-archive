@@ -1,0 +1,307 @@
+{
+  "platform": "bili",
+  "platform_name": "B站热门",
+  "time": "2026-06-07 01:21:12",
+  "items": [
+    {
+      "title": "VCT伦敦大师赛瑞士轮",
+      "hot_value": 0,
+      "link": "https://search.bilibili.com/all?keyword=VCT%E4%BC%A6%E6%95%A6%E5%A4%A7%E5%B8%88%E8%B5%9B%E7%91%9E%E5%A3%AB%E8%BD%AE",
+      "rank": 1
+    },
+    {
+      "title": "高考前最后一晚",
+      "hot_value": 0,
+      "link": "https://search.bilibili.com/all?keyword=%E9%AB%98%E8%80%83%E5%89%8D%E6%9C%80%E5%90%8E%E4%B8%80%E6%99%9A",
+      "rank": 2
+    },
+    {
+      "title": "1290万人今天高考",
+      "hot_value": 0,
+      "link": "https://search.bilibili.com/all?keyword=1290%E4%B8%87%E4%BA%BA%E4%BB%8A%E5%A4%A9%E9%AB%98%E8%80%83",
+      "rank": 3
+    },
+    {
+      "title": "BLG战胜JDG赛后数据",
+      "hot_value": 0,
+      "link": "https://search.bilibili.com/all?keyword=BLG%E6%88%98%E8%83%9CJDG%E8%B5%9B%E5%90%8E%E6%95%B0%E6%8D%AE",
+      "rank": 4
+    },
+    {
+      "title": "高考语文考前急救",
+      "hot_value": 0,
+      "link": "https://search.bilibili.com/all?keyword=%E9%AB%98%E8%80%83%E8%AF%AD%E6%96%87%E8%80%83%E5%89%8D%E6%80%A5%E6%95%91",
+      "rank": 5
+    },
+    {
+      "title": "马刺还能翻盘吗",
+      "hot_value": 0,
+      "link": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E5%88%BA%E8%BF%98%E8%83%BD%E7%BF%BB%E7%9B%98%E5%90%97",
+      "rank": 6
+    },
+    {
+      "title": "科隆Major第二阶段",
+      "hot_value": 0,
+      "link": "https://search.bilibili.com/all?keyword=%E7%A7%91%E9%9A%86Major%E7%AC%AC%E4%BA%8C%E9%98%B6%E6%AE%B5",
+      "rank": 7
+    },
+    {
+      "title": "一数 高考数学",
+      "hot_value": 0,
+      "link": "https://search.bilibili.com/all?keyword=%E4%B8%80%E6%95%B0%20%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6",
+      "rank": 8
+    },
+    {
+      "title": "Susan说国风舞台好惊艳",
+      "hot_value": 0,
+      "link": "https://search.bilibili.com/all?keyword=Susan%E8%AF%B4%E5%9B%BD%E9%A3%8E%E8%88%9E%E5%8F%B0%E5%A5%BD%E6%83%8A%E8%89%B3",
+      "rank": 9
+    },
+    {
+      "title": "归唐夏日游戏节全新预告",
+      "hot_value": 0,
+      "link": "https://search.bilibili.com/all?keyword=%E5%BD%92%E5%94%90%E5%A4%8F%E6%97%A5%E6%B8%B8%E6%88%8F%E8%8A%82%E5%85%A8%E6%96%B0%E9%A2%84%E5%91%8A",
+      "rank": 10
+    },
+    {
+      "title": "大东彦百万粉直播",
+      "hot_value": 0,
+      "link": "https://search.bilibili.com/all?keyword=%E5%A4%A7%E4%B8%9C%E5%BD%A6%E7%99%BE%E4%B8%87%E7%B2%89%E7%9B%B4%E6%92%AD",
+      "rank": 11
+    },
+    {
+      "title": "复盘BLG战胜JDG",
+      "hot_value": 0,
+      "link": "https://search.bilibili.com/all?keyword=%E5%A4%8D%E7%9B%98BLG%E6%88%98%E8%83%9CJDG",
+      "rank": 12
+    },
+    {
+      "title": "高考是怎么运行的",
+      "hot_value": 0,
+      "link": "https://search.bilibili.com/all?keyword=%E9%AB%98%E8%80%83%E6%98%AF%E6%80%8E%E4%B9%88%E8%BF%90%E8%A1%8C%E7%9A%84",
+      "rank": 13
+    },
+    {
+      "title": "lex锐评歌手第三期",
+      "hot_value": 0,
+      "link": "https://search.bilibili.com/all?keyword=lex%E9%94%90%E8%AF%84%E6%AD%8C%E6%89%8B%E7%AC%AC%E4%B8%89%E6%9C%9F",
+      "rank": 14
+    },
+    {
+      "title": "对线菲防长那天发生了什么",
+      "hot_value": 0,
+      "link": "https://search.bilibili.com/all?keyword=%E5%AF%B9%E7%BA%BF%E8%8F%B2%E9%98%B2%E9%95%BF%E9%82%A3%E5%A4%A9%E5%8F%91%E7%94%9F%E4%BA%86%E4%BB%80%E4%B9%88",
+      "rank": 15
+    },
+    {
+      "title": "不舒服学逐帧分析",
+      "hot_value": 0,
+      "link": "https://search.bilibili.com/all?keyword=%E4%B8%8D%E8%88%92%E6%9C%8D%E5%AD%A6%E9%80%90%E5%B8%A7%E5%88%86%E6%9E%90",
+      "rank": 16
+    },
+    {
+      "title": "为何山姆开到山东才成了梗",
+      "hot_value": 0,
+      "link": "https://search.bilibili.com/all?keyword=%E4%B8%BA%E4%BD%95%E5%B1%B1%E5%A7%86%E5%BC%80%E5%88%B0%E5%B1%B1%E4%B8%9C%E6%89%8D%E6%88%90%E4%BA%86%E6%A2%97",
+      "rank": 17
+    },
+    {
+      "title": "瓜卖郝哥",
+      "hot_value": 0,
+      "link": "https://search.bilibili.com/all?keyword=%E7%93%9C%E5%8D%96%E9%83%9D%E5%93%A5",
+      "rank": 18
+    },
+    {
+      "title": "石油哥 高考语文抱佛脚",
+      "hot_value": 0,
+      "link": "https://search.bilibili.com/all?keyword=%E7%9F%B3%E6%B2%B9%E5%93%A5%20%E9%AB%98%E8%80%83%E8%AF%AD%E6%96%87%E6%8A%B1%E4%BD%9B%E8%84%9A",
+      "rank": 19
+    },
+    {
+      "title": "世界杯期间不抓移民了吗",
+      "hot_value": 0,
+      "link": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E6%9C%9F%E9%97%B4%E4%B8%8D%E6%8A%93%E7%A7%BB%E6%B0%91%E4%BA%86%E5%90%97",
+      "rank": 20
+    },
+    {
+      "title": "UP主解读浪姐四公团秀舞台",
+      "hot_value": 0,
+      "link": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BB%E6%B5%AA%E5%A7%90%E5%9B%9B%E5%85%AC%E5%9B%A2%E7%A7%80%E8%88%9E%E5%8F%B0",
+      "rank": 21
+    },
+    {
+      "title": "请赋予我高考的勇气",
+      "hot_value": 0,
+      "link": "https://search.bilibili.com/all?keyword=%E8%AF%B7%E8%B5%8B%E4%BA%88%E6%88%91%E9%AB%98%E8%80%83%E7%9A%84%E5%8B%87%E6%B0%94",
+      "rank": 22
+    },
+    {
+      "title": "锐评BLG战胜JDG",
+      "hot_value": 0,
+      "link": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84BLG%E6%88%98%E8%83%9CJDG",
+      "rank": 23
+    },
+    {
+      "title": "复盘尼克斯2-0领先马刺",
+      "hot_value": 0,
+      "link": "https://search.bilibili.com/all?keyword=%E5%A4%8D%E7%9B%98%E5%B0%BC%E5%85%8B%E6%96%AF2-0%E9%A2%86%E5%85%88%E9%A9%AC%E5%88%BA",
+      "rank": 24
+    },
+    {
+      "title": "中国成功发射千帆极轨12组卫星",
+      "hot_value": 0,
+      "link": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E6%88%90%E5%8A%9F%E5%8F%91%E5%B0%84%E5%8D%83%E5%B8%86%E6%9E%81%E8%BD%A812%E7%BB%84%E5%8D%AB%E6%98%9F",
+      "rank": 25
+    },
+    {
+      "title": "食贫道巴尔干抢亲吃席",
+      "hot_value": 0,
+      "link": "https://search.bilibili.com/all?keyword=%E9%A3%9F%E8%B4%AB%E9%81%93%E5%B7%B4%E5%B0%94%E5%B9%B2%E6%8A%A2%E4%BA%B2%E5%90%83%E5%B8%AD",
+      "rank": 26
+    },
+    {
+      "title": "徐静雨锐评尼克斯2比0马刺",
+      "hot_value": 0,
+      "link": "https://search.bilibili.com/all?keyword=%E5%BE%90%E9%9D%99%E9%9B%A8%E9%94%90%E8%AF%84%E5%B0%BC%E5%85%8B%E6%96%AF2%E6%AF%940%E9%A9%AC%E5%88%BA",
+      "rank": 27
+    },
+    {
+      "title": "世界杯不是一个人在战斗名场面背后",
+      "hot_value": 0,
+      "link": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%8D%E6%98%AF%E4%B8%80%E4%B8%AA%E4%BA%BA%E5%9C%A8%E6%88%98%E6%96%97%E5%90%8D%E5%9C%BA%E9%9D%A2%E8%83%8C%E5%90%8E",
+      "rank": 28
+    },
+    {
+      "title": "如何在家制造浓汤宝",
+      "hot_value": 0,
+      "link": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E5%9C%A8%E5%AE%B6%E5%88%B6%E9%80%A0%E6%B5%93%E6%B1%A4%E5%AE%9D",
+      "rank": 29
+    },
+    {
+      "title": "TES送高考祝福",
+      "hot_value": 0,
+      "link": "https://search.bilibili.com/all?keyword=TES%E9%80%81%E9%AB%98%E8%80%83%E7%A5%9D%E7%A6%8F",
+      "rank": 30
+    },
+    {
+      "title": "锐评胡彦斌JonyJ歌手舞台",
+      "hot_value": 0,
+      "link": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84%E8%83%A1%E5%BD%A6%E6%96%8CJonyJ%E6%AD%8C%E6%89%8B%E8%88%9E%E5%8F%B0",
+      "rank": 31
+    },
+    {
+      "title": "古剑新实机PV",
+      "hot_value": 0,
+      "link": "https://search.bilibili.com/all?keyword=%E5%8F%A4%E5%89%91%E6%96%B0%E5%AE%9E%E6%9C%BAPV",
+      "rank": 32
+    },
+    {
+      "title": "凡人",
+      "hot_value": 0,
+      "link": "https://search.bilibili.com/all?keyword=%E5%87%A1%E4%BA%BA",
+      "rank": 33
+    },
+    {
+      "title": "papi热烈欢迎薛凯琪",
+      "hot_value": 0,
+      "link": "https://search.bilibili.com/all?keyword=papi%E7%83%AD%E7%83%88%E6%AC%A2%E8%BF%8E%E8%96%9B%E5%87%AF%E7%90%AA",
+      "rank": 34
+    },
+    {
+      "title": "下一站 大学",
+      "hot_value": 0,
+      "link": "https://search.bilibili.com/all?keyword=%E4%B8%8B%E4%B8%80%E7%AB%99%20%E5%A4%A7%E5%AD%A6",
+      "rank": 35
+    },
+    {
+      "title": "绝区零3.0版本PV",
+      "hot_value": 0,
+      "link": "https://search.bilibili.com/all?keyword=%E7%BB%9D%E5%8C%BA%E9%9B%B63.0%E7%89%88%E6%9C%ACPV",
+      "rank": 36
+    },
+    {
+      "title": "不舒服学分析跑男版",
+      "hot_value": 0,
+      "link": "https://search.bilibili.com/all?keyword=%E4%B8%8D%E8%88%92%E6%9C%8D%E5%AD%A6%E5%88%86%E6%9E%90%E8%B7%91%E7%94%B7%E7%89%88",
+      "rank": 37
+    },
+    {
+      "title": "三角洲SKS改法教学",
+      "hot_value": 0,
+      "link": "https://search.bilibili.com/all?keyword=%E4%B8%89%E8%A7%92%E6%B4%B2SKS%E6%94%B9%E6%B3%95%E6%95%99%E5%AD%A6",
+      "rank": 38
+    },
+    {
+      "title": "BIG连追16分翻盘NRG",
+      "hot_value": 0,
+      "link": "https://search.bilibili.com/all?keyword=BIG%E8%BF%9E%E8%BF%BD16%E5%88%86%E7%BF%BB%E7%9B%98NRG",
+      "rank": 39
+    },
+    {
+      "title": "穿越火线潜伏实机PV",
+      "hot_value": 0,
+      "link": "https://search.bilibili.com/all?keyword=%E7%A9%BF%E8%B6%8A%E7%81%AB%E7%BA%BF%E6%BD%9C%E4%BC%8F%E5%AE%9E%E6%9C%BAPV",
+      "rank": 40
+    },
+    {
+      "title": "全国首例盲人脑机接口复明成功",
+      "hot_value": 0,
+      "link": "https://search.bilibili.com/all?keyword=%E5%85%A8%E5%9B%BD%E9%A6%96%E4%BE%8B%E7%9B%B2%E4%BA%BA%E8%84%91%E6%9C%BA%E6%8E%A5%E5%8F%A3%E5%A4%8D%E6%98%8E%E6%88%90%E5%8A%9F",
+      "rank": 41
+    },
+    {
+      "title": "如何应对美股泡沫爆破",
+      "hot_value": 0,
+      "link": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E5%BA%94%E5%AF%B9%E7%BE%8E%E8%82%A1%E6%B3%A1%E6%B2%AB%E7%88%86%E7%A0%B4",
+      "rank": 42
+    },
+    {
+      "title": "生化危机维罗妮卡重制版预告",
+      "hot_value": 0,
+      "link": "https://search.bilibili.com/all?keyword=%E7%94%9F%E5%8C%96%E5%8D%B1%E6%9C%BA%E7%BB%B4%E7%BD%97%E5%A6%AE%E5%8D%A1%E9%87%8D%E5%88%B6%E7%89%88%E9%A2%84%E5%91%8A",
+      "rank": 43
+    },
+    {
+      "title": "UP主接力开发游戏",
+      "hot_value": 0,
+      "link": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%8E%A5%E5%8A%9B%E5%BC%80%E5%8F%91%E6%B8%B8%E6%88%8F",
+      "rank": 44
+    },
+    {
+      "title": "BLG JDG",
+      "hot_value": 0,
+      "link": "https://search.bilibili.com/all?keyword=BLG%20JDG",
+      "rank": 45
+    },
+    {
+      "title": "终末地弭弗攻略",
+      "hot_value": 0,
+      "link": "https://search.bilibili.com/all?keyword=%E7%BB%88%E6%9C%AB%E5%9C%B0%E5%BC%AD%E5%BC%97%E6%94%BB%E7%95%A5",
+      "rank": 46
+    },
+    {
+      "title": "从WE与TES两条线分析季后赛",
+      "hot_value": 0,
+      "link": "https://search.bilibili.com/all?keyword=%E4%BB%8EWE%E4%B8%8ETES%E4%B8%A4%E6%9D%A1%E7%BA%BF%E5%88%86%E6%9E%90%E5%AD%A3%E5%90%8E%E8%B5%9B",
+      "rank": 47
+    },
+    {
+      "title": "遗忘之海公测定档PV",
+      "hot_value": 0,
+      "link": "https://search.bilibili.com/all?keyword=%E9%81%97%E5%BF%98%E4%B9%8B%E6%B5%B7%E5%85%AC%E6%B5%8B%E5%AE%9A%E6%A1%A3PV",
+      "rank": 48
+    },
+    {
+      "title": "布伦森庆祝总决赛2-0",
+      "hot_value": 0,
+      "link": "https://search.bilibili.com/all?keyword=%E5%B8%83%E4%BC%A6%E6%A3%AE%E5%BA%86%E7%A5%9D%E6%80%BB%E5%86%B3%E8%B5%9B2-0",
+      "rank": 49
+    },
+    {
+      "title": "实拍揭秘顶尖专家近视手术全过程",
+      "hot_value": 0,
+      "link": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%8B%8D%E6%8F%AD%E7%A7%98%E9%A1%B6%E5%B0%96%E4%B8%93%E5%AE%B6%E8%BF%91%E8%A7%86%E6%89%8B%E6%9C%AF%E5%85%A8%E8%BF%87%E7%A8%8B",
+      "rank": 50
+    }
+  ]
+}
