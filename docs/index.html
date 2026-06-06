@@ -15,75 +15,66 @@ body{font-family:-apple-system,"PingFang SC","Microsoft YaHei","Helvetica Neue",
 .search-bar input:focus{border-color:#3b63d3;background:#fff}
 .search-bar button{padding:6px 12px;border:1px solid #e5e7eb;border-radius:8px;background:#fff;font-size:12px;cursor:pointer;color:#6b7280;display:none}
 .main{display:flex;min-height:calc(100vh - 100px)}
-.sidebar{width:170px;background:#fff;border-right:1px solid #e5e7eb;overflow-y:auto;flex-shrink:0}
-.sidebar .cal-nav{padding:10px 8px 4px;display:flex;align-items:center;justify-content:space-between}
-.sidebar .cal-nav button{background:none;border:1px solid #e5e7eb;border-radius:6px;padding:3px 8px;cursor:pointer;font-size:12px;color:#374151}
-.sidebar .cal-nav .label{font-size:12px;font-weight:600}
-.calendar{display:grid;grid-template-columns:repeat(7,1fr);gap:1px;padding:4px 6px 8px}
-.cal-header{text-align:center;font-size:9px;color:#9ca3af;padding:2px 0}
-.cal-day{aspect-ratio:1;display:flex;align-items:center;justify-content:center;font-size:11px;border-radius:5px;color:#d1d5db;position:relative;cursor:default}
+.sidebar{width:160px;background:#fff;border-right:1px solid #e5e7eb;overflow-y:auto;flex-shrink:0}
+.sidebar .cal-nav{padding:10px 6px 4px;display:flex;align-items:center;justify-content:space-between}
+.sidebar .cal-nav button{background:none;border:1px solid #e5e7eb;border-radius:6px;padding:3px 6px;cursor:pointer;font-size:11px;color:#374151}
+.sidebar .cal-nav .label{font-size:11px;font-weight:600}
+.calendar{display:grid;grid-template-columns:repeat(7,1fr);gap:1px;padding:4px 4px 8px}
+.cal-header{text-align:center;font-size:8px;color:#9ca3af;padding:2px 0}
+.cal-day{aspect-ratio:1;display:flex;align-items:center;justify-content:center;font-size:10px;border-radius:4px;color:#d1d5db;position:relative;cursor:default}
 .cal-day.has-data{color:#1f2937;cursor:pointer;font-weight:500}
 .cal-day.has-data:hover{background:#eef1ff;color:#3b63d3}
 .cal-day.selected{background:#3b63d3!important;color:#fff!important;font-weight:600}
 .cal-day.today{outline:2px solid #3b63d3;outline-offset:-2px}
 .cal-day .dot{position:absolute;bottom:1px;left:50%;transform:translateX(-50%);width:3px;height:3px;border-radius:50%;background:#3b63d3}
 .content{flex:1;overflow-y:auto;padding:10px 12px;background:#f2f3f5}
-.tab-bar{display:flex;gap:4px;margin-bottom:10px;overflow-x:auto;padding-bottom:4px;-webkit-overflow-scrolling:touch;scrollbar-width:none}
-.tab-bar::-webkit-scrollbar{display:none}
-.tab-btn{padding:4px 12px;border-radius:14px;font-size:12px;border:1px solid #e5e7eb;background:#fff;color:#6b7280;cursor:pointer;white-space:nowrap;flex-shrink:0;transition:all .15s}
-.tab-btn:hover{border-color:#3b63d3;color:#3b63d3}
-.tab-btn.active{background:#3b63d3;color:#fff;border-color:#3b63d3}
-.tab-btn.timeline-tab{background:#eef1ff;color:#3b63d3;font-weight:600;border-color:#3b63d3}
-.tab-btn.timeline-tab.active{background:#3b63d3;color:#fff}
+
+/* 时间选择条 */
+.time-strip{display:flex;gap:4px;margin-bottom:8px;overflow-x:auto;padding:4px 0;-webkit-overflow-scrolling:touch;scrollbar-width:none}
+.time-strip::-webkit-scrollbar{display:none}
+.time-pill{padding:5px 12px;border-radius:16px;font-size:12px;border:1px solid #e5e7eb;background:#fff;color:#6b7280;cursor:pointer;white-space:nowrap;flex-shrink:0;transition:all .15s}
+.time-pill:hover{border-color:#3b63d3;color:#3b63d3}
+.time-pill.active{background:#3b63d3;color:#fff;border-color:#3b63d3;font-weight:600}
+.time-pill .t-count{font-size:9px;opacity:.6;margin-left:4px}
+
+/* 平台 Tab */
+.plat-strip{display:flex;gap:4px;margin-bottom:8px;overflow-x:auto;padding:4px 0;-webkit-overflow-scrolling:touch;scrollbar-width:none}
+.plat-strip::-webkit-scrollbar{display:none}
+.plat-pill{padding:4px 10px;border-radius:12px;font-size:11px;border:1px solid #e5e7eb;background:#fff;color:#6b7280;cursor:pointer;white-space:nowrap;flex-shrink:0;transition:all .15s}
+.plat-pill:hover{border-color:#3b63d3;color:#3b63d3}
+.plat-pill.active{background:#3b63d3;color:#fff;border-color:#3b63d3}
+
+/* 结果列表 */
 .date-title{font-size:14px;font-weight:600;margin-bottom:8px;color:#374151}
 .date-title .count{font-size:11px;color:#9ca3af;font-weight:400;margin-left:6px}
-
-/* 时间轴模式 - 紧凑混合展示 */
-.timeline-view .time-group{background:#fff;border-radius:10px;padding:8px 10px;margin-bottom:8px;border:1px solid #e5e7eb}
-.timeline-view .time-header{display:flex;align-items:center;gap:6px;margin-bottom:6px}
-.timeline-view .time-header .dot-time{width:6px;height:6px;border-radius:50%;background:#3b63d3;flex-shrink:0}
-.timeline-view .time-header .time-text{font-size:12px;font-weight:600;color:#374151}
-.timeline-view .time-header .time-count{font-size:10px;color:#9ca3af;margin-left:auto}
-.timeline-view .mini-items{display:flex;flex-wrap:wrap;gap:3px}
-.timeline-view .mini-item{font-size:11px;padding:2px 6px;border-radius:4px;line-height:1.4;max-width:100%;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;flex-shrink:0}
-.timeline-view .mini-item.plat-weibo{background:#fff0f0;color:#d63031}
-.timeline-view .mini-item.plat-zhihu{background:#eef1ff;color:#3b63d3}
-.timeline-view .mini-item.plat-baidu{background:#fff8e1;color:#e67e22}
-.timeline-view .mini-item.plat-douyin{background:#f0fff4;color:#00b894}
-.timeline-view .mini-item.plat-bili{background:#fff0f7;color:#e84393}
-.timeline-view .mini-item.plat-toutiao{background:#f0f0f0;color:#636e72}
-.timeline-view .mini-item a{color:inherit;text-decoration:none}
-.timeline-view .mini-item .h{font-weight:600}
-.timeline-view .mini-item .hf{color:#ef4444}
-.timeline-view .mini-item .hw{color:#f59e0b}
-
-/* 平台模式 - 详细列表 */
-.platform-view .time-group{margin-bottom:8px}
-.platform-view .time-label{font-size:11px;font-weight:600;color:#6b7280;padding:2px 0 4px;display:flex;align-items:center;gap:6px;position:sticky;top:0;background:#f2f3f5;z-index:2}
-.platform-view .time-label::after{content:'';flex:1;height:1px;background:#e5e7eb}
-.platform-view .items{display:grid;gap:4px}
-.platform-view .item{display:flex;align-items:center;gap:6px;padding:6px 8px;background:#fff;border-radius:6px;border:1px solid #e5e7eb;font-size:13px}
-.platform-view .item .rank{font-size:11px;font-weight:700;color:#9ca3af;min-width:18px;text-align:center;flex-shrink:0}
-.platform-view .item .rank.r1{color:#ef4444}
-.platform-view .item .rank.r2{color:#f59e0b}
-.platform-view .item .rank.r3{color:#8b5cf6}
-.platform-view .item .title{flex:1;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
-.platform-view .item .title a{color:inherit;text-decoration:none}
-.platform-view .item .title a:hover{color:#3b63d3}
-.platform-view .item .tag{font-size:10px;font-weight:600;padding:1px 5px;border-radius:3px;flex-shrink:0}
-.platform-view .item .tag.fire{color:#ef4444;background:#fef2f2}
-.platform-view .item .tag.warm{color:#f59e0b;background:#fffbeb}
-.platform-view .item .tag.norm{color:#9ca3af;background:#f3f4f6}
+.items{display:grid;gap:4px}
+.item{display:flex;align-items:center;gap:6px;padding:6px 8px;background:#fff;border-radius:6px;border:1px solid #e5e7eb;font-size:13px}
+.item .rank{font-size:11px;font-weight:700;color:#9ca3af;min-width:18px;text-align:center;flex-shrink:0}
+.item .rank.r1{color:#ef4444}.item .rank.r2{color:#f59e0b}.item .rank.r3{color:#8b5cf6}
+.item .title{flex:1;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.item .title a{color:inherit;text-decoration:none}
+.item .title a:hover{color:#3b63d3}
+.item .tag{font-size:10px;font-weight:600;padding:1px 5px;border-radius:3px;flex-shrink:0}
+.item .tag.fire{color:#ef4444;background:#fef2f2}
+.item .tag.warm{color:#f59e0b;background:#fffbeb}
+.item .tag.norm{color:#9ca3af;background:#f3f4f6}
+.item .plat-tag{font-size:9px;padding:1px 4px;border-radius:3px;flex-shrink:0}
+.plat-we{background:#fff0f0;color:#d63031}
+.plat-zh{background:#eef1ff;color:#3b63d3}
+.plat-bd{background:#fff8e1;color:#e67e22}
+.plat-dy{background:#f0fff4;color:#00b894}
+.plat-bl{background:#fff0f7;color:#e84393}
+.plat-tt{background:#f0f0f0;color:#636e72}
 .empty-state{text-align:center;padding:50px 20px;color:#9ca3af;font-size:13px}
 .loading{text-align:center;padding:30px;color:#9ca3af;font-size:13px}
 .loading .sp{display:inline-block;width:14px;height:14px;border:2px solid #e5e7eb;border-top-color:#3b63d3;border-radius:50%;animation:spin .6s linear infinite;margin-right:5px;vertical-align:middle}
 @keyframes spin{to{transform:rotate(360deg)}}
 .search-result{font-size:12px;color:#6b7280;margin-bottom:6px}
-@media(max-width:640px){.sidebar{width:140px}.content{padding:8px}}
+@media(max-width:640px){.sidebar{width:130px}.content{padding:8px}}
 </style>
 </head>
 <body>
-<div class="header"><h1>🔥 热搜档案</h1><div class="sub">←选日期 · 时间轴混排/按平台筛选 · 搜关键词</div></div>
+<div class="header"><h1>🔥 热搜档案</h1><div class="sub">←选日期 →选时段 →选平台 快速定位</div></div>
 <div class="search-bar">
   <input id="searchInput" placeholder="🔍 搜关键词…" autocomplete="off">
   <button id="clearBtn">清除</button>
@@ -102,8 +93,9 @@ body{font-family:-apple-system,"PingFang SC","Microsoft YaHei","Helvetica Neue",
 </div>
 </div>
 <script>
-const STATE={dates:{},currentDate:'',viewMode:'timeline',currentPlatform:'all',searchQuery:''};
+const STATE={dates:{},currentDate:'',allSlots:[],selectedTime:'all',selectedPlat:'all',searchQuery:''};
 const NAMES={weibo:'微博',zhihu:'知乎',baidu:'百度',douyin:'抖音',bili:'B站',toutiao:'头条'};
+const PLAT_CLS={weibo:'plat-we',zhihu:'plat-zh',baidu:'plat-bd',douyin:'plat-dy',bili:'plat-bl',toutiao:'plat-tt'};
 async function loadJSON(u){const r=await fetch(u);if(!r.ok)throw Error();return r.json()}
 
 async function init(){
@@ -143,98 +135,86 @@ function renderCalendar(y,m){
 
 function selectDate(ds){
   STATE.currentDate=ds;
+  STATE.selectedTime='all';
+  STATE.selectedPlat='all';
+  loadSlots(ds);
   renderCalendar(parseInt(ds.slice(0,4)),parseInt(ds.slice(5,7)));
   renderContent();
 }
 
-async function renderContent(){
-  const area=document.getElementById('content');
-  const q=STATE.searchQuery.trim();
-  if(q){await renderSearch(area,q);return}
-  if(!STATE.currentDate){area.innerHTML='<div class="empty-state">📊 从左侧选择日期</div>';return}
-  const dd=STATE.dates[STATE.currentDate];
-  if(!dd){area.innerHTML='<div class="empty-state">📭 暂无数据</div>';return}
-
-  const pfs=Object.keys(dd.platforms||{});
-  const sel=STATE.currentPlatform;
-  const filtered=sel==='all'?pfs:pfs.filter(p=>p===sel);
-  if(filtered.length===0){area.innerHTML='<div class="empty-state">📭 该平台暂无数据</div>';return}
-
-  // Tab bar
-  let html='<div class="tab-bar"><button class="tab-btn timeline-tab '+(STATE.viewMode==='timeline'?'active':'')+'" data-v="timeline">⏱ 时间轴</button>';
-  html+='<button class="tab-btn '+(STATE.viewMode==='all'&&sel==='all'?'active':'')+'" data-p="all">全部</button>';
-  pfs.forEach(p=>{html+='<button class="tab-btn '+(sel===p?'active':'')+'" data-p="'+p+'">'+(NAMES[p]||p)+'</button>'});
-  html+='</div>';
-  html+='<div class="date-title">📆 '+STATE.currentDate+'</div><div class="loading"><span class="sp"></span> 加载中...</div>';
-  area.innerHTML=html;
-
-  // Tab event listeners
-  document.querySelectorAll('.tab-btn').forEach(el=>{
-    el.addEventListener('click',()=>{
-      if(el.dataset.v==='timeline'){STATE.viewMode='timeline';STATE.currentPlatform='all';}
-      else if(el.dataset.p){STATE.currentPlatform=el.dataset.p;STATE.viewMode='platform';}
-      renderContent();
-    });
-  });
-
-  const slots=[];
-  for(const p of filtered){
-    const times=dd.platforms[p]||[];
+async function loadSlots(ds){
+  STATE.allSlots=[];
+  const dd=STATE.dates[ds];
+  if(!dd)return;
+  for(const [p,times] of Object.entries(dd.platforms||{})){
     for(const t of times){
       try{
-        const data=await loadJSON('./data/'+p+'/'+STATE.currentDate+'/'+t+'.json');
-        if(data&&data.items)slots.push({platform:p,time:t,items:data.items});
+        const data=await loadJSON('./data/'+p+'/'+ds+'/'+t+'.json');
+        if(data&&data.items)STATE.allSlots.push({platform:p,time:t,items:data.items});
       }catch(e){}
     }
   }
-  slots.sort((a,b)=>a.time.localeCompare(b.time));
+  STATE.allSlots.sort((a,b)=>a.time.localeCompare(b.time));
+}
 
-  if(STATE.viewMode==='timeline'){
-    html='<div class="tab-bar"><button class="tab-btn timeline-tab active" data-v="timeline">⏱ 时间轴</button><button class="tab-btn" data-p="all">全部</button>';
-    pfs.forEach(p=>{html+='<button class="tab-btn" data-p="'+p+'">'+(NAMES[p]||p)+'</button>'});
-    html+='</div><div class="date-title">📆 '+STATE.currentDate+'<span class="count">'+slots.length+' 个快照</span></div>';
-    if(slots.length===0){html+='<div class="empty-state">📭 暂无数据</div>';area.innerHTML=html;return}
-    html+='<div class="timeline-view">';
-    for(const slot of slots){
-      const tl=slot.time.slice(0,2)+':'+slot.time.slice(2);
-      html+='<div class="time-group"><div class="time-header"><span class="dot-time"></span><span class="time-text">'+tl+'</span><span class="time-count">'+(NAMES[slot.platform]||slot.platform)+'</span></div><div class="mini-items">';
-      for(const item of slot.items){
-        const v=parseInt(item.hot_value)||0;
-        const hc=v>=1000000?' hf':v>=500000?' hw':'';
-        const lbl=v>=1000000?'🔥':v>=500000?'🟠':'';
-        html+='<span class="mini-item plat-'+slot.platform+'">'+(item.link?'<a href="'+item.link+'" target="_blank">':'')+'<span class="h'+hc+'">'+lbl+item.title+'</span>'+(item.link?'</a>':'')+'</span>';
-      }
-      html+='</div></div>';
-    }
-    html+='</div>';
+function renderContent(){
+  const area=document.getElementById('content');
+  const q=STATE.searchQuery.trim();
+  if(q){renderSearch(area,q);return}
+  if(!STATE.currentDate){area.innerHTML='<div class="empty-state">📊 从左侧选择日期</div>';return}
+  if(STATE.allSlots.length===0){area.innerHTML='<div class="empty-state">📭 暂无数据</div>';return}
+
+  // Get unique times and platforms
+  const times=[...new Set(STATE.allSlots.map(s=>s.time))].sort();
+  const plats=[...new Set(STATE.allSlots.map(s=>s.platform))].sort();
+
+  // Filter by selected time + platform
+  let filtered=STATE.allSlots;
+  if(STATE.selectedTime!=='all')filtered=filtered.filter(s=>s.time===STATE.selectedTime);
+  if(STATE.selectedPlat!=='all')filtered=filtered.filter(s=>s.platform===STATE.selectedPlat);
+
+  // Build HTML
+  let html='<div class="date-title">📆 '+STATE.currentDate+'</div>';
+
+  // Time pills
+  html+='<div class="time-strip"><button class="time-pill '+(STATE.selectedTime==='all'?'active':'')+'" data-t="all">🕐 全部时段</button>';
+  times.forEach(t=>{
+    const tl=t.slice(0,2)+':'+t.slice(2);
+    const cnt=STATE.allSlots.filter(s=>s.time===t).length;
+    html+='<button class="time-pill '+(t===STATE.selectedTime?'active':'')+'" data-t="'+t+'">'+tl+' <span class="t-count">'+cnt+'</span></button>';
+  });
+  html+='</div>';
+
+  // Platform pills
+  html+='<div class="plat-strip"><button class="plat-pill '+(STATE.selectedPlat==='all'?'active':'')+'" data-p="all">📋 全部</button>';
+  plats.forEach(p=>{
+    html+='<button class="plat-pill '+(p===STATE.selectedPlat?'active':'')+'" data-p="'+p+'">'+(NAMES[p]||p)+'</button>';
+  });
+  html+='</div>';
+
+  // Content
+  if(filtered.length===0){
+    html+='<div class="empty-state">该时段/平台暂无数据</div>';
   } else {
-    html='<div class="tab-bar"><button class="tab-btn timeline-tab" data-v="timeline">⏱ 时间轴</button><button class="tab-btn '+(sel==='all'?'active':'')+'" data-p="all">全部</button>';
-    pfs.forEach(p=>{html+='<button class="tab-btn '+(sel===p?'active':'')+'" data-p="'+p+'">'+(NAMES[p]||p)+'</button>'});
-    html+='</div><div class="date-title">📆 '+STATE.currentDate+'<span class="count">'+(sel==='all'?'全部':NAMES[sel]||sel)+'</span></div>';
-    if(slots.length===0){html+='<div class="empty-state">📭 暂无数据</div>';area.innerHTML=html;return}
-    html+='<div class="platform-view">';
-    for(const slot of slots){
-      const tl=slot.time.slice(0,2)+':'+slot.time.slice(2);
-      html+='<div class="time-group"><div class="time-label">🕐 '+tl+' <span class="time-count">'+(NAMES[slot.platform]||slot.platform)+'</span></div><div class="items">';
+    let total=0;
+    for(const slot of filtered)total+=slot.items.length;
+    html+='<div style="font-size:12px;color:#9ca3af;margin-bottom:6px">共 '+total+' 条热搜</div><div class="items">';
+    for(const slot of filtered){
       for(const item of slot.items){
         const v=parseInt(item.hot_value)||0;
         const cls=v>=1000000?'fire':v>=500000?'warm':'norm';
         const rc=item.rank<=3?'r'+item.rank:'';
         const lbl=v>=1000000?'🔥':v>=500000?'🟠':'';
-        html+='<div class="item"><span class="rank '+rc+'">'+item.rank+'</span><span class="title">'+(item.link?'<a href="'+item.link+'" target="_blank">'+esc(item.title)+'</a>':esc(item.title))+'</span><span class="tag '+cls+'">'+lbl+fmt(v)+'</span></div>';
+        html+='<div class="item"><span class="rank '+rc+'">'+item.rank+'</span><span class="plat-tag '+PLAT_CLS[slot.platform]+'">'+(NAMES[slot.platform]||slot.platform)+'</span><span class="title">'+(item.link?'<a href="'+item.link+'" target="_blank">'+esc(item.title)+'</a>':esc(item.title))+'</span><span class="tag '+cls+'">'+lbl+fmt(v)+'</span></div>';
       }
-      html+='</div></div>';
     }
     html+='</div>';
   }
   area.innerHTML=html;
-  document.querySelectorAll('.tab-btn').forEach(el=>{
-    el.addEventListener('click',()=>{
-      if(el.dataset.v==='timeline'){STATE.viewMode='timeline';STATE.currentPlatform='all';}
-      else if(el.dataset.p){STATE.currentPlatform=el.dataset.p;STATE.viewMode='platform';}
-      renderContent();
-    });
-  });
+
+  // Bind events
+  document.querySelectorAll('.time-pill').forEach(el=>el.addEventListener('click',()=>{STATE.selectedTime=el.dataset.t;renderContent()}));
+  document.querySelectorAll('.plat-pill').forEach(el=>el.addEventListener('click',()=>{STATE.selectedPlat=el.dataset.p;renderContent()}));
 }
 
 async function renderSearch(area,q){
@@ -258,14 +238,13 @@ async function renderSearch(area,q){
   area.innerHTML='<div class="date-title">🔍 "'+esc(q)+'"</div><div class="search-result">共 '+res.length+' 条</div>';
   let html='',last='';
   for(const item of res){
-    if(item.date!==last){if(last)html+='</div></div>';html+='<div class="platform-view"><div class="time-group"><div class="time-label">📅 '+item.date+' · '+(NAMES[item.platform]||item.platform)+'</div><div class="items">';last=item.date}
+    if(item.date!==last){if(last)html+='</div></div>';html+='<div class="items" style="margin-top:8px"><div style="font-size:12px;font-weight:600;color:#6b7280;padding:4px 0">📅 '+item.date+'</div>';last=item.date}
     const v=parseInt(item.hot_value)||0;
     const cls=v>=1000000?'fire':v>=500000?'warm':'norm';
     const rc=item.rank<=3?'r'+item.rank:'';
-    const tl=item.time.slice(0,2)+':'+item.time.slice(2);
-    html+='<div class="item"><span class="rank '+rc+'">'+item.rank+'</span><span class="title">'+tl+' '+(item.link?'<a href="'+item.link+'" target="_blank">'+esc(item.title)+'</a>':esc(item.title))+'</span><span class="tag '+cls+'">'+fmt(v)+'</span></div>';
+    html+='<div class="item"><span class="rank '+rc+'">'+item.rank+'</span><span class="plat-tag '+PLAT_CLS[item.platform]+'">'+(NAMES[item.platform]||item.platform)+'</span><span class="title">'+(item.link?'<a href="'+item.link+'" target="_blank">'+esc(item.title)+'</a>':esc(item.title))+'</span><span class="tag '+cls+'">'+fmt(v)+'</span></div>';
   }
-  html+='</div></div></div>';
+  html+='</div>';
   area.innerHTML='<div class="date-title">🔍 "'+esc(q)+'"</div><div class="search-result">共 '+res.length+' 条</div>'+html;
 }
 
