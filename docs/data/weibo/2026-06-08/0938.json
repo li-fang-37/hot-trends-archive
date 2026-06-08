@@ -1,0 +1,307 @@
+{
+  "platform": "weibo",
+  "platform_name": "微博热搜",
+  "time": "2026-06-08 09:38:18",
+  "items": [
+    {
+      "title": "菲律宾群岛7.9级地震",
+      "hot_value": 1301807,
+      "link": "https://s.weibo.com/weibo?q=%E8%8F%B2%E5%BE%8B%E5%AE%BE%E7%BE%A4%E5%B2%9B7.9%E7%BA%A7%E5%9C%B0%E9%9C%87",
+      "rank": 1
+    },
+    {
+      "title": "浪姐四公个喜人气排名",
+      "hot_value": 905224,
+      "link": "https://s.weibo.com/weibo?q=%E6%B5%AA%E5%A7%90%E5%9B%9B%E5%85%AC%E4%B8%AA%E5%96%9C%E4%BA%BA%E6%B0%94%E6%8E%92%E5%90%8D",
+      "rank": 2
+    },
+    {
+      "title": "中国基建上新要编织六张网",
+      "hot_value": 866928,
+      "link": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E5%9F%BA%E5%BB%BA%E4%B8%8A%E6%96%B0%E8%A6%81%E7%BC%96%E7%BB%87%E5%85%AD%E5%BC%A0%E7%BD%91",
+      "rank": 3
+    },
+    {
+      "title": "发现外星生命须立即通报联合国",
+      "hot_value": 856158,
+      "link": "https://s.weibo.com/weibo?q=%E5%8F%91%E7%8E%B0%E5%A4%96%E6%98%9F%E7%94%9F%E5%91%BD%E9%A1%BB%E7%AB%8B%E5%8D%B3%E9%80%9A%E6%8A%A5%E8%81%94%E5%90%88%E5%9B%BD",
+      "rank": 4
+    },
+    {
+      "title": "张月全程一直黑脸",
+      "hot_value": 850226,
+      "link": "https://s.weibo.com/weibo?q=%E5%BC%A0%E6%9C%88%E5%85%A8%E7%A8%8B%E4%B8%80%E7%9B%B4%E9%BB%91%E8%84%B8",
+      "rank": 5
+    },
+    {
+      "title": "韩国股市",
+      "hot_value": 831437,
+      "link": "https://s.weibo.com/weibo?q=%E9%9F%A9%E5%9B%BD%E8%82%A1%E5%B8%82",
+      "rank": 6
+    },
+    {
+      "title": "男子夜班关闭门窗体温飙到41度去世",
+      "hot_value": 720483,
+      "link": "https://s.weibo.com/weibo?q=%E7%94%B7%E5%AD%90%E5%A4%9C%E7%8F%AD%E5%85%B3%E9%97%AD%E9%97%A8%E7%AA%97%E4%BD%93%E6%B8%A9%E9%A3%99%E5%88%B041%E5%BA%A6%E5%8E%BB%E4%B8%96",
+      "rank": 7
+    },
+    {
+      "title": "埃里克森在比赛中晕倒",
+      "hot_value": 424447,
+      "link": "https://s.weibo.com/weibo?q=%E5%9F%83%E9%87%8C%E5%85%8B%E6%A3%AE%E5%9C%A8%E6%AF%94%E8%B5%9B%E4%B8%AD%E6%99%95%E5%80%92",
+      "rank": 8
+    },
+    {
+      "title": "不要擅自回复外星人",
+      "hot_value": 423919,
+      "link": "https://s.weibo.com/weibo?q=%E4%B8%8D%E8%A6%81%E6%93%85%E8%87%AA%E5%9B%9E%E5%A4%8D%E5%A4%96%E6%98%9F%E4%BA%BA",
+      "rank": 9
+    },
+    {
+      "title": "江语晨黑脸",
+      "hot_value": 421258,
+      "link": "https://s.weibo.com/weibo?q=%E6%B1%9F%E8%AF%AD%E6%99%A8%E9%BB%91%E8%84%B8",
+      "rank": 10
+    },
+    {
+      "title": "张月直接离场了",
+      "hot_value": 419017,
+      "link": "https://s.weibo.com/weibo?q=%E5%BC%A0%E6%9C%88%E7%9B%B4%E6%8E%A5%E7%A6%BB%E5%9C%BA%E4%BA%86",
+      "rank": 11
+    },
+    {
+      "title": "A股行情",
+      "hot_value": 417449,
+      "link": "https://s.weibo.com/weibo?q=A%E8%82%A1%E8%A1%8C%E6%83%85",
+      "rank": 12
+    },
+    {
+      "title": "记者刚开口安慰考生说我已经考上了",
+      "hot_value": 414656,
+      "link": "https://s.weibo.com/weibo?q=%E8%AE%B0%E8%80%85%E5%88%9A%E5%BC%80%E5%8F%A3%E5%AE%89%E6%85%B0%E8%80%83%E7%94%9F%E8%AF%B4%E6%88%91%E5%B7%B2%E7%BB%8F%E8%80%83%E4%B8%8A%E4%BA%86",
+      "rank": 13
+    },
+    {
+      "title": "高考",
+      "hot_value": 412801,
+      "link": "https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83",
+      "rank": 14
+    },
+    {
+      "title": "齐思钧 雷霆雨露俱是天恩",
+      "hot_value": 411866,
+      "link": "https://s.weibo.com/weibo?q=%E9%BD%90%E6%80%9D%E9%92%A7%20%E9%9B%B7%E9%9C%86%E9%9B%A8%E9%9C%B2%E4%BF%B1%E6%98%AF%E5%A4%A9%E6%81%A9",
+      "rank": 15
+    },
+    {
+      "title": "NBA",
+      "hot_value": 409189,
+      "link": "https://s.weibo.com/weibo?q=NBA",
+      "rank": 16
+    },
+    {
+      "title": "上海最有性价比的旅游 骑行",
+      "hot_value": 407538,
+      "link": "https://s.weibo.com/weibo?q=%E4%B8%8A%E6%B5%B7%E6%9C%80%E6%9C%89%E6%80%A7%E4%BB%B7%E6%AF%94%E7%9A%84%E6%97%85%E6%B8%B8%20%E9%AA%91%E8%A1%8C",
+      "rank": 17
+    },
+    {
+      "title": "活泼的黄灿灿也颓了",
+      "hot_value": 404473,
+      "link": "https://s.weibo.com/weibo?q=%E6%B4%BB%E6%B3%BC%E7%9A%84%E9%BB%84%E7%81%BF%E7%81%BF%E4%B9%9F%E9%A2%93%E4%BA%86",
+      "rank": 18
+    },
+    {
+      "title": "伊朗向以色列发射多轮导弹",
+      "hot_value": 403716,
+      "link": "https://s.weibo.com/weibo?q=%E4%BC%8A%E6%9C%97%E5%90%91%E4%BB%A5%E8%89%B2%E5%88%97%E5%8F%91%E5%B0%84%E5%A4%9A%E8%BD%AE%E5%AF%BC%E5%BC%B9",
+      "rank": 19
+    },
+    {
+      "title": "男子自制易燃物泄私愤烧伤女主播",
+      "hot_value": 401285,
+      "link": "https://s.weibo.com/weibo?q=%E7%94%B7%E5%AD%90%E8%87%AA%E5%88%B6%E6%98%93%E7%87%83%E7%89%A9%E6%B3%84%E7%A7%81%E6%84%A4%E7%83%A7%E4%BC%A4%E5%A5%B3%E4%B8%BB%E6%92%AD",
+      "rank": 20
+    },
+    {
+      "title": "考场外满身泥水的父亲称闺女不嫌弃",
+      "hot_value": 399120,
+      "link": "https://s.weibo.com/weibo?q=%E8%80%83%E5%9C%BA%E5%A4%96%E6%BB%A1%E8%BA%AB%E6%B3%A5%E6%B0%B4%E7%9A%84%E7%88%B6%E4%BA%B2%E7%A7%B0%E9%97%BA%E5%A5%B3%E4%B8%8D%E5%AB%8C%E5%BC%83",
+      "rank": 21
+    },
+    {
+      "title": "一周不洗的床单上有什么",
+      "hot_value": 397291,
+      "link": "https://s.weibo.com/weibo?q=%E4%B8%80%E5%91%A8%E4%B8%8D%E6%B4%97%E7%9A%84%E5%BA%8A%E5%8D%95%E4%B8%8A%E6%9C%89%E4%BB%80%E4%B9%88",
+      "rank": 22
+    },
+    {
+      "title": "奚梦瑶婚礼后去看法网",
+      "hot_value": 394002,
+      "link": "https://s.weibo.com/weibo?q=%E5%A5%9A%E6%A2%A6%E7%91%B6%E5%A9%9A%E7%A4%BC%E5%90%8E%E5%8E%BB%E7%9C%8B%E6%B3%95%E7%BD%91",
+      "rank": 23
+    },
+    {
+      "title": "三星SK海力士跌10%",
+      "hot_value": 393267,
+      "link": "https://s.weibo.com/weibo?q=%E4%B8%89%E6%98%9FSK%E6%B5%B7%E5%8A%9B%E5%A3%AB%E8%B7%8C10%25",
+      "rank": 24
+    },
+    {
+      "title": "8岁女孩爱吃大量碳水确诊脂肪肝",
+      "hot_value": 390654,
+      "link": "https://s.weibo.com/weibo?q=8%E5%B2%81%E5%A5%B3%E5%AD%A9%E7%88%B1%E5%90%83%E5%A4%A7%E9%87%8F%E7%A2%B3%E6%B0%B4%E7%A1%AE%E8%AF%8A%E8%84%82%E8%82%AA%E8%82%9D",
+      "rank": 25
+    },
+    {
+      "title": "杨超越素人时期遭职场霸凌",
+      "hot_value": 387506,
+      "link": "https://s.weibo.com/weibo?q=%E6%9D%A8%E8%B6%85%E8%B6%8A%E7%B4%A0%E4%BA%BA%E6%97%B6%E6%9C%9F%E9%81%AD%E8%81%8C%E5%9C%BA%E9%9C%B8%E5%87%8C",
+      "rank": 26
+    },
+    {
+      "title": "律师谈牙医偷拍黄子韬",
+      "hot_value": 386178,
+      "link": "https://s.weibo.com/weibo?q=%E5%BE%8B%E5%B8%88%E8%B0%88%E7%89%99%E5%8C%BB%E5%81%B7%E6%8B%8D%E9%BB%84%E5%AD%90%E9%9F%AC",
+      "rank": 27
+    },
+    {
+      "title": "曝浪姐五公队长",
+      "hot_value": 383614,
+      "link": "https://s.weibo.com/weibo?q=%E6%9B%9D%E6%B5%AA%E5%A7%90%E4%BA%94%E5%85%AC%E9%98%9F%E9%95%BF",
+      "rank": 28
+    },
+    {
+      "title": "12306回应火车出发7小时中途折返",
+      "hot_value": 382357,
+      "link": "https://s.weibo.com/weibo?q=12306%E5%9B%9E%E5%BA%94%E7%81%AB%E8%BD%A6%E5%87%BA%E5%8F%917%E5%B0%8F%E6%97%B6%E4%B8%AD%E9%80%94%E6%8A%98%E8%BF%94",
+      "rank": 29
+    },
+    {
+      "title": "王濛 有姐姐离开对我们情绪也有影响",
+      "hot_value": 380227,
+      "link": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%BF%9B%20%E6%9C%89%E5%A7%90%E5%A7%90%E7%A6%BB%E5%BC%80%E5%AF%B9%E6%88%91%E4%BB%AC%E6%83%85%E7%BB%AA%E4%B9%9F%E6%9C%89%E5%BD%B1%E5%93%8D",
+      "rank": 30
+    },
+    {
+      "title": "高考数学",
+      "hot_value": 378315,
+      "link": "https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6",
+      "rank": 31
+    },
+    {
+      "title": "以为做饭至少要有个锅",
+      "hot_value": 375486,
+      "link": "https://s.weibo.com/weibo?q=%E4%BB%A5%E4%B8%BA%E5%81%9A%E9%A5%AD%E8%87%B3%E5%B0%91%E8%A6%81%E6%9C%89%E4%B8%AA%E9%94%85",
+      "rank": 32
+    },
+    {
+      "title": "黄子韬怒斥偷拍牙医",
+      "hot_value": 374133,
+      "link": "https://s.weibo.com/weibo?q=%E9%BB%84%E5%AD%90%E9%9F%AC%E6%80%92%E6%96%A5%E5%81%B7%E6%8B%8D%E7%89%99%E5%8C%BB",
+      "rank": 33
+    },
+    {
+      "title": "林子聪1天减重超5斤",
+      "hot_value": 371775,
+      "link": "https://s.weibo.com/weibo?q=%E6%9E%97%E5%AD%90%E8%81%AA1%E5%A4%A9%E5%87%8F%E9%87%8D%E8%B6%855%E6%96%A4",
+      "rank": 34
+    },
+    {
+      "title": "金饰价跌回2025年水平",
+      "hot_value": 370649,
+      "link": "https://s.weibo.com/weibo?q=%E9%87%91%E9%A5%B0%E4%BB%B7%E8%B7%8C%E5%9B%9E2025%E5%B9%B4%E6%B0%B4%E5%B9%B3",
+      "rank": 35
+    },
+    {
+      "title": "江语晨四公个喜倒一",
+      "hot_value": 367102,
+      "link": "https://s.weibo.com/weibo?q=%E6%B1%9F%E8%AF%AD%E6%99%A8%E5%9B%9B%E5%85%AC%E4%B8%AA%E5%96%9C%E5%80%92%E4%B8%80",
+      "rank": 36
+    },
+    {
+      "title": "张慧雯直播",
+      "hot_value": 365681,
+      "link": "https://s.weibo.com/weibo?q=%E5%BC%A0%E6%85%A7%E9%9B%AF%E7%9B%B4%E6%92%AD",
+      "rank": 37
+    },
+    {
+      "title": "特朗普告诉以色列不要反击",
+      "hot_value": 363689,
+      "link": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E5%91%8A%E8%AF%89%E4%BB%A5%E8%89%B2%E5%88%97%E4%B8%8D%E8%A6%81%E5%8F%8D%E5%87%BB",
+      "rank": 38
+    },
+    {
+      "title": "懂张若昀了 唐艺昕是明媚的解药",
+      "hot_value": 360970,
+      "link": "https://s.weibo.com/weibo?q=%E6%87%82%E5%BC%A0%E8%8B%A5%E6%98%80%E4%BA%86%20%E5%94%90%E8%89%BA%E6%98%95%E6%98%AF%E6%98%8E%E5%AA%9A%E7%9A%84%E8%A7%A3%E8%8D%AF",
+      "rank": 39
+    },
+    {
+      "title": "男生走出考场大喊妈家长齐回答",
+      "hot_value": 358809,
+      "link": "https://s.weibo.com/weibo?q=%E7%94%B7%E7%94%9F%E8%B5%B0%E5%87%BA%E8%80%83%E5%9C%BA%E5%A4%A7%E5%96%8A%E5%A6%88%E5%AE%B6%E9%95%BF%E9%BD%90%E5%9B%9E%E7%AD%94",
+      "rank": 40
+    },
+    {
+      "title": "傅子纯去世",
+      "hot_value": 357350,
+      "link": "https://s.weibo.com/weibo?q=%E5%82%85%E5%AD%90%E7%BA%AF%E5%8E%BB%E4%B8%96",
+      "rank": 41
+    },
+    {
+      "title": "张慧雯孙怡 是妈妈是女儿",
+      "hot_value": 356386,
+      "link": "https://s.weibo.com/weibo?q=%E5%BC%A0%E6%85%A7%E9%9B%AF%E5%AD%99%E6%80%A1%20%E6%98%AF%E5%A6%88%E5%A6%88%E6%98%AF%E5%A5%B3%E5%84%BF",
+      "rank": 42
+    },
+    {
+      "title": "韩国股市又跌到熔断了",
+      "hot_value": 352737,
+      "link": "https://s.weibo.com/weibo?q=%E9%9F%A9%E5%9B%BD%E8%82%A1%E5%B8%82%E5%8F%88%E8%B7%8C%E5%88%B0%E7%86%94%E6%96%AD%E4%BA%86",
+      "rank": 43
+    },
+    {
+      "title": "纳达尔懂球帝",
+      "hot_value": 351589,
+      "link": "https://s.weibo.com/weibo?q=%E7%BA%B3%E8%BE%BE%E5%B0%94%E6%87%82%E7%90%83%E5%B8%9D",
+      "rank": 44
+    },
+    {
+      "title": "兹维列夫首夺大满贯冠军",
+      "hot_value": 349185,
+      "link": "https://s.weibo.com/weibo?q=%E5%85%B9%E7%BB%B4%E5%88%97%E5%A4%AB%E9%A6%96%E5%A4%BA%E5%A4%A7%E6%BB%A1%E8%B4%AF%E5%86%A0%E5%86%9B",
+      "rank": 45
+    },
+    {
+      "title": "阚清子的眼睛哭到反光",
+      "hot_value": 347628,
+      "link": "https://s.weibo.com/weibo?q=%E9%98%9A%E6%B8%85%E5%AD%90%E7%9A%84%E7%9C%BC%E7%9D%9B%E5%93%AD%E5%88%B0%E5%8F%8D%E5%85%89",
+      "rank": 46
+    },
+    {
+      "title": "范玮琪四公排名",
+      "hot_value": 345467,
+      "link": "https://s.weibo.com/weibo?q=%E8%8C%83%E7%8E%AE%E7%90%AA%E5%9B%9B%E5%85%AC%E6%8E%92%E5%90%8D",
+      "rank": 47
+    },
+    {
+      "title": "浪姐五公选曲歌单",
+      "hot_value": 342866,
+      "link": "https://s.weibo.com/weibo?q=%E6%B5%AA%E5%A7%90%E4%BA%94%E5%85%AC%E9%80%89%E6%9B%B2%E6%AD%8C%E5%8D%95",
+      "rank": 48
+    },
+    {
+      "title": "耐克市值几乎蒸发掉一个阿迪达斯",
+      "hot_value": 340261,
+      "link": "https://s.weibo.com/weibo?q=%E8%80%90%E5%85%8B%E5%B8%82%E5%80%BC%E5%87%A0%E4%B9%8E%E8%92%B8%E5%8F%91%E6%8E%89%E4%B8%80%E4%B8%AA%E9%98%BF%E8%BF%AA%E8%BE%BE%E6%96%AF",
+      "rank": 49
+    },
+    {
+      "title": "孙怡一公队友全部淘汰",
+      "hot_value": 338425,
+      "link": "https://s.weibo.com/weibo?q=%E5%AD%99%E6%80%A1%E4%B8%80%E5%85%AC%E9%98%9F%E5%8F%8B%E5%85%A8%E9%83%A8%E6%B7%98%E6%B1%B0",
+      "rank": 50
+    }
+  ]
+}
