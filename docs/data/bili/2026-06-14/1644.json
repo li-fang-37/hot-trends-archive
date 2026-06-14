@@ -1,0 +1,307 @@
+{
+  "platform": "bili",
+  "platform_name": "B站热门",
+  "time": "2026-06-14 16:44:45",
+  "items": [
+    {
+      "title": "TES BLG",
+      "hot_value": 0,
+      "link": "https://search.bilibili.com/all?keyword=TES%20BLG",
+      "rank": 1
+    },
+    {
+      "title": "纽约尼克斯夺NBA总冠军",
+      "hot_value": 0,
+      "link": "https://search.bilibili.com/all?keyword=%E7%BA%BD%E7%BA%A6%E5%B0%BC%E5%85%8B%E6%96%AF%E5%A4%BANBA%E6%80%BB%E5%86%A0%E5%86%9B",
+      "rank": 2
+    },
+    {
+      "title": "不是我咋上高三了",
+      "hot_value": 0,
+      "link": "https://search.bilibili.com/all?keyword=%E4%B8%8D%E6%98%AF%E6%88%91%E5%92%8B%E4%B8%8A%E9%AB%98%E4%B8%89%E4%BA%86",
+      "rank": 3
+    },
+    {
+      "title": "布伦森夺冠后泣不成声",
+      "hot_value": 0,
+      "link": "https://search.bilibili.com/all?keyword=%E5%B8%83%E4%BC%A6%E6%A3%AE%E5%A4%BA%E5%86%A0%E5%90%8E%E6%B3%A3%E4%B8%8D%E6%88%90%E5%A3%B0",
+      "rank": 4
+    },
+    {
+      "title": "IVL",
+      "hot_value": 0,
+      "link": "https://search.bilibili.com/all?keyword=IVL",
+      "rank": 5
+    },
+    {
+      "title": "华强买瓜但是艺术家",
+      "hot_value": 0,
+      "link": "https://search.bilibili.com/all?keyword=%E5%8D%8E%E5%BC%BA%E4%B9%B0%E7%93%9C%E4%BD%86%E6%98%AF%E8%89%BA%E6%9C%AF%E5%AE%B6",
+      "rank": 6
+    },
+    {
+      "title": "高考后最难受的人",
+      "hot_value": 0,
+      "link": "https://search.bilibili.com/all?keyword=%E9%AB%98%E8%80%83%E5%90%8E%E6%9C%80%E9%9A%BE%E5%8F%97%E7%9A%84%E4%BA%BA",
+      "rank": 7
+    },
+    {
+      "title": "勒芒24小时耐力赛",
+      "hot_value": 0,
+      "link": "https://search.bilibili.com/all?keyword=%E5%8B%92%E8%8A%9224%E5%B0%8F%E6%97%B6%E8%80%90%E5%8A%9B%E8%B5%9B",
+      "rank": 8
+    },
+    {
+      "title": "逐帧解析凡人修仙传新篇",
+      "hot_value": 0,
+      "link": "https://search.bilibili.com/all?keyword=%E9%80%90%E5%B8%A7%E8%A7%A3%E6%9E%90%E5%87%A1%E4%BA%BA%E4%BF%AE%E4%BB%99%E4%BC%A0%E6%96%B0%E7%AF%87",
+      "rank": 9
+    },
+    {
+      "title": "水果姐开幕式表演完整版",
+      "hot_value": 0,
+      "link": "https://search.bilibili.com/all?keyword=%E6%B0%B4%E6%9E%9C%E5%A7%90%E5%BC%80%E5%B9%95%E5%BC%8F%E8%A1%A8%E6%BC%94%E5%AE%8C%E6%95%B4%E7%89%88",
+      "rank": 10
+    },
+    {
+      "title": "异环卡厄斯实机战斗",
+      "hot_value": 0,
+      "link": "https://search.bilibili.com/all?keyword=%E5%BC%82%E7%8E%AF%E5%8D%A1%E5%8E%84%E6%96%AF%E5%AE%9E%E6%9C%BA%E6%88%98%E6%96%97",
+      "rank": 11
+    },
+    {
+      "title": "在MC里体验世界杯",
+      "hot_value": 0,
+      "link": "https://search.bilibili.com/all?keyword=%E5%9C%A8MC%E9%87%8C%E4%BD%93%E9%AA%8C%E4%B8%96%E7%95%8C%E6%9D%AF",
+      "rank": 12
+    },
+    {
+      "title": "为什么各国抢着申办世界杯",
+      "hot_value": 0,
+      "link": "https://search.bilibili.com/all?keyword=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%90%84%E5%9B%BD%E6%8A%A2%E7%9D%80%E7%94%B3%E5%8A%9E%E4%B8%96%E7%95%8C%E6%9D%AF",
+      "rank": 13
+    },
+    {
+      "title": "韩立",
+      "hot_value": 0,
+      "link": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E7%AB%8B",
+      "rank": 14
+    },
+    {
+      "title": "在超市后门吸烟的二人好看吗",
+      "hot_value": 0,
+      "link": "https://search.bilibili.com/all?keyword=%E5%9C%A8%E8%B6%85%E5%B8%82%E5%90%8E%E9%97%A8%E5%90%B8%E7%83%9F%E7%9A%84%E4%BA%8C%E4%BA%BA%E5%A5%BD%E7%9C%8B%E5%90%97",
+      "rank": 15
+    },
+    {
+      "title": "牧神记",
+      "hot_value": 0,
+      "link": "https://search.bilibili.com/all?keyword=%E7%89%A7%E7%A5%9E%E8%AE%B0",
+      "rank": 16
+    },
+    {
+      "title": "下一个是谁7主题曲",
+      "hot_value": 0,
+      "link": "https://search.bilibili.com/all?keyword=%E4%B8%8B%E4%B8%80%E4%B8%AA%E6%98%AF%E8%B0%817%E4%B8%BB%E9%A2%98%E6%9B%B2",
+      "rank": 17
+    },
+    {
+      "title": "张杰谢娜演唱会名场面",
+      "hot_value": 0,
+      "link": "https://search.bilibili.com/all?keyword=%E5%BC%A0%E6%9D%B0%E8%B0%A2%E5%A8%9C%E6%BC%94%E5%94%B1%E4%BC%9A%E5%90%8D%E5%9C%BA%E9%9D%A2",
+      "rank": 18
+    },
+    {
+      "title": "凡人片尾回归纪念彩蛋",
+      "hot_value": 0,
+      "link": "https://search.bilibili.com/all?keyword=%E5%87%A1%E4%BA%BA%E7%89%87%E5%B0%BE%E5%9B%9E%E5%BD%92%E7%BA%AA%E5%BF%B5%E5%BD%A9%E8%9B%8B",
+      "rank": 19
+    },
+    {
+      "title": "EDG战胜FUT",
+      "hot_value": 0,
+      "link": "https://search.bilibili.com/all?keyword=EDG%E6%88%98%E8%83%9CFUT",
+      "rank": 20
+    },
+    {
+      "title": "m0NESY大狙狂轰乱炸",
+      "hot_value": 0,
+      "link": "https://search.bilibili.com/all?keyword=m0NESY%E5%A4%A7%E7%8B%99%E7%8B%82%E8%BD%B0%E4%B9%B1%E7%82%B8",
+      "rank": 21
+    },
+    {
+      "title": "沉浸式观看尼克斯夺冠仪式",
+      "hot_value": 0,
+      "link": "https://search.bilibili.com/all?keyword=%E6%B2%89%E6%B5%B8%E5%BC%8F%E8%A7%82%E7%9C%8B%E5%B0%BC%E5%85%8B%E6%96%AF%E5%A4%BA%E5%86%A0%E4%BB%AA%E5%BC%8F",
+      "rank": 22
+    },
+    {
+      "title": "Lysoar谈对战EDG",
+      "hot_value": 0,
+      "link": "https://search.bilibili.com/all?keyword=Lysoar%E8%B0%88%E5%AF%B9%E6%88%98EDG",
+      "rank": 23
+    },
+    {
+      "title": "蔚蓝边际实拍LPL赛场",
+      "hot_value": 0,
+      "link": "https://search.bilibili.com/all?keyword=%E8%94%9A%E8%93%9D%E8%BE%B9%E9%99%85%E5%AE%9E%E6%8B%8DLPL%E8%B5%9B%E5%9C%BA",
+      "rank": 24
+    },
+    {
+      "title": "布伦森45分获FMVP",
+      "hot_value": 0,
+      "link": "https://search.bilibili.com/all?keyword=%E5%B8%83%E4%BC%A6%E6%A3%AE45%E5%88%86%E8%8E%B7FMVP",
+      "rank": 25
+    },
+    {
+      "title": "XLG战胜G2",
+      "hot_value": 0,
+      "link": "https://search.bilibili.com/all?keyword=XLG%E6%88%98%E8%83%9CG2",
+      "rank": 26
+    },
+    {
+      "title": "徐静雨评尼克斯夺冠",
+      "hot_value": 0,
+      "link": "https://search.bilibili.com/all?keyword=%E5%BE%90%E9%9D%99%E9%9B%A8%E8%AF%84%E5%B0%BC%E5%85%8B%E6%96%AF%E5%A4%BA%E5%86%A0",
+      "rank": 27
+    },
+    {
+      "title": "鸣潮洛瑟菈攻略",
+      "hot_value": 0,
+      "link": "https://search.bilibili.com/all?keyword=%E9%B8%A3%E6%BD%AE%E6%B4%9B%E7%91%9F%E8%8F%88%E6%94%BB%E7%95%A5",
+      "rank": 28
+    },
+    {
+      "title": "锐评NBA总决赛两队球员",
+      "hot_value": 0,
+      "link": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84NBA%E6%80%BB%E5%86%B3%E8%B5%9B%E4%B8%A4%E9%98%9F%E7%90%83%E5%91%98",
+      "rank": 29
+    },
+    {
+      "title": "G2曾庆祝抽中XLG",
+      "hot_value": 0,
+      "link": "https://search.bilibili.com/all?keyword=G2%E6%9B%BE%E5%BA%86%E7%A5%9D%E6%8A%BD%E4%B8%ADXLG",
+      "rank": 30
+    },
+    {
+      "title": "康康三图60杀数据雷达图",
+      "hot_value": 0,
+      "link": "https://search.bilibili.com/all?keyword=%E5%BA%B7%E5%BA%B7%E4%B8%89%E5%9B%BE60%E6%9D%80%E6%95%B0%E6%8D%AE%E9%9B%B7%E8%BE%BE%E5%9B%BE",
+      "rank": 31
+    },
+    {
+      "title": "央视揭秘直播特供酒骗局",
+      "hot_value": 0,
+      "link": "https://search.bilibili.com/all?keyword=%E5%A4%AE%E8%A7%86%E6%8F%AD%E7%A7%98%E7%9B%B4%E6%92%AD%E7%89%B9%E4%BE%9B%E9%85%92%E9%AA%97%E5%B1%80",
+      "rank": 32
+    },
+    {
+      "title": "澳大利亚2-0土耳其",
+      "hot_value": 0,
+      "link": "https://search.bilibili.com/all?keyword=%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A2-0%E5%9C%9F%E8%80%B3%E5%85%B6",
+      "rank": 33
+    },
+    {
+      "title": "高燃回顾张雪机车6冠之路",
+      "hot_value": 0,
+      "link": "https://search.bilibili.com/all?keyword=%E9%AB%98%E7%87%83%E5%9B%9E%E9%A1%BE%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A66%E5%86%A0%E4%B9%8B%E8%B7%AF",
+      "rank": 34
+    },
+    {
+      "title": "绿龙落后七分翻盘进淘汰赛",
+      "hot_value": 0,
+      "link": "https://search.bilibili.com/all?keyword=%E7%BB%BF%E9%BE%99%E8%90%BD%E5%90%8E%E4%B8%83%E5%88%86%E7%BF%BB%E7%9B%98%E8%BF%9B%E6%B7%98%E6%B1%B0%E8%B5%9B",
+      "rank": 35
+    },
+    {
+      "title": "怎么看绿龙翻盘9Z",
+      "hot_value": 0,
+      "link": "https://search.bilibili.com/all?keyword=%E6%80%8E%E4%B9%88%E7%9C%8B%E7%BB%BF%E9%BE%99%E7%BF%BB%E7%9B%989Z",
+      "rank": 36
+    },
+    {
+      "title": "舍友考四级连闯八关",
+      "hot_value": 0,
+      "link": "https://search.bilibili.com/all?keyword=%E8%88%8D%E5%8F%8B%E8%80%83%E5%9B%9B%E7%BA%A7%E8%BF%9E%E9%97%AF%E5%85%AB%E5%85%B3",
+      "rank": 37
+    },
+    {
+      "title": "锐评巴西战平摩洛哥",
+      "hot_value": 0,
+      "link": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84%E5%B7%B4%E8%A5%BF%E6%88%98%E5%B9%B3%E6%91%A9%E6%B4%9B%E5%93%A5",
+      "rank": 38
+    },
+    {
+      "title": "韩立归来藏了多少隐喻",
+      "hot_value": 0,
+      "link": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E7%AB%8B%E5%BD%92%E6%9D%A5%E8%97%8F%E4%BA%86%E5%A4%9A%E5%B0%91%E9%9A%90%E5%96%BB",
+      "rank": 39
+    },
+    {
+      "title": "桑巴足球艺术去哪了",
+      "hot_value": 0,
+      "link": "https://search.bilibili.com/all?keyword=%E6%A1%91%E5%B7%B4%E8%B6%B3%E7%90%83%E8%89%BA%E6%9C%AF%E5%8E%BB%E5%93%AA%E4%BA%86",
+      "rank": 40
+    },
+    {
+      "title": "FURIA战胜BB",
+      "hot_value": 0,
+      "link": "https://search.bilibili.com/all?keyword=FURIA%E6%88%98%E8%83%9CBB",
+      "rank": 41
+    },
+    {
+      "title": "德比斯赛后感谢张雪机车",
+      "hot_value": 0,
+      "link": "https://search.bilibili.com/all?keyword=%E5%BE%B7%E6%AF%94%E6%96%AF%E8%B5%9B%E5%90%8E%E6%84%9F%E8%B0%A2%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6",
+      "rank": 42
+    },
+    {
+      "title": "慢镜回顾NBA总决赛G5",
+      "hot_value": 0,
+      "link": "https://search.bilibili.com/all?keyword=%E6%85%A2%E9%95%9C%E5%9B%9E%E9%A1%BENBA%E6%80%BB%E5%86%B3%E8%B5%9BG5",
+      "rank": 43
+    },
+    {
+      "title": "凡人",
+      "hot_value": 0,
+      "link": "https://search.bilibili.com/all?keyword=%E5%87%A1%E4%BA%BA",
+      "rank": 44
+    },
+    {
+      "title": "三角洲行动新干员档案",
+      "hot_value": 0,
+      "link": "https://search.bilibili.com/all?keyword=%E4%B8%89%E8%A7%92%E6%B4%B2%E8%A1%8C%E5%8A%A8%E6%96%B0%E5%B9%B2%E5%91%98%E6%A1%A3%E6%A1%88",
+      "rank": 45
+    },
+    {
+      "title": "康康 感觉被sopp豪到了",
+      "hot_value": 0,
+      "link": "https://search.bilibili.com/all?keyword=%E5%BA%B7%E5%BA%B7%20%E6%84%9F%E8%A7%89%E8%A2%ABsopp%E8%B1%AA%E5%88%B0%E4%BA%86",
+      "rank": 46
+    },
+    {
+      "title": "星链计划实现手机直连卫星",
+      "hot_value": 0,
+      "link": "https://search.bilibili.com/all?keyword=%E6%98%9F%E9%93%BE%E8%AE%A1%E5%88%92%E5%AE%9E%E7%8E%B0%E6%89%8B%E6%9C%BA%E7%9B%B4%E8%BF%9E%E5%8D%AB%E6%98%9F",
+      "rank": 47
+    },
+    {
+      "title": "歌剧老师锐评歌手第4期",
+      "hot_value": 0,
+      "link": "https://search.bilibili.com/all?keyword=%E6%AD%8C%E5%89%A7%E8%80%81%E5%B8%88%E9%94%90%E8%AF%84%E6%AD%8C%E6%89%8B%E7%AC%AC4%E6%9C%9F",
+      "rank": 48
+    },
+    {
+      "title": "逐帧分析谢苗vs林科灯打戏",
+      "hot_value": 0,
+      "link": "https://search.bilibili.com/all?keyword=%E9%80%90%E5%B8%A7%E5%88%86%E6%9E%90%E8%B0%A2%E8%8B%97vs%E6%9E%97%E7%A7%91%E7%81%AF%E6%89%93%E6%88%8F",
+      "rank": 49
+    },
+    {
+      "title": "巴西1-1摩洛哥",
+      "hot_value": 0,
+      "link": "https://search.bilibili.com/all?keyword=%E5%B7%B4%E8%A5%BF1-1%E6%91%A9%E6%B4%9B%E5%93%A5",
+      "rank": 50
+    }
+  ]
+}
