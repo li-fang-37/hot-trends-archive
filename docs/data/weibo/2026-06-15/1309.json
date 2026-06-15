@@ -1,0 +1,307 @@
+{
+  "platform": "weibo",
+  "platform_name": "微博热搜",
+  "time": "2026-06-15 13:09:03",
+  "items": [
+    {
+      "title": "山姆被约谈",
+      "hot_value": 2921339,
+      "link": "https://s.weibo.com/weibo?q=%E5%B1%B1%E5%A7%86%E8%A2%AB%E7%BA%A6%E8%B0%88",
+      "rank": 1
+    },
+    {
+      "title": "遇见小面创始人致歉",
+      "hot_value": 1394061,
+      "link": "https://s.weibo.com/weibo?q=%E9%81%87%E8%A7%81%E5%B0%8F%E9%9D%A2%E5%88%9B%E5%A7%8B%E4%BA%BA%E8%87%B4%E6%AD%89",
+      "rank": 2
+    },
+    {
+      "title": "龙舟赛变身端午消费新引擎",
+      "hot_value": 1114918,
+      "link": "https://s.weibo.com/weibo?q=%E9%BE%99%E8%88%9F%E8%B5%9B%E5%8F%98%E8%BA%AB%E7%AB%AF%E5%8D%88%E6%B6%88%E8%B4%B9%E6%96%B0%E5%BC%95%E6%93%8E",
+      "rank": 3
+    },
+    {
+      "title": "地铁上这个扶手是给谁扶的",
+      "hot_value": 1058760,
+      "link": "https://s.weibo.com/weibo?q=%E5%9C%B0%E9%93%81%E4%B8%8A%E8%BF%99%E4%B8%AA%E6%89%B6%E6%89%8B%E6%98%AF%E7%BB%99%E8%B0%81%E6%89%B6%E7%9A%84",
+      "rank": 4
+    },
+    {
+      "title": "高市早苗抵达英国没有欢迎仪式",
+      "hot_value": 655737,
+      "link": "https://s.weibo.com/weibo?q=%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E6%8A%B5%E8%BE%BE%E8%8B%B1%E5%9B%BD%E6%B2%A1%E6%9C%89%E6%AC%A2%E8%BF%8E%E4%BB%AA%E5%BC%8F",
+      "rank": 5
+    },
+    {
+      "title": "普通人要知道的湿厕纸真相",
+      "hot_value": 652629,
+      "link": "https://s.weibo.com/weibo?q=%E6%99%AE%E9%80%9A%E4%BA%BA%E8%A6%81%E7%9F%A5%E9%81%93%E7%9A%84%E6%B9%BF%E5%8E%95%E7%BA%B8%E7%9C%9F%E7%9B%B8",
+      "rank": 6
+    },
+    {
+      "title": "日本队目标夺冠",
+      "hot_value": 624958,
+      "link": "https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E9%98%9F%E7%9B%AE%E6%A0%87%E5%A4%BA%E5%86%A0",
+      "rank": 7
+    },
+    {
+      "title": "爱情有烟火原著回应开播",
+      "hot_value": 440213,
+      "link": "https://s.weibo.com/weibo?q=%E7%88%B1%E6%83%85%E6%9C%89%E7%83%9F%E7%81%AB%E5%8E%9F%E8%91%97%E5%9B%9E%E5%BA%94%E5%BC%80%E6%92%AD",
+      "rank": 8
+    },
+    {
+      "title": "问心2定档0618",
+      "hot_value": 440207,
+      "link": "https://s.weibo.com/weibo?q=%E9%97%AE%E5%BF%832%E5%AE%9A%E6%A1%A30618",
+      "rank": 9
+    },
+    {
+      "title": "雷军说在街边吃热干面几十年没变",
+      "hot_value": 440194,
+      "link": "https://s.weibo.com/weibo?q=%E9%9B%B7%E5%86%9B%E8%AF%B4%E5%9C%A8%E8%A1%97%E8%BE%B9%E5%90%83%E7%83%AD%E5%B9%B2%E9%9D%A2%E5%87%A0%E5%8D%81%E5%B9%B4%E6%B2%A1%E5%8F%98",
+      "rank": 10
+    },
+    {
+      "title": "戚薇李承铉女儿11近照",
+      "hot_value": 440185,
+      "link": "https://s.weibo.com/weibo?q=%E6%88%9A%E8%96%87%E6%9D%8E%E6%89%BF%E9%93%89%E5%A5%B3%E5%84%BF11%E8%BF%91%E7%85%A7",
+      "rank": 11
+    },
+    {
+      "title": "金价",
+      "hot_value": 440179,
+      "link": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7",
+      "rank": 12
+    },
+    {
+      "title": "贺峻霖的平均学分绩点",
+      "hot_value": 440176,
+      "link": "https://s.weibo.com/weibo?q=%E8%B4%BA%E5%B3%BB%E9%9C%96%E7%9A%84%E5%B9%B3%E5%9D%87%E5%AD%A6%E5%88%86%E7%BB%A9%E7%82%B9",
+      "rank": 13
+    },
+    {
+      "title": "她考了第一编制却消失了",
+      "hot_value": 440164,
+      "link": "https://s.weibo.com/weibo?q=%E5%A5%B9%E8%80%83%E4%BA%86%E7%AC%AC%E4%B8%80%E7%BC%96%E5%88%B6%E5%8D%B4%E6%B6%88%E5%A4%B1%E4%BA%86",
+      "rank": 14
+    },
+    {
+      "title": "有毒的养生烟正在电商热销",
+      "hot_value": 440157,
+      "link": "https://s.weibo.com/weibo?q=%E6%9C%89%E6%AF%92%E7%9A%84%E5%85%BB%E7%94%9F%E7%83%9F%E6%AD%A3%E5%9C%A8%E7%94%B5%E5%95%86%E7%83%AD%E9%94%80",
+      "rank": 15
+    },
+    {
+      "title": "林俊杰七七穿情侣装",
+      "hot_value": 440145,
+      "link": "https://s.weibo.com/weibo?q=%E6%9E%97%E4%BF%8A%E6%9D%B0%E4%B8%83%E4%B8%83%E7%A9%BF%E6%83%85%E4%BE%A3%E8%A3%85",
+      "rank": 16
+    },
+    {
+      "title": "蔚来李斌再次发出预警",
+      "hot_value": 440135,
+      "link": "https://s.weibo.com/weibo?q=%E8%94%9A%E6%9D%A5%E6%9D%8E%E6%96%8C%E5%86%8D%E6%AC%A1%E5%8F%91%E5%87%BA%E9%A2%84%E8%AD%A6",
+      "rank": 17
+    },
+    {
+      "title": "王俊凯的选香品味给到一个夯",
+      "hot_value": 440121,
+      "link": "https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%E7%9A%84%E9%80%89%E9%A6%99%E5%93%81%E5%91%B3%E7%BB%99%E5%88%B0%E4%B8%80%E4%B8%AA%E5%A4%AF",
+      "rank": 18
+    },
+    {
+      "title": "蔡依林演唱会回复李兰迪宝宝",
+      "hot_value": 440115,
+      "link": "https://s.weibo.com/weibo?q=%E8%94%A1%E4%BE%9D%E6%9E%97%E6%BC%94%E5%94%B1%E4%BC%9A%E5%9B%9E%E5%A4%8D%E6%9D%8E%E5%85%B0%E8%BF%AA%E5%AE%9D%E5%AE%9D",
+      "rank": 19
+    },
+    {
+      "title": "詹俊谈荷兰战平日本",
+      "hot_value": 440108,
+      "link": "https://s.weibo.com/weibo?q=%E8%A9%B9%E4%BF%8A%E8%B0%88%E8%8D%B7%E5%85%B0%E6%88%98%E5%B9%B3%E6%97%A5%E6%9C%AC",
+      "rank": 20
+    },
+    {
+      "title": "林允晒张若昀拍的照片",
+      "hot_value": 440102,
+      "link": "https://s.weibo.com/weibo?q=%E6%9E%97%E5%85%81%E6%99%92%E5%BC%A0%E8%8B%A5%E6%98%80%E6%8B%8D%E7%9A%84%E7%85%A7%E7%89%87",
+      "rank": 21
+    },
+    {
+      "title": "原来真有人被老天爷追着喂饭吃啊",
+      "hot_value": 440087,
+      "link": "https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E7%9C%9F%E6%9C%89%E4%BA%BA%E8%A2%AB%E8%80%81%E5%A4%A9%E7%88%B7%E8%BF%BD%E7%9D%80%E5%96%82%E9%A5%AD%E5%90%83%E5%95%8A",
+      "rank": 22
+    },
+    {
+      "title": "歌手OliverTree空难去世",
+      "hot_value": 440078,
+      "link": "https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8BOliverTree%E7%A9%BA%E9%9A%BE%E5%8E%BB%E4%B8%96",
+      "rank": 23
+    },
+    {
+      "title": "遇见小面 会员退费",
+      "hot_value": 440070,
+      "link": "https://s.weibo.com/weibo?q=%E9%81%87%E8%A7%81%E5%B0%8F%E9%9D%A2%20%E4%BC%9A%E5%91%98%E9%80%80%E8%B4%B9",
+      "rank": 24
+    },
+    {
+      "title": "香港偶遇林俊杰七七",
+      "hot_value": 440066,
+      "link": "https://s.weibo.com/weibo?q=%E9%A6%99%E6%B8%AF%E5%81%B6%E9%81%87%E6%9E%97%E4%BF%8A%E6%9D%B0%E4%B8%83%E4%B8%83",
+      "rank": 25
+    },
+    {
+      "title": "蔡琳高梓淇都不愿意为对方学习语言",
+      "hot_value": 440057,
+      "link": "https://s.weibo.com/weibo?q=%E8%94%A1%E7%90%B3%E9%AB%98%E6%A2%93%E6%B7%87%E9%83%BD%E4%B8%8D%E6%84%BF%E6%84%8F%E4%B8%BA%E5%AF%B9%E6%96%B9%E5%AD%A6%E4%B9%A0%E8%AF%AD%E8%A8%80",
+      "rank": 26
+    },
+    {
+      "title": "巴西蹦极坠亡女子未婚夫严重应激",
+      "hot_value": 419680,
+      "link": "https://s.weibo.com/weibo?q=%E5%B7%B4%E8%A5%BF%E8%B9%A6%E6%9E%81%E5%9D%A0%E4%BA%A1%E5%A5%B3%E5%AD%90%E6%9C%AA%E5%A9%9A%E5%A4%AB%E4%B8%A5%E9%87%8D%E5%BA%94%E6%BF%80",
+      "rank": 27
+    },
+    {
+      "title": "小猫的长相就是人类化妆的方式",
+      "hot_value": 403743,
+      "link": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%8C%AB%E7%9A%84%E9%95%BF%E7%9B%B8%E5%B0%B1%E6%98%AF%E4%BA%BA%E7%B1%BB%E5%8C%96%E5%A6%86%E7%9A%84%E6%96%B9%E5%BC%8F",
+      "rank": 28
+    },
+    {
+      "title": "董子健都在求工作了",
+      "hot_value": 396246,
+      "link": "https://s.weibo.com/weibo?q=%E8%91%A3%E5%AD%90%E5%81%A5%E9%83%BD%E5%9C%A8%E6%B1%82%E5%B7%A5%E4%BD%9C%E4%BA%86",
+      "rank": 29
+    },
+    {
+      "title": "郝景芳承认用AI写作",
+      "hot_value": 395596,
+      "link": "https://s.weibo.com/weibo?q=%E9%83%9D%E6%99%AF%E8%8A%B3%E6%89%BF%E8%AE%A4%E7%94%A8AI%E5%86%99%E4%BD%9C",
+      "rank": 30
+    },
+    {
+      "title": "答辩别戴电子手表",
+      "hot_value": 395236,
+      "link": "https://s.weibo.com/weibo?q=%E7%AD%94%E8%BE%A9%E5%88%AB%E6%88%B4%E7%94%B5%E5%AD%90%E6%89%8B%E8%A1%A8",
+      "rank": 31
+    },
+    {
+      "title": "姜乘澜粉丝数即将反超程十安",
+      "hot_value": 331590,
+      "link": "https://s.weibo.com/weibo?q=%E5%A7%9C%E4%B9%98%E6%BE%9C%E7%B2%89%E4%B8%9D%E6%95%B0%E5%8D%B3%E5%B0%86%E5%8F%8D%E8%B6%85%E7%A8%8B%E5%8D%81%E5%AE%89",
+      "rank": 32
+    },
+    {
+      "title": "问心2",
+      "hot_value": 317688,
+      "link": "https://s.weibo.com/weibo?q=%E9%97%AE%E5%BF%832",
+      "rank": 33
+    },
+    {
+      "title": "瑞典5比1突尼斯",
+      "hot_value": 308568,
+      "link": "https://s.weibo.com/weibo?q=%E7%91%9E%E5%85%B85%E6%AF%941%E7%AA%81%E5%B0%BC%E6%96%AF",
+      "rank": 34
+    },
+    {
+      "title": "山姆回应被约谈",
+      "hot_value": 284039,
+      "link": "https://s.weibo.com/weibo?q=%E5%B1%B1%E5%A7%86%E5%9B%9E%E5%BA%94%E8%A2%AB%E7%BA%A6%E8%B0%88",
+      "rank": 35
+    },
+    {
+      "title": "刘浩存卧鱼不要轻易学",
+      "hot_value": 278047,
+      "link": "https://s.weibo.com/weibo?q=%E5%88%98%E6%B5%A9%E5%AD%98%E5%8D%A7%E9%B1%BC%E4%B8%8D%E8%A6%81%E8%BD%BB%E6%98%93%E5%AD%A6",
+      "rank": 36
+    },
+    {
+      "title": "时代峰峻周边",
+      "hot_value": 243127,
+      "link": "https://s.weibo.com/weibo?q=%E6%97%B6%E4%BB%A3%E5%B3%B0%E5%B3%BB%E5%91%A8%E8%BE%B9",
+      "rank": 37
+    },
+    {
+      "title": "C罗美加墨世界杯定妆照",
+      "hot_value": 242126,
+      "link": "https://s.weibo.com/weibo?q=C%E7%BD%97%E7%BE%8E%E5%8A%A0%E5%A2%A8%E4%B8%96%E7%95%8C%E6%9D%AF%E5%AE%9A%E5%A6%86%E7%85%A7",
+      "rank": 38
+    },
+    {
+      "title": "莫离的节奏",
+      "hot_value": 217690,
+      "link": "https://s.weibo.com/weibo?q=%E8%8E%AB%E7%A6%BB%E7%9A%84%E8%8A%82%E5%A5%8F",
+      "rank": 39
+    },
+    {
+      "title": "遇见小面致歉为何网友不买账",
+      "hot_value": 215839,
+      "link": "https://s.weibo.com/weibo?q=%E9%81%87%E8%A7%81%E5%B0%8F%E9%9D%A2%E8%87%B4%E6%AD%89%E4%B8%BA%E4%BD%95%E7%BD%91%E5%8F%8B%E4%B8%8D%E4%B9%B0%E8%B4%A6",
+      "rank": 40
+    },
+    {
+      "title": "全身九成兽皮痣男童因癌变离世",
+      "hot_value": 214342,
+      "link": "https://s.weibo.com/weibo?q=%E5%85%A8%E8%BA%AB%E4%B9%9D%E6%88%90%E5%85%BD%E7%9A%AE%E7%97%A3%E7%94%B7%E7%AB%A5%E5%9B%A0%E7%99%8C%E5%8F%98%E7%A6%BB%E4%B8%96",
+      "rank": 41
+    },
+    {
+      "title": "吴宣仪申请我们的宿舍速速开播",
+      "hot_value": 201891,
+      "link": "https://s.weibo.com/weibo?q=%E5%90%B4%E5%AE%A3%E4%BB%AA%E7%94%B3%E8%AF%B7%E6%88%91%E4%BB%AC%E7%9A%84%E5%AE%BF%E8%88%8D%E9%80%9F%E9%80%9F%E5%BC%80%E6%92%AD",
+      "rank": 42
+    },
+    {
+      "title": "时代少年团毕业进度",
+      "hot_value": 201011,
+      "link": "https://s.weibo.com/weibo?q=%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E6%AF%95%E4%B8%9A%E8%BF%9B%E5%BA%A6",
+      "rank": 43
+    },
+    {
+      "title": "瑞典vs突尼斯",
+      "hot_value": 198990,
+      "link": "https://s.weibo.com/weibo?q=%E7%91%9E%E5%85%B8vs%E7%AA%81%E5%B0%BC%E6%96%AF",
+      "rank": 44
+    },
+    {
+      "title": "董子健不让王俊凯回座位",
+      "hot_value": 198495,
+      "link": "https://s.weibo.com/weibo?q=%E8%91%A3%E5%AD%90%E5%81%A5%E4%B8%8D%E8%AE%A9%E7%8E%8B%E4%BF%8A%E5%87%AF%E5%9B%9E%E5%BA%A7%E4%BD%8D",
+      "rank": 45
+    },
+    {
+      "title": "假APF值才是家电行业最大套路",
+      "hot_value": 198173,
+      "link": "https://s.weibo.com/weibo?q=%E5%81%87APF%E5%80%BC%E6%89%8D%E6%98%AF%E5%AE%B6%E7%94%B5%E8%A1%8C%E4%B8%9A%E6%9C%80%E5%A4%A7%E5%A5%97%E8%B7%AF",
+      "rank": 46
+    },
+    {
+      "title": "养狗人才知道小狗这一脚的含金量",
+      "hot_value": 198110,
+      "link": "https://s.weibo.com/weibo?q=%E5%85%BB%E7%8B%97%E4%BA%BA%E6%89%8D%E7%9F%A5%E9%81%93%E5%B0%8F%E7%8B%97%E8%BF%99%E4%B8%80%E8%84%9A%E7%9A%84%E5%90%AB%E9%87%91%E9%87%8F",
+      "rank": 47
+    },
+    {
+      "title": "球迷抗议日本轮奸犯国脚出场",
+      "hot_value": 198062,
+      "link": "https://s.weibo.com/weibo?q=%E7%90%83%E8%BF%B7%E6%8A%97%E8%AE%AE%E6%97%A5%E6%9C%AC%E8%BD%AE%E5%A5%B8%E7%8A%AF%E5%9B%BD%E8%84%9A%E5%87%BA%E5%9C%BA",
+      "rank": 48
+    },
+    {
+      "title": "特朗普变火影忍者日本急了",
+      "hot_value": 197758,
+      "link": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%98%E7%81%AB%E5%BD%B1%E5%BF%8D%E8%80%85%E6%97%A5%E6%9C%AC%E6%80%A5%E4%BA%86",
+      "rank": 49
+    },
+    {
+      "title": "男子把西瓜绑树上制作西瓜汁",
+      "hot_value": 197728,
+      "link": "https://s.weibo.com/weibo?q=%E7%94%B7%E5%AD%90%E6%8A%8A%E8%A5%BF%E7%93%9C%E7%BB%91%E6%A0%91%E4%B8%8A%E5%88%B6%E4%BD%9C%E8%A5%BF%E7%93%9C%E6%B1%81",
+      "rank": 50
+    }
+  ]
+}
