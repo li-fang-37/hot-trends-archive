@@ -1,0 +1,307 @@
+{
+  "platform": "weibo",
+  "platform_name": "微博热搜",
+  "time": "2026-06-15 19:31:14",
+  "items": [
+    {
+      "title": "本届世界杯惨案来得太快了",
+      "hot_value": 1362370,
+      "link": "https://s.weibo.com/weibo?q=%E6%9C%AC%E5%B1%8A%E4%B8%96%E7%95%8C%E6%9D%AF%E6%83%A8%E6%A1%88%E6%9D%A5%E5%BE%97%E5%A4%AA%E5%BF%AB%E4%BA%86",
+      "rank": 1
+    },
+    {
+      "title": "删了几千张照片结果内存没变",
+      "hot_value": 1257495,
+      "link": "https://s.weibo.com/weibo?q=%E5%88%A0%E4%BA%86%E5%87%A0%E5%8D%83%E5%BC%A0%E7%85%A7%E7%89%87%E7%BB%93%E6%9E%9C%E5%86%85%E5%AD%98%E6%B2%A1%E5%8F%98",
+      "rank": 2
+    },
+    {
+      "title": "我国成功发射一箭8星",
+      "hot_value": 675414,
+      "link": "https://s.weibo.com/weibo?q=%E6%88%91%E5%9B%BD%E6%88%90%E5%8A%9F%E5%8F%91%E5%B0%84%E4%B8%80%E7%AE%AD8%E6%98%9F",
+      "rank": 3
+    },
+    {
+      "title": "会员们被山姆背刺了",
+      "hot_value": 520669,
+      "link": "https://s.weibo.com/weibo?q=%E4%BC%9A%E5%91%98%E4%BB%AC%E8%A2%AB%E5%B1%B1%E5%A7%86%E8%83%8C%E5%88%BA%E4%BA%86",
+      "rank": 4
+    },
+    {
+      "title": "Rookie iG",
+      "hot_value": 519795,
+      "link": "https://s.weibo.com/weibo?q=Rookie%20iG",
+      "rank": 5
+    },
+    {
+      "title": "命好的人体现在哪些方面",
+      "hot_value": 509212,
+      "link": "https://s.weibo.com/weibo?q=%E5%91%BD%E5%A5%BD%E7%9A%84%E4%BA%BA%E4%BD%93%E7%8E%B0%E5%9C%A8%E5%93%AA%E4%BA%9B%E6%96%B9%E9%9D%A2",
+      "rank": 6
+    },
+    {
+      "title": "千万不要坐公园的碗状转椅",
+      "hot_value": 467921,
+      "link": "https://s.weibo.com/weibo?q=%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E5%9D%90%E5%85%AC%E5%9B%AD%E7%9A%84%E7%A2%97%E7%8A%B6%E8%BD%AC%E6%A4%85",
+      "rank": 7
+    },
+    {
+      "title": "疑似巴西队无人在意内马尔",
+      "hot_value": 449184,
+      "link": "https://s.weibo.com/weibo?q=%E7%96%91%E4%BC%BC%E5%B7%B4%E8%A5%BF%E9%98%9F%E6%97%A0%E4%BA%BA%E5%9C%A8%E6%84%8F%E5%86%85%E9%A9%AC%E5%B0%94",
+      "rank": 8
+    },
+    {
+      "title": "中国影视之夜红毯",
+      "hot_value": 444502,
+      "link": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E5%BD%B1%E8%A7%86%E4%B9%8B%E5%A4%9C%E7%BA%A2%E6%AF%AF",
+      "rank": 9
+    },
+    {
+      "title": "山姆向会员致歉",
+      "hot_value": 443268,
+      "link": "https://s.weibo.com/weibo?q=%E5%B1%B1%E5%A7%86%E5%90%91%E4%BC%9A%E5%91%98%E8%87%B4%E6%AD%89",
+      "rank": 10
+    },
+    {
+      "title": "好久不见迪丽热巴走红毯",
+      "hot_value": 440396,
+      "link": "https://s.weibo.com/weibo?q=%E5%A5%BD%E4%B9%85%E4%B8%8D%E8%A7%81%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E8%B5%B0%E7%BA%A2%E6%AF%AF",
+      "rank": 11
+    },
+    {
+      "title": "珠峰向导被遗忘在死亡区6天6夜生还",
+      "hot_value": 438337,
+      "link": "https://s.weibo.com/weibo?q=%E7%8F%A0%E5%B3%B0%E5%90%91%E5%AF%BC%E8%A2%AB%E9%81%97%E5%BF%98%E5%9C%A8%E6%AD%BB%E4%BA%A1%E5%8C%BA6%E5%A4%A96%E5%A4%9C%E7%94%9F%E8%BF%98",
+      "rank": 12
+    },
+    {
+      "title": "朱一龙敏感度",
+      "hot_value": 436604,
+      "link": "https://s.weibo.com/weibo?q=%E6%9C%B1%E4%B8%80%E9%BE%99%E6%95%8F%E6%84%9F%E5%BA%A6",
+      "rank": 13
+    },
+    {
+      "title": "贺峻霖回复严浩翔的祝福",
+      "hot_value": 435931,
+      "link": "https://s.weibo.com/weibo?q=%E8%B4%BA%E5%B3%BB%E9%9C%96%E5%9B%9E%E5%A4%8D%E4%B8%A5%E6%B5%A9%E7%BF%94%E7%9A%84%E7%A5%9D%E7%A6%8F",
+      "rank": 14
+    },
+    {
+      "title": "iG官宣TheShy归队",
+      "hot_value": 432317,
+      "link": "https://s.weibo.com/weibo?q=iG%E5%AE%98%E5%AE%A3TheShy%E5%BD%92%E9%98%9F",
+      "rank": 15
+    },
+    {
+      "title": "比尔盖茨自曝出轨20多次",
+      "hot_value": 431022,
+      "link": "https://s.weibo.com/weibo?q=%E6%AF%94%E5%B0%94%E7%9B%96%E8%8C%A8%E8%87%AA%E6%9B%9D%E5%87%BA%E8%BD%A820%E5%A4%9A%E6%AC%A1",
+      "rank": 16
+    },
+    {
+      "title": "中国影视之夜",
+      "hot_value": 428962,
+      "link": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E5%BD%B1%E8%A7%86%E4%B9%8B%E5%A4%9C",
+      "rank": 17
+    },
+    {
+      "title": "王俊凯董子健合照被判AI了",
+      "hot_value": 426698,
+      "link": "https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%E8%91%A3%E5%AD%90%E5%81%A5%E5%90%88%E7%85%A7%E8%A2%AB%E5%88%A4AI%E4%BA%86",
+      "rank": 18
+    },
+    {
+      "title": "戚薇李承铉女儿11岁近照",
+      "hot_value": 424210,
+      "link": "https://s.weibo.com/weibo?q=%E6%88%9A%E8%96%87%E6%9D%8E%E6%89%BF%E9%93%89%E5%A5%B3%E5%84%BF11%E5%B2%81%E8%BF%91%E7%85%A7",
+      "rank": 19
+    },
+    {
+      "title": "弟弟被拐后姐姐被妈妈从小打到大",
+      "hot_value": 421923,
+      "link": "https://s.weibo.com/weibo?q=%E5%BC%9F%E5%BC%9F%E8%A2%AB%E6%8B%90%E5%90%8E%E5%A7%90%E5%A7%90%E8%A2%AB%E5%A6%88%E5%A6%88%E4%BB%8E%E5%B0%8F%E6%89%93%E5%88%B0%E5%A4%A7",
+      "rank": 20
+    },
+    {
+      "title": "深大副校长给毕业生唱心愿便利贴",
+      "hot_value": 420210,
+      "link": "https://s.weibo.com/weibo?q=%E6%B7%B1%E5%A4%A7%E5%89%AF%E6%A0%A1%E9%95%BF%E7%BB%99%E6%AF%95%E4%B8%9A%E7%94%9F%E5%94%B1%E5%BF%83%E6%84%BF%E4%BE%BF%E5%88%A9%E8%B4%B4",
+      "rank": 21
+    },
+    {
+      "title": "迪丽热巴玫粉高定",
+      "hot_value": 418904,
+      "link": "https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%8E%AB%E7%B2%89%E9%AB%98%E5%AE%9A",
+      "rank": 22
+    },
+    {
+      "title": "周雨彤回应两年前的争议",
+      "hot_value": 416211,
+      "link": "https://s.weibo.com/weibo?q=%E5%91%A8%E9%9B%A8%E5%BD%A4%E5%9B%9E%E5%BA%94%E4%B8%A4%E5%B9%B4%E5%89%8D%E7%9A%84%E4%BA%89%E8%AE%AE",
+      "rank": 23
+    },
+    {
+      "title": "FBI特工已获准进入柬埔寨电诈园区",
+      "hot_value": 414968,
+      "link": "https://s.weibo.com/weibo?q=FBI%E7%89%B9%E5%B7%A5%E5%B7%B2%E8%8E%B7%E5%87%86%E8%BF%9B%E5%85%A5%E6%9F%AC%E5%9F%94%E5%AF%A8%E7%94%B5%E8%AF%88%E5%9B%AD%E5%8C%BA",
+      "rank": 24
+    },
+    {
+      "title": "郭碧婷曾说生二胎后下半身动不了",
+      "hot_value": 411399,
+      "link": "https://s.weibo.com/weibo?q=%E9%83%AD%E7%A2%A7%E5%A9%B7%E6%9B%BE%E8%AF%B4%E7%94%9F%E4%BA%8C%E8%83%8E%E5%90%8E%E4%B8%8B%E5%8D%8A%E8%BA%AB%E5%8A%A8%E4%B8%8D%E4%BA%86",
+      "rank": 25
+    },
+    {
+      "title": "周杰伦女儿殿下",
+      "hot_value": 408845,
+      "link": "https://s.weibo.com/weibo?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%E5%A5%B3%E5%84%BF%E6%AE%BF%E4%B8%8B",
+      "rank": 26
+    },
+    {
+      "title": "21车冻货偏航涉事公职人员被立案",
+      "hot_value": 406803,
+      "link": "https://s.weibo.com/weibo?q=21%E8%BD%A6%E5%86%BB%E8%B4%A7%E5%81%8F%E8%88%AA%E6%B6%89%E4%BA%8B%E5%85%AC%E8%81%8C%E4%BA%BA%E5%91%98%E8%A2%AB%E7%AB%8B%E6%A1%88",
+      "rank": 27
+    },
+    {
+      "title": "618终极冲刺冲冲冲",
+      "hot_value": 406006,
+      "link": "https://s.weibo.com/weibo?q=618%E7%BB%88%E6%9E%81%E5%86%B2%E5%88%BA%E5%86%B2%E5%86%B2%E5%86%B2",
+      "rank": 28
+    },
+    {
+      "title": "伊朗队抵美限时参赛踢完几小时离境",
+      "hot_value": 402810,
+      "link": "https://s.weibo.com/weibo?q=%E4%BC%8A%E6%9C%97%E9%98%9F%E6%8A%B5%E7%BE%8E%E9%99%90%E6%97%B6%E5%8F%82%E8%B5%9B%E8%B8%A2%E5%AE%8C%E5%87%A0%E5%B0%8F%E6%97%B6%E7%A6%BB%E5%A2%83",
+      "rank": 29
+    },
+    {
+      "title": "中国纯硅成功突破",
+      "hot_value": 400654,
+      "link": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E7%BA%AF%E7%A1%85%E6%88%90%E5%8A%9F%E7%AA%81%E7%A0%B4",
+      "rank": 30
+    },
+    {
+      "title": "客服回应934元6颗荔枝",
+      "hot_value": 399031,
+      "link": "https://s.weibo.com/weibo?q=%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%BA%94934%E5%85%836%E9%A2%97%E8%8D%94%E6%9E%9D",
+      "rank": 31
+    },
+    {
+      "title": "李想定义具身智能汽车",
+      "hot_value": 398253,
+      "link": "https://s.weibo.com/weibo?q=%E6%9D%8E%E6%83%B3%E5%AE%9A%E4%B9%89%E5%85%B7%E8%BA%AB%E6%99%BA%E8%83%BD%E6%B1%BD%E8%BD%A6",
+      "rank": 32
+    },
+    {
+      "title": "炽夏定档",
+      "hot_value": 395979,
+      "link": "https://s.weibo.com/weibo?q=%E7%82%BD%E5%A4%8F%E5%AE%9A%E6%A1%A3",
+      "rank": 33
+    },
+    {
+      "title": "乘风2026总决赛solo",
+      "hot_value": 392694,
+      "link": "https://s.weibo.com/weibo?q=%E4%B9%98%E9%A3%8E2026%E6%80%BB%E5%86%B3%E8%B5%9Bsolo",
+      "rank": 34
+    },
+    {
+      "title": "日本网友称赛场捡垃圾是直播表演",
+      "hot_value": 390170,
+      "link": "https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E7%BD%91%E5%8F%8B%E7%A7%B0%E8%B5%9B%E5%9C%BA%E6%8D%A1%E5%9E%83%E5%9C%BE%E6%98%AF%E7%9B%B4%E6%92%AD%E8%A1%A8%E6%BC%94",
+      "rank": 35
+    },
+    {
+      "title": "杨坤认为歌手节目10人一期有点多",
+      "hot_value": 389545,
+      "link": "https://s.weibo.com/weibo?q=%E6%9D%A8%E5%9D%A4%E8%AE%A4%E4%B8%BA%E6%AD%8C%E6%89%8B%E8%8A%82%E7%9B%AE10%E4%BA%BA%E4%B8%80%E6%9C%9F%E6%9C%89%E7%82%B9%E5%A4%9A",
+      "rank": 36
+    },
+    {
+      "title": "世界杯",
+      "hot_value": 386788,
+      "link": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF",
+      "rank": 37
+    },
+    {
+      "title": "1万7买塑形衣穿上后吃不下饭",
+      "hot_value": 384036,
+      "link": "https://s.weibo.com/weibo?q=1%E4%B8%877%E4%B9%B0%E5%A1%91%E5%BD%A2%E8%A1%A3%E7%A9%BF%E4%B8%8A%E5%90%8E%E5%90%83%E4%B8%8D%E4%B8%8B%E9%A5%AD",
+      "rank": 38
+    },
+    {
+      "title": "每年蹲618晚8的仪式感",
+      "hot_value": 383468,
+      "link": "https://s.weibo.com/weibo?q=%E6%AF%8F%E5%B9%B4%E8%B9%B2618%E6%99%9A8%E7%9A%84%E4%BB%AA%E5%BC%8F%E6%84%9F",
+      "rank": 39
+    },
+    {
+      "title": "所有熬夜无恙都是身体在强忍",
+      "hot_value": 381271,
+      "link": "https://s.weibo.com/weibo?q=%E6%89%80%E6%9C%89%E7%86%AC%E5%A4%9C%E6%97%A0%E6%81%99%E9%83%BD%E6%98%AF%E8%BA%AB%E4%BD%93%E5%9C%A8%E5%BC%BA%E5%BF%8D",
+      "rank": 40
+    },
+    {
+      "title": "京东率先采用人形机器人直播比价",
+      "hot_value": 378088,
+      "link": "https://s.weibo.com/weibo?q=%E4%BA%AC%E4%B8%9C%E7%8E%87%E5%85%88%E9%87%87%E7%94%A8%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%9B%B4%E6%92%AD%E6%AF%94%E4%BB%B7",
+      "rank": 41
+    },
+    {
+      "title": "618服饰多件买更划算",
+      "hot_value": 375753,
+      "link": "https://s.weibo.com/weibo?q=618%E6%9C%8D%E9%A5%B0%E5%A4%9A%E4%BB%B6%E4%B9%B0%E6%9B%B4%E5%88%92%E7%AE%97",
+      "rank": 42
+    },
+    {
+      "title": "买空调为什么不能只看低价",
+      "hot_value": 373873,
+      "link": "https://s.weibo.com/weibo?q=%E4%B9%B0%E7%A9%BA%E8%B0%83%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E8%83%BD%E5%8F%AA%E7%9C%8B%E4%BD%8E%E4%BB%B7",
+      "rank": 43
+    },
+    {
+      "title": "梁洛施骨相",
+      "hot_value": 372301,
+      "link": "https://s.weibo.com/weibo?q=%E6%A2%81%E6%B4%9B%E6%96%BD%E9%AA%A8%E7%9B%B8",
+      "rank": 44
+    },
+    {
+      "title": "618下半年护肤品一次买齐",
+      "hot_value": 369988,
+      "link": "https://s.weibo.com/weibo?q=618%E4%B8%8B%E5%8D%8A%E5%B9%B4%E6%8A%A4%E8%82%A4%E5%93%81%E4%B8%80%E6%AC%A1%E4%B9%B0%E9%BD%90",
+      "rank": 45
+    },
+    {
+      "title": "王鹤棣胸口纹身",
+      "hot_value": 368993,
+      "link": "https://s.weibo.com/weibo?q=%E7%8E%8B%E9%B9%A4%E6%A3%A3%E8%83%B8%E5%8F%A3%E7%BA%B9%E8%BA%AB",
+      "rank": 46
+    },
+    {
+      "title": "谁懂夏天看到电费账单的痛",
+      "hot_value": 364843,
+      "link": "https://s.weibo.com/weibo?q=%E8%B0%81%E6%87%82%E5%A4%8F%E5%A4%A9%E7%9C%8B%E5%88%B0%E7%94%B5%E8%B4%B9%E8%B4%A6%E5%8D%95%E7%9A%84%E7%97%9B",
+      "rank": 47
+    },
+    {
+      "title": "TF四代突围2.0",
+      "hot_value": 362734,
+      "link": "https://s.weibo.com/weibo?q=TF%E5%9B%9B%E4%BB%A3%E7%AA%81%E5%9B%B42.0",
+      "rank": 48
+    },
+    {
+      "title": "丁程鑫发贺峻霖跳手势舞",
+      "hot_value": 362335,
+      "link": "https://s.weibo.com/weibo?q=%E4%B8%81%E7%A8%8B%E9%91%AB%E5%8F%91%E8%B4%BA%E5%B3%BB%E9%9C%96%E8%B7%B3%E6%89%8B%E5%8A%BF%E8%88%9E",
+      "rank": 49
+    },
+    {
+      "title": "郑钦文vs萨卡里",
+      "hot_value": 360400,
+      "link": "https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%87vs%E8%90%A8%E5%8D%A1%E9%87%8C",
+      "rank": 50
+    }
+  ]
+}
