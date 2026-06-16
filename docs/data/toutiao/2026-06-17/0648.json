@@ -1,0 +1,307 @@
+{
+  "platform": "toutiao",
+  "platform_name": "今日头条",
+  "time": "2026-06-17 06:48:39",
+  "items": [
+    {
+      "title": "姆巴佩双响！法国3-1复仇塞内加尔",
+      "hot_value": 15330566,
+      "link": "https://www.toutiao.com/trending/7651490598889799690",
+      "rank": 1
+    },
+    {
+      "title": "姆巴佩世界杯进14球超越梅西",
+      "hot_value": 13871670,
+      "link": "https://www.toutiao.com/trending/7651934512096608310",
+      "rank": 2
+    },
+    {
+      "title": "全国工业企业销售收入实现较快增长",
+      "hot_value": 12551606,
+      "link": "https://www.toutiao.com/trending/7651564704153829419",
+      "rank": 3
+    },
+    {
+      "title": "梅西国家队第200场倒计时",
+      "hot_value": 11357162,
+      "link": "https://www.toutiao.com/trending/7651810445099060799",
+      "rank": 4
+    },
+    {
+      "title": "曝DeepSeek首轮融资梁文锋出资200亿",
+      "hot_value": 10276385,
+      "link": "https://www.toutiao.com/trending/7651579346738855979",
+      "rank": 5
+    },
+    {
+      "title": "姆巴佩1场比赛2破纪录",
+      "hot_value": 9298458,
+      "link": "https://www.toutiao.com/trending/7651810445099175487",
+      "rank": 6
+    },
+    {
+      "title": "法国队门框已5次“挽救”球队",
+      "hot_value": 8413593,
+      "link": "https://www.toutiao.com/trending/7652072399491645494",
+      "rank": 7
+    },
+    {
+      "title": "家长找了1个月的耳机被女儿放洞洞鞋上",
+      "hot_value": 7612933,
+      "link": "https://www.toutiao.com/trending/7651547260879896585",
+      "rank": 8
+    },
+    {
+      "title": "领证回家改口叫妈 婆婆反应亮了",
+      "hot_value": 6888467,
+      "link": "https://www.toutiao.com/trending/7651453581614432275",
+      "rank": 9
+    },
+    {
+      "title": "高效！姆巴佩世界杯15场14球",
+      "hot_value": 6232943,
+      "link": "https://www.toutiao.com/trending/7651810445099109951",
+      "rank": 10
+    },
+    {
+      "title": "“绵阳近期开通地铁1号线”不实",
+      "hot_value": 5639800,
+      "link": "https://www.toutiao.com/trending/7651893033147383817",
+      "rank": 11
+    },
+    {
+      "title": "印尼一女子遭8米长蟒蛇缠绕活吞致死",
+      "hot_value": 5103102,
+      "link": "https://www.toutiao.com/trending/7651206284557844521",
+      "rank": 12
+    },
+    {
+      "title": "为什么一到世界杯英国就变成了英格兰",
+      "hot_value": 4617477,
+      "link": "https://www.toutiao.com/trending/7651903102145249289",
+      "rank": 13
+    },
+    {
+      "title": "特朗普和马克龙为何为一瓶红酒较劲",
+      "hot_value": 4178066,
+      "link": "https://www.toutiao.com/trending/7651982793936735807",
+      "rank": 14
+    },
+    {
+      "title": "华人在日本打工年年加薪汇回国变少",
+      "hot_value": 3780471,
+      "link": "https://www.toutiao.com/trending/7651942951462899263",
+      "rank": 15
+    },
+    {
+      "title": "重庆市委书记：全面彻底肃清流毒影响",
+      "hot_value": 3420711,
+      "link": "https://www.toutiao.com/trending/7651601846431629331",
+      "rank": 16
+    },
+    {
+      "title": "女子被困电梯获救时坠入井底身亡",
+      "hot_value": 3095187,
+      "link": "https://www.toutiao.com/trending/7651601852219424822",
+      "rank": 17
+    },
+    {
+      "title": "日本民众在中国驻日大使馆前道歉",
+      "hot_value": 2800641,
+      "link": "https://www.toutiao.com/trending/7650880982704128006",
+      "rank": 18
+    },
+    {
+      "title": "最大利空消失 金属要王者归来了吗",
+      "hot_value": 2534125,
+      "link": "https://www.toutiao.com/trending/7651933308435041842",
+      "rank": 19
+    },
+    {
+      "title": "伊朗队突然被勒令离开美国",
+      "hot_value": 2292971,
+      "link": "https://www.toutiao.com/trending/7651870551576677938",
+      "rank": 20
+    },
+    {
+      "title": "100万存一年利息只有9500元了",
+      "hot_value": 2074766,
+      "link": "https://www.toutiao.com/trending/7651635738920157194",
+      "rank": 21
+    },
+    {
+      "title": "46岁陈好疑似怀第四胎",
+      "hot_value": 1877326,
+      "link": "https://www.toutiao.com/trending/7651393740616253490",
+      "rank": 22
+    },
+    {
+      "title": "为什么DeepSeek是AI泡沫斩杀线",
+      "hot_value": 1698675,
+      "link": "https://www.toutiao.com/trending/7651979830128283145",
+      "rank": 23
+    },
+    {
+      "title": "员工偷换卤肉店收款码半年转走近10万",
+      "hot_value": 1537024,
+      "link": "https://www.toutiao.com/trending/7651963812170006534",
+      "rank": 24
+    },
+    {
+      "title": "“退货姐”衣食住行各方面恶意退款",
+      "hot_value": 1390757,
+      "link": "https://www.toutiao.com/trending/7651419171792584740",
+      "rank": 25
+    },
+    {
+      "title": "清华大学首度跻身全球前10",
+      "hot_value": 1258409,
+      "link": "https://www.toutiao.com/trending/7651810075542224939",
+      "rank": 26
+    },
+    {
+      "title": "美政府或将为伊朗设3000亿美元基金",
+      "hot_value": 1138656,
+      "link": "https://www.toutiao.com/trending/7650825259012227118",
+      "rank": 27
+    },
+    {
+      "title": "女生每天都能遇到固定通勤搭子",
+      "hot_value": 1030298,
+      "link": "https://www.toutiao.com/trending/7651819733221834790",
+      "rank": 28
+    },
+    {
+      "title": "打虎！“内鬼”姜宏伟被查",
+      "hot_value": 932252,
+      "link": "https://www.toutiao.com/trending/7651436375388979243",
+      "rank": 29
+    },
+    {
+      "title": "女儿鼻孔塞异物爸爸嘴对嘴吹出",
+      "hot_value": 843537,
+      "link": "https://www.toutiao.com/trending/7651535488113803306",
+      "rank": 30
+    },
+    {
+      "title": "业内：A股年内第2个配置窗口值得关注",
+      "hot_value": 763263,
+      "link": "https://www.toutiao.com/trending/7651985316760260132",
+      "rank": 31
+    },
+    {
+      "title": "男子网络赌球下注45万被判刑9个月",
+      "hot_value": 690629,
+      "link": "https://www.toutiao.com/trending/7651894867975028746",
+      "rank": 32
+    },
+    {
+      "title": "白鹿新剧《莫离》播放破2亿",
+      "hot_value": 624907,
+      "link": "https://www.toutiao.com/trending/7651094103380033574",
+      "rank": 33
+    },
+    {
+      "title": "三辆大巴车高速并排“压马路”被处罚",
+      "hot_value": 565439,
+      "link": "https://www.toutiao.com/trending/7651619596340314162",
+      "rank": 34
+    },
+    {
+      "title": "大爷硬核甩蛇手法娴熟",
+      "hot_value": 511631,
+      "link": "https://www.toutiao.com/trending/7651902297305038890",
+      "rank": 35
+    },
+    {
+      "title": "一把中国土卡死日本两大巨头",
+      "hot_value": 462942,
+      "link": "https://www.toutiao.com/trending/7651952014389153334",
+      "rank": 36
+    },
+    {
+      "title": "北方雨多是因为“雨带北移”吗",
+      "hot_value": 418888,
+      "link": "https://www.toutiao.com/trending/7651052970561880074",
+      "rank": 37
+    },
+    {
+      "title": "上合组织收到约20份加入申请说明什么",
+      "hot_value": 379025,
+      "link": "https://www.toutiao.com/trending/7651971814205165110",
+      "rank": 38
+    },
+    {
+      "title": "山姆遭约谈拷问极速达",
+      "hot_value": 342956,
+      "link": "https://www.toutiao.com/trending/7651984500141854217",
+      "rank": 39
+    },
+    {
+      "title": "日本大肆储备远程弹药意欲何为",
+      "hot_value": 310319,
+      "link": "https://www.toutiao.com/trending/7651762988067851818",
+      "rank": 40
+    },
+    {
+      "title": "梅西：带着中国球迷的爱征战世界杯",
+      "hot_value": 280789,
+      "link": "https://www.toutiao.com/trending/7651060186760904767",
+      "rank": 41
+    },
+    {
+      "title": "美国B-52战略轰炸机坠毁根源何在",
+      "hot_value": 254068,
+      "link": "https://www.toutiao.com/trending/7651950430213131819",
+      "rank": 42
+    },
+    {
+      "title": "司机突发脑梗 把车开到军营门口求助",
+      "hot_value": 229890,
+      "link": "https://www.toutiao.com/trending/7651916088480923711",
+      "rank": 43
+    },
+    {
+      "title": "媒体：伊朗踢个球美国如临大敌",
+      "hot_value": 208013,
+      "link": "https://www.toutiao.com/trending/7651933802163342902",
+      "rank": 44
+    },
+    {
+      "title": "青海地震现场路灯晃动画面曝光",
+      "hot_value": 188218,
+      "link": "https://www.toutiao.com/trending/7651762988067819050",
+      "rank": 45
+    },
+    {
+      "title": "瑞士爆发抗议为何要法国付钱",
+      "hot_value": 170307,
+      "link": "https://www.toutiao.com/trending/7651976185701731846",
+      "rank": 46
+    },
+    {
+      "title": "国际足联主席到更衣室探望伊朗球员",
+      "hot_value": 154100,
+      "link": "https://www.toutiao.com/trending/7651693987186851883",
+      "rank": 47
+    },
+    {
+      "title": "棉被遭仅退款 商家3000公里寻人",
+      "hot_value": 139435,
+      "link": "https://www.toutiao.com/trending/7651794610821873727",
+      "rank": 48
+    },
+    {
+      "title": "DeepSeek完成超500亿元融资",
+      "hot_value": 126166,
+      "link": "https://www.toutiao.com/trending/7651870742430092836",
+      "rank": 49
+    },
+    {
+      "title": "佛得角是怎么踢进世界杯的",
+      "hot_value": 114160,
+      "link": "https://www.toutiao.com/trending/7651823022051098678",
+      "rank": 50
+    }
+  ]
+}
