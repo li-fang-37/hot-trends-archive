@@ -1,0 +1,307 @@
+{
+  "platform": "weibo",
+  "platform_name": "微博热搜",
+  "time": "2026-06-18 07:54:38",
+  "items": [
+    {
+      "title": "C罗状态",
+      "hot_value": 3613093,
+      "link": "https://s.weibo.com/weibo?q=C%E7%BD%97%E7%8A%B6%E6%80%81",
+      "rank": 1
+    },
+    {
+      "title": "英格兰4比2克罗地亚",
+      "hot_value": 1392491,
+      "link": "https://s.weibo.com/weibo?q=%E8%8B%B1%E6%A0%BC%E5%85%B04%E6%AF%942%E5%85%8B%E7%BD%97%E5%9C%B0%E4%BA%9A",
+      "rank": 2
+    },
+    {
+      "title": "开局之年看中国奋进陕西谱新篇",
+      "hot_value": 1364169,
+      "link": "https://s.weibo.com/weibo?q=%E5%BC%80%E5%B1%80%E4%B9%8B%E5%B9%B4%E7%9C%8B%E4%B8%AD%E5%9B%BD%E5%A5%8B%E8%BF%9B%E9%99%95%E8%A5%BF%E8%B0%B1%E6%96%B0%E7%AF%87",
+      "rank": 3
+    },
+    {
+      "title": "诸神黄昏只有C罗听进去了",
+      "hot_value": 1360163,
+      "link": "https://s.weibo.com/weibo?q=%E8%AF%B8%E7%A5%9E%E9%BB%84%E6%98%8F%E5%8F%AA%E6%9C%89C%E7%BD%97%E5%90%AC%E8%BF%9B%E5%8E%BB%E4%BA%86",
+      "rank": 4
+    },
+    {
+      "title": "克罗地亚门将神了",
+      "hot_value": 960096,
+      "link": "https://s.weibo.com/weibo?q=%E5%85%8B%E7%BD%97%E5%9C%B0%E4%BA%9A%E9%97%A8%E5%B0%86%E7%A5%9E%E4%BA%86",
+      "rank": 5
+    },
+    {
+      "title": "王安宇李昀锐笑妃给哭妃包场",
+      "hot_value": 208230,
+      "link": "https://s.weibo.com/weibo?q=%E7%8E%8B%E5%AE%89%E5%AE%87%E6%9D%8E%E6%98%80%E9%94%90%E7%AC%91%E5%A6%83%E7%BB%99%E5%93%AD%E5%A6%83%E5%8C%85%E5%9C%BA",
+      "rank": 6
+    },
+    {
+      "title": "南部档案",
+      "hot_value": 207986,
+      "link": "https://s.weibo.com/weibo?q=%E5%8D%97%E9%83%A8%E6%A1%A3%E6%A1%88",
+      "rank": 7
+    },
+    {
+      "title": "豆包每天收入不足百万",
+      "hot_value": 207827,
+      "link": "https://s.weibo.com/weibo?q=%E8%B1%86%E5%8C%85%E6%AF%8F%E5%A4%A9%E6%94%B6%E5%85%A5%E4%B8%8D%E8%B6%B3%E7%99%BE%E4%B8%87",
+      "rank": 8
+    },
+    {
+      "title": "问心",
+      "hot_value": 207582,
+      "link": "https://s.weibo.com/weibo?q=%E9%97%AE%E5%BF%83",
+      "rank": 9
+    },
+    {
+      "title": "美联储",
+      "hot_value": 207314,
+      "link": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%81%94%E5%82%A8",
+      "rank": 10
+    },
+    {
+      "title": "张凌赫很久没人叫我学长了",
+      "hot_value": 207175,
+      "link": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%87%8C%E8%B5%AB%E5%BE%88%E4%B9%85%E6%B2%A1%E4%BA%BA%E5%8F%AB%E6%88%91%E5%AD%A6%E9%95%BF%E4%BA%86",
+      "rank": 11
+    },
+    {
+      "title": "C罗 刚果保镖",
+      "hot_value": 206876,
+      "link": "https://s.weibo.com/weibo?q=C%E7%BD%97%20%E5%88%9A%E6%9E%9C%E4%BF%9D%E9%95%96",
+      "rank": 12
+    },
+    {
+      "title": "32岁的鞠婧祎",
+      "hot_value": 206651,
+      "link": "https://s.weibo.com/weibo?q=32%E5%B2%81%E7%9A%84%E9%9E%A0%E5%A9%A7%E7%A5%8E",
+      "rank": 13
+    },
+    {
+      "title": "丈夫脑死亡400余天妻子执意留身边",
+      "hot_value": 206412,
+      "link": "https://s.weibo.com/weibo?q=%E4%B8%88%E5%A4%AB%E8%84%91%E6%AD%BB%E4%BA%A1400%E4%BD%99%E5%A4%A9%E5%A6%BB%E5%AD%90%E6%89%A7%E6%84%8F%E7%95%99%E8%BA%AB%E8%BE%B9",
+      "rank": 14
+    },
+    {
+      "title": "葡萄牙1比1民主刚果",
+      "hot_value": 206270,
+      "link": "https://s.weibo.com/weibo?q=%E8%91%A1%E8%90%84%E7%89%991%E6%AF%941%E6%B0%91%E4%B8%BB%E5%88%9A%E6%9E%9C",
+      "rank": 15
+    },
+    {
+      "title": "葡萄牙vs民主刚果",
+      "hot_value": 205938,
+      "link": "https://s.weibo.com/weibo?q=%E8%91%A1%E8%90%84%E7%89%99vs%E6%B0%91%E4%B8%BB%E5%88%9A%E6%9E%9C",
+      "rank": 16
+    },
+    {
+      "title": "12岁男孩偷开邻居车高速狂飙6小时",
+      "hot_value": 205670,
+      "link": "https://s.weibo.com/weibo?q=12%E5%B2%81%E7%94%B7%E5%AD%A9%E5%81%B7%E5%BC%80%E9%82%BB%E5%B1%85%E8%BD%A6%E9%AB%98%E9%80%9F%E7%8B%82%E9%A3%996%E5%B0%8F%E6%97%B6",
+      "rank": 17
+    },
+    {
+      "title": "去大医院看病总有种无力感",
+      "hot_value": 205397,
+      "link": "https://s.weibo.com/weibo?q=%E5%8E%BB%E5%A4%A7%E5%8C%BB%E9%99%A2%E7%9C%8B%E7%97%85%E6%80%BB%E6%9C%89%E7%A7%8D%E6%97%A0%E5%8A%9B%E6%84%9F",
+      "rank": 18
+    },
+    {
+      "title": "现在买车增程还是纯电",
+      "hot_value": 205211,
+      "link": "https://s.weibo.com/weibo?q=%E7%8E%B0%E5%9C%A8%E4%B9%B0%E8%BD%A6%E5%A2%9E%E7%A8%8B%E8%BF%98%E6%98%AF%E7%BA%AF%E7%94%B5",
+      "rank": 19
+    },
+    {
+      "title": "抓特务",
+      "hot_value": 205020,
+      "link": "https://s.weibo.com/weibo?q=%E6%8A%93%E7%89%B9%E5%8A%A1",
+      "rank": 20
+    },
+    {
+      "title": "C罗全场0射正",
+      "hot_value": 204641,
+      "link": "https://s.weibo.com/weibo?q=C%E7%BD%97%E5%85%A8%E5%9C%BA0%E5%B0%84%E6%AD%A3",
+      "rank": 21
+    },
+    {
+      "title": "72家A股公司提示风险",
+      "hot_value": 204497,
+      "link": "https://s.weibo.com/weibo?q=72%E5%AE%B6A%E8%82%A1%E5%85%AC%E5%8F%B8%E6%8F%90%E7%A4%BA%E9%A3%8E%E9%99%A9",
+      "rank": 22
+    },
+    {
+      "title": "梅西 C罗",
+      "hot_value": 204173,
+      "link": "https://s.weibo.com/weibo?q=%E6%A2%85%E8%A5%BF%20C%E7%BD%97",
+      "rank": 23
+    },
+    {
+      "title": "美伊协议全文曝光",
+      "hot_value": 203974,
+      "link": "https://s.weibo.com/weibo?q=%E7%BE%8E%E4%BC%8A%E5%8D%8F%E8%AE%AE%E5%85%A8%E6%96%87%E6%9B%9D%E5%85%89",
+      "rank": 24
+    },
+    {
+      "title": "美联储加息预期降温",
+      "hot_value": 203648,
+      "link": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%81%94%E5%82%A8%E5%8A%A0%E6%81%AF%E9%A2%84%E6%9C%9F%E9%99%8D%E6%B8%A9",
+      "rank": 25
+    },
+    {
+      "title": "天天来吃面的顾客1天没来店主报警",
+      "hot_value": 203585,
+      "link": "https://s.weibo.com/weibo?q=%E5%A4%A9%E5%A4%A9%E6%9D%A5%E5%90%83%E9%9D%A2%E7%9A%84%E9%A1%BE%E5%AE%A21%E5%A4%A9%E6%B2%A1%E6%9D%A5%E5%BA%97%E4%B8%BB%E6%8A%A5%E8%AD%A6",
+      "rank": 26
+    },
+    {
+      "title": "宝妈带1岁娃饭店避雨遭拼命驱赶",
+      "hot_value": 199034,
+      "link": "https://s.weibo.com/weibo?q=%E5%AE%9D%E5%A6%88%E5%B8%A61%E5%B2%81%E5%A8%83%E9%A5%AD%E5%BA%97%E9%81%BF%E9%9B%A8%E9%81%AD%E6%8B%BC%E5%91%BD%E9%A9%B1%E8%B5%B6",
+      "rank": 27
+    },
+    {
+      "title": "刘诗诗刘亦菲活动生图",
+      "hot_value": 187416,
+      "link": "https://s.weibo.com/weibo?q=%E5%88%98%E8%AF%97%E8%AF%97%E5%88%98%E4%BA%A6%E8%8F%B2%E6%B4%BB%E5%8A%A8%E7%94%9F%E5%9B%BE",
+      "rank": 28
+    },
+    {
+      "title": "猫妈妈接纳孤儿小猫",
+      "hot_value": 184752,
+      "link": "https://s.weibo.com/weibo?q=%E7%8C%AB%E5%A6%88%E5%A6%88%E6%8E%A5%E7%BA%B3%E5%AD%A4%E5%84%BF%E5%B0%8F%E7%8C%AB",
+      "rank": 29
+    },
+    {
+      "title": "王安宇又唱了想你的夜",
+      "hot_value": 184390,
+      "link": "https://s.weibo.com/weibo?q=%E7%8E%8B%E5%AE%89%E5%AE%87%E5%8F%88%E5%94%B1%E4%BA%86%E6%83%B3%E4%BD%A0%E7%9A%84%E5%A4%9C",
+      "rank": 30
+    },
+    {
+      "title": "克罗地亚世界波",
+      "hot_value": 184174,
+      "link": "https://s.weibo.com/weibo?q=%E5%85%8B%E7%BD%97%E5%9C%B0%E4%BA%9A%E4%B8%96%E7%95%8C%E6%B3%A2",
+      "rank": 31
+    },
+    {
+      "title": "主持人问肖战怎么又变帅了",
+      "hot_value": 183827,
+      "link": "https://s.weibo.com/weibo?q=%E4%B8%BB%E6%8C%81%E4%BA%BA%E9%97%AE%E8%82%96%E6%88%98%E6%80%8E%E4%B9%88%E5%8F%88%E5%8F%98%E5%B8%85%E4%BA%86",
+      "rank": 32
+    },
+    {
+      "title": "窦骁结婚时网友调侃戴军娶了阿莲",
+      "hot_value": 180269,
+      "link": "https://s.weibo.com/weibo?q=%E7%AA%A6%E9%AA%81%E7%BB%93%E5%A9%9A%E6%97%B6%E7%BD%91%E5%8F%8B%E8%B0%83%E4%BE%83%E6%88%B4%E5%86%9B%E5%A8%B6%E4%BA%86%E9%98%BF%E8%8E%B2",
+      "rank": 33
+    },
+    {
+      "title": "英格兰克罗地亚 好看",
+      "hot_value": 177192,
+      "link": "https://s.weibo.com/weibo?q=%E8%8B%B1%E6%A0%BC%E5%85%B0%E5%85%8B%E7%BD%97%E5%9C%B0%E4%BA%9A%20%E5%A5%BD%E7%9C%8B",
+      "rank": 34
+    },
+    {
+      "title": "莫德里奇送点",
+      "hot_value": 173243,
+      "link": "https://s.weibo.com/weibo?q=%E8%8E%AB%E5%BE%B7%E9%87%8C%E5%A5%87%E9%80%81%E7%82%B9",
+      "rank": 35
+    },
+    {
+      "title": "世界杯",
+      "hot_value": 172061,
+      "link": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF",
+      "rank": 36
+    },
+    {
+      "title": "男子与15岁女孩发生冲突被行拘5日",
+      "hot_value": 154724,
+      "link": "https://s.weibo.com/weibo?q=%E7%94%B7%E5%AD%90%E4%B8%8E15%E5%B2%81%E5%A5%B3%E5%AD%A9%E5%8F%91%E7%94%9F%E5%86%B2%E7%AA%81%E8%A2%AB%E8%A1%8C%E6%8B%985%E6%97%A5",
+      "rank": 37
+    },
+    {
+      "title": "梅西对阿尔及利亚全场数据",
+      "hot_value": 146090,
+      "link": "https://s.weibo.com/weibo?q=%E6%A2%85%E8%A5%BF%E5%AF%B9%E9%98%BF%E5%B0%94%E5%8F%8A%E5%88%A9%E4%BA%9A%E5%85%A8%E5%9C%BA%E6%95%B0%E6%8D%AE",
+      "rank": 38
+    },
+    {
+      "title": "恋与深空",
+      "hot_value": 144379,
+      "link": "https://s.weibo.com/weibo?q=%E6%81%8B%E4%B8%8E%E6%B7%B1%E7%A9%BA",
+      "rank": 39
+    },
+    {
+      "title": "英格兰vs克罗地亚",
+      "hot_value": 141247,
+      "link": "https://s.weibo.com/weibo?q=%E8%8B%B1%E6%A0%BC%E5%85%B0vs%E5%85%8B%E7%BD%97%E5%9C%B0%E4%BA%9A",
+      "rank": 40
+    },
+    {
+      "title": "郑钦文vs吉布森",
+      "hot_value": 135800,
+      "link": "https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%87vs%E5%90%89%E5%B8%83%E6%A3%AE",
+      "rank": 41
+    },
+    {
+      "title": "已婚男女打工相识同居15年获刑",
+      "hot_value": 126444,
+      "link": "https://s.weibo.com/weibo?q=%E5%B7%B2%E5%A9%9A%E7%94%B7%E5%A5%B3%E6%89%93%E5%B7%A5%E7%9B%B8%E8%AF%86%E5%90%8C%E5%B1%8515%E5%B9%B4%E8%8E%B7%E5%88%91",
+      "rank": 42
+    },
+    {
+      "title": "葡萄牙 哄睡",
+      "hot_value": 125008,
+      "link": "https://s.weibo.com/weibo?q=%E8%91%A1%E8%90%84%E7%89%99%20%E5%93%84%E7%9D%A1",
+      "rank": 43
+    },
+    {
+      "title": "同时养了小金毛和小伯恩山",
+      "hot_value": 123727,
+      "link": "https://s.weibo.com/weibo?q=%E5%90%8C%E6%97%B6%E5%85%BB%E4%BA%86%E5%B0%8F%E9%87%91%E6%AF%9B%E5%92%8C%E5%B0%8F%E4%BC%AF%E6%81%A9%E5%B1%B1",
+      "rank": 44
+    },
+    {
+      "title": "特朗普G7峰会迟到后宣告我是老大",
+      "hot_value": 122197,
+      "link": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AEG7%E5%B3%B0%E4%BC%9A%E8%BF%9F%E5%88%B0%E5%90%8E%E5%AE%A3%E5%91%8A%E6%88%91%E6%98%AF%E8%80%81%E5%A4%A7",
+      "rank": 45
+    },
+    {
+      "title": "比亚迪大唐23.99万起上市",
+      "hot_value": 122194,
+      "link": "https://s.weibo.com/weibo?q=%E6%AF%94%E4%BA%9A%E8%BF%AA%E5%A4%A7%E5%94%9023.99%E4%B8%87%E8%B5%B7%E4%B8%8A%E5%B8%82",
+      "rank": 46
+    },
+    {
+      "title": "胡歌 我不配",
+      "hot_value": 121811,
+      "link": "https://s.weibo.com/weibo?q=%E8%83%A1%E6%AD%8C%20%E6%88%91%E4%B8%8D%E9%85%8D",
+      "rank": 47
+    },
+    {
+      "title": "曝20周年纪念款iPhone放弃纯直屏",
+      "hot_value": 121340,
+      "link": "https://s.weibo.com/weibo?q=%E6%9B%9D20%E5%91%A8%E5%B9%B4%E7%BA%AA%E5%BF%B5%E6%AC%BEiPhone%E6%94%BE%E5%BC%83%E7%BA%AF%E7%9B%B4%E5%B1%8F",
+      "rank": 48
+    },
+    {
+      "title": "电影抓特务首映礼",
+      "hot_value": 121104,
+      "link": "https://s.weibo.com/weibo?q=%E7%94%B5%E5%BD%B1%E6%8A%93%E7%89%B9%E5%8A%A1%E9%A6%96%E6%98%A0%E7%A4%BC",
+      "rank": 49
+    },
+    {
+      "title": "葡萄牙 西班牙",
+      "hot_value": 120761,
+      "link": "https://s.weibo.com/weibo?q=%E8%91%A1%E8%90%84%E7%89%99%20%E8%A5%BF%E7%8F%AD%E7%89%99",
+      "rank": 50
+    }
+  ]
+}
