@@ -1,0 +1,307 @@
+{
+  "platform": "toutiao",
+  "platform_name": "今日头条",
+  "time": "2026-06-17 08:09:58",
+  "items": [
+    {
+      "title": "姆巴佩双响！法国3-1复仇塞内加尔",
+      "hot_value": 16275117,
+      "link": "https://www.toutiao.com/trending/7651490598889799690",
+      "rank": 1
+    },
+    {
+      "title": "姆巴佩世界杯进14球超越梅西",
+      "hot_value": 14726335,
+      "link": "https://www.toutiao.com/trending/7651934512096608310",
+      "rank": 2
+    },
+    {
+      "title": "全国工业企业销售收入实现较快增长",
+      "hot_value": 13324939,
+      "link": "https://www.toutiao.com/article/7651905894577340962",
+      "rank": 3
+    },
+    {
+      "title": "梅西国家队第200场倒计时",
+      "hot_value": 12056903,
+      "link": "https://www.toutiao.com/trending/7651810445099060799",
+      "rank": 4
+    },
+    {
+      "title": "特朗普：美方或恢复对俄石油制裁",
+      "hot_value": 10909537,
+      "link": "https://www.toutiao.com/trending/7652117439001477139",
+      "rank": 5
+    },
+    {
+      "title": "领证回家改口叫妈 婆婆反应亮了",
+      "hot_value": 9871357,
+      "link": "https://www.toutiao.com/trending/7651453581614432275",
+      "rank": 6
+    },
+    {
+      "title": "姆巴佩1场比赛2破纪录",
+      "hot_value": 8931974,
+      "link": "https://www.toutiao.com/trending/7651810445099175487",
+      "rank": 7
+    },
+    {
+      "title": "SpaceX超越亚马逊成全球市值第五公司",
+      "hot_value": 8081984,
+      "link": "https://www.toutiao.com/trending/7652134285020761650",
+      "rank": 8
+    },
+    {
+      "title": "女生每天都能遇到固定通勤搭子",
+      "hot_value": 7312881,
+      "link": "https://www.toutiao.com/trending/7651819733221834790",
+      "rank": 9
+    },
+    {
+      "title": "高效！姆巴佩世界杯15场14球",
+      "hot_value": 6616969,
+      "link": "https://www.toutiao.com/trending/7651810445099109951",
+      "rank": 10
+    },
+    {
+      "title": "“绵阳近期开通地铁1号线”不实",
+      "hot_value": 5987281,
+      "link": "https://www.toutiao.com/trending/7651893033147383817",
+      "rank": 11
+    },
+    {
+      "title": "家长找了1个月的耳机被女儿放洞洞鞋上",
+      "hot_value": 5417516,
+      "link": "https://www.toutiao.com/trending/7651547260879896585",
+      "rank": 12
+    },
+    {
+      "title": "法国队门框已5次“挽救”球队",
+      "hot_value": 4901971,
+      "link": "https://www.toutiao.com/trending/7652072399491645494",
+      "rank": 13
+    },
+    {
+      "title": "曝DeepSeek首轮融资梁文锋出资200亿",
+      "hot_value": 4435487,
+      "link": "https://www.toutiao.com/trending/7651579346738855979",
+      "rank": 14
+    },
+    {
+      "title": "华人在日本打工年年加薪汇回国变少",
+      "hot_value": 4013394,
+      "link": "https://www.toutiao.com/trending/7651942951462899263",
+      "rank": 15
+    },
+    {
+      "title": "为什么一到世界杯英国就变成了英格兰",
+      "hot_value": 3631469,
+      "link": "https://www.toutiao.com/trending/7651903102145249289",
+      "rank": 16
+    },
+    {
+      "title": "为什么DeepSeek是AI泡沫斩杀线",
+      "hot_value": 3285889,
+      "link": "https://www.toutiao.com/trending/7651979830128283145",
+      "rank": 17
+    },
+    {
+      "title": "女子被困电梯获救时坠入井底身亡",
+      "hot_value": 2973195,
+      "link": "https://www.toutiao.com/trending/7651601852219424822",
+      "rank": 18
+    },
+    {
+      "title": "员工偷换卤肉店收款码半年转走近10万",
+      "hot_value": 2690258,
+      "link": "https://www.toutiao.com/trending/7651963812170006534",
+      "rank": 19
+    },
+    {
+      "title": "多位法国名宿现场观战法国vs塞内加尔",
+      "hot_value": 2434246,
+      "link": "https://www.toutiao.com/trending/7652034710311256105",
+      "rank": 20
+    },
+    {
+      "title": "100万存一年利息只有9500元了",
+      "hot_value": 2202597,
+      "link": "https://www.toutiao.com/trending/7651635738920157194",
+      "rank": 21
+    },
+    {
+      "title": "46岁陈好疑似怀第四胎",
+      "hot_value": 1992992,
+      "link": "https://www.toutiao.com/trending/7651393740616253490",
+      "rank": 22
+    },
+    {
+      "title": "C罗能否达成连续六届世界杯进球壮举",
+      "hot_value": 1803334,
+      "link": "https://www.toutiao.com/trending/7651143174702956570",
+      "rank": 23
+    },
+    {
+      "title": "棉被遭仅退款 商家3000公里寻人",
+      "hot_value": 1631724,
+      "link": "https://www.toutiao.com/trending/7651794610821873727",
+      "rank": 24
+    },
+    {
+      "title": "日本民众在中国驻日大使馆前道歉",
+      "hot_value": 1476445,
+      "link": "https://www.toutiao.com/trending/7650880982704128006",
+      "rank": 25
+    },
+    {
+      "title": "伊朗队突然被勒令离开美国",
+      "hot_value": 1335943,
+      "link": "https://www.toutiao.com/trending/7651870551576677938",
+      "rank": 26
+    },
+    {
+      "title": "“退货姐”衣食住行各方面恶意退款",
+      "hot_value": 1208811,
+      "link": "https://www.toutiao.com/trending/7651419171792584740",
+      "rank": 27
+    },
+    {
+      "title": "打虎！“内鬼”姜宏伟被查",
+      "hot_value": 1093777,
+      "link": "https://www.toutiao.com/trending/7651436375388979243",
+      "rank": 28
+    },
+    {
+      "title": "田园犬单挑五步蛇被咬伤面部肿变形",
+      "hot_value": 989690,
+      "link": "https://www.toutiao.com/trending/7651829273107644470",
+      "rank": 29
+    },
+    {
+      "title": "一把中国土卡死日本两大巨头",
+      "hot_value": 895509,
+      "link": "https://www.toutiao.com/trending/7651952014389153334",
+      "rank": 30
+    },
+    {
+      "title": "国际足联调查世界杯裁判“OK”手势",
+      "hot_value": 810290,
+      "link": "https://www.toutiao.com/trending/7651365818634764298",
+      "rank": 31
+    },
+    {
+      "title": "英方制裁中国实体 中方坚决反对",
+      "hot_value": 733181,
+      "link": "https://www.toutiao.com/trending/7651750406741360659",
+      "rank": 32
+    },
+    {
+      "title": "白鹿新剧《莫离》播放破2亿",
+      "hot_value": 663409,
+      "link": "https://www.toutiao.com/trending/7651094103380033574",
+      "rank": 33
+    },
+    {
+      "title": "阿根廷美加墨首秀首发出炉 梅西领衔",
+      "hot_value": 600277,
+      "link": "https://www.toutiao.com/trending/7652144662202813993",
+      "rank": 34
+    },
+    {
+      "title": "亚洲足球真的崛起了吗",
+      "hot_value": 543153,
+      "link": "https://www.toutiao.com/trending/7652027042975714859",
+      "rank": 35
+    },
+    {
+      "title": "清华大学首度跻身全球前10",
+      "hot_value": 491465,
+      "link": "https://www.toutiao.com/trending/7651810075542224939",
+      "rank": 36
+    },
+    {
+      "title": "司机突发脑梗 把车开到军营门口求助",
+      "hot_value": 444696,
+      "link": "https://www.toutiao.com/trending/7651916088480923711",
+      "rank": 37
+    },
+    {
+      "title": "外媒：阿根廷队无梅西胜率为75%",
+      "hot_value": 402378,
+      "link": "https://www.toutiao.com/trending/7651160713641279542",
+      "rank": 38
+    },
+    {
+      "title": "白鹿宋佳张碧晨素颜聚餐",
+      "hot_value": 364086,
+      "link": "https://www.toutiao.com/trending/7651593146966540331",
+      "rank": 39
+    },
+    {
+      "title": "女儿鼻孔塞异物爸爸嘴对嘴吹出",
+      "hot_value": 329439,
+      "link": "https://www.toutiao.com/trending/7651535488113803306",
+      "rank": 40
+    },
+    {
+      "title": "媒体：佛得角逼平西班牙并不离谱",
+      "hot_value": 298089,
+      "link": "https://www.toutiao.com/trending/7652007550547676722",
+      "rank": 41
+    },
+    {
+      "title": "山姆遭约谈拷问极速达",
+      "hot_value": 269722,
+      "link": "https://www.toutiao.com/trending/7651984500141854217",
+      "rank": 42
+    },
+    {
+      "title": "业内：A股年内第2个配置窗口值得关注",
+      "hot_value": 244054,
+      "link": "https://www.toutiao.com/trending/7651985316760260132",
+      "rank": 43
+    },
+    {
+      "title": "梅西：带着中国球迷的爱征战世界杯",
+      "hot_value": 220829,
+      "link": "https://www.toutiao.com/trending/7651060186760904767",
+      "rank": 44
+    },
+    {
+      "title": "陈妍希宣传周柯宇新剧《炽夏》",
+      "hot_value": 199815,
+      "link": "https://www.toutiao.com/trending/7651757265212571684",
+      "rank": 45
+    },
+    {
+      "title": "美政府或将为伊朗设3000亿美元基金",
+      "hot_value": 180800,
+      "link": "https://www.toutiao.com/trending/7650825259012227118",
+      "rank": 46
+    },
+    {
+      "title": "马景涛揭秘记忆里的台湾味道",
+      "hot_value": 163594,
+      "link": "https://www.toutiao.com/trending/7651201707979948068",
+      "rank": 47
+    },
+    {
+      "title": "三辆大巴车高速并排“压马路”被处罚",
+      "hot_value": 148026,
+      "link": "https://www.toutiao.com/trending/7651619596340314162",
+      "rank": 48
+    },
+    {
+      "title": "当足球穿过战争阴霾",
+      "hot_value": 133940,
+      "link": "https://www.toutiao.com/trending/7651895665401118756",
+      "rank": 49
+    },
+    {
+      "title": "北方雨多是因为“雨带北移”吗",
+      "hot_value": 121194,
+      "link": "https://www.toutiao.com/trending/7651052970561880074",
+      "rank": 50
+    }
+  ]
+}
