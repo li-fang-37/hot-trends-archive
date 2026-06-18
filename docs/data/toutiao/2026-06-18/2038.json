@@ -1,0 +1,307 @@
+{
+  "platform": "toutiao",
+  "platform_name": "今日头条",
+  "time": "2026-06-18 20:38:17",
+  "items": [
+    {
+      "title": "北京密云养老院洪灾致32死 问责17人",
+      "hot_value": 22300124,
+      "link": "https://www.toutiao.com/trending/7652497112878350399",
+      "rank": 1
+    },
+    {
+      "title": "司机名下惊现5800万流水 纪委介入",
+      "hot_value": 20177986,
+      "link": "https://www.toutiao.com/trending/7652380911614640134",
+      "rank": 2
+    },
+    {
+      "title": "未来5年 找工作关注这些行业领域",
+      "hot_value": 18257797,
+      "link": "https://www.toutiao.com/trending/7652512862174248996",
+      "rank": 3
+    },
+    {
+      "title": "油价又降了：回归7元时代",
+      "hot_value": 16520338,
+      "link": "https://www.toutiao.com/trending/7652509949662314538",
+      "rank": 4
+    },
+    {
+      "title": "日本焚烧炉中炼出7000多克黄金",
+      "hot_value": 14948220,
+      "link": "https://www.toutiao.com/trending/7652597493637283894",
+      "rank": 5
+    },
+    {
+      "title": "57岁女子参加婚礼发现新娘是自己",
+      "hot_value": 13525708,
+      "link": "https://www.toutiao.com/trending/7652656566210822186",
+      "rank": 6
+    },
+    {
+      "title": "美国女子划船横渡大洋获中国货船关心",
+      "hot_value": 12238567,
+      "link": "https://www.toutiao.com/trending/7651886736647258163",
+      "rank": 7
+    },
+    {
+      "title": "C罗回应葡萄牙爆冷战平",
+      "hot_value": 11073913,
+      "link": "https://www.toutiao.com/trending/7652316113212080134",
+      "rank": 8
+    },
+    {
+      "title": "货拉拉将向司机退费1.2亿",
+      "hot_value": 10020091,
+      "link": "https://www.toutiao.com/trending/7652642147155427338",
+      "rank": 9
+    },
+    {
+      "title": "98年男生毕业回村养鳄鱼年入200万",
+      "hot_value": 9066553,
+      "link": "https://www.toutiao.com/trending/7652648473623396403",
+      "rank": 10
+    },
+    {
+      "title": "吴倩自曝被爸爸打掉牙齿不敢吐出来",
+      "hot_value": 8203757,
+      "link": "https://www.toutiao.com/trending/7652564863746736154",
+      "rank": 11
+    },
+    {
+      "title": "“福建顺昌遭遇严重暴雨灾情”不实",
+      "hot_value": 7423066,
+      "link": "https://www.toutiao.com/trending/7652666791118094372",
+      "rank": 12
+    },
+    {
+      "title": "有毒纸尿裤穿一夜体内甲酰胺翻倍",
+      "hot_value": 6716668,
+      "link": "https://www.toutiao.com/trending/7652636509295709706",
+      "rank": 13
+    },
+    {
+      "title": "43岁胡歌生图状态",
+      "hot_value": 6077492,
+      "link": "https://www.toutiao.com/trending/7652541948720824371",
+      "rank": 14
+    },
+    {
+      "title": "乌称击落5枚锆石导弹是夸大宣传吗",
+      "hot_value": 5499142,
+      "link": "https://www.toutiao.com/trending/7652689525130399273",
+      "rank": 15
+    },
+    {
+      "title": "C罗：这并非我们想要的开局",
+      "hot_value": 4975830,
+      "link": "https://www.toutiao.com/trending/7651928689013427748",
+      "rank": 16
+    },
+    {
+      "title": "美国父亲带两幼女进女厕遭厉声质问",
+      "hot_value": 4502317,
+      "link": "https://www.toutiao.com/trending/7651777168699310123",
+      "rank": 17
+    },
+    {
+      "title": "沪指失守4100点 科技股逆势冲高",
+      "hot_value": 4073865,
+      "link": "https://www.toutiao.com/trending/7651753489516724233",
+      "rank": 18
+    },
+    {
+      "title": "李涛任河南省委常委",
+      "hot_value": 3686185,
+      "link": "https://www.toutiao.com/trending/7652677430727622694",
+      "rank": 19
+    },
+    {
+      "title": "牛仔裤品牌如何靠白布成世界杯赢家",
+      "hot_value": 3335398,
+      "link": "https://www.toutiao.com/trending/7651740859121205311",
+      "rank": 20
+    },
+    {
+      "title": "端午节是专为纪念屈原设立的吗",
+      "hot_value": 3017993,
+      "link": "https://www.toutiao.com/trending/7651419547707998244",
+      "rank": 21
+    },
+    {
+      "title": "西北富豪被查 家族财富达125亿",
+      "hot_value": 2730793,
+      "link": "https://www.toutiao.com/trending/7651885764322115626",
+      "rank": 22
+    },
+    {
+      "title": "“老登股”为何全面崩溃",
+      "hot_value": 2470924,
+      "link": "https://www.toutiao.com/trending/7652676746122104370",
+      "rank": 23
+    },
+    {
+      "title": "宝宝突然站起来走路 爸爸光速护娃",
+      "hot_value": 2235784,
+      "link": "https://www.toutiao.com/trending/7651898834569805843",
+      "rank": 24
+    },
+    {
+      "title": "医院演习太逼真大爷信以为真上前劝阻",
+      "hot_value": 2023021,
+      "link": "https://www.toutiao.com/trending/7652389801355952169",
+      "rank": 25
+    },
+    {
+      "title": "男子在香港酒吧看世界杯醉酒后遭性侵",
+      "hot_value": 1830505,
+      "link": "https://www.toutiao.com/trending/7652622851916791859",
+      "rank": 26
+    },
+    {
+      "title": "徐良首批13个学生12个火到出圈",
+      "hot_value": 1656310,
+      "link": "https://www.toutiao.com/trending/7651581956070064179",
+      "rank": 27
+    },
+    {
+      "title": "彰化县长选举被郑丽文列为第一重点",
+      "hot_value": 1498691,
+      "link": "https://www.toutiao.com/trending/7651977916636872713",
+      "rank": 28
+    },
+    {
+      "title": "张继科说C罗排不上世界第一",
+      "hot_value": 1356071,
+      "link": "https://www.toutiao.com/trending/7651603866228047926",
+      "rank": 29
+    },
+    {
+      "title": "落马市委书记留下33个烂尾工程",
+      "hot_value": 1227024,
+      "link": "https://www.toutiao.com/trending/7652609213639327780",
+      "rank": 30
+    },
+    {
+      "title": "被拐39年姐弟相隔仅10公里",
+      "hot_value": 1110257,
+      "link": "https://www.toutiao.com/trending/7652559042951004202",
+      "rank": 31
+    },
+    {
+      "title": "周鸿祎：球迷为“C罗成负担”难过",
+      "hot_value": 1004602,
+      "link": "https://www.toutiao.com/trending/7652679362449247785",
+      "rank": 32
+    },
+    {
+      "title": "中方反对美国对台售武立场是一贯的",
+      "hot_value": 909002,
+      "link": "https://www.toutiao.com/trending/7652234775121870886",
+      "rank": 33
+    },
+    {
+      "title": "我国将启动2026年新能源汽车下乡",
+      "hot_value": 822499,
+      "link": "https://www.toutiao.com/trending/7652589530977517610",
+      "rank": 34
+    },
+    {
+      "title": "鸡蛋为什么开始“贵过肉”",
+      "hot_value": 744228,
+      "link": "https://www.toutiao.com/trending/7652676027113541139",
+      "rank": 35
+    },
+    {
+      "title": "山西82死矿难后事发地县长请辞",
+      "hot_value": 673405,
+      "link": "https://www.toutiao.com/trending/7652674484096208427",
+      "rank": 36
+    },
+    {
+      "title": "张雪领公司端午节粽子被调侃",
+      "hot_value": 609322,
+      "link": "https://www.toutiao.com/trending/7652281707288199206",
+      "rank": 37
+    },
+    {
+      "title": "退役军人龙舟队勇往直前势如破竹",
+      "hot_value": 551337,
+      "link": "https://www.toutiao.com/trending/7652147708682108947",
+      "rank": 38
+    },
+    {
+      "title": "中国剧协中国民协中国书协换届",
+      "hot_value": 498870,
+      "link": "https://www.toutiao.com/trending/7652660990904156206",
+      "rank": 39
+    },
+    {
+      "title": "江西4岁萌娃2年“鼓龄”",
+      "hot_value": 451397,
+      "link": "https://www.toutiao.com/trending/7651591493752733738",
+      "rank": 40
+    },
+    {
+      "title": "莫迪穿鞋站上瑜伽垫被质疑抢教练位置",
+      "hot_value": 408441,
+      "link": "https://www.toutiao.com/trending/7652558303773409326",
+      "rank": 41
+    },
+    {
+      "title": "广东将迎来“蒸煮”模式",
+      "hot_value": 369572,
+      "link": "https://www.toutiao.com/trending/7652309351248085011",
+      "rank": 42
+    },
+    {
+      "title": "今年端午粽子转向“冷热大战”",
+      "hot_value": 334403,
+      "link": "https://www.toutiao.com/trending/7652584474900447286",
+      "rank": 43
+    },
+    {
+      "title": "中方愿为中东长治久安作出不懈努力",
+      "hot_value": 302580,
+      "link": "https://www.toutiao.com/trending/7651555289783058475",
+      "rank": 44
+    },
+    {
+      "title": "邵永灵：莫迪亲美只换来尴尬",
+      "hot_value": 273786,
+      "link": "https://www.toutiao.com/trending/7652665103338180159",
+      "rank": 45
+    },
+    {
+      "title": "大蛇钻进电动自行车被男子载回家",
+      "hot_value": 247732,
+      "link": "https://www.toutiao.com/trending/7652582792384397366",
+      "rank": 46
+    },
+    {
+      "title": "刘亦菲两次认出20年老粉主动握手致谢",
+      "hot_value": 224157,
+      "link": "https://www.toutiao.com/trending/7651924843497439273",
+      "rank": 47
+    },
+    {
+      "title": "博主：刚果（金）太需要这场胜利了",
+      "hot_value": 202825,
+      "link": "https://www.toutiao.com/trending/7652682334826663465",
+      "rank": 48
+    },
+    {
+      "title": "科技龙头表现见顶了吗",
+      "hot_value": 183524,
+      "link": "https://www.toutiao.com/trending/7652678461894430214",
+      "rank": 49
+    },
+    {
+      "title": "乌军袭击少年球队客车有何影响",
+      "hot_value": 166059,
+      "link": "https://www.toutiao.com/trending/7652657118939450886",
+      "rank": 50
+    }
+  ]
+}
