@@ -1,0 +1,307 @@
+{
+  "platform": "weibo",
+  "platform_name": "微博热搜",
+  "time": "2026-06-19 13:05:36",
+  "items": [
+    {
+      "title": "韩国门将巨大失误",
+      "hot_value": 11404681,
+      "link": "https://s.weibo.com/weibo?q=%E9%9F%A9%E5%9B%BD%E9%97%A8%E5%B0%86%E5%B7%A8%E5%A4%A7%E5%A4%B1%E8%AF%AF",
+      "rank": 1
+    },
+    {
+      "title": "孙兴慜真成亚洲一哥们了",
+      "hot_value": 2147631,
+      "link": "https://s.weibo.com/weibo?q=%E5%AD%99%E5%85%B4%E6%85%9C%E7%9C%9F%E6%88%90%E4%BA%9A%E6%B4%B2%E4%B8%80%E5%93%A5%E4%BB%AC%E4%BA%86",
+      "rank": 2
+    },
+    {
+      "title": "文化中国行一起过端午",
+      "hot_value": 1715701,
+      "link": "https://s.weibo.com/weibo?q=%E6%96%87%E5%8C%96%E4%B8%AD%E5%9B%BD%E8%A1%8C%E4%B8%80%E8%B5%B7%E8%BF%87%E7%AB%AF%E5%8D%88",
+      "rank": 3
+    },
+    {
+      "title": "补办身份证发现根本没丢",
+      "hot_value": 1418107,
+      "link": "https://s.weibo.com/weibo?q=%E8%A1%A5%E5%8A%9E%E8%BA%AB%E4%BB%BD%E8%AF%81%E5%8F%91%E7%8E%B0%E6%A0%B9%E6%9C%AC%E6%B2%A1%E4%B8%A2",
+      "rank": 4
+    },
+    {
+      "title": "孩子烧光几十万手机爸爸问开不开心",
+      "hot_value": 552129,
+      "link": "https://s.weibo.com/weibo?q=%E5%AD%A9%E5%AD%90%E7%83%A7%E5%85%89%E5%87%A0%E5%8D%81%E4%B8%87%E6%89%8B%E6%9C%BA%E7%88%B8%E7%88%B8%E9%97%AE%E5%BC%80%E4%B8%8D%E5%BC%80%E5%BF%83",
+      "rank": 5
+    },
+    {
+      "title": "王源吻戏",
+      "hot_value": 517987,
+      "link": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%BA%90%E5%90%BB%E6%88%8F",
+      "rank": 6
+    },
+    {
+      "title": "重新定义了5到6k",
+      "hot_value": 420314,
+      "link": "https://s.weibo.com/weibo?q=%E9%87%8D%E6%96%B0%E5%AE%9A%E4%B9%89%E4%BA%865%E5%88%B06k",
+      "rank": 7
+    },
+    {
+      "title": "端午红包",
+      "hot_value": 341972,
+      "link": "https://s.weibo.com/weibo?q=%E7%AB%AF%E5%8D%88%E7%BA%A2%E5%8C%85",
+      "rank": 8
+    },
+    {
+      "title": "多位周冬雨话剧观众喊话退票",
+      "hot_value": 285369,
+      "link": "https://s.weibo.com/weibo?q=%E5%A4%9A%E4%BD%8D%E5%91%A8%E5%86%AC%E9%9B%A8%E8%AF%9D%E5%89%A7%E8%A7%82%E4%BC%97%E5%96%8A%E8%AF%9D%E9%80%80%E7%A5%A8",
+      "rank": 9
+    },
+    {
+      "title": "追觅大调整",
+      "hot_value": 284617,
+      "link": "https://s.weibo.com/weibo?q=%E8%BF%BD%E8%A7%85%E5%A4%A7%E8%B0%83%E6%95%B4",
+      "rank": 10
+    },
+    {
+      "title": "吴倩自曝演赵默笙被骂到害怕演戏",
+      "hot_value": 283170,
+      "link": "https://s.weibo.com/weibo?q=%E5%90%B4%E5%80%A9%E8%87%AA%E6%9B%9D%E6%BC%94%E8%B5%B5%E9%BB%98%E7%AC%99%E8%A2%AB%E9%AA%82%E5%88%B0%E5%AE%B3%E6%80%95%E6%BC%94%E6%88%8F",
+      "rank": 11
+    },
+    {
+      "title": "贾乃亮自曝无戏可拍",
+      "hot_value": 282419,
+      "link": "https://s.weibo.com/weibo?q=%E8%B4%BE%E4%B9%83%E4%BA%AE%E8%87%AA%E6%9B%9D%E6%97%A0%E6%88%8F%E5%8F%AF%E6%8B%8D",
+      "rank": 12
+    },
+    {
+      "title": "加拿大球员小腿变形",
+      "hot_value": 280396,
+      "link": "https://s.weibo.com/weibo?q=%E5%8A%A0%E6%8B%BF%E5%A4%A7%E7%90%83%E5%91%98%E5%B0%8F%E8%85%BF%E5%8F%98%E5%BD%A2",
+      "rank": 13
+    },
+    {
+      "title": "李钟硕怎么又肿了",
+      "hot_value": 279409,
+      "link": "https://s.weibo.com/weibo?q=%E6%9D%8E%E9%92%9F%E7%A1%95%E6%80%8E%E4%B9%88%E5%8F%88%E8%82%BF%E4%BA%86",
+      "rank": 14
+    },
+    {
+      "title": "王鹤棣孟子义姓氏笔画排序",
+      "hot_value": 277968,
+      "link": "https://s.weibo.com/weibo?q=%E7%8E%8B%E9%B9%A4%E6%A3%A3%E5%AD%9F%E5%AD%90%E4%B9%89%E5%A7%93%E6%B0%8F%E7%AC%94%E7%94%BB%E6%8E%92%E5%BA%8F",
+      "rank": 15
+    },
+    {
+      "title": "孙兴慜被嘲讽踢得像韩国女星",
+      "hot_value": 277449,
+      "link": "https://s.weibo.com/weibo?q=%E5%AD%99%E5%85%B4%E6%85%9C%E8%A2%AB%E5%98%B2%E8%AE%BD%E8%B8%A2%E5%BE%97%E5%83%8F%E9%9F%A9%E5%9B%BD%E5%A5%B3%E6%98%9F",
+      "rank": 16
+    },
+    {
+      "title": "王源和文淇的吻戏不是借位",
+      "hot_value": 275428,
+      "link": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%BA%90%E5%92%8C%E6%96%87%E6%B7%87%E7%9A%84%E5%90%BB%E6%88%8F%E4%B8%8D%E6%98%AF%E5%80%9F%E4%BD%8D",
+      "rank": 17
+    },
+    {
+      "title": "留子出国后的中文退化程度belike",
+      "hot_value": 275173,
+      "link": "https://s.weibo.com/weibo?q=%E7%95%99%E5%AD%90%E5%87%BA%E5%9B%BD%E5%90%8E%E7%9A%84%E4%B8%AD%E6%96%87%E9%80%80%E5%8C%96%E7%A8%8B%E5%BA%A6belike",
+      "rank": 18
+    },
+    {
+      "title": "奶茶粽",
+      "hot_value": 273835,
+      "link": "https://s.weibo.com/weibo?q=%E5%A5%B6%E8%8C%B6%E7%B2%BD",
+      "rank": 19
+    },
+    {
+      "title": "美伊会谈取消",
+      "hot_value": 272810,
+      "link": "https://s.weibo.com/weibo?q=%E7%BE%8E%E4%BC%8A%E4%BC%9A%E8%B0%88%E5%8F%96%E6%B6%88",
+      "rank": 20
+    },
+    {
+      "title": "黄一鸣与男友在台球室接吻",
+      "hot_value": 270571,
+      "link": "https://s.weibo.com/weibo?q=%E9%BB%84%E4%B8%80%E9%B8%A3%E4%B8%8E%E7%94%B7%E5%8F%8B%E5%9C%A8%E5%8F%B0%E7%90%83%E5%AE%A4%E6%8E%A5%E5%90%BB",
+      "rank": 21
+    },
+    {
+      "title": "对年龄祛魅了",
+      "hot_value": 270342,
+      "link": "https://s.weibo.com/weibo?q=%E5%AF%B9%E5%B9%B4%E9%BE%84%E7%A5%9B%E9%AD%85%E4%BA%86",
+      "rank": 22
+    },
+    {
+      "title": "生蚝伪装被识破",
+      "hot_value": 268660,
+      "link": "https://s.weibo.com/weibo?q=%E7%94%9F%E8%9A%9D%E4%BC%AA%E8%A3%85%E8%A2%AB%E8%AF%86%E7%A0%B4",
+      "rank": 23
+    },
+    {
+      "title": "白鹿红包",
+      "hot_value": 266995,
+      "link": "https://s.weibo.com/weibo?q=%E7%99%BD%E9%B9%BF%E7%BA%A2%E5%8C%85",
+      "rank": 24
+    },
+    {
+      "title": "贾乃亮说长辈演不了偶像够不着",
+      "hot_value": 265625,
+      "link": "https://s.weibo.com/weibo?q=%E8%B4%BE%E4%B9%83%E4%BA%AE%E8%AF%B4%E9%95%BF%E8%BE%88%E6%BC%94%E4%B8%8D%E4%BA%86%E5%81%B6%E5%83%8F%E5%A4%9F%E4%B8%8D%E7%9D%80",
+      "rank": 25
+    },
+    {
+      "title": "百花杀",
+      "hot_value": 265134,
+      "link": "https://s.weibo.com/weibo?q=%E7%99%BE%E8%8A%B1%E6%9D%80",
+      "rank": 26
+    },
+    {
+      "title": "阿根廷总统出面捍卫梅西",
+      "hot_value": 263082,
+      "link": "https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7%E6%80%BB%E7%BB%9F%E5%87%BA%E9%9D%A2%E6%8D%8D%E5%8D%AB%E6%A2%85%E8%A5%BF",
+      "rank": 27
+    },
+    {
+      "title": "娜然 霍启山",
+      "hot_value": 261878,
+      "link": "https://s.weibo.com/weibo?q=%E5%A8%9C%E7%84%B6%20%E9%9C%8D%E5%90%AF%E5%B1%B1",
+      "rank": 28
+    },
+    {
+      "title": "李佳琦回应纸尿裤被指检出甲酰胺",
+      "hot_value": 261558,
+      "link": "https://s.weibo.com/weibo?q=%E6%9D%8E%E4%BD%B3%E7%90%A6%E5%9B%9E%E5%BA%94%E7%BA%B8%E5%B0%BF%E8%A3%A4%E8%A2%AB%E6%8C%87%E6%A3%80%E5%87%BA%E7%94%B2%E9%85%B0%E8%83%BA",
+      "rank": 29
+    },
+    {
+      "title": "亚洲冠军 输得没眼看",
+      "hot_value": 259621,
+      "link": "https://s.weibo.com/weibo?q=%E4%BA%9A%E6%B4%B2%E5%86%A0%E5%86%9B%20%E8%BE%93%E5%BE%97%E6%B2%A1%E7%9C%BC%E7%9C%8B",
+      "rank": 30
+    },
+    {
+      "title": "卢昱晓 刺棠",
+      "hot_value": 258134,
+      "link": "https://s.weibo.com/weibo?q=%E5%8D%A2%E6%98%B1%E6%99%93%20%E5%88%BA%E6%A3%A0",
+      "rank": 31
+    },
+    {
+      "title": "番位新规下演员姓氏笔画排名",
+      "hot_value": 257435,
+      "link": "https://s.weibo.com/weibo?q=%E7%95%AA%E4%BD%8D%E6%96%B0%E8%A7%84%E4%B8%8B%E6%BC%94%E5%91%98%E5%A7%93%E6%B0%8F%E7%AC%94%E7%94%BB%E6%8E%92%E5%90%8D",
+      "rank": 32
+    },
+    {
+      "title": "伊朗最高领袖就伊美谅解备忘录表态",
+      "hot_value": 256581,
+      "link": "https://s.weibo.com/weibo?q=%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E5%B0%B1%E4%BC%8A%E7%BE%8E%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95%E8%A1%A8%E6%80%81",
+      "rank": 33
+    },
+    {
+      "title": "端午晚会节目单",
+      "hot_value": 254847,
+      "link": "https://s.weibo.com/weibo?q=%E7%AB%AF%E5%8D%88%E6%99%9A%E4%BC%9A%E8%8A%82%E7%9B%AE%E5%8D%95",
+      "rank": 34
+    },
+    {
+      "title": "今年端午60年一遇",
+      "hot_value": 253807,
+      "link": "https://s.weibo.com/weibo?q=%E4%BB%8A%E5%B9%B4%E7%AB%AF%E5%8D%8860%E5%B9%B4%E4%B8%80%E9%81%87",
+      "rank": 35
+    },
+    {
+      "title": "碧芭宝贝回应纸尿裤检出甲酰胺",
+      "hot_value": 252666,
+      "link": "https://s.weibo.com/weibo?q=%E7%A2%A7%E8%8A%AD%E5%AE%9D%E8%B4%9D%E5%9B%9E%E5%BA%94%E7%BA%B8%E5%B0%BF%E8%A3%A4%E6%A3%80%E5%87%BA%E7%94%B2%E9%85%B0%E8%83%BA",
+      "rank": 36
+    },
+    {
+      "title": "卡塔尔犯规球员道歉",
+      "hot_value": 250599,
+      "link": "https://s.weibo.com/weibo?q=%E5%8D%A1%E5%A1%94%E5%B0%94%E7%8A%AF%E8%A7%84%E7%90%83%E5%91%98%E9%81%93%E6%AD%89",
+      "rank": 37
+    },
+    {
+      "title": "媒体评话剧文城演员念稿争议",
+      "hot_value": 249430,
+      "link": "https://s.weibo.com/weibo?q=%E5%AA%92%E4%BD%93%E8%AF%84%E8%AF%9D%E5%89%A7%E6%96%87%E5%9F%8E%E6%BC%94%E5%91%98%E5%BF%B5%E7%A8%BF%E4%BA%89%E8%AE%AE",
+      "rank": 38
+    },
+    {
+      "title": "VOGUE在桃花坞拍了新中式大片",
+      "hot_value": 248808,
+      "link": "https://s.weibo.com/weibo?q=VOGUE%E5%9C%A8%E6%A1%83%E8%8A%B1%E5%9D%9E%E6%8B%8D%E4%BA%86%E6%96%B0%E4%B8%AD%E5%BC%8F%E5%A4%A7%E7%89%87",
+      "rank": 39
+    },
+    {
+      "title": "刘丹曝刘恺威现在单身",
+      "hot_value": 247451,
+      "link": "https://s.weibo.com/weibo?q=%E5%88%98%E4%B8%B9%E6%9B%9D%E5%88%98%E6%81%BA%E5%A8%81%E7%8E%B0%E5%9C%A8%E5%8D%95%E8%BA%AB",
+      "rank": 40
+    },
+    {
+      "title": "王灿身上3道疤1道孕育2道求生",
+      "hot_value": 246361,
+      "link": "https://s.weibo.com/weibo?q=%E7%8E%8B%E7%81%BF%E8%BA%AB%E4%B8%8A3%E9%81%93%E7%96%A41%E9%81%93%E5%AD%95%E8%82%B22%E9%81%93%E6%B1%82%E7%94%9F",
+      "rank": 41
+    },
+    {
+      "title": "导演称没要求周冬雨背词",
+      "hot_value": 244695,
+      "link": "https://s.weibo.com/weibo?q=%E5%AF%BC%E6%BC%94%E7%A7%B0%E6%B2%A1%E8%A6%81%E6%B1%82%E5%91%A8%E5%86%AC%E9%9B%A8%E8%83%8C%E8%AF%8D",
+      "rank": 42
+    },
+    {
+      "title": "爱吃冰的女生天塌了",
+      "hot_value": 243802,
+      "link": "https://s.weibo.com/weibo?q=%E7%88%B1%E5%90%83%E5%86%B0%E7%9A%84%E5%A5%B3%E7%94%9F%E5%A4%A9%E5%A1%8C%E4%BA%86",
+      "rank": 43
+    },
+    {
+      "title": "钉钉新CEO上任发布首封全员信",
+      "hot_value": 242458,
+      "link": "https://s.weibo.com/weibo?q=%E9%92%89%E9%92%89%E6%96%B0CEO%E4%B8%8A%E4%BB%BB%E5%8F%91%E5%B8%83%E9%A6%96%E5%B0%81%E5%85%A8%E5%91%98%E4%BF%A1",
+      "rank": 44
+    },
+    {
+      "title": "女子孕19周胎儿小脚外露险掉出",
+      "hot_value": 240600,
+      "link": "https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%90%E5%AD%9519%E5%91%A8%E8%83%8E%E5%84%BF%E5%B0%8F%E8%84%9A%E5%A4%96%E9%9C%B2%E9%99%A9%E6%8E%89%E5%87%BA",
+      "rank": 45
+    },
+    {
+      "title": "尚公主",
+      "hot_value": 239646,
+      "link": "https://s.weibo.com/weibo?q=%E5%B0%9A%E5%85%AC%E4%B8%BB",
+      "rank": 46
+    },
+    {
+      "title": "曝TF四代突围2选曲",
+      "hot_value": 238258,
+      "link": "https://s.weibo.com/weibo?q=%E6%9B%9DTF%E5%9B%9B%E4%BB%A3%E7%AA%81%E5%9B%B42%E9%80%89%E6%9B%B2",
+      "rank": 47
+    },
+    {
+      "title": "韩国网红韭菜面8500韩元一碗",
+      "hot_value": 237129,
+      "link": "https://s.weibo.com/weibo?q=%E9%9F%A9%E5%9B%BD%E7%BD%91%E7%BA%A2%E9%9F%AD%E8%8F%9C%E9%9D%A28500%E9%9F%A9%E5%85%83%E4%B8%80%E7%A2%97",
+      "rank": 48
+    },
+    {
+      "title": "刘浩存炸毛四宫格",
+      "hot_value": 236343,
+      "link": "https://s.weibo.com/weibo?q=%E5%88%98%E6%B5%A9%E5%AD%98%E7%82%B8%E6%AF%9B%E5%9B%9B%E5%AE%AB%E6%A0%BC",
+      "rank": 49
+    },
+    {
+      "title": "神行者8首发限定版一眼心动",
+      "hot_value": 235234,
+      "link": "https://s.weibo.com/weibo?q=%E7%A5%9E%E8%A1%8C%E8%80%858%E9%A6%96%E5%8F%91%E9%99%90%E5%AE%9A%E7%89%88%E4%B8%80%E7%9C%BC%E5%BF%83%E5%8A%A8",
+      "rank": 50
+    }
+  ]
+}
