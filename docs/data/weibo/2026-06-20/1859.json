@@ -1,0 +1,307 @@
+{
+  "platform": "weibo",
+  "platform_name": "微博热搜",
+  "time": "2026-06-20 18:59:18",
+  "items": [
+    {
+      "title": "明天将是中国球迷的主场",
+      "hot_value": 2512243,
+      "link": "https://s.weibo.com/weibo?q=%E6%98%8E%E5%A4%A9%E5%B0%86%E6%98%AF%E4%B8%AD%E5%9B%BD%E7%90%83%E8%BF%B7%E7%9A%84%E4%B8%BB%E5%9C%BA",
+      "rank": 1
+    },
+    {
+      "title": "土耳其球迷暴怒",
+      "hot_value": 1015936,
+      "link": "https://s.weibo.com/weibo?q=%E5%9C%9F%E8%80%B3%E5%85%B6%E7%90%83%E8%BF%B7%E6%9A%B4%E6%80%92",
+      "rank": 2
+    },
+    {
+      "title": "超3000家外资企业追加在华投资",
+      "hot_value": 860039,
+      "link": "https://s.weibo.com/weibo?q=%E8%B6%853000%E5%AE%B6%E5%A4%96%E8%B5%84%E4%BC%81%E4%B8%9A%E8%BF%BD%E5%8A%A0%E5%9C%A8%E5%8D%8E%E6%8A%95%E8%B5%84",
+      "rank": 3
+    },
+    {
+      "title": "头一次见把优点全穿出来的",
+      "hot_value": 850673,
+      "link": "https://s.weibo.com/weibo?q=%E5%A4%B4%E4%B8%80%E6%AC%A1%E8%A7%81%E6%8A%8A%E4%BC%98%E7%82%B9%E5%85%A8%E7%A9%BF%E5%87%BA%E6%9D%A5%E7%9A%84",
+      "rank": 4
+    },
+    {
+      "title": "长大后终于理解了妈妈的解冻焦虑",
+      "hot_value": 650109,
+      "link": "https://s.weibo.com/weibo?q=%E9%95%BF%E5%A4%A7%E5%90%8E%E7%BB%88%E4%BA%8E%E7%90%86%E8%A7%A3%E4%BA%86%E5%A6%88%E5%A6%88%E7%9A%84%E8%A7%A3%E5%86%BB%E7%84%A6%E8%99%91",
+      "rank": 5
+    },
+    {
+      "title": "现在已经没人开腰疼的玩笑了",
+      "hot_value": 569726,
+      "link": "https://s.weibo.com/weibo?q=%E7%8E%B0%E5%9C%A8%E5%B7%B2%E7%BB%8F%E6%B2%A1%E4%BA%BA%E5%BC%80%E8%85%B0%E7%96%BC%E7%9A%84%E7%8E%A9%E7%AC%91%E4%BA%86",
+      "rank": 6
+    },
+    {
+      "title": "阚清子秒删",
+      "hot_value": 500904,
+      "link": "https://s.weibo.com/weibo?q=%E9%98%9A%E6%B8%85%E5%AD%90%E7%A7%92%E5%88%A0",
+      "rank": 7
+    },
+    {
+      "title": "侯明昊长生骨开机应援",
+      "hot_value": 394232,
+      "link": "https://s.weibo.com/weibo?q=%E4%BE%AF%E6%98%8E%E6%98%8A%E9%95%BF%E7%94%9F%E9%AA%A8%E5%BC%80%E6%9C%BA%E5%BA%94%E6%8F%B4",
+      "rank": 8
+    },
+    {
+      "title": "为啥瘦下来的人会变得高冷",
+      "hot_value": 373561,
+      "link": "https://s.weibo.com/weibo?q=%E4%B8%BA%E5%95%A5%E7%98%A6%E4%B8%8B%E6%9D%A5%E7%9A%84%E4%BA%BA%E4%BC%9A%E5%8F%98%E5%BE%97%E9%AB%98%E5%86%B7",
+      "rank": 9
+    },
+    {
+      "title": "无畏手写毕业祝福",
+      "hot_value": 332521,
+      "link": "https://s.weibo.com/weibo?q=%E6%97%A0%E7%95%8F%E6%89%8B%E5%86%99%E6%AF%95%E4%B8%9A%E7%A5%9D%E7%A6%8F",
+      "rank": 10
+    },
+    {
+      "title": "田曦薇好一朵蓝色妖姬",
+      "hot_value": 332452,
+      "link": "https://s.weibo.com/weibo?q=%E7%94%B0%E6%9B%A6%E8%96%87%E5%A5%BD%E4%B8%80%E6%9C%B5%E8%93%9D%E8%89%B2%E5%A6%96%E5%A7%AC",
+      "rank": 11
+    },
+    {
+      "title": "昨天的孙怡可以娶今天的孙怡",
+      "hot_value": 328371,
+      "link": "https://s.weibo.com/weibo?q=%E6%98%A8%E5%A4%A9%E7%9A%84%E5%AD%99%E6%80%A1%E5%8F%AF%E4%BB%A5%E5%A8%B6%E4%BB%8A%E5%A4%A9%E7%9A%84%E5%AD%99%E6%80%A1",
+      "rank": 12
+    },
+    {
+      "title": "日本大肆囤积弹药备战",
+      "hot_value": 301563,
+      "link": "https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E5%A4%A7%E8%82%86%E5%9B%A4%E7%A7%AF%E5%BC%B9%E8%8D%AF%E5%A4%87%E6%88%98",
+      "rank": 13
+    },
+    {
+      "title": "黄灿灿张月cos樱木花道流川枫拍照",
+      "hot_value": 297924,
+      "link": "https://s.weibo.com/weibo?q=%E9%BB%84%E7%81%BF%E7%81%BF%E5%BC%A0%E6%9C%88cos%E6%A8%B1%E6%9C%A8%E8%8A%B1%E9%81%93%E6%B5%81%E5%B7%9D%E6%9E%AB%E6%8B%8D%E7%85%A7",
+      "rank": 14
+    },
+    {
+      "title": "德国捂嘴合影全员红牌预定",
+      "hot_value": 297082,
+      "link": "https://s.weibo.com/weibo?q=%E5%BE%B7%E5%9B%BD%E6%8D%82%E5%98%B4%E5%90%88%E5%BD%B1%E5%85%A8%E5%91%98%E7%BA%A2%E7%89%8C%E9%A2%84%E5%AE%9A",
+      "rank": 15
+    },
+    {
+      "title": "田曦薇宋威龙亚洲内容大赏出发图",
+      "hot_value": 296931,
+      "link": "https://s.weibo.com/weibo?q=%E7%94%B0%E6%9B%A6%E8%96%87%E5%AE%8B%E5%A8%81%E9%BE%99%E4%BA%9A%E6%B4%B2%E5%86%85%E5%AE%B9%E5%A4%A7%E8%B5%8F%E5%87%BA%E5%8F%91%E5%9B%BE",
+      "rank": 16
+    },
+    {
+      "title": "香港700万黄金劫案已抓7人",
+      "hot_value": 296780,
+      "link": "https://s.weibo.com/weibo?q=%E9%A6%99%E6%B8%AF700%E4%B8%87%E9%BB%84%E9%87%91%E5%8A%AB%E6%A1%88%E5%B7%B2%E6%8A%937%E4%BA%BA",
+      "rank": 17
+    },
+    {
+      "title": "涨完价的iPhone还香吗",
+      "hot_value": 296619,
+      "link": "https://s.weibo.com/weibo?q=%E6%B6%A8%E5%AE%8C%E4%BB%B7%E7%9A%84iPhone%E8%BF%98%E9%A6%99%E5%90%97",
+      "rank": 18
+    },
+    {
+      "title": "手机电脑全面涨价原因",
+      "hot_value": 296293,
+      "link": "https://s.weibo.com/weibo?q=%E6%89%8B%E6%9C%BA%E7%94%B5%E8%84%91%E5%85%A8%E9%9D%A2%E6%B6%A8%E4%BB%B7%E5%8E%9F%E5%9B%A0",
+      "rank": 19
+    },
+    {
+      "title": "国际足联是否吃相难看",
+      "hot_value": 296242,
+      "link": "https://s.weibo.com/weibo?q=%E5%9B%BD%E9%99%85%E8%B6%B3%E8%81%94%E6%98%AF%E5%90%A6%E5%90%83%E7%9B%B8%E9%9A%BE%E7%9C%8B",
+      "rank": 20
+    },
+    {
+      "title": "宋威龙给釜山一点浓颜震撼",
+      "hot_value": 296051,
+      "link": "https://s.weibo.com/weibo?q=%E5%AE%8B%E5%A8%81%E9%BE%99%E7%BB%99%E9%87%9C%E5%B1%B1%E4%B8%80%E7%82%B9%E6%B5%93%E9%A2%9C%E9%9C%87%E6%92%BC",
+      "rank": 21
+    },
+    {
+      "title": "曝徐艺洋在美国生的孩子",
+      "hot_value": 294559,
+      "link": "https://s.weibo.com/weibo?q=%E6%9B%9D%E5%BE%90%E8%89%BA%E6%B4%8B%E5%9C%A8%E7%BE%8E%E5%9B%BD%E7%94%9F%E7%9A%84%E5%AD%A9%E5%AD%90",
+      "rank": 22
+    },
+    {
+      "title": "苹果全面涨价",
+      "hot_value": 291172,
+      "link": "https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C%E5%85%A8%E9%9D%A2%E6%B6%A8%E4%BB%B7",
+      "rank": 23
+    },
+    {
+      "title": "毒纸尿裤事件反转再反转",
+      "hot_value": 290799,
+      "link": "https://s.weibo.com/weibo?q=%E6%AF%92%E7%BA%B8%E5%B0%BF%E8%A3%A4%E4%BA%8B%E4%BB%B6%E5%8F%8D%E8%BD%AC%E5%86%8D%E5%8F%8D%E8%BD%AC",
+      "rank": 24
+    },
+    {
+      "title": "立陶宛总统说搞不好对华关系就走人",
+      "hot_value": 287383,
+      "link": "https://s.weibo.com/weibo?q=%E7%AB%8B%E9%99%B6%E5%AE%9B%E6%80%BB%E7%BB%9F%E8%AF%B4%E6%90%9E%E4%B8%8D%E5%A5%BD%E5%AF%B9%E5%8D%8E%E5%85%B3%E7%B3%BB%E5%B0%B1%E8%B5%B0%E4%BA%BA",
+      "rank": 25
+    },
+    {
+      "title": "长生骨男主",
+      "hot_value": 281750,
+      "link": "https://s.weibo.com/weibo?q=%E9%95%BF%E7%94%9F%E9%AA%A8%E7%94%B7%E4%B8%BB",
+      "rank": 26
+    },
+    {
+      "title": "李小冉梦一场造型是全球首穿",
+      "hot_value": 278397,
+      "link": "https://s.weibo.com/weibo?q=%E6%9D%8E%E5%B0%8F%E5%86%89%E6%A2%A6%E4%B8%80%E5%9C%BA%E9%80%A0%E5%9E%8B%E6%98%AF%E5%85%A8%E7%90%83%E9%A6%96%E7%A9%BF",
+      "rank": 27
+    },
+    {
+      "title": "bw 抢不到票",
+      "hot_value": 275727,
+      "link": "https://s.weibo.com/weibo?q=bw%20%E6%8A%A2%E4%B8%8D%E5%88%B0%E7%A5%A8",
+      "rank": 28
+    },
+    {
+      "title": "1年500元你会把脸卖给AI短剧吗",
+      "hot_value": 262351,
+      "link": "https://s.weibo.com/weibo?q=1%E5%B9%B4500%E5%85%83%E4%BD%A0%E4%BC%9A%E6%8A%8A%E8%84%B8%E5%8D%96%E7%BB%99AI%E7%9F%AD%E5%89%A7%E5%90%97",
+      "rank": 29
+    },
+    {
+      "title": "我国再度完成洲际导弹全射程试射",
+      "hot_value": 258642,
+      "link": "https://s.weibo.com/weibo?q=%E6%88%91%E5%9B%BD%E5%86%8D%E5%BA%A6%E5%AE%8C%E6%88%90%E6%B4%B2%E9%99%85%E5%AF%BC%E5%BC%B9%E5%85%A8%E5%B0%84%E7%A8%8B%E8%AF%95%E5%B0%84",
+      "rank": 30
+    },
+    {
+      "title": "庄法穿婚纱了",
+      "hot_value": 256406,
+      "link": "https://s.weibo.com/weibo?q=%E5%BA%84%E6%B3%95%E7%A9%BF%E5%A9%9A%E7%BA%B1%E4%BA%86",
+      "rank": 31
+    },
+    {
+      "title": "云秀行开播",
+      "hot_value": 256129,
+      "link": "https://s.weibo.com/weibo?q=%E4%BA%91%E7%A7%80%E8%A1%8C%E5%BC%80%E6%92%AD",
+      "rank": 32
+    },
+    {
+      "title": "等你年纪大了就知道原因了",
+      "hot_value": 254011,
+      "link": "https://s.weibo.com/weibo?q=%E7%AD%89%E4%BD%A0%E5%B9%B4%E7%BA%AA%E5%A4%A7%E4%BA%86%E5%B0%B1%E7%9F%A5%E9%81%93%E5%8E%9F%E5%9B%A0%E4%BA%86",
+      "rank": 33
+    },
+    {
+      "title": "张颂文见义勇为获表彰",
+      "hot_value": 253324,
+      "link": "https://s.weibo.com/weibo?q=%E5%BC%A0%E9%A2%82%E6%96%87%E8%A7%81%E4%B9%89%E5%8B%87%E4%B8%BA%E8%8E%B7%E8%A1%A8%E5%BD%B0",
+      "rank": 34
+    },
+    {
+      "title": "虞书欣长生骨第一天定妆",
+      "hot_value": 237227,
+      "link": "https://s.weibo.com/weibo?q=%E8%99%9E%E4%B9%A6%E6%AC%A3%E9%95%BF%E7%94%9F%E9%AA%A8%E7%AC%AC%E4%B8%80%E5%A4%A9%E5%AE%9A%E5%A6%86",
+      "rank": 35
+    },
+    {
+      "title": "男子醉驾致1死2伤全责变主责",
+      "hot_value": 236997,
+      "link": "https://s.weibo.com/weibo?q=%E7%94%B7%E5%AD%90%E9%86%89%E9%A9%BE%E8%87%B41%E6%AD%BB2%E4%BC%A4%E5%85%A8%E8%B4%A3%E5%8F%98%E4%B8%BB%E8%B4%A3",
+      "rank": 36
+    },
+    {
+      "title": "刘耀文慷慨且富有",
+      "hot_value": 230493,
+      "link": "https://s.weibo.com/weibo?q=%E5%88%98%E8%80%80%E6%96%87%E6%85%B7%E6%85%A8%E4%B8%94%E5%AF%8C%E6%9C%89",
+      "rank": 37
+    },
+    {
+      "title": "李一桐痛失艺名后首个作品",
+      "hot_value": 224243,
+      "link": "https://s.weibo.com/weibo?q=%E6%9D%8E%E4%B8%80%E6%A1%90%E7%97%9B%E5%A4%B1%E8%89%BA%E5%90%8D%E5%90%8E%E9%A6%96%E4%B8%AA%E4%BD%9C%E5%93%81",
+      "rank": 38
+    },
+    {
+      "title": "中国裁判等了24年",
+      "hot_value": 219953,
+      "link": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E8%A3%81%E5%88%A4%E7%AD%89%E4%BA%8624%E5%B9%B4",
+      "rank": 39
+    },
+    {
+      "title": "六公主把宋亚轩放C位",
+      "hot_value": 217600,
+      "link": "https://s.weibo.com/weibo?q=%E5%85%AD%E5%85%AC%E4%B8%BB%E6%8A%8A%E5%AE%8B%E4%BA%9A%E8%BD%A9%E6%94%BEC%E4%BD%8D",
+      "rank": 40
+    },
+    {
+      "title": "向太称该翻脸就翻脸",
+      "hot_value": 205908,
+      "link": "https://s.weibo.com/weibo?q=%E5%90%91%E5%A4%AA%E7%A7%B0%E8%AF%A5%E7%BF%BB%E8%84%B8%E5%B0%B1%E7%BF%BB%E8%84%B8",
+      "rank": 41
+    },
+    {
+      "title": "滴露消毒液广告被指物化女性",
+      "hot_value": 202937,
+      "link": "https://s.weibo.com/weibo?q=%E6%BB%B4%E9%9C%B2%E6%B6%88%E6%AF%92%E6%B6%B2%E5%B9%BF%E5%91%8A%E8%A2%AB%E6%8C%87%E7%89%A9%E5%8C%96%E5%A5%B3%E6%80%A7",
+      "rank": 42
+    },
+    {
+      "title": "陈建斌大儿子获海淀区三好学生",
+      "hot_value": 200528,
+      "link": "https://s.weibo.com/weibo?q=%E9%99%88%E5%BB%BA%E6%96%8C%E5%A4%A7%E5%84%BF%E5%AD%90%E8%8E%B7%E6%B5%B7%E6%B7%80%E5%8C%BA%E4%B8%89%E5%A5%BD%E5%AD%A6%E7%94%9F",
+      "rank": 43
+    },
+    {
+      "title": "李一桐曾舜晞邓为都是艺名",
+      "hot_value": 180102,
+      "link": "https://s.weibo.com/weibo?q=%E6%9D%8E%E4%B8%80%E6%A1%90%E6%9B%BE%E8%88%9C%E6%99%9E%E9%82%93%E4%B8%BA%E9%83%BD%E6%98%AF%E8%89%BA%E5%90%8D",
+      "rank": 44
+    },
+    {
+      "title": "哈兰德头绳每根约42元",
+      "hot_value": 169909,
+      "link": "https://s.weibo.com/weibo?q=%E5%93%88%E5%85%B0%E5%BE%B7%E5%A4%B4%E7%BB%B3%E6%AF%8F%E6%A0%B9%E7%BA%A642%E5%85%83",
+      "rank": 45
+    },
+    {
+      "title": "张庭儿子女儿颜值",
+      "hot_value": 169526,
+      "link": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%BA%AD%E5%84%BF%E5%AD%90%E5%A5%B3%E5%84%BF%E9%A2%9C%E5%80%BC",
+      "rank": 46
+    },
+    {
+      "title": "克拉岛",
+      "hot_value": 157621,
+      "link": "https://s.weibo.com/weibo?q=%E5%85%8B%E6%8B%89%E5%B2%9B",
+      "rank": 47
+    },
+    {
+      "title": "你们谈恋爱的未必有我追星舍得花钱",
+      "hot_value": 156160,
+      "link": "https://s.weibo.com/weibo?q=%E4%BD%A0%E4%BB%AC%E8%B0%88%E6%81%8B%E7%88%B1%E7%9A%84%E6%9C%AA%E5%BF%85%E6%9C%89%E6%88%91%E8%BF%BD%E6%98%9F%E8%88%8D%E5%BE%97%E8%8A%B1%E9%92%B1",
+      "rank": 48
+    },
+    {
+      "title": "特朗普高市早苗G7翻脸",
+      "hot_value": 155222,
+      "link": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97G7%E7%BF%BB%E8%84%B8",
+      "rank": 49
+    },
+    {
+      "title": "人与人沟通也是要消耗token的",
+      "hot_value": 152650,
+      "link": "https://s.weibo.com/weibo?q=%E4%BA%BA%E4%B8%8E%E4%BA%BA%E6%B2%9F%E9%80%9A%E4%B9%9F%E6%98%AF%E8%A6%81%E6%B6%88%E8%80%97token%E7%9A%84",
+      "rank": 50
+    }
+  ]
+}
