@@ -1,0 +1,307 @@
+{
+  "platform": "toutiao",
+  "platform_name": "今日头条",
+  "time": "2026-06-20 20:57:04",
+  "items": [
+    {
+      "title": "以色列代表与联合国官员爆发激烈争吵",
+      "hot_value": 10406181,
+      "link": "https://www.toutiao.com/trending/7653307590294601791",
+      "rank": 1
+    },
+    {
+      "title": "张颂文见义勇为获表彰",
+      "hot_value": 9415902,
+      "link": "https://www.toutiao.com/trending/7652534863586132010",
+      "rank": 2
+    },
+    {
+      "title": "全社会用电量同比增长6.9％",
+      "hot_value": 8519861,
+      "link": "https://www.toutiao.com/trending/7652935544049647670",
+      "rank": 3
+    },
+    {
+      "title": "立总统警告外长搞不好对华关系就走人",
+      "hot_value": 7709089,
+      "link": "https://www.toutiao.com/trending/7652610931277774884",
+      "rank": 4
+    },
+    {
+      "title": "62射0球提前出局 土耳其成浪射代名词",
+      "hot_value": 6975472,
+      "link": "https://www.toutiao.com/trending/7653427572739227674",
+      "rank": 5
+    },
+    {
+      "title": "半夜醒来不要看时间",
+      "hot_value": 6311668,
+      "link": "https://www.toutiao.com/trending/7653030410696720427",
+      "rank": 6
+    },
+    {
+      "title": "对象包的粽子一筷子下去冒烟了",
+      "hot_value": 5711033,
+      "link": "https://www.toutiao.com/trending/7652515034718847022",
+      "rank": 7
+    },
+    {
+      "title": "中国造激光灭蚊神器海外爆单",
+      "hot_value": 5167556,
+      "link": "https://www.toutiao.com/trending/7652594422467084314",
+      "rank": 8
+    },
+    {
+      "title": "泽连斯基向白俄罗斯撂狠话",
+      "hot_value": 4675798,
+      "link": "https://www.toutiao.com/trending/7652846168108154916",
+      "rank": 9
+    },
+    {
+      "title": "近六成台湾民众支持两岸和平谈判",
+      "hot_value": 4230837,
+      "link": "https://www.toutiao.com/trending/7652465924146446399",
+      "rank": 10
+    },
+    {
+      "title": "深圳辟谣“全域投放无人驾驶网约车”",
+      "hot_value": 3828220,
+      "link": "https://www.toutiao.com/trending/7652707990380118079",
+      "rank": 11
+    },
+    {
+      "title": "高校20万预算录取通知书项目终止",
+      "hot_value": 3463917,
+      "link": "https://www.toutiao.com/trending/7653431745896497162",
+      "rank": 12
+    },
+    {
+      "title": "鹿晗现身全国游泳冠军赛",
+      "hot_value": 3134281,
+      "link": "https://www.toutiao.com/trending/7653104229779161107",
+      "rank": 13
+    },
+    {
+      "title": "窦靖童复刻母亲王菲泪痕妆",
+      "hot_value": 2836015,
+      "link": "https://www.toutiao.com/trending/7652597488830382126",
+      "rank": 14
+    },
+    {
+      "title": "世界杯首例捂嘴红牌出现",
+      "hot_value": 2566132,
+      "link": "https://www.toutiao.com/trending/7653327413329497650",
+      "rank": 15
+    },
+    {
+      "title": "撒贝宁挑战“水上F1”",
+      "hot_value": 2321933,
+      "link": "https://www.toutiao.com/trending/7652601378972074026",
+      "rank": 16
+    },
+    {
+      "title": "广西版跑跑卡丁车体验喀斯特地貌赛道",
+      "hot_value": 2100971,
+      "link": "https://www.toutiao.com/trending/7653338519344922667",
+      "rank": 17
+    },
+    {
+      "title": "现在的C罗配不上葡萄牙队了吗",
+      "hot_value": 1901037,
+      "link": "https://www.toutiao.com/trending/7653425648542682666",
+      "rank": 18
+    },
+    {
+      "title": "巴西队大胜却被7个桑巴“老头”抢镜",
+      "hot_value": 1720130,
+      "link": "https://www.toutiao.com/trending/7653395174638226986",
+      "rank": 19
+    },
+    {
+      "title": "小女孩偷摘未成熟葡萄酸到五官扭曲",
+      "hot_value": 1556438,
+      "link": "https://www.toutiao.com/trending/7653286303664340998",
+      "rank": 20
+    },
+    {
+      "title": "土耳其多名球员赛后埋头痛哭",
+      "hot_value": 1408323,
+      "link": "https://www.toutiao.com/trending/7653065493750480942",
+      "rank": 21
+    },
+    {
+      "title": "94岁奶奶卖1元粽子走红",
+      "hot_value": 1274303,
+      "link": "https://www.toutiao.com/trending/7653386102158131219",
+      "rank": 22
+    },
+    {
+      "title": "火箭军某部组织多波次火力突击演练",
+      "hot_value": 1153037,
+      "link": "https://www.toutiao.com/trending/7653263469207273482",
+      "rank": 23
+    },
+    {
+      "title": "开场65秒破门 巴拉圭1-0土耳其",
+      "hot_value": 1043311,
+      "link": "https://www.toutiao.com/trending/7652640126610296383",
+      "rank": 24
+    },
+    {
+      "title": "打虎！新疆公安厅原厅长朱昌杰被查",
+      "hot_value": 944027,
+      "link": "https://www.toutiao.com/trending/7653384283586838591",
+      "rank": 25
+    },
+    {
+      "title": "燃油车彻底没活路了吗",
+      "hot_value": 854191,
+      "link": "https://www.toutiao.com/trending/7653404116743376403",
+      "rank": 26
+    },
+    {
+      "title": "黄健翔烧饼大能谈C罗首发争议",
+      "hot_value": 772904,
+      "link": "https://www.toutiao.com/trending/7652625590324265023",
+      "rank": 27
+    },
+    {
+      "title": "上任一年李在明做对了什么",
+      "hot_value": 699352,
+      "link": "https://www.toutiao.com/trending/7653422337521356338",
+      "rank": 28
+    },
+    {
+      "title": "乌克兰称再获40亿美元军援",
+      "hot_value": 632800,
+      "link": "https://www.toutiao.com/trending/7652885315228794918",
+      "rank": 29
+    },
+    {
+      "title": "张颂文亮相《纸盒藏迷》发布会",
+      "hot_value": 572581,
+      "link": "https://www.toutiao.com/trending/7653341077437054982",
+      "rank": 30
+    },
+    {
+      "title": "曝小罗将复出加盟意丙球队",
+      "hot_value": 518093,
+      "link": "https://www.toutiao.com/trending/7652526765420773418",
+      "rank": 31
+    },
+    {
+      "title": "英女子中百万大奖后甩掉男友遭索赔",
+      "hot_value": 468790,
+      "link": "https://www.toutiao.com/trending/7653379596209127465",
+      "rank": 32
+    },
+    {
+      "title": "小学生给爸爸打电话说“我爱你”",
+      "hot_value": 424178,
+      "link": "https://www.toutiao.com/trending/7653124046502428735",
+      "rank": 33
+    },
+    {
+      "title": "专家：中美股市科技板块差距大",
+      "hot_value": 383812,
+      "link": "https://www.toutiao.com/trending/7653397957080780307",
+      "rank": 34
+    },
+    {
+      "title": "欧盟要和中国打贸易战吗",
+      "hot_value": 347288,
+      "link": "https://www.toutiao.com/trending/7653439811302198790",
+      "rank": 35
+    },
+    {
+      "title": "博主：葡萄牙对C罗的使用不能太犹豫",
+      "hot_value": 314239,
+      "link": "https://www.toutiao.com/trending/7653448541741780523",
+      "rank": 36
+    },
+    {
+      "title": "温瑞博挺进男单十六强",
+      "hot_value": 284335,
+      "link": "https://www.toutiao.com/trending/7653310289458331702",
+      "rank": 37
+    },
+    {
+      "title": "教师身穿旗袍手持向日葵为中考生加油",
+      "hot_value": 257277,
+      "link": "https://www.toutiao.com/trending/7653257458165170226",
+      "rank": 38
+    },
+    {
+      "title": "务工小伙行李被盗后一句话看哭全网",
+      "hot_value": 232794,
+      "link": "https://www.toutiao.com/trending/7652509450116481065",
+      "rank": 39
+    },
+    {
+      "title": "居莱尔世界杯出局后仰天问为什么",
+      "hot_value": 210641,
+      "link": "https://www.toutiao.com/trending/7652372788707246118",
+      "rank": 40
+    },
+    {
+      "title": "电影《抓特务》发布群像海报",
+      "hot_value": 190595,
+      "link": "https://www.toutiao.com/trending/7653287277003112489",
+      "rank": 41
+    },
+    {
+      "title": "中国女排零封法国队取两连胜",
+      "hot_value": 172458,
+      "link": "https://www.toutiao.com/trending/7652767315251068937",
+      "rank": 42
+    },
+    {
+      "title": "海地门将开球用时超8秒 巴西获角球",
+      "hot_value": 156046,
+      "link": "https://www.toutiao.com/trending/7652727740158165028",
+      "rank": 43
+    },
+    {
+      "title": "美国为何在军事上边缘化印度",
+      "hot_value": 141196,
+      "link": "https://www.toutiao.com/trending/7653414381891358251",
+      "rank": 44
+    },
+    {
+      "title": "两部门联合发布黄色山洪灾害气象预警",
+      "hot_value": 127760,
+      "link": "https://www.toutiao.com/trending/7653260875772411967",
+      "rank": 45
+    },
+    {
+      "title": "离岸人民币能在境内交易释放何信号",
+      "hot_value": 115602,
+      "link": "https://www.toutiao.com/trending/7653405183837212196",
+      "rank": 46
+    },
+    {
+      "title": "海事部门发布赛龙舟安全提醒",
+      "hot_value": 104601,
+      "link": "https://www.toutiao.com/trending/7652551210344136714",
+      "rank": 47
+    },
+    {
+      "title": "小朋友在赵尚志雕像前放上粽子",
+      "hot_value": 94647,
+      "link": "https://www.toutiao.com/trending/7653083420625403947",
+      "rank": 48
+    },
+    {
+      "title": "明早8点中国裁判组亮相世界杯",
+      "hot_value": 85640,
+      "link": "https://www.toutiao.com/trending/7652575049741336582",
+      "rank": 49
+    },
+    {
+      "title": "今后几天南方大范围地区持续强降雨",
+      "hot_value": 70116,
+      "link": "https://www.toutiao.com/trending/7652737231962669098",
+      "rank": 50
+    }
+  ]
+}
