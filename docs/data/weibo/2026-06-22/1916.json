@@ -1,0 +1,307 @@
+{
+  "platform": "weibo",
+  "platform_name": "微博热搜",
+  "time": "2026-06-22 19:16:16",
+  "items": [
+    {
+      "title": "安徽广德车祸家属称两名小孩已去世",
+      "hot_value": 1919225,
+      "link": "https://s.weibo.com/weibo?q=%E5%AE%89%E5%BE%BD%E5%B9%BF%E5%BE%B7%E8%BD%A6%E7%A5%B8%E5%AE%B6%E5%B1%9E%E7%A7%B0%E4%B8%A4%E5%90%8D%E5%B0%8F%E5%AD%A9%E5%B7%B2%E5%8E%BB%E4%B8%96",
+      "rank": 1
+    },
+    {
+      "title": "伊朗队在洛杉矶更衣室留下感谢信",
+      "hot_value": 946297,
+      "link": "https://s.weibo.com/weibo?q=%E4%BC%8A%E6%9C%97%E9%98%9F%E5%9C%A8%E6%B4%9B%E6%9D%89%E7%9F%B6%E6%9B%B4%E8%A1%A3%E5%AE%A4%E7%95%99%E4%B8%8B%E6%84%9F%E8%B0%A2%E4%BF%A1",
+      "rank": 2
+    },
+    {
+      "title": "长三角地区进出口规模再创新高",
+      "hot_value": 856463,
+      "link": "https://s.weibo.com/weibo?q=%E9%95%BF%E4%B8%89%E8%A7%92%E5%9C%B0%E5%8C%BA%E8%BF%9B%E5%87%BA%E5%8F%A3%E8%A7%84%E6%A8%A1%E5%86%8D%E5%88%9B%E6%96%B0%E9%AB%98",
+      "rank": 3
+    },
+    {
+      "title": "恋与深空",
+      "hot_value": 853226,
+      "link": "https://s.weibo.com/weibo?q=%E6%81%8B%E4%B8%8E%E6%B7%B1%E7%A9%BA",
+      "rank": 4
+    },
+    {
+      "title": "地铁老人强拽女孩让座和家长扭打",
+      "hot_value": 500753,
+      "link": "https://s.weibo.com/weibo?q=%E5%9C%B0%E9%93%81%E8%80%81%E4%BA%BA%E5%BC%BA%E6%8B%BD%E5%A5%B3%E5%AD%A9%E8%AE%A9%E5%BA%A7%E5%92%8C%E5%AE%B6%E9%95%BF%E6%89%AD%E6%89%93",
+      "rank": 5
+    },
+    {
+      "title": "生日朋友圈发了三天了",
+      "hot_value": 474702,
+      "link": "https://s.weibo.com/weibo?q=%E7%94%9F%E6%97%A5%E6%9C%8B%E5%8F%8B%E5%9C%88%E5%8F%91%E4%BA%86%E4%B8%89%E5%A4%A9%E4%BA%86",
+      "rank": 6
+    },
+    {
+      "title": "突然理解小孩子为什么吵闹了",
+      "hot_value": 457334,
+      "link": "https://s.weibo.com/weibo?q=%E7%AA%81%E7%84%B6%E7%90%86%E8%A7%A3%E5%B0%8F%E5%AD%A9%E5%AD%90%E4%B8%BA%E4%BB%80%E4%B9%88%E5%90%B5%E9%97%B9%E4%BA%86",
+      "rank": 7
+    },
+    {
+      "title": "轻断食一天喝了6斤牛奶",
+      "hot_value": 452728,
+      "link": "https://s.weibo.com/weibo?q=%E8%BD%BB%E6%96%AD%E9%A3%9F%E4%B8%80%E5%A4%A9%E5%96%9D%E4%BA%866%E6%96%A4%E7%89%9B%E5%A5%B6",
+      "rank": 8
+    },
+    {
+      "title": "男子没开空调工作一天肾坏了",
+      "hot_value": 410338,
+      "link": "https://s.weibo.com/weibo?q=%E7%94%B7%E5%AD%90%E6%B2%A1%E5%BC%80%E7%A9%BA%E8%B0%83%E5%B7%A5%E4%BD%9C%E4%B8%80%E5%A4%A9%E8%82%BE%E5%9D%8F%E4%BA%86",
+      "rank": 9
+    },
+    {
+      "title": "恋与深空突击直播",
+      "hot_value": 397206,
+      "link": "https://s.weibo.com/weibo?q=%E6%81%8B%E4%B8%8E%E6%B7%B1%E7%A9%BA%E7%AA%81%E5%87%BB%E7%9B%B4%E6%92%AD",
+      "rank": 10
+    },
+    {
+      "title": "李金铭农村综艺那家人居然还在发她",
+      "hot_value": 387713,
+      "link": "https://s.weibo.com/weibo?q=%E6%9D%8E%E9%87%91%E9%93%AD%E5%86%9C%E6%9D%91%E7%BB%BC%E8%89%BA%E9%82%A3%E5%AE%B6%E4%BA%BA%E5%B1%85%E7%84%B6%E8%BF%98%E5%9C%A8%E5%8F%91%E5%A5%B9",
+      "rank": 11
+    },
+    {
+      "title": "时代峰峻辟谣朱志鑫苏新皓恋情",
+      "hot_value": 379284,
+      "link": "https://s.weibo.com/weibo?q=%E6%97%B6%E4%BB%A3%E5%B3%B0%E5%B3%BB%E8%BE%9F%E8%B0%A3%E6%9C%B1%E5%BF%97%E9%91%AB%E8%8B%8F%E6%96%B0%E7%9A%93%E6%81%8B%E6%83%85",
+      "rank": 12
+    },
+    {
+      "title": "蔡磊回应倾家荡产救自己被称自私",
+      "hot_value": 370689,
+      "link": "https://s.weibo.com/weibo?q=%E8%94%A1%E7%A3%8A%E5%9B%9E%E5%BA%94%E5%80%BE%E5%AE%B6%E8%8D%A1%E4%BA%A7%E6%95%91%E8%87%AA%E5%B7%B1%E8%A2%AB%E7%A7%B0%E8%87%AA%E7%A7%81",
+      "rank": 13
+    },
+    {
+      "title": "张凌赫女主",
+      "hot_value": 360762,
+      "link": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%87%8C%E8%B5%AB%E5%A5%B3%E4%B8%BB",
+      "rank": 14
+    },
+    {
+      "title": "应采儿公关 拉好感",
+      "hot_value": 356887,
+      "link": "https://s.weibo.com/weibo?q=%E5%BA%94%E9%87%87%E5%84%BF%E5%85%AC%E5%85%B3%20%E6%8B%89%E5%A5%BD%E6%84%9F",
+      "rank": 15
+    },
+    {
+      "title": "iPhone18标准版神似17Pro",
+      "hot_value": 349754,
+      "link": "https://s.weibo.com/weibo?q=iPhone18%E6%A0%87%E5%87%86%E7%89%88%E7%A5%9E%E4%BC%BC17Pro",
+      "rank": 16
+    },
+    {
+      "title": "英国首相斯塔默宣布辞职",
+      "hot_value": 285381,
+      "link": "https://s.weibo.com/weibo?q=%E8%8B%B1%E5%9B%BD%E9%A6%96%E7%9B%B8%E6%96%AF%E5%A1%94%E9%BB%98%E5%AE%A3%E5%B8%83%E8%BE%9E%E8%81%8C",
+      "rank": 17
+    },
+    {
+      "title": "爱情有烟火藏了3年是为了世界杯吧",
+      "hot_value": 285264,
+      "link": "https://s.weibo.com/weibo?q=%E7%88%B1%E6%83%85%E6%9C%89%E7%83%9F%E7%81%AB%E8%97%8F%E4%BA%863%E5%B9%B4%E6%98%AF%E4%B8%BA%E4%BA%86%E4%B8%96%E7%95%8C%E6%9D%AF%E5%90%A7",
+      "rank": 18
+    },
+    {
+      "title": "滴露的致歉声明里满是甩锅",
+      "hot_value": 285141,
+      "link": "https://s.weibo.com/weibo?q=%E6%BB%B4%E9%9C%B2%E7%9A%84%E8%87%B4%E6%AD%89%E5%A3%B0%E6%98%8E%E9%87%8C%E6%BB%A1%E6%98%AF%E7%94%A9%E9%94%85",
+      "rank": 19
+    },
+    {
+      "title": "假助农营销作秀1个月收割1000万",
+      "hot_value": 284934,
+      "link": "https://s.weibo.com/weibo?q=%E5%81%87%E5%8A%A9%E5%86%9C%E8%90%A5%E9%94%80%E4%BD%9C%E7%A7%801%E4%B8%AA%E6%9C%88%E6%94%B6%E5%89%B21000%E4%B8%87",
+      "rank": 20
+    },
+    {
+      "title": "乌拉圭临时抱佛脚起效",
+      "hot_value": 284748,
+      "link": "https://s.weibo.com/weibo?q=%E4%B9%8C%E6%8B%89%E5%9C%AD%E4%B8%B4%E6%97%B6%E6%8A%B1%E4%BD%9B%E8%84%9A%E8%B5%B7%E6%95%88",
+      "rank": 21
+    },
+    {
+      "title": "沈梦辰 全身涂粉底液",
+      "hot_value": 284387,
+      "link": "https://s.weibo.com/weibo?q=%E6%B2%88%E6%A2%A6%E8%BE%B0%20%E5%85%A8%E8%BA%AB%E6%B6%82%E7%B2%89%E5%BA%95%E6%B6%B2",
+      "rank": 22
+    },
+    {
+      "title": "钟美美入学波士顿大学",
+      "hot_value": 284289,
+      "link": "https://s.weibo.com/weibo?q=%E9%92%9F%E7%BE%8E%E7%BE%8E%E5%85%A5%E5%AD%A6%E6%B3%A2%E5%A3%AB%E9%A1%BF%E5%A4%A7%E5%AD%A6",
+      "rank": 23
+    },
+    {
+      "title": "建议大家把消极口癖戒掉",
+      "hot_value": 284055,
+      "link": "https://s.weibo.com/weibo?q=%E5%BB%BA%E8%AE%AE%E5%A4%A7%E5%AE%B6%E6%8A%8A%E6%B6%88%E6%9E%81%E5%8F%A3%E7%99%96%E6%88%92%E6%8E%89",
+      "rank": 24
+    },
+    {
+      "title": "李金铭曾回应那家人没有伤害她",
+      "hot_value": 283902,
+      "link": "https://s.weibo.com/weibo?q=%E6%9D%8E%E9%87%91%E9%93%AD%E6%9B%BE%E5%9B%9E%E5%BA%94%E9%82%A3%E5%AE%B6%E4%BA%BA%E6%B2%A1%E6%9C%89%E4%BC%A4%E5%AE%B3%E5%A5%B9",
+      "rank": 25
+    },
+    {
+      "title": "复联5 泄露",
+      "hot_value": 283629,
+      "link": "https://s.weibo.com/weibo?q=%E5%A4%8D%E8%81%945%20%E6%B3%84%E9%9C%B2",
+      "rank": 26
+    },
+    {
+      "title": "日本旭日旗现身世界杯看台韩网友痛批",
+      "hot_value": 283402,
+      "link": "https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E6%97%AD%E6%97%A5%E6%97%97%E7%8E%B0%E8%BA%AB%E4%B8%96%E7%95%8C%E6%9D%AF%E7%9C%8B%E5%8F%B0%E9%9F%A9%E7%BD%91%E5%8F%8B%E7%97%9B%E6%89%B9",
+      "rank": 27
+    },
+    {
+      "title": "白玉兰预测",
+      "hot_value": 283274,
+      "link": "https://s.weibo.com/weibo?q=%E7%99%BD%E7%8E%89%E5%85%B0%E9%A2%84%E6%B5%8B",
+      "rank": 28
+    },
+    {
+      "title": "真人短剧播不过AI剧了",
+      "hot_value": 277905,
+      "link": "https://s.weibo.com/weibo?q=%E7%9C%9F%E4%BA%BA%E7%9F%AD%E5%89%A7%E6%92%AD%E4%B8%8D%E8%BF%87AI%E5%89%A7%E4%BA%86",
+      "rank": 29
+    },
+    {
+      "title": "官方回应纸尿裤甲酰胺报道",
+      "hot_value": 269824,
+      "link": "https://s.weibo.com/weibo?q=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E7%BA%B8%E5%B0%BF%E8%A3%A4%E7%94%B2%E9%85%B0%E8%83%BA%E6%8A%A5%E9%81%93",
+      "rank": 30
+    },
+    {
+      "title": "上戏体重管得也太严格了吧",
+      "hot_value": 264562,
+      "link": "https://s.weibo.com/weibo?q=%E4%B8%8A%E6%88%8F%E4%BD%93%E9%87%8D%E7%AE%A1%E5%BE%97%E4%B9%9F%E5%A4%AA%E4%B8%A5%E6%A0%BC%E4%BA%86%E5%90%A7",
+      "rank": 31
+    },
+    {
+      "title": "恋与深空 第六个男主",
+      "hot_value": 258776,
+      "link": "https://s.weibo.com/weibo?q=%E6%81%8B%E4%B8%8E%E6%B7%B1%E7%A9%BA%20%E7%AC%AC%E5%85%AD%E4%B8%AA%E7%94%B7%E4%B8%BB",
+      "rank": 32
+    },
+    {
+      "title": "小米回应为什么要无人驾驶跑纽北",
+      "hot_value": 252767,
+      "link": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E5%9B%9E%E5%BA%94%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E6%97%A0%E4%BA%BA%E9%A9%BE%E9%A9%B6%E8%B7%91%E7%BA%BD%E5%8C%97",
+      "rank": 33
+    },
+    {
+      "title": "黄景瑜自行车",
+      "hot_value": 246888,
+      "link": "https://s.weibo.com/weibo?q=%E9%BB%84%E6%99%AF%E7%91%9C%E8%87%AA%E8%A1%8C%E8%BD%A6",
+      "rank": 34
+    },
+    {
+      "title": "滴露发声明致歉",
+      "hot_value": 245805,
+      "link": "https://s.weibo.com/weibo?q=%E6%BB%B4%E9%9C%B2%E5%8F%91%E5%A3%B0%E6%98%8E%E8%87%B4%E6%AD%89",
+      "rank": 35
+    },
+    {
+      "title": "钟美美致歉",
+      "hot_value": 245579,
+      "link": "https://s.weibo.com/weibo?q=%E9%92%9F%E7%BE%8E%E7%BE%8E%E8%87%B4%E6%AD%89",
+      "rank": 36
+    },
+    {
+      "title": "日方舰艇飞机挑衅辽宁舰编队",
+      "hot_value": 240431,
+      "link": "https://s.weibo.com/weibo?q=%E6%97%A5%E6%96%B9%E8%88%B0%E8%89%87%E9%A3%9E%E6%9C%BA%E6%8C%91%E8%A1%85%E8%BE%BD%E5%AE%81%E8%88%B0%E7%BC%96%E9%98%9F",
+      "rank": 37
+    },
+    {
+      "title": "中央空调为什么总被说是电费刺客",
+      "hot_value": 240001,
+      "link": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%A4%AE%E7%A9%BA%E8%B0%83%E4%B8%BA%E4%BB%80%E4%B9%88%E6%80%BB%E8%A2%AB%E8%AF%B4%E6%98%AF%E7%94%B5%E8%B4%B9%E5%88%BA%E5%AE%A2",
+      "rank": 38
+    },
+    {
+      "title": "多家医院开始自主定价飞刀费",
+      "hot_value": 238770,
+      "link": "https://s.weibo.com/weibo?q=%E5%A4%9A%E5%AE%B6%E5%8C%BB%E9%99%A2%E5%BC%80%E5%A7%8B%E8%87%AA%E4%B8%BB%E5%AE%9A%E4%BB%B7%E9%A3%9E%E5%88%80%E8%B4%B9",
+      "rank": 39
+    },
+    {
+      "title": "纸尿裤甲酰胺风波罕见一幕",
+      "hot_value": 237412,
+      "link": "https://s.weibo.com/weibo?q=%E7%BA%B8%E5%B0%BF%E8%A3%A4%E7%94%B2%E9%85%B0%E8%83%BA%E9%A3%8E%E6%B3%A2%E7%BD%95%E8%A7%81%E4%B8%80%E5%B9%95",
+      "rank": 40
+    },
+    {
+      "title": "咖啡店贴店内可吸烟宣传牌引争议",
+      "hot_value": 237023,
+      "link": "https://s.weibo.com/weibo?q=%E5%92%96%E5%95%A1%E5%BA%97%E8%B4%B4%E5%BA%97%E5%86%85%E5%8F%AF%E5%90%B8%E7%83%9F%E5%AE%A3%E4%BC%A0%E7%89%8C%E5%BC%95%E4%BA%89%E8%AE%AE",
+      "rank": 41
+    },
+    {
+      "title": "关晓彤确认出演红掌",
+      "hot_value": 236170,
+      "link": "https://s.weibo.com/weibo?q=%E5%85%B3%E6%99%93%E5%BD%A4%E7%A1%AE%E8%AE%A4%E5%87%BA%E6%BC%94%E7%BA%A2%E6%8E%8C",
+      "rank": 42
+    },
+    {
+      "title": "李羲承出道",
+      "hot_value": 231046,
+      "link": "https://s.weibo.com/weibo?q=%E6%9D%8E%E7%BE%B2%E6%89%BF%E5%87%BA%E9%81%93",
+      "rank": 43
+    },
+    {
+      "title": "职场里听过最有水平的一句话",
+      "hot_value": 204624,
+      "link": "https://s.weibo.com/weibo?q=%E8%81%8C%E5%9C%BA%E9%87%8C%E5%90%AC%E8%BF%87%E6%9C%80%E6%9C%89%E6%B0%B4%E5%B9%B3%E7%9A%84%E4%B8%80%E5%8F%A5%E8%AF%9D",
+      "rank": 44
+    },
+    {
+      "title": "易梦玲瘦成皮包骨了",
+      "hot_value": 203463,
+      "link": "https://s.weibo.com/weibo?q=%E6%98%93%E6%A2%A6%E7%8E%B2%E7%98%A6%E6%88%90%E7%9A%AE%E5%8C%85%E9%AA%A8%E4%BA%86",
+      "rank": 45
+    },
+    {
+      "title": "Angelababy韩系鬼塑千金",
+      "hot_value": 201495,
+      "link": "https://s.weibo.com/weibo?q=Angelababy%E9%9F%A9%E7%B3%BB%E9%AC%BC%E5%A1%91%E5%8D%83%E9%87%91",
+      "rank": 46
+    },
+    {
+      "title": "真正重视你的人是什么样的",
+      "hot_value": 181744,
+      "link": "https://s.weibo.com/weibo?q=%E7%9C%9F%E6%AD%A3%E9%87%8D%E8%A7%86%E4%BD%A0%E7%9A%84%E4%BA%BA%E6%98%AF%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84",
+      "rank": 47
+    },
+    {
+      "title": "券商股暴涨4大原因",
+      "hot_value": 166875,
+      "link": "https://s.weibo.com/weibo?q=%E5%88%B8%E5%95%86%E8%82%A1%E6%9A%B4%E6%B6%A84%E5%A4%A7%E5%8E%9F%E5%9B%A0",
+      "rank": 48
+    },
+    {
+      "title": "白鹿音乐会门票二开秒罄",
+      "hot_value": 165499,
+      "link": "https://s.weibo.com/weibo?q=%E7%99%BD%E9%B9%BF%E9%9F%B3%E4%B9%90%E4%BC%9A%E9%97%A8%E7%A5%A8%E4%BA%8C%E5%BC%80%E7%A7%92%E7%BD%84",
+      "rank": 49
+    },
+    {
+      "title": "建议炽夏耀眼翘楚换乘男主",
+      "hot_value": 162956,
+      "link": "https://s.weibo.com/weibo?q=%E5%BB%BA%E8%AE%AE%E7%82%BD%E5%A4%8F%E8%80%80%E7%9C%BC%E7%BF%98%E6%A5%9A%E6%8D%A2%E4%B9%98%E7%94%B7%E4%B8%BB",
+      "rank": 50
+    }
+  ]
+}
