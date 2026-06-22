@@ -1,0 +1,307 @@
+{
+  "platform": "weibo",
+  "platform_name": "微博热搜",
+  "time": "2026-06-23 06:42:20",
+  "items": [
+    {
+      "title": "姆巴佩左脚世界波",
+      "hot_value": 2920040,
+      "link": "https://s.weibo.com/weibo?q=%E5%A7%86%E5%B7%B4%E4%BD%A9%E5%B7%A6%E8%84%9A%E4%B8%96%E7%95%8C%E6%B3%A2",
+      "rank": 1
+    },
+    {
+      "title": "法国vs伊拉克 好大的雨",
+      "hot_value": 1777927,
+      "link": "https://s.weibo.com/weibo?q=%E6%B3%95%E5%9B%BDvs%E4%BC%8A%E6%8B%89%E5%85%8B%20%E5%A5%BD%E5%A4%A7%E7%9A%84%E9%9B%A8",
+      "rank": 2
+    },
+    {
+      "title": "端午假期国内出游1.24亿人次",
+      "hot_value": 649724,
+      "link": "https://s.weibo.com/weibo?q=%E7%AB%AF%E5%8D%88%E5%81%87%E6%9C%9F%E5%9B%BD%E5%86%85%E5%87%BA%E6%B8%B81.24%E4%BA%BF%E4%BA%BA%E6%AC%A1",
+      "rank": 3
+    },
+    {
+      "title": "阿根廷2比0奥地利",
+      "hot_value": 623133,
+      "link": "https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B72%E6%AF%940%E5%A5%A5%E5%9C%B0%E5%88%A9",
+      "rank": 4
+    },
+    {
+      "title": "李金铭农村综艺那家人已败诉",
+      "hot_value": 518523,
+      "link": "https://s.weibo.com/weibo?q=%E6%9D%8E%E9%87%91%E9%93%AD%E5%86%9C%E6%9D%91%E7%BB%BC%E8%89%BA%E9%82%A3%E5%AE%B6%E4%BA%BA%E5%B7%B2%E8%B4%A5%E8%AF%89",
+      "rank": 5
+    },
+    {
+      "title": "法国vs伊拉克",
+      "hot_value": 423492,
+      "link": "https://s.weibo.com/weibo?q=%E6%B3%95%E5%9B%BDvs%E4%BC%8A%E6%8B%89%E5%85%8B",
+      "rank": 6
+    },
+    {
+      "title": "逐玉导演 战争戏不需要逻辑",
+      "hot_value": 295623,
+      "link": "https://s.weibo.com/weibo?q=%E9%80%90%E7%8E%89%E5%AF%BC%E6%BC%94%20%E6%88%98%E4%BA%89%E6%88%8F%E4%B8%8D%E9%9C%80%E8%A6%81%E9%80%BB%E8%BE%91",
+      "rank": 7
+    },
+    {
+      "title": "阿根廷失点",
+      "hot_value": 198548,
+      "link": "https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7%E5%A4%B1%E7%82%B9",
+      "rank": 8
+    },
+    {
+      "title": "法国vs伊拉克下半场因雷暴天气推迟",
+      "hot_value": 191271,
+      "link": "https://s.weibo.com/weibo?q=%E6%B3%95%E5%9B%BDvs%E4%BC%8A%E6%8B%89%E5%85%8B%E4%B8%8B%E5%8D%8A%E5%9C%BA%E5%9B%A0%E9%9B%B7%E6%9A%B4%E5%A4%A9%E6%B0%94%E6%8E%A8%E8%BF%9F",
+      "rank": 9
+    },
+    {
+      "title": "医生我有点不舒服我要出院",
+      "hot_value": 182317,
+      "link": "https://s.weibo.com/weibo?q=%E5%8C%BB%E7%94%9F%E6%88%91%E6%9C%89%E7%82%B9%E4%B8%8D%E8%88%92%E6%9C%8D%E6%88%91%E8%A6%81%E5%87%BA%E9%99%A2",
+      "rank": 10
+    },
+    {
+      "title": "恋与深空一直在说对不起",
+      "hot_value": 178961,
+      "link": "https://s.weibo.com/weibo?q=%E6%81%8B%E4%B8%8E%E6%B7%B1%E7%A9%BA%E4%B8%80%E7%9B%B4%E5%9C%A8%E8%AF%B4%E5%AF%B9%E4%B8%8D%E8%B5%B7",
+      "rank": 11
+    },
+    {
+      "title": "学霸真的是一种很神奇的生物",
+      "hot_value": 106159,
+      "link": "https://s.weibo.com/weibo?q=%E5%AD%A6%E9%9C%B8%E7%9C%9F%E7%9A%84%E6%98%AF%E4%B8%80%E7%A7%8D%E5%BE%88%E7%A5%9E%E5%A5%87%E7%9A%84%E7%94%9F%E7%89%A9",
+      "rank": 12
+    },
+    {
+      "title": "官方通报基层教师周末参与巡查",
+      "hot_value": 103130,
+      "link": "https://s.weibo.com/weibo?q=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%9F%BA%E5%B1%82%E6%95%99%E5%B8%88%E5%91%A8%E6%9C%AB%E5%8F%82%E4%B8%8E%E5%B7%A1%E6%9F%A5",
+      "rank": 13
+    },
+    {
+      "title": "江阴文旅局回应市民躲雨被驱赶",
+      "hot_value": 101397,
+      "link": "https://s.weibo.com/weibo?q=%E6%B1%9F%E9%98%B4%E6%96%87%E6%97%85%E5%B1%80%E5%9B%9E%E5%BA%94%E5%B8%82%E6%B0%91%E8%BA%B2%E9%9B%A8%E8%A2%AB%E9%A9%B1%E8%B5%B6",
+      "rank": 14
+    },
+    {
+      "title": "女子暴雨躲文旅局门口遭保安驱赶",
+      "hot_value": 100965,
+      "link": "https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%90%E6%9A%B4%E9%9B%A8%E8%BA%B2%E6%96%87%E6%97%85%E5%B1%80%E9%97%A8%E5%8F%A3%E9%81%AD%E4%BF%9D%E5%AE%89%E9%A9%B1%E8%B5%B6",
+      "rank": 15
+    },
+    {
+      "title": "大马丁神扑救",
+      "hot_value": 99924,
+      "link": "https://s.weibo.com/weibo?q=%E5%A4%A7%E9%A9%AC%E4%B8%81%E7%A5%9E%E6%89%91%E6%95%91",
+      "rank": 16
+    },
+    {
+      "title": "律师谈李金铭十年前农村综艺事件",
+      "hot_value": 98509,
+      "link": "https://s.weibo.com/weibo?q=%E5%BE%8B%E5%B8%88%E8%B0%88%E6%9D%8E%E9%87%91%E9%93%AD%E5%8D%81%E5%B9%B4%E5%89%8D%E5%86%9C%E6%9D%91%E7%BB%BC%E8%89%BA%E4%BA%8B%E4%BB%B6",
+      "rank": 17
+    },
+    {
+      "title": "白玉兰",
+      "hot_value": 96434,
+      "link": "https://s.weibo.com/weibo?q=%E7%99%BD%E7%8E%89%E5%85%B0",
+      "rank": 18
+    },
+    {
+      "title": "阿根廷vs奥地利",
+      "hot_value": 84802,
+      "link": "https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7vs%E5%A5%A5%E5%9C%B0%E5%88%A9",
+      "rank": 19
+    },
+    {
+      "title": "马宁我想你了",
+      "hot_value": 83832,
+      "link": "https://s.weibo.com/weibo?q=%E9%A9%AC%E5%AE%81%E6%88%91%E6%83%B3%E4%BD%A0%E4%BA%86",
+      "rank": 20
+    },
+    {
+      "title": "敖尹 丑",
+      "hot_value": 83386,
+      "link": "https://s.weibo.com/weibo?q=%E6%95%96%E5%B0%B9%20%E4%B8%91",
+      "rank": 21
+    },
+    {
+      "title": "恋与深空",
+      "hot_value": 82796,
+      "link": "https://s.weibo.com/weibo?q=%E6%81%8B%E4%B8%8E%E6%B7%B1%E7%A9%BA",
+      "rank": 22
+    },
+    {
+      "title": "物理AI第一股上市首日高开302%",
+      "hot_value": 82516,
+      "link": "https://s.weibo.com/weibo?q=%E7%89%A9%E7%90%86AI%E7%AC%AC%E4%B8%80%E8%82%A1%E4%B8%8A%E5%B8%82%E9%A6%96%E6%97%A5%E9%AB%98%E5%BC%80302%25",
+      "rank": 23
+    },
+    {
+      "title": "广德车祸司机被刑拘",
+      "hot_value": 80563,
+      "link": "https://s.weibo.com/weibo?q=%E5%B9%BF%E5%BE%B7%E8%BD%A6%E7%A5%B8%E5%8F%B8%E6%9C%BA%E8%A2%AB%E5%88%91%E6%8B%98",
+      "rank": 24
+    },
+    {
+      "title": "白玉兰奖评委为肖战骄傲",
+      "hot_value": 80485,
+      "link": "https://s.weibo.com/weibo?q=%E7%99%BD%E7%8E%89%E5%85%B0%E5%A5%96%E8%AF%84%E5%A7%94%E4%B8%BA%E8%82%96%E6%88%98%E9%AA%84%E5%82%B2",
+      "rank": 25
+    },
+    {
+      "title": "香港机场黄金劫案4人潜逃至内地",
+      "hot_value": 79565,
+      "link": "https://s.weibo.com/weibo?q=%E9%A6%99%E6%B8%AF%E6%9C%BA%E5%9C%BA%E9%BB%84%E9%87%91%E5%8A%AB%E6%A1%884%E4%BA%BA%E6%BD%9C%E9%80%83%E8%87%B3%E5%86%85%E5%9C%B0",
+      "rank": 26
+    },
+    {
+      "title": "女生称试衣被拉开帘子裸露遭围观",
+      "hot_value": 64589,
+      "link": "https://s.weibo.com/weibo?q=%E5%A5%B3%E7%94%9F%E7%A7%B0%E8%AF%95%E8%A1%A3%E8%A2%AB%E6%8B%89%E5%BC%80%E5%B8%98%E5%AD%90%E8%A3%B8%E9%9C%B2%E9%81%AD%E5%9B%B4%E8%A7%82",
+      "rank": 27
+    },
+    {
+      "title": "建议大家把消极口癖戒掉",
+      "hot_value": 64096,
+      "link": "https://s.weibo.com/weibo?q=%E5%BB%BA%E8%AE%AE%E5%A4%A7%E5%AE%B6%E6%8A%8A%E6%B6%88%E6%9E%81%E5%8F%A3%E7%99%96%E6%88%92%E6%8E%89",
+      "rank": 28
+    },
+    {
+      "title": "29岁离世女主持确诊卵巢癌仅8个月",
+      "hot_value": 60106,
+      "link": "https://s.weibo.com/weibo?q=29%E5%B2%81%E7%A6%BB%E4%B8%96%E5%A5%B3%E4%B8%BB%E6%8C%81%E7%A1%AE%E8%AF%8A%E5%8D%B5%E5%B7%A2%E7%99%8C%E4%BB%858%E4%B8%AA%E6%9C%88",
+      "rank": 29
+    },
+    {
+      "title": "阿根廷提前一轮晋级32强",
+      "hot_value": 59107,
+      "link": "https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7%E6%8F%90%E5%89%8D%E4%B8%80%E8%BD%AE%E6%99%8B%E7%BA%A732%E5%BC%BA",
+      "rank": 30
+    },
+    {
+      "title": "轻断食一天喝了6斤牛奶",
+      "hot_value": 58983,
+      "link": "https://s.weibo.com/weibo?q=%E8%BD%BB%E6%96%AD%E9%A3%9F%E4%B8%80%E5%A4%A9%E5%96%9D%E4%BA%866%E6%96%A4%E7%89%9B%E5%A5%B6",
+      "rank": 31
+    },
+    {
+      "title": "恋与深空敖尹公开",
+      "hot_value": 56049,
+      "link": "https://s.weibo.com/weibo?q=%E6%81%8B%E4%B8%8E%E6%B7%B1%E7%A9%BA%E6%95%96%E5%B0%B9%E5%85%AC%E5%BC%80",
+      "rank": 32
+    },
+    {
+      "title": "蓝盈莹凌晨三点的阿那亚",
+      "hot_value": 55583,
+      "link": "https://s.weibo.com/weibo?q=%E8%93%9D%E7%9B%88%E8%8E%B9%E5%87%8C%E6%99%A8%E4%B8%89%E7%82%B9%E7%9A%84%E9%98%BF%E9%82%A3%E4%BA%9A",
+      "rank": 33
+    },
+    {
+      "title": "周冬雨说导演老说词不用背",
+      "hot_value": 53776,
+      "link": "https://s.weibo.com/weibo?q=%E5%91%A8%E5%86%AC%E9%9B%A8%E8%AF%B4%E5%AF%BC%E6%BC%94%E8%80%81%E8%AF%B4%E8%AF%8D%E4%B8%8D%E7%94%A8%E8%83%8C",
+      "rank": 34
+    },
+    {
+      "title": "恋与深空回应",
+      "hot_value": 52912,
+      "link": "https://s.weibo.com/weibo?q=%E6%81%8B%E4%B8%8E%E6%B7%B1%E7%A9%BA%E5%9B%9E%E5%BA%94",
+      "rank": 35
+    },
+    {
+      "title": "广德公安通报交通事故",
+      "hot_value": 51274,
+      "link": "https://s.weibo.com/weibo?q=%E5%B9%BF%E5%BE%B7%E5%85%AC%E5%AE%89%E9%80%9A%E6%8A%A5%E4%BA%A4%E9%80%9A%E4%BA%8B%E6%95%85",
+      "rank": 36
+    },
+    {
+      "title": "孙怡到底买了多少顶老孙帽",
+      "hot_value": 49178,
+      "link": "https://s.weibo.com/weibo?q=%E5%AD%99%E6%80%A1%E5%88%B0%E5%BA%95%E4%B9%B0%E4%BA%86%E5%A4%9A%E5%B0%91%E9%A1%B6%E8%80%81%E5%AD%99%E5%B8%BD",
+      "rank": 37
+    },
+    {
+      "title": "姆巴佩法国队百场里程碑",
+      "hot_value": 49175,
+      "link": "https://s.weibo.com/weibo?q=%E5%A7%86%E5%B7%B4%E4%BD%A9%E6%B3%95%E5%9B%BD%E9%98%9F%E7%99%BE%E5%9C%BA%E9%87%8C%E7%A8%8B%E7%A2%91",
+      "rank": 38
+    },
+    {
+      "title": "曾沛慈黄灿灿友情",
+      "hot_value": 49158,
+      "link": "https://s.weibo.com/weibo?q=%E6%9B%BE%E6%B2%9B%E6%85%88%E9%BB%84%E7%81%BF%E7%81%BF%E5%8F%8B%E6%83%85",
+      "rank": 39
+    },
+    {
+      "title": "法国vs伊拉克比赛下半场推迟",
+      "hot_value": 49154,
+      "link": "https://s.weibo.com/weibo?q=%E6%B3%95%E5%9B%BDvs%E4%BC%8A%E6%8B%89%E5%85%8B%E6%AF%94%E8%B5%9B%E4%B8%8B%E5%8D%8A%E5%9C%BA%E6%8E%A8%E8%BF%9F",
+      "rank": 40
+    },
+    {
+      "title": "敖尹 敖隐",
+      "hot_value": 49136,
+      "link": "https://s.weibo.com/weibo?q=%E6%95%96%E5%B0%B9%20%E6%95%96%E9%9A%90",
+      "rank": 41
+    },
+    {
+      "title": "安徽广德车祸受害者邻居发声",
+      "hot_value": 49130,
+      "link": "https://s.weibo.com/weibo?q=%E5%AE%89%E5%BE%BD%E5%B9%BF%E5%BE%B7%E8%BD%A6%E7%A5%B8%E5%8F%97%E5%AE%B3%E8%80%85%E9%82%BB%E5%B1%85%E5%8F%91%E5%A3%B0",
+      "rank": 42
+    },
+    {
+      "title": "凌肖 转正",
+      "hot_value": 49109,
+      "link": "https://s.weibo.com/weibo?q=%E5%87%8C%E8%82%96%20%E8%BD%AC%E6%AD%A3",
+      "rank": 43
+    },
+    {
+      "title": "恋与深空是怎么做出来秦彻的",
+      "hot_value": 49099,
+      "link": "https://s.weibo.com/weibo?q=%E6%81%8B%E4%B8%8E%E6%B7%B1%E7%A9%BA%E6%98%AF%E6%80%8E%E4%B9%88%E5%81%9A%E5%87%BA%E6%9D%A5%E7%A7%A6%E5%BD%BB%E7%9A%84",
+      "rank": 44
+    },
+    {
+      "title": "双胞胎是不是骗过了神明的人",
+      "hot_value": 49095,
+      "link": "https://s.weibo.com/weibo?q=%E5%8F%8C%E8%83%9E%E8%83%8E%E6%98%AF%E4%B8%8D%E6%98%AF%E9%AA%97%E8%BF%87%E4%BA%86%E7%A5%9E%E6%98%8E%E7%9A%84%E4%BA%BA",
+      "rank": 45
+    },
+    {
+      "title": "儿子称已放弃遗产拒还房贷获法院支持",
+      "hot_value": 49082,
+      "link": "https://s.weibo.com/weibo?q=%E5%84%BF%E5%AD%90%E7%A7%B0%E5%B7%B2%E6%94%BE%E5%BC%83%E9%81%97%E4%BA%A7%E6%8B%92%E8%BF%98%E6%88%BF%E8%B4%B7%E8%8E%B7%E6%B3%95%E9%99%A2%E6%94%AF%E6%8C%81",
+      "rank": 46
+    },
+    {
+      "title": "恋与深空敖尹遭吐槽",
+      "hot_value": 49066,
+      "link": "https://s.weibo.com/weibo?q=%E6%81%8B%E4%B8%8E%E6%B7%B1%E7%A9%BA%E6%95%96%E5%B0%B9%E9%81%AD%E5%90%90%E6%A7%BD",
+      "rank": 47
+    },
+    {
+      "title": "女子称44岁在阿里工作22年被裁",
+      "hot_value": 49047,
+      "link": "https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%90%E7%A7%B044%E5%B2%81%E5%9C%A8%E9%98%BF%E9%87%8C%E5%B7%A5%E4%BD%9C22%E5%B9%B4%E8%A2%AB%E8%A3%81",
+      "rank": 48
+    },
+    {
+      "title": "郑钦文2比1谢拉",
+      "hot_value": 49039,
+      "link": "https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%872%E6%AF%941%E8%B0%A2%E6%8B%89",
+      "rank": 49
+    },
+    {
+      "title": "恋与深空 王者荣耀",
+      "hot_value": 49024,
+      "link": "https://s.weibo.com/weibo?q=%E6%81%8B%E4%B8%8E%E6%B7%B1%E7%A9%BA%20%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80",
+      "rank": 50
+    }
+  ]
+}
