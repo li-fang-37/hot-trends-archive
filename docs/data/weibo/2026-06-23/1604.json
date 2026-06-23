@@ -1,0 +1,307 @@
+{
+  "platform": "weibo",
+  "platform_name": "微博热搜",
+  "time": "2026-06-23 16:04:21",
+  "items": [
+    {
+      "title": "微信迎史上最大更新",
+      "hot_value": 2741695,
+      "link": "https://s.weibo.com/weibo?q=%E5%BE%AE%E4%BF%A1%E8%BF%8E%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%A4%A7%E6%9B%B4%E6%96%B0",
+      "rank": 1
+    },
+    {
+      "title": "高考成绩",
+      "hot_value": 1792783,
+      "link": "https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E6%88%90%E7%BB%A9",
+      "rank": 2
+    },
+    {
+      "title": "万千气象看重庆",
+      "hot_value": 1109746,
+      "link": "https://s.weibo.com/weibo?q=%E4%B8%87%E5%8D%83%E6%B0%94%E8%B1%A1%E7%9C%8B%E9%87%8D%E5%BA%86",
+      "rank": 3
+    },
+    {
+      "title": "只喝水不喝饮料的朋友",
+      "hot_value": 917569,
+      "link": "https://s.weibo.com/weibo?q=%E5%8F%AA%E5%96%9D%E6%B0%B4%E4%B8%8D%E5%96%9D%E9%A5%AE%E6%96%99%E7%9A%84%E6%9C%8B%E5%8F%8B",
+      "rank": 4
+    },
+    {
+      "title": "张婧仪曾因为减肥爆哭",
+      "hot_value": 778418,
+      "link": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%A9%A7%E4%BB%AA%E6%9B%BE%E5%9B%A0%E4%B8%BA%E5%87%8F%E8%82%A5%E7%88%86%E5%93%AD",
+      "rank": 5
+    },
+    {
+      "title": "哈兰德偷喝对方门将的水",
+      "hot_value": 752207,
+      "link": "https://s.weibo.com/weibo?q=%E5%93%88%E5%85%B0%E5%BE%B7%E5%81%B7%E5%96%9D%E5%AF%B9%E6%96%B9%E9%97%A8%E5%B0%86%E7%9A%84%E6%B0%B4",
+      "rank": 6
+    },
+    {
+      "title": "祁煜 恋与深空救世主",
+      "hot_value": 749427,
+      "link": "https://s.weibo.com/weibo?q=%E7%A5%81%E7%85%9C%20%E6%81%8B%E4%B8%8E%E6%B7%B1%E7%A9%BA%E6%95%91%E4%B8%96%E4%B8%BB",
+      "rank": 7
+    },
+    {
+      "title": "迪丽热巴利剑玫瑰8.1掉到6.4",
+      "hot_value": 609939,
+      "link": "https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%88%A9%E5%89%91%E7%8E%AB%E7%91%B08.1%E6%8E%89%E5%88%B06.4",
+      "rank": 8
+    },
+    {
+      "title": "马宁执法英格兰变举牌大师",
+      "hot_value": 447523,
+      "link": "https://s.weibo.com/weibo?q=%E9%A9%AC%E5%AE%81%E6%89%A7%E6%B3%95%E8%8B%B1%E6%A0%BC%E5%85%B0%E5%8F%98%E4%B8%BE%E7%89%8C%E5%A4%A7%E5%B8%88",
+      "rank": 9
+    },
+    {
+      "title": "腾讯招商大会把演员真名写在艺名前",
+      "hot_value": 421423,
+      "link": "https://s.weibo.com/weibo?q=%E8%85%BE%E8%AE%AF%E6%8B%9B%E5%95%86%E5%A4%A7%E4%BC%9A%E6%8A%8A%E6%BC%94%E5%91%98%E7%9C%9F%E5%90%8D%E5%86%99%E5%9C%A8%E8%89%BA%E5%90%8D%E5%89%8D",
+      "rank": 10
+    },
+    {
+      "title": "乔欣变样了",
+      "hot_value": 420281,
+      "link": "https://s.weibo.com/weibo?q=%E4%B9%94%E6%AC%A3%E5%8F%98%E6%A0%B7%E4%BA%86",
+      "rank": 11
+    },
+    {
+      "title": "公司开始上四休三了但降工资",
+      "hot_value": 417554,
+      "link": "https://s.weibo.com/weibo?q=%E5%85%AC%E5%8F%B8%E5%BC%80%E5%A7%8B%E4%B8%8A%E5%9B%9B%E4%BC%91%E4%B8%89%E4%BA%86%E4%BD%86%E9%99%8D%E5%B7%A5%E8%B5%84",
+      "rank": 12
+    },
+    {
+      "title": "黄金",
+      "hot_value": 414022,
+      "link": "https://s.weibo.com/weibo?q=%E9%BB%84%E9%87%91",
+      "rank": 13
+    },
+    {
+      "title": "冯小刚垃圾观众言论被翻出",
+      "hot_value": 411918,
+      "link": "https://s.weibo.com/weibo?q=%E5%86%AF%E5%B0%8F%E5%88%9A%E5%9E%83%E5%9C%BE%E8%A7%82%E4%BC%97%E8%A8%80%E8%AE%BA%E8%A2%AB%E7%BF%BB%E5%87%BA",
+      "rank": 14
+    },
+    {
+      "title": "马嘉祺宋亚轩没拍毕业合照",
+      "hot_value": 410020,
+      "link": "https://s.weibo.com/weibo?q=%E9%A9%AC%E5%98%89%E7%A5%BA%E5%AE%8B%E4%BA%9A%E8%BD%A9%E6%B2%A1%E6%8B%8D%E6%AF%95%E4%B8%9A%E5%90%88%E7%85%A7",
+      "rank": 15
+    },
+    {
+      "title": "哈兰德与女友雨中拥吻",
+      "hot_value": 406177,
+      "link": "https://s.weibo.com/weibo?q=%E5%93%88%E5%85%B0%E5%BE%B7%E4%B8%8E%E5%A5%B3%E5%8F%8B%E9%9B%A8%E4%B8%AD%E6%8B%A5%E5%90%BB",
+      "rank": 16
+    },
+    {
+      "title": "A4纸.zip",
+      "hot_value": 404444,
+      "link": "https://s.weibo.com/weibo?q=A4%E7%BA%B8.zip",
+      "rank": 17
+    },
+    {
+      "title": "向太说梁朝伟是假社恐",
+      "hot_value": 400717,
+      "link": "https://s.weibo.com/weibo?q=%E5%90%91%E5%A4%AA%E8%AF%B4%E6%A2%81%E6%9C%9D%E4%BC%9F%E6%98%AF%E5%81%87%E7%A4%BE%E6%81%90",
+      "rank": 18
+    },
+    {
+      "title": "郭敬明新人撞脸三人",
+      "hot_value": 399423,
+      "link": "https://s.weibo.com/weibo?q=%E9%83%AD%E6%95%AC%E6%98%8E%E6%96%B0%E4%BA%BA%E6%92%9E%E8%84%B8%E4%B8%89%E4%BA%BA",
+      "rank": 19
+    },
+    {
+      "title": "北京牛new排队 疯狂",
+      "hot_value": 395832,
+      "link": "https://s.weibo.com/weibo?q=%E5%8C%97%E4%BA%AC%E7%89%9Bnew%E6%8E%92%E9%98%9F%20%E7%96%AF%E7%8B%82",
+      "rank": 20
+    },
+    {
+      "title": "塔克拉玛干沙漠下暴雨",
+      "hot_value": 394075,
+      "link": "https://s.weibo.com/weibo?q=%E5%A1%94%E5%85%8B%E6%8B%89%E7%8E%9B%E5%B9%B2%E6%B2%99%E6%BC%A0%E4%B8%8B%E6%9A%B4%E9%9B%A8",
+      "rank": 21
+    },
+    {
+      "title": "黄婷婷方回应被换角",
+      "hot_value": 390181,
+      "link": "https://s.weibo.com/weibo?q=%E9%BB%84%E5%A9%B7%E5%A9%B7%E6%96%B9%E5%9B%9E%E5%BA%94%E8%A2%AB%E6%8D%A2%E8%A7%92",
+      "rank": 22
+    },
+    {
+      "title": "敖子逸你向马嘉祺丁程鑫学学带娃吧",
+      "hot_value": 388888,
+      "link": "https://s.weibo.com/weibo?q=%E6%95%96%E5%AD%90%E9%80%B8%E4%BD%A0%E5%90%91%E9%A9%AC%E5%98%89%E7%A5%BA%E4%B8%81%E7%A8%8B%E9%91%AB%E5%AD%A6%E5%AD%A6%E5%B8%A6%E5%A8%83%E5%90%A7",
+      "rank": 23
+    },
+    {
+      "title": "甲骨文裁员2.1万人",
+      "hot_value": 384491,
+      "link": "https://s.weibo.com/weibo?q=%E7%94%B2%E9%AA%A8%E6%96%87%E8%A3%81%E5%91%982.1%E4%B8%87%E4%BA%BA",
+      "rank": 24
+    },
+    {
+      "title": "韩国世越号惨案一名幸存学生死亡",
+      "hot_value": 383854,
+      "link": "https://s.weibo.com/weibo?q=%E9%9F%A9%E5%9B%BD%E4%B8%96%E8%B6%8A%E5%8F%B7%E6%83%A8%E6%A1%88%E4%B8%80%E5%90%8D%E5%B9%B8%E5%AD%98%E5%AD%A6%E7%94%9F%E6%AD%BB%E4%BA%A1",
+      "rank": 25
+    },
+    {
+      "title": "抓特务",
+      "hot_value": 381942,
+      "link": "https://s.weibo.com/weibo?q=%E6%8A%93%E7%89%B9%E5%8A%A1",
+      "rank": 26
+    },
+    {
+      "title": "兰香如故",
+      "hot_value": 377648,
+      "link": "https://s.weibo.com/weibo?q=%E5%85%B0%E9%A6%99%E5%A6%82%E6%95%85",
+      "rank": 27
+    },
+    {
+      "title": "A股",
+      "hot_value": 375769,
+      "link": "https://s.weibo.com/weibo?q=A%E8%82%A1",
+      "rank": 28
+    },
+    {
+      "title": "日本网友怒喷高市早苗换车",
+      "hot_value": 369791,
+      "link": "https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E7%BD%91%E5%8F%8B%E6%80%92%E5%96%B7%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E6%8D%A2%E8%BD%A6",
+      "rank": 29
+    },
+    {
+      "title": "30岁女警为救跳楼轻生者牺牲",
+      "hot_value": 367434,
+      "link": "https://s.weibo.com/weibo?q=30%E5%B2%81%E5%A5%B3%E8%AD%A6%E4%B8%BA%E6%95%91%E8%B7%B3%E6%A5%BC%E8%BD%BB%E7%94%9F%E8%80%85%E7%89%BA%E7%89%B2",
+      "rank": 30
+    },
+    {
+      "title": "穆祉丞照片里工作人员的胳膊没P掉",
+      "hot_value": 362147,
+      "link": "https://s.weibo.com/weibo?q=%E7%A9%86%E7%A5%89%E4%B8%9E%E7%85%A7%E7%89%87%E9%87%8C%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E7%9A%84%E8%83%B3%E8%86%8A%E6%B2%A1P%E6%8E%89",
+      "rank": 31
+    },
+    {
+      "title": "葡萄牙队主帅回应批评",
+      "hot_value": 359361,
+      "link": "https://s.weibo.com/weibo?q=%E8%91%A1%E8%90%84%E7%89%99%E9%98%9F%E4%B8%BB%E5%B8%85%E5%9B%9E%E5%BA%94%E6%89%B9%E8%AF%84",
+      "rank": 32
+    },
+    {
+      "title": "法国2岁4岁幼童车内热死",
+      "hot_value": 357327,
+      "link": "https://s.weibo.com/weibo?q=%E6%B3%95%E5%9B%BD2%E5%B2%814%E5%B2%81%E5%B9%BC%E7%AB%A5%E8%BD%A6%E5%86%85%E7%83%AD%E6%AD%BB",
+      "rank": 33
+    },
+    {
+      "title": "李金铭 南温妈妈",
+      "hot_value": 352387,
+      "link": "https://s.weibo.com/weibo?q=%E6%9D%8E%E9%87%91%E9%93%AD%20%E5%8D%97%E6%B8%A9%E5%A6%88%E5%A6%88",
+      "rank": 34
+    },
+    {
+      "title": "孙俪本名孙丽",
+      "hot_value": 350523,
+      "link": "https://s.weibo.com/weibo?q=%E5%AD%99%E4%BF%AA%E6%9C%AC%E5%90%8D%E5%AD%99%E4%B8%BD",
+      "rank": 35
+    },
+    {
+      "title": "敖尹",
+      "hot_value": 286922,
+      "link": "https://s.weibo.com/weibo?q=%E6%95%96%E5%B0%B9",
+      "rank": 36
+    },
+    {
+      "title": "陈凯琳否认郑嘉颖拉黑网友",
+      "hot_value": 275445,
+      "link": "https://s.weibo.com/weibo?q=%E9%99%88%E5%87%AF%E7%90%B3%E5%90%A6%E8%AE%A4%E9%83%91%E5%98%89%E9%A2%96%E6%8B%89%E9%BB%91%E7%BD%91%E5%8F%8B",
+      "rank": 37
+    },
+    {
+      "title": "约旦1比2阿尔及利亚",
+      "hot_value": 241873,
+      "link": "https://s.weibo.com/weibo?q=%E7%BA%A6%E6%97%A61%E6%AF%942%E9%98%BF%E5%B0%94%E5%8F%8A%E5%88%A9%E4%BA%9A",
+      "rank": 38
+    },
+    {
+      "title": "花6680元报志愿买来1年复读",
+      "hot_value": 240890,
+      "link": "https://s.weibo.com/weibo?q=%E8%8A%B16680%E5%85%83%E6%8A%A5%E5%BF%97%E6%84%BF%E4%B9%B0%E6%9D%A51%E5%B9%B4%E5%A4%8D%E8%AF%BB",
+      "rank": 39
+    },
+    {
+      "title": "哈兰德隔空回应姆巴佩",
+      "hot_value": 240367,
+      "link": "https://s.weibo.com/weibo?q=%E5%93%88%E5%85%B0%E5%BE%B7%E9%9A%94%E7%A9%BA%E5%9B%9E%E5%BA%94%E5%A7%86%E5%B7%B4%E4%BD%A9",
+      "rank": 40
+    },
+    {
+      "title": "李金铭农村综艺那家人居然还在发她",
+      "hot_value": 238524,
+      "link": "https://s.weibo.com/weibo?q=%E6%9D%8E%E9%87%91%E9%93%AD%E5%86%9C%E6%9D%91%E7%BB%BC%E8%89%BA%E9%82%A3%E5%AE%B6%E4%BA%BA%E5%B1%85%E7%84%B6%E8%BF%98%E5%9C%A8%E5%8F%91%E5%A5%B9",
+      "rank": 41
+    },
+    {
+      "title": "波士顿大学回复钟美美",
+      "hot_value": 236738,
+      "link": "https://s.weibo.com/weibo?q=%E6%B3%A2%E5%A3%AB%E9%A1%BF%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%A4%8D%E9%92%9F%E7%BE%8E%E7%BE%8E",
+      "rank": 42
+    },
+    {
+      "title": "终于懂韩国人看我们吃西瓜的感觉了",
+      "hot_value": 233139,
+      "link": "https://s.weibo.com/weibo?q=%E7%BB%88%E4%BA%8E%E6%87%82%E9%9F%A9%E5%9B%BD%E4%BA%BA%E7%9C%8B%E6%88%91%E4%BB%AC%E5%90%83%E8%A5%BF%E7%93%9C%E7%9A%84%E6%84%9F%E8%A7%89%E4%BA%86",
+      "rank": 43
+    },
+    {
+      "title": "字母哥被交易至热火",
+      "hot_value": 223675,
+      "link": "https://s.weibo.com/weibo?q=%E5%AD%97%E6%AF%8D%E5%93%A5%E8%A2%AB%E4%BA%A4%E6%98%93%E8%87%B3%E7%83%AD%E7%81%AB",
+      "rank": 44
+    },
+    {
+      "title": "顺德渔村宝妈避雨事件迎反转",
+      "hot_value": 216380,
+      "link": "https://s.weibo.com/weibo?q=%E9%A1%BA%E5%BE%B7%E6%B8%94%E6%9D%91%E5%AE%9D%E5%A6%88%E9%81%BF%E9%9B%A8%E4%BA%8B%E4%BB%B6%E8%BF%8E%E5%8F%8D%E8%BD%AC",
+      "rank": 45
+    },
+    {
+      "title": "地球超新鲜2阵容官宣",
+      "hot_value": 214318,
+      "link": "https://s.weibo.com/weibo?q=%E5%9C%B0%E7%90%83%E8%B6%85%E6%96%B0%E9%B2%9C2%E9%98%B5%E5%AE%B9%E5%AE%98%E5%AE%A3",
+      "rank": 46
+    },
+    {
+      "title": "腾讯海报标注宋祖儿本名",
+      "hot_value": 213265,
+      "link": "https://s.weibo.com/weibo?q=%E8%85%BE%E8%AE%AF%E6%B5%B7%E6%8A%A5%E6%A0%87%E6%B3%A8%E5%AE%8B%E7%A5%96%E5%84%BF%E6%9C%AC%E5%90%8D",
+      "rank": 47
+    },
+    {
+      "title": "追觅汽车量产面临不确定性",
+      "hot_value": 211519,
+      "link": "https://s.weibo.com/weibo?q=%E8%BF%BD%E8%A7%85%E6%B1%BD%E8%BD%A6%E9%87%8F%E4%BA%A7%E9%9D%A2%E4%B8%B4%E4%B8%8D%E7%A1%AE%E5%AE%9A%E6%80%A7",
+      "rank": 48
+    },
+    {
+      "title": "Seedance2.5即将发布",
+      "hot_value": 208827,
+      "link": "https://s.weibo.com/weibo?q=Seedance2.5%E5%8D%B3%E5%B0%86%E5%8F%91%E5%B8%83",
+      "rank": 49
+    },
+    {
+      "title": "别想太多是最廉价的安慰",
+      "hot_value": 206760,
+      "link": "https://s.weibo.com/weibo?q=%E5%88%AB%E6%83%B3%E5%A4%AA%E5%A4%9A%E6%98%AF%E6%9C%80%E5%BB%89%E4%BB%B7%E7%9A%84%E5%AE%89%E6%85%B0",
+      "rank": 50
+    }
+  ]
+}
