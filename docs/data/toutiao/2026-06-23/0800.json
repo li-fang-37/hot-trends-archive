@@ -1,0 +1,307 @@
+{
+  "platform": "toutiao",
+  "platform_name": "今日头条",
+  "time": "2026-06-23 08:00:00",
+  "items": [
+    {
+      "title": "姆巴佩世界波破门",
+      "hot_value": 9488718,
+      "link": "https://www.toutiao.com/trending/7654331928123838002",
+      "rank": 1
+    },
+    {
+      "title": "30岁女警为救跳楼轻生者牺牲",
+      "hot_value": 8585747,
+      "link": "https://www.toutiao.com/trending/7654182643269156905",
+      "rank": 2
+    },
+    {
+      "title": "近4000家外资企业追加在华投资",
+      "hot_value": 7768705,
+      "link": "https://www.toutiao.com/article/7654119622790218275",
+      "rank": 3
+    },
+    {
+      "title": "世界杯32强已产生4席",
+      "hot_value": 7029415,
+      "link": "https://www.toutiao.com/trending/7654165387822550564",
+      "rank": 4
+    },
+    {
+      "title": "日方飞机两次干扰中方正常科考",
+      "hot_value": 6360477,
+      "link": "https://www.toutiao.com/trending/7653772502817587250",
+      "rank": 5
+    },
+    {
+      "title": "提车半小时被提车1天的同款车撞了",
+      "hot_value": 5755198,
+      "link": "https://www.toutiao.com/trending/7654066191908077595",
+      "rank": 6
+    },
+    {
+      "title": "阿根廷全队赛后一起向球迷谢场",
+      "hot_value": 5207518,
+      "link": "https://www.toutiao.com/trending/7654165387822583332",
+      "rank": 7
+    },
+    {
+      "title": "法国vs伊拉克现场下起瓢泼大雨",
+      "hot_value": 4711957,
+      "link": "https://www.toutiao.com/trending/7654340470495170058",
+      "rank": 8
+    },
+    {
+      "title": "“超级玻璃”或成万亿元新赛道",
+      "hot_value": 4263555,
+      "link": "https://www.toutiao.com/trending/7654015620297244691",
+      "rank": 9
+    },
+    {
+      "title": "阿根廷两连胜提前出线",
+      "hot_value": 3857824,
+      "link": "https://www.toutiao.com/trending/7654153276996292115",
+      "rank": 10
+    },
+    {
+      "title": "南华禅寺辟谣售卖祈福套餐",
+      "hot_value": 3490704,
+      "link": "https://www.toutiao.com/trending/7654157692445507603",
+      "rank": 11
+    },
+    {
+      "title": "女子称在江阴文旅局门口躲雨遭驱赶",
+      "hot_value": 3158519,
+      "link": "https://www.toutiao.com/trending/7654148830086217734",
+      "rank": 12
+    },
+    {
+      "title": "姆巴佩16场世界杯比赛打入15球",
+      "hot_value": 2857946,
+      "link": "https://www.toutiao.com/trending/7654337371084803593",
+      "rank": 13
+    },
+    {
+      "title": "听中方领队讲述台东海域调查",
+      "hot_value": 2585977,
+      "link": "https://www.toutiao.com/trending/7654341188404822043",
+      "rank": 14
+    },
+    {
+      "title": "印度4男子坐充气车胎聊天被炸飞致1死",
+      "hot_value": 2339889,
+      "link": "https://www.toutiao.com/trending/7654182310362824754",
+      "rank": 15
+    },
+    {
+      "title": "雷暴天气首次影响本届世界杯",
+      "hot_value": 2117219,
+      "link": "https://www.toutiao.com/trending/7653323454867849267",
+      "rank": 16
+    },
+    {
+      "title": "洲际导弹：不试则已一试惊人",
+      "hot_value": 1915739,
+      "link": "https://www.toutiao.com/trending/7653624789789671460",
+      "rank": 17
+    },
+    {
+      "title": "中国女排找到“新大腿”了吗",
+      "hot_value": 1733432,
+      "link": "https://www.toutiao.com/trending/7653713938035343403",
+      "rank": 18
+    },
+    {
+      "title": "法国vs伊拉克",
+      "hot_value": 1568474,
+      "link": "https://webcast-open.douyin.com/open/media_live/466275560750",
+      "rank": 19
+    },
+    {
+      "title": "蔡磊妻子谈渐冻症带来的经济压力",
+      "hot_value": 1419214,
+      "link": "https://www.toutiao.com/trending/7654107504103935526",
+      "rank": 20
+    },
+    {
+      "title": "清华教授造的机器人去顺丰打工了",
+      "hot_value": 1284158,
+      "link": "https://www.toutiao.com/trending/7654134773532262463",
+      "rank": 21
+    },
+    {
+      "title": "媒体：41岁的C罗还该不该首发",
+      "hot_value": 1161954,
+      "link": "https://www.toutiao.com/trending/7653998996117880895",
+      "rank": 22
+    },
+    {
+      "title": "大马女子嘲笑中国人不洗澡被批后道歉",
+      "hot_value": 1051379,
+      "link": "https://www.toutiao.com/trending/7653674292672249910",
+      "rank": 23
+    },
+    {
+      "title": "胖东来回应员工帮生理期女生洗裤子",
+      "hot_value": 951327,
+      "link": "https://www.toutiao.com/trending/7654095558885834815",
+      "rank": 24
+    },
+    {
+      "title": "阿根廷连续6届世界杯小组出线",
+      "hot_value": 860797,
+      "link": "https://www.toutiao.com/trending/7653902209553416238",
+      "rank": 25
+    },
+    {
+      "title": "沈阳户外大咖冰峰去世年仅55岁",
+      "hot_value": 778881,
+      "link": "https://www.toutiao.com/trending/7654025777630248979",
+      "rank": 26
+    },
+    {
+      "title": "陈小春演唱会上边哭边道歉",
+      "hot_value": 704761,
+      "link": "https://www.toutiao.com/trending/7653904437433565190",
+      "rank": 27
+    },
+    {
+      "title": "佛得角本土球员月薪仅1000多元",
+      "hot_value": 637694,
+      "link": "https://www.toutiao.com/trending/7653444390006358042",
+      "rank": 28
+    },
+    {
+      "title": "走路时增加一个动作能减肚子",
+      "hot_value": 577009,
+      "link": "https://www.toutiao.com/trending/7653819182492155958",
+      "rank": 29
+    },
+    {
+      "title": "媒体评刘强东帮员工“换饭碗”",
+      "hot_value": 522099,
+      "link": "https://www.toutiao.com/trending/7653832159601655850",
+      "rank": 30
+    },
+    {
+      "title": "巴拉圭女球迷谈爆火出圈",
+      "hot_value": 472415,
+      "link": "https://www.toutiao.com/trending/7653242664464777262",
+      "rank": 31
+    },
+    {
+      "title": "美股：纳指跌1.32% SpaceX跌超16%",
+      "hot_value": 427459,
+      "link": "https://www.toutiao.com/trending/7654363973835296302",
+      "rank": 32
+    },
+    {
+      "title": "李金铭农村综艺那家人居然还在发她",
+      "hot_value": 386781,
+      "link": "https://www.toutiao.com/trending/7653738236057305107",
+      "rank": 33
+    },
+    {
+      "title": "伊朗队在洛杉矶更衣室留下感谢信",
+      "hot_value": 349973,
+      "link": "https://www.toutiao.com/trending/7654111669110669353",
+      "rank": 34
+    },
+    {
+      "title": "夫妻代管油菜地误养出满地马齿苋",
+      "hot_value": 316669,
+      "link": "https://www.toutiao.com/trending/7654047314419449899",
+      "rank": 35
+    },
+    {
+      "title": "张柏芝晒照为周星驰庆生",
+      "hot_value": 286534,
+      "link": "https://www.toutiao.com/trending/7654016134118916115",
+      "rank": 36
+    },
+    {
+      "title": "阿根廷失点",
+      "hot_value": 259267,
+      "link": "https://www.toutiao.com/trending/7654267681079656475",
+      "rank": 37
+    },
+    {
+      "title": "景区盆栽NPC抱着缸狂奔卡点上班",
+      "hot_value": 234594,
+      "link": "https://www.toutiao.com/trending/7654076822291890227",
+      "rank": 38
+    },
+    {
+      "title": "网友按压胳膊冒出一排小米粒",
+      "hot_value": 212269,
+      "link": "https://www.toutiao.com/trending/7653621212706914358",
+      "rank": 39
+    },
+    {
+      "title": "旭日旗现身世界杯看台遭韩网友痛批",
+      "hot_value": 192069,
+      "link": "https://www.toutiao.com/trending/7653054938448412691",
+      "rank": 40
+    },
+    {
+      "title": "冰箱里的粽子放多久不能吃",
+      "hot_value": 173791,
+      "link": "https://www.toutiao.com/trending/7653977592433344554",
+      "rank": 41
+    },
+    {
+      "title": "老人长期用茶服药血脂失控",
+      "hot_value": 157253,
+      "link": "https://www.toutiao.com/trending/7653349982270914566",
+      "rank": 42
+    },
+    {
+      "title": "网友排队给西班牙队道歉",
+      "hot_value": 142288,
+      "link": "https://www.toutiao.com/trending/7654062822971998250",
+      "rank": 43
+    },
+    {
+      "title": "陈小春：我愿意为了家庭努力去奔波",
+      "hot_value": 128748,
+      "link": "https://www.toutiao.com/trending/7654010122369974291",
+      "rank": 44
+    },
+    {
+      "title": "媒体：美伊谈判前路坎坷",
+      "hot_value": 116496,
+      "link": "https://www.toutiao.com/trending/7654238152428621350",
+      "rank": 45
+    },
+    {
+      "title": "钟美美入学波士顿大学",
+      "hot_value": 105410,
+      "link": "https://www.toutiao.com/trending/7653745553666965547",
+      "rank": 46
+    },
+    {
+      "title": "解放军“多车齐射”释放何信号",
+      "hot_value": 95379,
+      "link": "https://www.toutiao.com/trending/7654182499058139178",
+      "rank": 47
+    },
+    {
+      "title": "电影《给阿嬷的情书》官宣延期",
+      "hot_value": 86302,
+      "link": "https://www.toutiao.com/trending/7654148913436409892",
+      "rank": 48
+    },
+    {
+      "title": "儿子每晚用绳牵着脑梗父亲跑步",
+      "hot_value": 78089,
+      "link": "https://www.toutiao.com/trending/7653814688451624979",
+      "rank": 49
+    },
+    {
+      "title": "东风-17首次公开发射画面有何意义",
+      "hot_value": 70658,
+      "link": "https://www.toutiao.com/trending/7654184188634992147",
+      "rank": 50
+    }
+  ]
+}
