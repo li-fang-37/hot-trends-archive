@@ -1,0 +1,307 @@
+{
+  "platform": "weibo",
+  "platform_name": "微博热搜",
+  "time": "2026-06-27 06:41:34",
+  "items": [
+    {
+      "title": "挪威1比4法国",
+      "hot_value": 1592886,
+      "link": "https://s.weibo.com/weibo?q=%E6%8C%AA%E5%A8%811%E6%AF%944%E6%B3%95%E5%9B%BD",
+      "rank": 1
+    },
+    {
+      "title": "哈兰德姆巴佩王不见王",
+      "hot_value": 628133,
+      "link": "https://s.weibo.com/weibo?q=%E5%93%88%E5%85%B0%E5%BE%B7%E5%A7%86%E5%B7%B4%E4%BD%A9%E7%8E%8B%E4%B8%8D%E8%A7%81%E7%8E%8B",
+      "rank": 2
+    },
+    {
+      "title": "第38届大众电影百花奖",
+      "hot_value": 496416,
+      "link": "https://s.weibo.com/weibo?q=%E7%AC%AC38%E5%B1%8A%E5%A4%A7%E4%BC%97%E7%94%B5%E5%BD%B1%E7%99%BE%E8%8A%B1%E5%A5%96",
+      "rank": 3
+    },
+    {
+      "title": "好多人发文祝贺杨紫",
+      "hot_value": 482847,
+      "link": "https://s.weibo.com/weibo?q=%E5%A5%BD%E5%A4%9A%E4%BA%BA%E5%8F%91%E6%96%87%E7%A5%9D%E8%B4%BA%E6%9D%A8%E7%B4%AB",
+      "rank": 4
+    },
+    {
+      "title": "藏海传 挂零",
+      "hot_value": 482125,
+      "link": "https://s.weibo.com/weibo?q=%E8%97%8F%E6%B5%B7%E4%BC%A0%20%E6%8C%82%E9%9B%B6",
+      "rank": 5
+    },
+    {
+      "title": "白玉兰我不知道你们咋了",
+      "hot_value": 464335,
+      "link": "https://s.weibo.com/weibo?q=%E7%99%BD%E7%8E%89%E5%85%B0%E6%88%91%E4%B8%8D%E7%9F%A5%E9%81%93%E4%BD%A0%E4%BB%AC%E5%92%8B%E4%BA%86",
+      "rank": 6
+    },
+    {
+      "title": "还以为五六点醒是身体出问题了",
+      "hot_value": 427110,
+      "link": "https://s.weibo.com/weibo?q=%E8%BF%98%E4%BB%A5%E4%B8%BA%E4%BA%94%E5%85%AD%E7%82%B9%E9%86%92%E6%98%AF%E8%BA%AB%E4%BD%93%E5%87%BA%E9%97%AE%E9%A2%98%E4%BA%86",
+      "rank": 7
+    },
+    {
+      "title": "塞内加尔5比0伊拉克",
+      "hot_value": 320763,
+      "link": "https://s.weibo.com/weibo?q=%E5%A1%9E%E5%86%85%E5%8A%A0%E5%B0%945%E6%AF%940%E4%BC%8A%E6%8B%89%E5%85%8B",
+      "rank": 8
+    },
+    {
+      "title": "微信朋友圈互删清空对方全部痕迹",
+      "hot_value": 224250,
+      "link": "https://s.weibo.com/weibo?q=%E5%BE%AE%E4%BF%A1%E6%9C%8B%E5%8F%8B%E5%9C%88%E4%BA%92%E5%88%A0%E6%B8%85%E7%A9%BA%E5%AF%B9%E6%96%B9%E5%85%A8%E9%83%A8%E7%97%95%E8%BF%B9",
+      "rank": 9
+    },
+    {
+      "title": "韩国队被全世界针对",
+      "hot_value": 218876,
+      "link": "https://s.weibo.com/weibo?q=%E9%9F%A9%E5%9B%BD%E9%98%9F%E8%A2%AB%E5%85%A8%E4%B8%96%E7%95%8C%E9%92%88%E5%AF%B9",
+      "rank": 10
+    },
+    {
+      "title": "白玉兰获奖名单",
+      "hot_value": 218643,
+      "link": "https://s.weibo.com/weibo?q=%E7%99%BD%E7%8E%89%E5%85%B0%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%95",
+      "rank": 11
+    },
+    {
+      "title": "孙俪和肖战说后面再战",
+      "hot_value": 216930,
+      "link": "https://s.weibo.com/weibo?q=%E5%AD%99%E4%BF%AA%E5%92%8C%E8%82%96%E6%88%98%E8%AF%B4%E5%90%8E%E9%9D%A2%E5%86%8D%E6%88%98",
+      "rank": 12
+    },
+    {
+      "title": "两大90花都有主流视后了",
+      "hot_value": 216170,
+      "link": "https://s.weibo.com/weibo?q=%E4%B8%A4%E5%A4%A790%E8%8A%B1%E9%83%BD%E6%9C%89%E4%B8%BB%E6%B5%81%E8%A7%86%E5%90%8E%E4%BA%86",
+      "rank": 13
+    },
+    {
+      "title": "杨幂 陪跑",
+      "hot_value": 215571,
+      "link": "https://s.weibo.com/weibo?q=%E6%9D%A8%E5%B9%82%20%E9%99%AA%E8%B7%91",
+      "rank": 14
+    },
+    {
+      "title": "心疼沙溢",
+      "hot_value": 213787,
+      "link": "https://s.weibo.com/weibo?q=%E5%BF%83%E7%96%BC%E6%B2%99%E6%BA%A2",
+      "rank": 15
+    },
+    {
+      "title": "登贝莱帽子戏法",
+      "hot_value": 213520,
+      "link": "https://s.weibo.com/weibo?q=%E7%99%BB%E8%B4%9D%E8%8E%B1%E5%B8%BD%E5%AD%90%E6%88%8F%E6%B3%95",
+      "rank": 16
+    },
+    {
+      "title": "杨紫白玉兰视后",
+      "hot_value": 197243,
+      "link": "https://s.weibo.com/weibo?q=%E6%9D%A8%E7%B4%AB%E7%99%BD%E7%8E%89%E5%85%B0%E8%A7%86%E5%90%8E",
+      "rank": 17
+    },
+    {
+      "title": "膝盖的大小居然和脸型一样",
+      "hot_value": 128441,
+      "link": "https://s.weibo.com/weibo?q=%E8%86%9D%E7%9B%96%E7%9A%84%E5%A4%A7%E5%B0%8F%E5%B1%85%E7%84%B6%E5%92%8C%E8%84%B8%E5%9E%8B%E4%B8%80%E6%A0%B7",
+      "rank": 18
+    },
+    {
+      "title": "WTT美国大满贯2026",
+      "hot_value": 121298,
+      "link": "https://s.weibo.com/weibo?q=WTT%E7%BE%8E%E5%9B%BD%E5%A4%A7%E6%BB%A1%E8%B4%AF2026",
+      "rank": 19
+    },
+    {
+      "title": "我打差评不是为了让店员丢工作",
+      "hot_value": 118729,
+      "link": "https://s.weibo.com/weibo?q=%E6%88%91%E6%89%93%E5%B7%AE%E8%AF%84%E4%B8%8D%E6%98%AF%E4%B8%BA%E4%BA%86%E8%AE%A9%E5%BA%97%E5%91%98%E4%B8%A2%E5%B7%A5%E4%BD%9C",
+      "rank": 20
+    },
+    {
+      "title": "侯明昊淘汰",
+      "hot_value": 118448,
+      "link": "https://s.weibo.com/weibo?q=%E4%BE%AF%E6%98%8E%E6%98%8A%E6%B7%98%E6%B1%B0",
+      "rank": 21
+    },
+    {
+      "title": "恭喜杨紫获视后的明星",
+      "hot_value": 118216,
+      "link": "https://s.weibo.com/weibo?q=%E6%81%AD%E5%96%9C%E6%9D%A8%E7%B4%AB%E8%8E%B7%E8%A7%86%E5%90%8E%E7%9A%84%E6%98%8E%E6%98%9F",
+      "rank": 22
+    },
+    {
+      "title": "肖战又拔水了",
+      "hot_value": 117839,
+      "link": "https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E5%8F%88%E6%8B%94%E6%B0%B4%E4%BA%86",
+      "rank": 23
+    },
+    {
+      "title": "孙俪八提白玉兰像熹妃回宫",
+      "hot_value": 113036,
+      "link": "https://s.weibo.com/weibo?q=%E5%AD%99%E4%BF%AA%E5%85%AB%E6%8F%90%E7%99%BD%E7%8E%89%E5%85%B0%E5%83%8F%E7%86%B9%E5%A6%83%E5%9B%9E%E5%AE%AB",
+      "rank": 24
+    },
+    {
+      "title": "歌手排名",
+      "hot_value": 103075,
+      "link": "https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B%E6%8E%92%E5%90%8D",
+      "rank": 25
+    },
+    {
+      "title": "马宁姆巴佩握手",
+      "hot_value": 98199,
+      "link": "https://s.weibo.com/weibo?q=%E9%A9%AC%E5%AE%81%E5%A7%86%E5%B7%B4%E4%BD%A9%E6%8F%A1%E6%89%8B",
+      "rank": 26
+    },
+    {
+      "title": "发现在北京生活特别显年轻",
+      "hot_value": 75791,
+      "link": "https://s.weibo.com/weibo?q=%E5%8F%91%E7%8E%B0%E5%9C%A8%E5%8C%97%E4%BA%AC%E7%94%9F%E6%B4%BB%E7%89%B9%E5%88%AB%E6%98%BE%E5%B9%B4%E8%BD%BB",
+      "rank": 27
+    },
+    {
+      "title": "哈兰德替补",
+      "hot_value": 73845,
+      "link": "https://s.weibo.com/weibo?q=%E5%93%88%E5%85%B0%E5%BE%B7%E6%9B%BF%E8%A1%A5",
+      "rank": 28
+    },
+    {
+      "title": "5.6亿云养牛骗局实际一头牛都没有",
+      "hot_value": 73650,
+      "link": "https://s.weibo.com/weibo?q=5.6%E4%BA%BF%E4%BA%91%E5%85%BB%E7%89%9B%E9%AA%97%E5%B1%80%E5%AE%9E%E9%99%85%E4%B8%80%E5%A4%B4%E7%89%9B%E9%83%BD%E6%B2%A1%E6%9C%89",
+      "rank": 29
+    },
+    {
+      "title": "日本淘汰赛首轮对阵巴西",
+      "hot_value": 73374,
+      "link": "https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E6%B7%98%E6%B1%B0%E8%B5%9B%E9%A6%96%E8%BD%AE%E5%AF%B9%E9%98%B5%E5%B7%B4%E8%A5%BF",
+      "rank": 30
+    },
+    {
+      "title": "太平年横扫",
+      "hot_value": 73151,
+      "link": "https://s.weibo.com/weibo?q=%E5%A4%AA%E5%B9%B3%E5%B9%B4%E6%A8%AA%E6%89%AB",
+      "rank": 31
+    },
+    {
+      "title": "85花 白玉兰陪跑",
+      "hot_value": 73011,
+      "link": "https://s.weibo.com/weibo?q=85%E8%8A%B1%20%E7%99%BD%E7%8E%89%E5%85%B0%E9%99%AA%E8%B7%91",
+      "rank": 32
+    },
+    {
+      "title": "杨幂说田雨你的发际线可真好",
+      "hot_value": 72780,
+      "link": "https://s.weibo.com/weibo?q=%E6%9D%A8%E5%B9%82%E8%AF%B4%E7%94%B0%E9%9B%A8%E4%BD%A0%E7%9A%84%E5%8F%91%E9%99%85%E7%BA%BF%E5%8F%AF%E7%9C%9F%E5%A5%BD",
+      "rank": 33
+    },
+    {
+      "title": "爱奇艺赢麻了",
+      "hot_value": 72534,
+      "link": "https://s.weibo.com/weibo?q=%E7%88%B1%E5%A5%87%E8%89%BA%E8%B5%A2%E9%BA%BB%E4%BA%86",
+      "rank": 34
+    },
+    {
+      "title": "白玉兰视后 谁拿都创造了历史",
+      "hot_value": 72177,
+      "link": "https://s.weibo.com/weibo?q=%E7%99%BD%E7%8E%89%E5%85%B0%E8%A7%86%E5%90%8E%20%E8%B0%81%E6%8B%BF%E9%83%BD%E5%88%9B%E9%80%A0%E4%BA%86%E5%8E%86%E5%8F%B2",
+      "rank": 35
+    },
+    {
+      "title": "难听",
+      "hot_value": 72100,
+      "link": "https://s.weibo.com/weibo?q=%E9%9A%BE%E5%90%AC",
+      "rank": 36
+    },
+    {
+      "title": "挪威vs法国",
+      "hot_value": 69473,
+      "link": "https://s.weibo.com/weibo?q=%E6%8C%AA%E5%A8%81vs%E6%B3%95%E5%9B%BD",
+      "rank": 37
+    },
+    {
+      "title": "女子溪谷中玩水身体被卡石缝身亡",
+      "hot_value": 65084,
+      "link": "https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%90%E6%BA%AA%E8%B0%B7%E4%B8%AD%E7%8E%A9%E6%B0%B4%E8%BA%AB%E4%BD%93%E8%A2%AB%E5%8D%A1%E7%9F%B3%E7%BC%9D%E8%BA%AB%E4%BA%A1",
+      "rank": 38
+    },
+    {
+      "title": "觉得压力大的可以看看挪威门将",
+      "hot_value": 65072,
+      "link": "https://s.weibo.com/weibo?q=%E8%A7%89%E5%BE%97%E5%8E%8B%E5%8A%9B%E5%A4%A7%E7%9A%84%E5%8F%AF%E4%BB%A5%E7%9C%8B%E7%9C%8B%E6%8C%AA%E5%A8%81%E9%97%A8%E5%B0%86",
+      "rank": 39
+    },
+    {
+      "title": "长期沉溺短期关系可能影响心理",
+      "hot_value": 63061,
+      "link": "https://s.weibo.com/weibo?q=%E9%95%BF%E6%9C%9F%E6%B2%89%E6%BA%BA%E7%9F%AD%E6%9C%9F%E5%85%B3%E7%B3%BB%E5%8F%AF%E8%83%BD%E5%BD%B1%E5%93%8D%E5%BF%83%E7%90%86",
+      "rank": 40
+    },
+    {
+      "title": "张凌赫关晓彤主持人",
+      "hot_value": 62344,
+      "link": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%87%8C%E8%B5%AB%E5%85%B3%E6%99%93%E5%BD%A4%E4%B8%BB%E6%8C%81%E4%BA%BA",
+      "rank": 41
+    },
+    {
+      "title": "KPL",
+      "hot_value": 60186,
+      "link": "https://s.weibo.com/weibo?q=KPL",
+      "rank": 42
+    },
+    {
+      "title": "生命树",
+      "hot_value": 58865,
+      "link": "https://s.weibo.com/weibo?q=%E7%94%9F%E5%91%BD%E6%A0%91",
+      "rank": 43
+    },
+    {
+      "title": "85花白玉兰全部战败",
+      "hot_value": 58178,
+      "link": "https://s.weibo.com/weibo?q=85%E8%8A%B1%E7%99%BD%E7%8E%89%E5%85%B0%E5%85%A8%E9%83%A8%E6%88%98%E8%B4%A5",
+      "rank": 44
+    },
+    {
+      "title": "姆巴佩只关注了樊振东一个真人",
+      "hot_value": 58166,
+      "link": "https://s.weibo.com/weibo?q=%E5%A7%86%E5%B7%B4%E4%BD%A9%E5%8F%AA%E5%85%B3%E6%B3%A8%E4%BA%86%E6%A8%8A%E6%8C%AF%E4%B8%9C%E4%B8%80%E4%B8%AA%E7%9C%9F%E4%BA%BA",
+      "rank": 45
+    },
+    {
+      "title": "恋与深空新PV海外评价",
+      "hot_value": 58151,
+      "link": "https://s.weibo.com/weibo?q=%E6%81%8B%E4%B8%8E%E6%B7%B1%E7%A9%BA%E6%96%B0PV%E6%B5%B7%E5%A4%96%E8%AF%84%E4%BB%B7",
+      "rank": 46
+    },
+    {
+      "title": "登贝莱杀疯了",
+      "hot_value": 58132,
+      "link": "https://s.weibo.com/weibo?q=%E7%99%BB%E8%B4%9D%E8%8E%B1%E6%9D%80%E7%96%AF%E4%BA%86",
+      "rank": 47
+    },
+    {
+      "title": "朱媛媛 意难平",
+      "hot_value": 58117,
+      "link": "https://s.weibo.com/weibo?q=%E6%9C%B1%E5%AA%9B%E5%AA%9B%20%E6%84%8F%E9%9A%BE%E5%B9%B3",
+      "rank": 48
+    },
+    {
+      "title": "塞内加尔vs伊拉克",
+      "hot_value": 58103,
+      "link": "https://s.weibo.com/weibo?q=%E5%A1%9E%E5%86%85%E5%8A%A0%E5%B0%94vs%E4%BC%8A%E6%8B%89%E5%85%8B",
+      "rank": 49
+    },
+    {
+      "title": "世界杯预测",
+      "hot_value": 58084,
+      "link": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A2%84%E6%B5%8B",
+      "rank": 50
+    }
+  ]
+}
