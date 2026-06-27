@@ -1,0 +1,307 @@
+{
+  "platform": "toutiao",
+  "platform_name": "今日头条",
+  "time": "2026-06-27 18:16:00",
+  "items": [
+    {
+      "title": "评论员：日本悍然模拟攻击辽宁舰",
+      "hot_value": 21419599,
+      "link": "https://www.toutiao.com/trending/7655975779733376550",
+      "rank": 1
+    },
+    {
+      "title": "佛得角“热闹炸了” 国旗挂满山崖",
+      "hot_value": 19381254,
+      "link": "https://www.toutiao.com/trending/7655981011448352306",
+      "rank": 2
+    },
+    {
+      "title": "我国电力稳定供给底气十足",
+      "hot_value": 17536884,
+      "link": "https://www.toutiao.com/article/7655880062222352936",
+      "rank": 3
+    },
+    {
+      "title": "致82死矿难事发县又一县委原书记被查",
+      "hot_value": 15868029,
+      "link": "https://www.toutiao.com/trending/7655986012111244863",
+      "rank": 4
+    },
+    {
+      "title": "佛得角足协感谢中国：计划安排友谊赛",
+      "hot_value": 14357986,
+      "link": "https://www.toutiao.com/trending/7655483326907646006",
+      "rank": 5
+    },
+    {
+      "title": "黎某某网上侮辱张桂梅校长被行拘",
+      "hot_value": 12991643,
+      "link": "https://www.toutiao.com/trending/7655353973922365483",
+      "rank": 6
+    },
+    {
+      "title": "泽连斯基等人私密聊天群惹出大麻烦",
+      "hot_value": 11755325,
+      "link": "https://www.toutiao.com/trending/7655569850630376979",
+      "rank": 7
+    },
+    {
+      "title": "伊朗绝杀越位：超了半只球鞋",
+      "hot_value": 10636658,
+      "link": "https://www.toutiao.com/trending/7655910922537566218",
+      "rank": 8
+    },
+    {
+      "title": "火箭军老兵自信谈打击范围覆盖全球",
+      "hot_value": 9624446,
+      "link": "https://www.toutiao.com/trending/7654963211921539099",
+      "rank": 9
+    },
+    {
+      "title": "网友晒出自己做的“荔枝馒头”",
+      "hot_value": 8708559,
+      "link": "https://www.toutiao.com/trending/7655523541038809131",
+      "rank": 10
+    },
+    {
+      "title": "安徽一高考生因没考好跳河？不实",
+      "hot_value": 7879830,
+      "link": "https://www.toutiao.com/trending/7655569850630229523",
+      "rank": 11
+    },
+    {
+      "title": "谢霆锋拿个肉夹馍在街头边走边吃",
+      "hot_value": 7129965,
+      "link": "https://www.toutiao.com/trending/7654916528098181163",
+      "rank": 12
+    },
+    {
+      "title": "七旬大爷殴打8月大婴儿致死获刑12年",
+      "hot_value": 6451459,
+      "link": "https://www.toutiao.com/trending/7655577734672859142",
+      "rank": 13
+    },
+    {
+      "title": "迟蓬喊话倪萍“没给你丢人”",
+      "hot_value": 5837521,
+      "link": "https://www.toutiao.com/trending/7655981496242753075",
+      "rank": 14
+    },
+    {
+      "title": "伊朗队自认已创造历史",
+      "hot_value": 5282008,
+      "link": "https://www.toutiao.com/trending/7655820057267814442",
+      "rank": 15
+    },
+    {
+      "title": "专家：日韩面对中国观光客打不同主意",
+      "hot_value": 4779358,
+      "link": "https://www.toutiao.com/trending/7655965546160066067",
+      "rank": 16
+    },
+    {
+      "title": "黄金暴跌为何买的人更多了",
+      "hot_value": 4324542,
+      "link": "https://www.toutiao.com/trending/7655931295079337526",
+      "rank": 17
+    },
+    {
+      "title": "伊朗队赛后再次在更衣室留言",
+      "hot_value": 3913007,
+      "link": "https://www.toutiao.com/trending/7656000601263869467",
+      "rank": 18
+    },
+    {
+      "title": "东莞一考生高考691分数学141分",
+      "hot_value": 3540635,
+      "link": "https://www.toutiao.com/trending/7655631131198652457",
+      "rank": 19
+    },
+    {
+      "title": "山东曲阜一牌坊倒塌",
+      "hot_value": 3203699,
+      "link": "https://www.toutiao.com/trending/7655947617947533318",
+      "rank": 20
+    },
+    {
+      "title": "德国队爆冷输球 韩国人为何破防了",
+      "hot_value": 2898827,
+      "link": "https://www.toutiao.com/trending/7655991434306129417",
+      "rank": 21
+    },
+    {
+      "title": "兄弟俩跑货运高速偶遇货车司机老爸",
+      "hot_value": 2622967,
+      "link": "https://www.toutiao.com/trending/7655318990511702026",
+      "rank": 22
+    },
+    {
+      "title": "雷勇军已任国防科技大学校长",
+      "hot_value": 2373359,
+      "link": "https://www.toutiao.com/trending/7655872730155876406",
+      "rank": 23
+    },
+    {
+      "title": "美军深夜空袭伊朗",
+      "hot_value": 2147504,
+      "link": "https://www.toutiao.com/trending/7655846117610884671",
+      "rank": 24
+    },
+    {
+      "title": "宋丹丹早年评价杨紫旧话被翻出",
+      "hot_value": 1943142,
+      "link": "https://www.toutiao.com/trending/7655875775577964586",
+      "rank": 25
+    },
+    {
+      "title": "胡歌：用《生命树》向两位英雄致敬",
+      "hot_value": 1758227,
+      "link": "https://www.toutiao.com/trending/7655330373278154806",
+      "rank": 26
+    },
+    {
+      "title": "村支书组织清除村内护坡便利村民出行",
+      "hot_value": 1590910,
+      "link": "https://www.toutiao.com/trending/7655389535513395242",
+      "rank": 27
+    },
+    {
+      "title": "韩国再降一名就出局",
+      "hot_value": 1439515,
+      "link": "https://www.toutiao.com/trending/7655898044294254106",
+      "rank": 28
+    },
+    {
+      "title": "美国男子被酒吧保安用电击枪贴脸射击",
+      "hot_value": 1302527,
+      "link": "https://www.toutiao.com/trending/7655976950012149803",
+      "rank": 29
+    },
+    {
+      "title": "曝王菲在西安古城墙上散步",
+      "hot_value": 1178575,
+      "link": "https://www.toutiao.com/trending/7655527903975751734",
+      "rank": 30
+    },
+    {
+      "title": "下月起8种药品医保不再报销",
+      "hot_value": 1066419,
+      "link": "https://www.toutiao.com/trending/7655500934559121449",
+      "rank": 31
+    },
+    {
+      "title": "普通人的钱该放哪",
+      "hot_value": 964935,
+      "link": "https://www.toutiao.com/trending/7655905805941607955",
+      "rank": 32
+    },
+    {
+      "title": "佛得角足协仅10人",
+      "hot_value": 873110,
+      "link": "https://www.toutiao.com/trending/7655205970499092543",
+      "rank": 33
+    },
+    {
+      "title": "印度男子喝醉躺在万伏高压线上睡觉",
+      "hot_value": 790022,
+      "link": "https://www.toutiao.com/trending/7655862654053417003",
+      "rank": 34
+    },
+    {
+      "title": "中国战略导弹部队纪念数字徽章上线",
+      "hot_value": 714842,
+      "link": "https://www.toutiao.com/trending/7655880281812140083",
+      "rank": 35
+    },
+    {
+      "title": "世界杯最大黑马佛得角成色如何",
+      "hot_value": 646815,
+      "link": "https://www.toutiao.com/trending/7655945415921106982",
+      "rank": 36
+    },
+    {
+      "title": "复读男生查分瞬间泪崩：有书读了",
+      "hot_value": 585263,
+      "link": "https://www.toutiao.com/trending/7654868064668581951",
+      "rank": 37
+    },
+    {
+      "title": "梁锦松出任西湖大学校董",
+      "hot_value": 529568,
+      "link": "https://www.toutiao.com/trending/7655972917444575238",
+      "rank": 38
+    },
+    {
+      "title": "世界杯伊朗队小组赛不败",
+      "hot_value": 479172,
+      "link": "https://www.toutiao.com/trending/7655675580712648745",
+      "rank": 39
+    },
+    {
+      "title": "佛得角直面阿根廷有几成胜算",
+      "hot_value": 433573,
+      "link": "https://www.toutiao.com/trending/7655947520383651374",
+      "rank": 40
+    },
+    {
+      "title": "近期全球多地强震意味着什么",
+      "hot_value": 392313,
+      "link": "https://www.toutiao.com/trending/7655639038540382234",
+      "rank": 41
+    },
+    {
+      "title": "乌拉圭小组出局沦为笑柄",
+      "hot_value": 321199,
+      "link": "https://www.toutiao.com/trending/7655921854074326571",
+      "rank": 42
+    },
+    {
+      "title": "AI榜单又变天：谷歌赢了科学推理",
+      "hot_value": 290633,
+      "link": "https://www.toutiao.com/trending/7655965809516219946",
+      "rank": 43
+    },
+    {
+      "title": "“足球小将”说日本足球到头了",
+      "hot_value": 262975,
+      "link": "https://www.toutiao.com/trending/7655185781035745306",
+      "rank": 44
+    },
+    {
+      "title": "佛得角成史上进淘汰赛面积最小国家",
+      "hot_value": 237950,
+      "link": "https://www.toutiao.com/trending/7655646082685370404",
+      "rank": 45
+    },
+    {
+      "title": "高考后“重建社会形象”账单引争议",
+      "hot_value": 194817,
+      "link": "https://www.toutiao.com/trending/7655974652779872265",
+      "rank": 46
+    },
+    {
+      "title": "法国队取胜后谢尔基从酒店向下扔衣服",
+      "hot_value": 144324,
+      "link": "https://www.toutiao.com/trending/7655848572998434826",
+      "rank": 47
+    },
+    {
+      "title": "44年前的世界杯旧账该清一清了",
+      "hot_value": 130589,
+      "link": "https://www.toutiao.com/trending/7655995667358007338",
+      "rank": 48
+    },
+    {
+      "title": "评论员：外交部涉台表述是正本清源",
+      "hot_value": 118162,
+      "link": "https://www.toutiao.com/trending/7654827980980191295",
+      "rank": 49
+    },
+    {
+      "title": "樊振东出席上海市运会开幕式",
+      "hot_value": 87537,
+      "link": "https://www.toutiao.com/trending/7655667985860952106",
+      "rank": 50
+    }
+  ]
+}
