@@ -1,0 +1,307 @@
+{
+  "platform": "weibo",
+  "platform_name": "微博热搜",
+  "time": "2026-06-28 07:55:55",
+  "items": [
+    {
+      "title": "浪姐成团名单",
+      "hot_value": 1073386,
+      "link": "https://s.weibo.com/weibo?q=%E6%B5%AA%E5%A7%90%E6%88%90%E5%9B%A2%E5%90%8D%E5%8D%95",
+      "rank": 1
+    },
+    {
+      "title": "克罗地亚2比1加纳",
+      "hot_value": 786614,
+      "link": "https://s.weibo.com/weibo?q=%E5%85%8B%E7%BD%97%E5%9C%B0%E4%BA%9A2%E6%AF%941%E5%8A%A0%E7%BA%B3",
+      "rank": 2
+    },
+    {
+      "title": "第四届链博会多项指标创新高",
+      "hot_value": 712736,
+      "link": "https://s.weibo.com/weibo?q=%E7%AC%AC%E5%9B%9B%E5%B1%8A%E9%93%BE%E5%8D%9A%E4%BC%9A%E5%A4%9A%E9%A1%B9%E6%8C%87%E6%A0%87%E5%88%9B%E6%96%B0%E9%AB%98",
+      "rank": 3
+    },
+    {
+      "title": "笔趣阁APP",
+      "hot_value": 706868,
+      "link": "https://s.weibo.com/weibo?q=%E7%AC%94%E8%B6%A3%E9%98%81APP",
+      "rank": 4
+    },
+    {
+      "title": "老师以为你胖了没敢问",
+      "hot_value": 655070,
+      "link": "https://s.weibo.com/weibo?q=%E8%80%81%E5%B8%88%E4%BB%A5%E4%B8%BA%E4%BD%A0%E8%83%96%E4%BA%86%E6%B2%A1%E6%95%A2%E9%97%AE",
+      "rank": 5
+    },
+    {
+      "title": "蔡依林封后",
+      "hot_value": 619340,
+      "link": "https://s.weibo.com/weibo?q=%E8%94%A1%E4%BE%9D%E6%9E%97%E5%B0%81%E5%90%8E",
+      "rank": 6
+    },
+    {
+      "title": "韩国濒临淘汰",
+      "hot_value": 552462,
+      "link": "https://s.weibo.com/weibo?q=%E9%9F%A9%E5%9B%BD%E6%BF%92%E4%B8%B4%E6%B7%98%E6%B1%B0",
+      "rank": 7
+    },
+    {
+      "title": "恋与深空回应",
+      "hot_value": 486621,
+      "link": "https://s.weibo.com/weibo?q=%E6%81%8B%E4%B8%8E%E6%B7%B1%E7%A9%BA%E5%9B%9E%E5%BA%94",
+      "rank": 8
+    },
+    {
+      "title": "巴拿马0比2英格兰",
+      "hot_value": 320650,
+      "link": "https://s.weibo.com/weibo?q=%E5%B7%B4%E6%8B%BF%E9%A9%AC0%E6%AF%942%E8%8B%B1%E6%A0%BC%E5%85%B0",
+      "rank": 9
+    },
+    {
+      "title": "哥伦比亚vs葡萄牙",
+      "hot_value": 320348,
+      "link": "https://s.weibo.com/weibo?q=%E5%93%A5%E4%BC%A6%E6%AF%94%E4%BA%9Avs%E8%91%A1%E8%90%84%E7%89%99",
+      "rank": 10
+    },
+    {
+      "title": "少了尊重",
+      "hot_value": 320019,
+      "link": "https://s.weibo.com/weibo?q=%E5%B0%91%E4%BA%86%E5%B0%8A%E9%87%8D",
+      "rank": 11
+    },
+    {
+      "title": "杨紫说我的花期到了",
+      "hot_value": 319642,
+      "link": "https://s.weibo.com/weibo?q=%E6%9D%A8%E7%B4%AB%E8%AF%B4%E6%88%91%E7%9A%84%E8%8A%B1%E6%9C%9F%E5%88%B0%E4%BA%86",
+      "rank": 12
+    },
+    {
+      "title": "女子跑步4年不拉伸小腿肌肉成硬块",
+      "hot_value": 319202,
+      "link": "https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%90%E8%B7%91%E6%AD%A54%E5%B9%B4%E4%B8%8D%E6%8B%89%E4%BC%B8%E5%B0%8F%E8%85%BF%E8%82%8C%E8%82%89%E6%88%90%E7%A1%AC%E5%9D%97",
+      "rank": 13
+    },
+    {
+      "title": "肖战这个手镯和项链",
+      "hot_value": 318838,
+      "link": "https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E8%BF%99%E4%B8%AA%E6%89%8B%E9%95%AF%E5%92%8C%E9%A1%B9%E9%93%BE",
+      "rank": 14
+    },
+    {
+      "title": "德国人为抢中国空调开始氪金了",
+      "hot_value": 318705,
+      "link": "https://s.weibo.com/weibo?q=%E5%BE%B7%E5%9B%BD%E4%BA%BA%E4%B8%BA%E6%8A%A2%E4%B8%AD%E5%9B%BD%E7%A9%BA%E8%B0%83%E5%BC%80%E5%A7%8B%E6%B0%AA%E9%87%91%E4%BA%86",
+      "rank": 15
+    },
+    {
+      "title": "王濛把奖杯放在脚边了",
+      "hot_value": 310895,
+      "link": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%BF%9B%E6%8A%8A%E5%A5%96%E6%9D%AF%E6%94%BE%E5%9C%A8%E8%84%9A%E8%BE%B9%E4%BA%86",
+      "rank": 16
+    },
+    {
+      "title": "陈瑶下班哭了",
+      "hot_value": 275549,
+      "link": "https://s.weibo.com/weibo?q=%E9%99%88%E7%91%B6%E4%B8%8B%E7%8F%AD%E5%93%AD%E4%BA%86",
+      "rank": 17
+    },
+    {
+      "title": "七旬大爷为泄愤殴打8月大婴儿致死",
+      "hot_value": 275513,
+      "link": "https://s.weibo.com/weibo?q=%E4%B8%83%E6%97%AC%E5%A4%A7%E7%88%B7%E4%B8%BA%E6%B3%84%E6%84%A4%E6%AE%B4%E6%89%938%E6%9C%88%E5%A4%A7%E5%A9%B4%E5%84%BF%E8%87%B4%E6%AD%BB",
+      "rank": 18
+    },
+    {
+      "title": "高考志愿填报",
+      "hot_value": 275430,
+      "link": "https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E5%BF%97%E6%84%BF%E5%A1%AB%E6%8A%A5",
+      "rank": 19
+    },
+    {
+      "title": "C罗对决J罗",
+      "hot_value": 275302,
+      "link": "https://s.weibo.com/weibo?q=C%E7%BD%97%E5%AF%B9%E5%86%B3J%E7%BD%97",
+      "rank": 20
+    },
+    {
+      "title": "爱吃辣的人天塌了",
+      "hot_value": 275168,
+      "link": "https://s.weibo.com/weibo?q=%E7%88%B1%E5%90%83%E8%BE%A3%E7%9A%84%E4%BA%BA%E5%A4%A9%E5%A1%8C%E4%BA%86",
+      "rank": 21
+    },
+    {
+      "title": "每周早醒超过3次建议及时就医",
+      "hot_value": 275108,
+      "link": "https://s.weibo.com/weibo?q=%E6%AF%8F%E5%91%A8%E6%97%A9%E9%86%92%E8%B6%85%E8%BF%873%E6%AC%A1%E5%BB%BA%E8%AE%AE%E5%8F%8A%E6%97%B6%E5%B0%B1%E5%8C%BB",
+      "rank": 22
+    },
+    {
+      "title": "恋与深空热转区",
+      "hot_value": 275057,
+      "link": "https://s.weibo.com/weibo?q=%E6%81%8B%E4%B8%8E%E6%B7%B1%E7%A9%BA%E7%83%AD%E8%BD%AC%E5%8C%BA",
+      "rank": 23
+    },
+    {
+      "title": "肖战的手镯",
+      "hot_value": 269942,
+      "link": "https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E7%9A%84%E6%89%8B%E9%95%AF",
+      "rank": 24
+    },
+    {
+      "title": "张月枣核掉衣服里了",
+      "hot_value": 261190,
+      "link": "https://s.weibo.com/weibo?q=%E5%BC%A0%E6%9C%88%E6%9E%A3%E6%A0%B8%E6%8E%89%E8%A1%A3%E6%9C%8D%E9%87%8C%E4%BA%86",
+      "rank": 25
+    },
+    {
+      "title": "年入多少能有这样生活水平",
+      "hot_value": 187732,
+      "link": "https://s.weibo.com/weibo?q=%E5%B9%B4%E5%85%A5%E5%A4%9A%E5%B0%91%E8%83%BD%E6%9C%89%E8%BF%99%E6%A0%B7%E7%94%9F%E6%B4%BB%E6%B0%B4%E5%B9%B3",
+      "rank": 26
+    },
+    {
+      "title": "李现 杨紫",
+      "hot_value": 187542,
+      "link": "https://s.weibo.com/weibo?q=%E6%9D%8E%E7%8E%B0%20%E6%9D%A8%E7%B4%AB",
+      "rank": 27
+    },
+    {
+      "title": "历届浪姐总冠军",
+      "hot_value": 182225,
+      "link": "https://s.weibo.com/weibo?q=%E5%8E%86%E5%B1%8A%E6%B5%AA%E5%A7%90%E6%80%BB%E5%86%A0%E5%86%9B",
+      "rank": 28
+    },
+    {
+      "title": "通过衣服吊牌看成本价的方法",
+      "hot_value": 179800,
+      "link": "https://s.weibo.com/weibo?q=%E9%80%9A%E8%BF%87%E8%A1%A3%E6%9C%8D%E5%90%8A%E7%89%8C%E7%9C%8B%E6%88%90%E6%9C%AC%E4%BB%B7%E7%9A%84%E6%96%B9%E6%B3%95",
+      "rank": 29
+    },
+    {
+      "title": "高考699分女生父亲发声",
+      "hot_value": 175304,
+      "link": "https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83699%E5%88%86%E5%A5%B3%E7%94%9F%E7%88%B6%E4%BA%B2%E5%8F%91%E5%A3%B0",
+      "rank": 30
+    },
+    {
+      "title": "曾沛慈总冠军",
+      "hot_value": 174780,
+      "link": "https://s.weibo.com/weibo?q=%E6%9B%BE%E6%B2%9B%E6%85%88%E6%80%BB%E5%86%A0%E5%86%9B",
+      "rank": 31
+    },
+    {
+      "title": "李小冉 假拉",
+      "hot_value": 173123,
+      "link": "https://s.weibo.com/weibo?q=%E6%9D%8E%E5%B0%8F%E5%86%89%20%E5%81%87%E6%8B%89",
+      "rank": 32
+    },
+    {
+      "title": "原来我一直都在乱洗衣服",
+      "hot_value": 153523,
+      "link": "https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E6%88%91%E4%B8%80%E7%9B%B4%E9%83%BD%E5%9C%A8%E4%B9%B1%E6%B4%97%E8%A1%A3%E6%9C%8D",
+      "rank": 33
+    },
+    {
+      "title": "黄灿灿 AI你猜错了",
+      "hot_value": 153060,
+      "link": "https://s.weibo.com/weibo?q=%E9%BB%84%E7%81%BF%E7%81%BF%20AI%E4%BD%A0%E7%8C%9C%E9%94%99%E4%BA%86",
+      "rank": 34
+    },
+    {
+      "title": "佛得角全岛人几乎都在港口庆祝",
+      "hot_value": 146511,
+      "link": "https://s.weibo.com/weibo?q=%E4%BD%9B%E5%BE%97%E8%A7%92%E5%85%A8%E5%B2%9B%E4%BA%BA%E5%87%A0%E4%B9%8E%E9%83%BD%E5%9C%A8%E6%B8%AF%E5%8F%A3%E5%BA%86%E7%A5%9D",
+      "rank": 35
+    },
+    {
+      "title": "预测金鹰奖最佳女主角提名",
+      "hot_value": 141227,
+      "link": "https://s.weibo.com/weibo?q=%E9%A2%84%E6%B5%8B%E9%87%91%E9%B9%B0%E5%A5%96%E6%9C%80%E4%BD%B3%E5%A5%B3%E4%B8%BB%E8%A7%92%E6%8F%90%E5%90%8D",
+      "rank": 36
+    },
+    {
+      "title": "WTT美国大满贯",
+      "hot_value": 139821,
+      "link": "https://s.weibo.com/weibo?q=WTT%E7%BE%8E%E5%9B%BD%E5%A4%A7%E6%BB%A1%E8%B4%AF",
+      "rank": 37
+    },
+    {
+      "title": "克罗地亚vs加纳",
+      "hot_value": 136261,
+      "link": "https://s.weibo.com/weibo?q=%E5%85%8B%E7%BD%97%E5%9C%B0%E4%BA%9Avs%E5%8A%A0%E7%BA%B3",
+      "rank": 38
+    },
+    {
+      "title": "王濛李小冉和结婚有什么区别",
+      "hot_value": 133785,
+      "link": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%BF%9B%E6%9D%8E%E5%B0%8F%E5%86%89%E5%92%8C%E7%BB%93%E5%A9%9A%E6%9C%89%E4%BB%80%E4%B9%88%E5%8C%BA%E5%88%AB",
+      "rank": 39
+    },
+    {
+      "title": "毒贩悬赏缉毒警人头一颗200万",
+      "hot_value": 127073,
+      "link": "https://s.weibo.com/weibo?q=%E6%AF%92%E8%B4%A9%E6%82%AC%E8%B5%8F%E7%BC%89%E6%AF%92%E8%AD%A6%E4%BA%BA%E5%A4%B4%E4%B8%80%E9%A2%97200%E4%B8%87",
+      "rank": 40
+    },
+    {
+      "title": "葡萄牙连续3次晋级世界杯淘汰赛",
+      "hot_value": 125737,
+      "link": "https://s.weibo.com/weibo?q=%E8%91%A1%E8%90%84%E7%89%99%E8%BF%9E%E7%BB%AD3%E6%AC%A1%E6%99%8B%E7%BA%A7%E4%B8%96%E7%95%8C%E6%9D%AF%E6%B7%98%E6%B1%B0%E8%B5%9B",
+      "rank": 41
+    },
+    {
+      "title": "若民主刚果取胜韩国将被淘汰",
+      "hot_value": 115524,
+      "link": "https://s.weibo.com/weibo?q=%E8%8B%A5%E6%B0%91%E4%B8%BB%E5%88%9A%E6%9E%9C%E5%8F%96%E8%83%9C%E9%9F%A9%E5%9B%BD%E5%B0%86%E8%A2%AB%E6%B7%98%E6%B1%B0",
+      "rank": 42
+    },
+    {
+      "title": "安崎卡位",
+      "hot_value": 107249,
+      "link": "https://s.weibo.com/weibo?q=%E5%AE%89%E5%B4%8E%E5%8D%A1%E4%BD%8D",
+      "rank": 43
+    },
+    {
+      "title": "人一旦染上了早睡才知道有多爽",
+      "hot_value": 107131,
+      "link": "https://s.weibo.com/weibo?q=%E4%BA%BA%E4%B8%80%E6%97%A6%E6%9F%93%E4%B8%8A%E4%BA%86%E6%97%A9%E7%9D%A1%E6%89%8D%E7%9F%A5%E9%81%93%E6%9C%89%E5%A4%9A%E7%88%BD",
+      "rank": 44
+    },
+    {
+      "title": "陈瑶没成团",
+      "hot_value": 103219,
+      "link": "https://s.weibo.com/weibo?q=%E9%99%88%E7%91%B6%E6%B2%A1%E6%88%90%E5%9B%A2",
+      "rank": 45
+    },
+    {
+      "title": "章建平9天套现近3亿",
+      "hot_value": 102052,
+      "link": "https://s.weibo.com/weibo?q=%E7%AB%A0%E5%BB%BA%E5%B9%B39%E5%A4%A9%E5%A5%97%E7%8E%B0%E8%BF%913%E4%BA%BF",
+      "rank": 46
+    },
+    {
+      "title": "央视曝网络测评翻车",
+      "hot_value": 100824,
+      "link": "https://s.weibo.com/weibo?q=%E5%A4%AE%E8%A7%86%E6%9B%9D%E7%BD%91%E7%BB%9C%E6%B5%8B%E8%AF%84%E7%BF%BB%E8%BD%A6",
+      "rank": 47
+    },
+    {
+      "title": "欧洲遇极端高温中国游客崩溃逃离",
+      "hot_value": 99427,
+      "link": "https://s.weibo.com/weibo?q=%E6%AC%A7%E6%B4%B2%E9%81%87%E6%9E%81%E7%AB%AF%E9%AB%98%E6%B8%A9%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E5%B4%A9%E6%BA%83%E9%80%83%E7%A6%BB",
+      "rank": 48
+    },
+    {
+      "title": "奔驰取消德国9万名员工年终奖",
+      "hot_value": 98658,
+      "link": "https://s.weibo.com/weibo?q=%E5%A5%94%E9%A9%B0%E5%8F%96%E6%B6%88%E5%BE%B7%E5%9B%BD9%E4%B8%87%E5%90%8D%E5%91%98%E5%B7%A5%E5%B9%B4%E7%BB%88%E5%A5%96",
+      "rank": 49
+    },
+    {
+      "title": "美国出口管制倒逼我国AI自主化",
+      "hot_value": 96548,
+      "link": "https://s.weibo.com/weibo?q=%E7%BE%8E%E5%9B%BD%E5%87%BA%E5%8F%A3%E7%AE%A1%E5%88%B6%E5%80%92%E9%80%BC%E6%88%91%E5%9B%BDAI%E8%87%AA%E4%B8%BB%E5%8C%96",
+      "rank": 50
+    }
+  ]
+}
