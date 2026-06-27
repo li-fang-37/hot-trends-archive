@@ -1,0 +1,307 @@
+{
+  "platform": "weibo",
+  "platform_name": "微博热搜",
+  "time": "2026-06-27 12:04:04",
+  "items": [
+    {
+      "title": "佛得角出线",
+      "hot_value": 3057275,
+      "link": "https://s.weibo.com/weibo?q=%E4%BD%9B%E5%BE%97%E8%A7%92%E5%87%BA%E7%BA%BF",
+      "rank": 1
+    },
+    {
+      "title": "金鹰奖",
+      "hot_value": 2635801,
+      "link": "https://s.weibo.com/weibo?q=%E9%87%91%E9%B9%B0%E5%A5%96",
+      "rank": 2
+    },
+    {
+      "title": "中国为全球创新链关键一环",
+      "hot_value": 1428574,
+      "link": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E4%B8%BA%E5%85%A8%E7%90%83%E5%88%9B%E6%96%B0%E9%93%BE%E5%85%B3%E9%94%AE%E4%B8%80%E7%8E%AF",
+      "rank": 3
+    },
+    {
+      "title": "杨紫获奖孙俪吴越反应",
+      "hot_value": 1398295,
+      "link": "https://s.weibo.com/weibo?q=%E6%9D%A8%E7%B4%AB%E8%8E%B7%E5%A5%96%E5%AD%99%E4%BF%AA%E5%90%B4%E8%B6%8A%E5%8F%8D%E5%BA%94",
+      "rank": 4
+    },
+    {
+      "title": "看这期跑男我已经力竭了",
+      "hot_value": 1231806,
+      "link": "https://s.weibo.com/weibo?q=%E7%9C%8B%E8%BF%99%E6%9C%9F%E8%B7%91%E7%94%B7%E6%88%91%E5%B7%B2%E7%BB%8F%E5%8A%9B%E7%AB%AD%E4%BA%86",
+      "rank": 5
+    },
+    {
+      "title": "韩国民众怒火滔天",
+      "hot_value": 1005336,
+      "link": "https://s.weibo.com/weibo?q=%E9%9F%A9%E5%9B%BD%E6%B0%91%E4%BC%97%E6%80%92%E7%81%AB%E6%BB%94%E5%A4%A9",
+      "rank": 6
+    },
+    {
+      "title": "背刺6.78亿用户WPS吃相有点难看",
+      "hot_value": 899506,
+      "link": "https://s.weibo.com/weibo?q=%E8%83%8C%E5%88%BA6.78%E4%BA%BF%E7%94%A8%E6%88%B7WPS%E5%90%83%E7%9B%B8%E6%9C%89%E7%82%B9%E9%9A%BE%E7%9C%8B",
+      "rank": 7
+    },
+    {
+      "title": "佛得角首次晋级世界杯淘汰赛",
+      "hot_value": 817114,
+      "link": "https://s.weibo.com/weibo?q=%E4%BD%9B%E5%BE%97%E8%A7%92%E9%A6%96%E6%AC%A1%E6%99%8B%E7%BA%A7%E4%B8%96%E7%95%8C%E6%9D%AF%E6%B7%98%E6%B1%B0%E8%B5%9B",
+      "rank": 8
+    },
+    {
+      "title": "大疆已报案",
+      "hot_value": 529838,
+      "link": "https://s.weibo.com/weibo?q=%E5%A4%A7%E7%96%86%E5%B7%B2%E6%8A%A5%E6%A1%88",
+      "rank": 9
+    },
+    {
+      "title": "佛得角0比0沙特",
+      "hot_value": 497400,
+      "link": "https://s.weibo.com/weibo?q=%E4%BD%9B%E5%BE%97%E8%A7%920%E6%AF%940%E6%B2%99%E7%89%B9",
+      "rank": 10
+    },
+    {
+      "title": "白玉兰3月爆料全对上了",
+      "hot_value": 476582,
+      "link": "https://s.weibo.com/weibo?q=%E7%99%BD%E7%8E%89%E5%85%B03%E6%9C%88%E7%88%86%E6%96%99%E5%85%A8%E5%AF%B9%E4%B8%8A%E4%BA%86",
+      "rank": 11
+    },
+    {
+      "title": "警方称13岁女孩与2男自愿发生关系",
+      "hot_value": 463516,
+      "link": "https://s.weibo.com/weibo?q=%E8%AD%A6%E6%96%B9%E7%A7%B013%E5%B2%81%E5%A5%B3%E5%AD%A9%E4%B8%8E2%E7%94%B7%E8%87%AA%E6%84%BF%E5%8F%91%E7%94%9F%E5%85%B3%E7%B3%BB",
+      "rank": 12
+    },
+    {
+      "title": "杨紫经纪人抱着杨紫哭",
+      "hot_value": 427186,
+      "link": "https://s.weibo.com/weibo?q=%E6%9D%A8%E7%B4%AB%E7%BB%8F%E7%BA%AA%E4%BA%BA%E6%8A%B1%E7%9D%80%E6%9D%A8%E7%B4%AB%E5%93%AD",
+      "rank": 13
+    },
+    {
+      "title": "关晓彤真正大花完成体",
+      "hot_value": 402000,
+      "link": "https://s.weibo.com/weibo?q=%E5%85%B3%E6%99%93%E5%BD%A4%E7%9C%9F%E6%AD%A3%E5%A4%A7%E8%8A%B1%E5%AE%8C%E6%88%90%E4%BD%93",
+      "rank": 14
+    },
+    {
+      "title": "吃同学给的软糖头晕就医才知吸毒了",
+      "hot_value": 401313,
+      "link": "https://s.weibo.com/weibo?q=%E5%90%83%E5%90%8C%E5%AD%A6%E7%BB%99%E7%9A%84%E8%BD%AF%E7%B3%96%E5%A4%B4%E6%99%95%E5%B0%B1%E5%8C%BB%E6%89%8D%E7%9F%A5%E5%90%B8%E6%AF%92%E4%BA%86",
+      "rank": 15
+    },
+    {
+      "title": "藏海传 挂零",
+      "hot_value": 374583,
+      "link": "https://s.weibo.com/weibo?q=%E8%97%8F%E6%B5%B7%E4%BC%A0%20%E6%8C%82%E9%9B%B6",
+      "rank": 16
+    },
+    {
+      "title": "肖战工作室配的什么雷霆BGM",
+      "hot_value": 362914,
+      "link": "https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E5%B7%A5%E4%BD%9C%E5%AE%A4%E9%85%8D%E7%9A%84%E4%BB%80%E4%B9%88%E9%9B%B7%E9%9C%86BGM",
+      "rank": 17
+    },
+    {
+      "title": "美伊再爆发冲突",
+      "hot_value": 311912,
+      "link": "https://s.weibo.com/weibo?q=%E7%BE%8E%E4%BC%8A%E5%86%8D%E7%88%86%E5%8F%91%E5%86%B2%E7%AA%81",
+      "rank": 18
+    },
+    {
+      "title": "OpenAI发布GPT5.6",
+      "hot_value": 310625,
+      "link": "https://s.weibo.com/weibo?q=OpenAI%E5%8F%91%E5%B8%83GPT5.6",
+      "rank": 19
+    },
+    {
+      "title": "新西兰vs比利时",
+      "hot_value": 308589,
+      "link": "https://s.weibo.com/weibo?q=%E6%96%B0%E8%A5%BF%E5%85%B0vs%E6%AF%94%E5%88%A9%E6%97%B6",
+      "rank": 20
+    },
+    {
+      "title": "和爸妈出去玩意识到了自己的傲慢",
+      "hot_value": 306097,
+      "link": "https://s.weibo.com/weibo?q=%E5%92%8C%E7%88%B8%E5%A6%88%E5%87%BA%E5%8E%BB%E7%8E%A9%E6%84%8F%E8%AF%86%E5%88%B0%E4%BA%86%E8%87%AA%E5%B7%B1%E7%9A%84%E5%82%B2%E6%85%A2",
+      "rank": 21
+    },
+    {
+      "title": "ally说宋轶是白敬亭女朋友",
+      "hot_value": 304597,
+      "link": "https://s.weibo.com/weibo?q=ally%E8%AF%B4%E5%AE%8B%E8%BD%B6%E6%98%AF%E7%99%BD%E6%95%AC%E4%BA%AD%E5%A5%B3%E6%9C%8B%E5%8F%8B",
+      "rank": 22
+    },
+    {
+      "title": "别当着女婿面数落女儿",
+      "hot_value": 302196,
+      "link": "https://s.weibo.com/weibo?q=%E5%88%AB%E5%BD%93%E7%9D%80%E5%A5%B3%E5%A9%BF%E9%9D%A2%E6%95%B0%E8%90%BD%E5%A5%B3%E5%84%BF",
+      "rank": 23
+    },
+    {
+      "title": "两大90花都有主流视后了",
+      "hot_value": 300104,
+      "link": "https://s.weibo.com/weibo?q=%E4%B8%A4%E5%A4%A790%E8%8A%B1%E9%83%BD%E6%9C%89%E4%B8%BB%E6%B5%81%E8%A7%86%E5%90%8E%E4%BA%86",
+      "rank": 24
+    },
+    {
+      "title": "阿根廷国家队回应迎战佛得角",
+      "hot_value": 296755,
+      "link": "https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7%E5%9B%BD%E5%AE%B6%E9%98%9F%E5%9B%9E%E5%BA%94%E8%BF%8E%E6%88%98%E4%BD%9B%E5%BE%97%E8%A7%92",
+      "rank": 25
+    },
+    {
+      "title": "姆巴佩哈兰德赛后拥抱",
+      "hot_value": 294974,
+      "link": "https://s.weibo.com/weibo?q=%E5%A7%86%E5%B7%B4%E4%BD%A9%E5%93%88%E5%85%B0%E5%BE%B7%E8%B5%9B%E5%90%8E%E6%8B%A5%E6%8A%B1",
+      "rank": 26
+    },
+    {
+      "title": "官方通报饭馆天花板灭蝇贴粘满苍蝇",
+      "hot_value": 293103,
+      "link": "https://s.weibo.com/weibo?q=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E9%A5%AD%E9%A6%86%E5%A4%A9%E8%8A%B1%E6%9D%BF%E7%81%AD%E8%9D%87%E8%B4%B4%E7%B2%98%E6%BB%A1%E8%8B%8D%E8%9D%87",
+      "rank": 27
+    },
+    {
+      "title": "张凌赫白玉兰拍了好多合照",
+      "hot_value": 291906,
+      "link": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%87%8C%E8%B5%AB%E7%99%BD%E7%8E%89%E5%85%B0%E6%8B%8D%E4%BA%86%E5%A5%BD%E5%A4%9A%E5%90%88%E7%85%A7",
+      "rank": 28
+    },
+    {
+      "title": "只有西班牙帮韩国",
+      "hot_value": 288988,
+      "link": "https://s.weibo.com/weibo?q=%E5%8F%AA%E6%9C%89%E8%A5%BF%E7%8F%AD%E7%89%99%E5%B8%AE%E9%9F%A9%E5%9B%BD",
+      "rank": 29
+    },
+    {
+      "title": "金价跌25%银价暴跌45%",
+      "hot_value": 287969,
+      "link": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E8%B7%8C25%25%E9%93%B6%E4%BB%B7%E6%9A%B4%E8%B7%8C45%25",
+      "rank": 30
+    },
+    {
+      "title": "佛得角vs沙特",
+      "hot_value": 283374,
+      "link": "https://s.weibo.com/weibo?q=%E4%BD%9B%E5%BE%97%E8%A7%92vs%E6%B2%99%E7%89%B9",
+      "rank": 31
+    },
+    {
+      "title": "佛得角 H组搅成浑水",
+      "hot_value": 274329,
+      "link": "https://s.weibo.com/weibo?q=%E4%BD%9B%E5%BE%97%E8%A7%92%20H%E7%BB%84%E6%90%85%E6%88%90%E6%B5%91%E6%B0%B4",
+      "rank": 32
+    },
+    {
+      "title": "任素汐 我怕我没机会再上台说话",
+      "hot_value": 272072,
+      "link": "https://s.weibo.com/weibo?q=%E4%BB%BB%E7%B4%A0%E6%B1%90%20%E6%88%91%E6%80%95%E6%88%91%E6%B2%A1%E6%9C%BA%E4%BC%9A%E5%86%8D%E4%B8%8A%E5%8F%B0%E8%AF%B4%E8%AF%9D",
+      "rank": 33
+    },
+    {
+      "title": "关晓彤张凌赫合照",
+      "hot_value": 270388,
+      "link": "https://s.weibo.com/weibo?q=%E5%85%B3%E6%99%93%E5%BD%A4%E5%BC%A0%E5%87%8C%E8%B5%AB%E5%90%88%E7%85%A7",
+      "rank": 34
+    },
+    {
+      "title": "首支出局的世界杯冠军",
+      "hot_value": 263325,
+      "link": "https://s.weibo.com/weibo?q=%E9%A6%96%E6%94%AF%E5%87%BA%E5%B1%80%E7%9A%84%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%A0%E5%86%9B",
+      "rank": 35
+    },
+    {
+      "title": "汪苏泷演唱会北京站官宣",
+      "hot_value": 262403,
+      "link": "https://s.weibo.com/weibo?q=%E6%B1%AA%E8%8B%8F%E6%B3%B7%E6%BC%94%E5%94%B1%E4%BC%9A%E5%8C%97%E4%BA%AC%E7%AB%99%E5%AE%98%E5%AE%A3",
+      "rank": 36
+    },
+    {
+      "title": "佛得角门将稳稳接住近距离头球",
+      "hot_value": 256973,
+      "link": "https://s.weibo.com/weibo?q=%E4%BD%9B%E5%BE%97%E8%A7%92%E9%97%A8%E5%B0%86%E7%A8%B3%E7%A8%B3%E6%8E%A5%E4%BD%8F%E8%BF%91%E8%B7%9D%E7%A6%BB%E5%A4%B4%E7%90%83",
+      "rank": 37
+    },
+    {
+      "title": "白玉兰",
+      "hot_value": 256902,
+      "link": "https://s.weibo.com/weibo?q=%E7%99%BD%E7%8E%89%E5%85%B0",
+      "rank": 38
+    },
+    {
+      "title": "金鹰奖开启第二阶段投票",
+      "hot_value": 251416,
+      "link": "https://s.weibo.com/weibo?q=%E9%87%91%E9%B9%B0%E5%A5%96%E5%BC%80%E5%90%AF%E7%AC%AC%E4%BA%8C%E9%98%B6%E6%AE%B5%E6%8A%95%E7%A5%A8",
+      "rank": 39
+    },
+    {
+      "title": "刘宇宁给孙红雷整出姨母笑了",
+      "hot_value": 251332,
+      "link": "https://s.weibo.com/weibo?q=%E5%88%98%E5%AE%87%E5%AE%81%E7%BB%99%E5%AD%99%E7%BA%A2%E9%9B%B7%E6%95%B4%E5%87%BA%E5%A7%A8%E6%AF%8D%E7%AC%91%E4%BA%86",
+      "rank": 40
+    },
+    {
+      "title": "韩国跌至第7",
+      "hot_value": 251309,
+      "link": "https://s.weibo.com/weibo?q=%E9%9F%A9%E5%9B%BD%E8%B7%8C%E8%87%B3%E7%AC%AC7",
+      "rank": 41
+    },
+    {
+      "title": "穆祉丞回应成绩全靠粉丝",
+      "hot_value": 251290,
+      "link": "https://s.weibo.com/weibo?q=%E7%A9%86%E7%A5%89%E4%B8%9E%E5%9B%9E%E5%BA%94%E6%88%90%E7%BB%A9%E5%85%A8%E9%9D%A0%E7%B2%89%E4%B8%9D",
+      "rank": 42
+    },
+    {
+      "title": "肖战和胡歌对视笑了",
+      "hot_value": 233393,
+      "link": "https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E5%92%8C%E8%83%A1%E6%AD%8C%E5%AF%B9%E8%A7%86%E7%AC%91%E4%BA%86",
+      "rank": 43
+    },
+    {
+      "title": "挪威1比4法国",
+      "hot_value": 232420,
+      "link": "https://s.weibo.com/weibo?q=%E6%8C%AA%E5%A8%811%E6%AF%944%E6%B3%95%E5%9B%BD",
+      "rank": 44
+    },
+    {
+      "title": "韩国网友感谢西班牙",
+      "hot_value": 216080,
+      "link": "https://s.weibo.com/weibo?q=%E9%9F%A9%E5%9B%BD%E7%BD%91%E5%8F%8B%E6%84%9F%E8%B0%A2%E8%A5%BF%E7%8F%AD%E7%89%99",
+      "rank": 45
+    },
+    {
+      "title": "韩国满足3个条件就晋级",
+      "hot_value": 215316,
+      "link": "https://s.weibo.com/weibo?q=%E9%9F%A9%E5%9B%BD%E6%BB%A1%E8%B6%B33%E4%B8%AA%E6%9D%A1%E4%BB%B6%E5%B0%B1%E6%99%8B%E7%BA%A7",
+      "rank": 46
+    },
+    {
+      "title": "女孩高考查分闹乌龙",
+      "hot_value": 188471,
+      "link": "https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%A9%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86%E9%97%B9%E4%B9%8C%E9%BE%99",
+      "rank": 47
+    },
+    {
+      "title": "钟意下首发",
+      "hot_value": 186721,
+      "link": "https://s.weibo.com/weibo?q=%E9%92%9F%E6%84%8F%E4%B8%8B%E9%A6%96%E5%8F%91",
+      "rank": 48
+    },
+    {
+      "title": "iPhone18标准版最新爆料",
+      "hot_value": 185661,
+      "link": "https://s.weibo.com/weibo?q=iPhone18%E6%A0%87%E5%87%86%E7%89%88%E6%9C%80%E6%96%B0%E7%88%86%E6%96%99",
+      "rank": 49
+    },
+    {
+      "title": "黄金大跌多家银行发布公告",
+      "hot_value": 182195,
+      "link": "https://s.weibo.com/weibo?q=%E9%BB%84%E9%87%91%E5%A4%A7%E8%B7%8C%E5%A4%9A%E5%AE%B6%E9%93%B6%E8%A1%8C%E5%8F%91%E5%B8%83%E5%85%AC%E5%91%8A",
+      "rank": 50
+    }
+  ]
+}
