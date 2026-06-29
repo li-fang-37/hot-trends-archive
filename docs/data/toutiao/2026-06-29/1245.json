@@ -1,0 +1,307 @@
+{
+  "platform": "toutiao",
+  "platform_name": "今日头条",
+  "time": "2026-06-29 12:45:29",
+  "items": [
+    {
+      "title": "辽宁葫芦岛居民楼爆炸 多层楼被炸毁",
+      "hot_value": 24069222,
+      "link": "https://www.toutiao.com/trending/7656593459259703315",
+      "rank": 1
+    },
+    {
+      "title": "法总统候选人：拒绝与中国激烈对抗",
+      "hot_value": 21778732,
+      "link": "https://www.toutiao.com/trending/7655585541186080292",
+      "rank": 2
+    },
+    {
+      "title": "我国多领域发布亮眼“成绩单”",
+      "hot_value": 19706212,
+      "link": "https://www.toutiao.com/article/7656577614404010542",
+      "rank": 3
+    },
+    {
+      "title": "四川宜宾地震瞬间鱼群乱跳",
+      "hot_value": 17830918,
+      "link": "https://www.toutiao.com/trending/7656584232357285402",
+      "rank": 4
+    },
+    {
+      "title": "普京：俄罗斯面临命运攸关时刻",
+      "hot_value": 16134082,
+      "link": "https://www.toutiao.com/trending/7655569850643041835",
+      "rank": 5
+    },
+    {
+      "title": "韩媒破防：被中国球迷当笑柄",
+      "hot_value": 14598721,
+      "link": "https://www.toutiao.com/trending/7655991763912212522",
+      "rank": 6
+    },
+    {
+      "title": "360万法拉利被多名孩童当滑梯玩耍",
+      "hot_value": 13209469,
+      "link": "https://www.toutiao.com/trending/7656490685771710507",
+      "rank": 7
+    },
+    {
+      "title": "博主：比亚迪赢了销量却输给资本",
+      "hot_value": 11952421,
+      "link": "https://www.toutiao.com/trending/7656616192316018218",
+      "rank": 8
+    },
+    {
+      "title": "中方将20家日本实体列入出口管制名单",
+      "hot_value": 10814998,
+      "link": "https://www.toutiao.com/trending/7656631627371708458",
+      "rank": 9
+    },
+    {
+      "title": "宜宾地震食客避难后折返 无人逃单",
+      "hot_value": 9785815,
+      "link": "https://www.toutiao.com/trending/7656480719053357097",
+      "rank": 10
+    },
+    {
+      "title": "男子造谣县城满街都是小混混被行拘",
+      "hot_value": 8854571,
+      "link": "https://www.toutiao.com/trending/7656387428044783659",
+      "rank": 11
+    },
+    {
+      "title": "孙颖莎将迎来本届美国大满贯首秀",
+      "hot_value": 8011948,
+      "link": "https://www.toutiao.com/trending/7656332910807482422",
+      "rank": 12
+    },
+    {
+      "title": "金价银价下跌 油价上涨",
+      "hot_value": 7249510,
+      "link": "https://www.toutiao.com/trending/7656224620856623114",
+      "rank": 13
+    },
+    {
+      "title": "中国代表在联合国点名日本所犯罪行",
+      "hot_value": 6559628,
+      "link": "https://www.toutiao.com/trending/7655885086147182611",
+      "rank": 14
+    },
+    {
+      "title": "韩国队如何把94%出线概率打到0%",
+      "hot_value": 5935397,
+      "link": "https://www.toutiao.com/trending/7656614567056772617",
+      "rank": 15
+    },
+    {
+      "title": "网约车司机转账15000元后被乘客拉黑",
+      "hot_value": 5370569,
+      "link": "https://www.toutiao.com/trending/7656451669517762598",
+      "rank": 16
+    },
+    {
+      "title": "11岁小孩哥汽修工龄4年",
+      "hot_value": 4859492,
+      "link": "https://www.toutiao.com/trending/7655612871770079283",
+      "rank": 17
+    },
+    {
+      "title": "韩国主帅辞职5分钟念完双手插兜离场",
+      "hot_value": 4397050,
+      "link": "https://www.toutiao.com/trending/7656592498130996745",
+      "rank": 18
+    },
+    {
+      "title": "四川宜宾5.5级地震已致13人轻微伤",
+      "hot_value": 3978615,
+      "link": "https://www.toutiao.com/trending/7656590159064075822",
+      "rank": 19
+    },
+    {
+      "title": "巴黎两家殡仪馆爆满",
+      "hot_value": 3600000,
+      "link": "https://www.toutiao.com/trending/7656420583961362486",
+      "rank": 20
+    },
+    {
+      "title": "巴西前锋说不出日本球员全场哄笑",
+      "hot_value": 3257414,
+      "link": "https://www.toutiao.com/trending/7655651837168815659",
+      "rank": 21
+    },
+    {
+      "title": "王楚钦首轮赢下国乒德比",
+      "hot_value": 2947430,
+      "link": "https://www.toutiao.com/trending/7656623368720285738",
+      "rank": 22
+    },
+    {
+      "title": "中国邮政上海分公司总经理李柏平被查",
+      "hot_value": 2666945,
+      "link": "https://www.toutiao.com/trending/7656623644290089023",
+      "rank": 23
+    },
+    {
+      "title": "于北辰210%拦截率登大陆考卷遭狠嘲",
+      "hot_value": 2413152,
+      "link": "https://www.toutiao.com/trending/7655694193901453354",
+      "rank": 24
+    },
+    {
+      "title": "宜宾地震猫被吓得乱窜 家猪全惊醒",
+      "hot_value": 2183510,
+      "link": "https://www.toutiao.com/trending/7656482369515339803",
+      "rank": 25
+    },
+    {
+      "title": "韩国队出局引发意大利球迷全网狂欢",
+      "hot_value": 1975722,
+      "link": "https://www.toutiao.com/trending/7656456943296319018",
+      "rank": 26
+    },
+    {
+      "title": "小S在香港被偶遇",
+      "hot_value": 1787707,
+      "link": "https://www.toutiao.com/trending/7656092063277039654",
+      "rank": 27
+    },
+    {
+      "title": "宜宾地震瞬间母亲飞奔护住熟睡孩子",
+      "hot_value": 1617584,
+      "link": "https://www.toutiao.com/trending/7656568651444813866",
+      "rank": 28
+    },
+    {
+      "title": "美媒：空警-3000服役即成全球最强",
+      "hot_value": 1463650,
+      "link": "https://www.toutiao.com/trending/7655521569959067684",
+      "rank": 29
+    },
+    {
+      "title": "深圳一无人驾驶汽车压实线加塞变道",
+      "hot_value": 1324366,
+      "link": "https://www.toutiao.com/trending/7656441616464445490",
+      "rank": 30
+    },
+    {
+      "title": "普京称考虑全面禁止柴油出口",
+      "hot_value": 1198336,
+      "link": "https://www.toutiao.com/trending/7656498627715547142",
+      "rank": 31
+    },
+    {
+      "title": "专家建议城乡居民养老金增至每月千元",
+      "hot_value": 1084299,
+      "link": "https://www.toutiao.com/trending/7655942653599957028",
+      "rank": 32
+    },
+    {
+      "title": "宜宾5.5级地震 成都震感明显",
+      "hot_value": 981114,
+      "link": "https://www.toutiao.com/trending/7656482271704580115",
+      "rank": 33
+    },
+    {
+      "title": "古力娜扎美出新高度",
+      "hot_value": 887749,
+      "link": "https://www.toutiao.com/trending/7655486270101504054",
+      "rank": 34
+    },
+    {
+      "title": "李连杰否认不管前妻两女儿",
+      "hot_value": 803268,
+      "link": "https://www.toutiao.com/trending/7656317068404850729",
+      "rank": 35
+    },
+    {
+      "title": "高考公平需要延伸到志愿填报这一环",
+      "hot_value": 726827,
+      "link": "https://www.toutiao.com/trending/7656491074919710758",
+      "rank": 36
+    },
+    {
+      "title": "钻石联赛巴黎站韦罗夺女子800米冠军",
+      "hot_value": 657660,
+      "link": "https://www.toutiao.com/trending/7656598880481607689",
+      "rank": 37
+    },
+    {
+      "title": "中央气象台发布强对流天气蓝色预警",
+      "hot_value": 595076,
+      "link": "https://www.toutiao.com/trending/7655660574643060763",
+      "rank": 38
+    },
+    {
+      "title": "王祖蓝现场观看美加墨世界杯",
+      "hot_value": 538447,
+      "link": "https://www.toutiao.com/trending/7656340528673701924",
+      "rank": 39
+    },
+    {
+      "title": "医药股集体爆发",
+      "hot_value": 487207,
+      "link": "https://www.toutiao.com/trending/7656419462107824174",
+      "rank": 40
+    },
+    {
+      "title": "江苏财政厅原一级调研员谢功成被查",
+      "hot_value": 440843,
+      "link": "https://www.toutiao.com/trending/7656627956559200298",
+      "rank": 41
+    },
+    {
+      "title": "媒体人：警惕日本再次成战争加害国",
+      "hot_value": 398891,
+      "link": "https://www.toutiao.com/trending/7656465522232279059",
+      "rank": 42
+    },
+    {
+      "title": "手游300亿数据或被军事化运用",
+      "hot_value": 360931,
+      "link": "https://www.toutiao.com/trending/7656568652254806066",
+      "rank": 43
+    },
+    {
+      "title": "普京说乌方打击无法迫使俄被动谈判",
+      "hot_value": 326584,
+      "link": "https://www.toutiao.com/trending/7656293928844509190",
+      "rank": 44
+    },
+    {
+      "title": "刘烨16岁儿子诺一颜值",
+      "hot_value": 295506,
+      "link": "https://www.toutiao.com/trending/7655603920244588571",
+      "rank": 45
+    },
+    {
+      "title": "女生雨天开车发现雨刮条被掰走",
+      "hot_value": 267384,
+      "link": "https://www.toutiao.com/trending/7656229725236445193",
+      "rank": 46
+    },
+    {
+      "title": "绿化带上演“蛇吞蛙”翻车现场",
+      "hot_value": 241939,
+      "link": "https://www.toutiao.com/trending/7656641369830113289",
+      "rank": 47
+    },
+    {
+      "title": "市民骑哈啰单车79分钟被收费30元",
+      "hot_value": 218916,
+      "link": "https://www.toutiao.com/trending/7656455347053428763",
+      "rank": 48
+    },
+    {
+      "title": "比亚迪市值为何蒸发8000亿",
+      "hot_value": 198083,
+      "link": "https://www.toutiao.com/trending/7656107637293547529",
+      "rank": 49
+    },
+    {
+      "title": "WTT美国大满贯王曼昱首秀告捷",
+      "hot_value": 179233,
+      "link": "https://www.toutiao.com/trending/7656642276789288998",
+      "rank": 50
+    }
+  ]
+}
