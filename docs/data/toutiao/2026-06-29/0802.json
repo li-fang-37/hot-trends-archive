@@ -1,0 +1,307 @@
+{
+  "platform": "toutiao",
+  "platform_name": "今日头条",
+  "time": "2026-06-29 08:02:05",
+  "items": [
+    {
+      "title": "四川宜宾地震瞬间鱼群乱跳",
+      "hot_value": 34804846,
+      "link": "https://www.toutiao.com/trending/7656584232357285402",
+      "rank": 1
+    },
+    {
+      "title": "于北辰210%拦截率登大陆考卷遭狠嘲",
+      "hot_value": 31492727,
+      "link": "https://www.toutiao.com/trending/7655694193901453354",
+      "rank": 2
+    },
+    {
+      "title": "夏粮收购陆续展开 质优价稳购销两旺",
+      "hot_value": 28495798,
+      "link": "https://www.toutiao.com/article/7656255838704747043",
+      "rank": 3
+    },
+    {
+      "title": "加拿大补时绝杀成世界杯首个16强",
+      "hot_value": 25784064,
+      "link": "https://www.toutiao.com/trending/7656553814656503342",
+      "rank": 4
+    },
+    {
+      "title": "宜宾5.5级地震 成都震感明显",
+      "hot_value": 23330386,
+      "link": "https://www.toutiao.com/trending/7656482271704580115",
+      "rank": 5
+    },
+    {
+      "title": "韩媒一片哀嚎：没有奇迹",
+      "hot_value": 21110206,
+      "link": "https://www.toutiao.com/trending/7656255680495783470",
+      "rank": 6
+    },
+    {
+      "title": "比亚迪市值为何蒸发8000亿",
+      "hot_value": 19101304,
+      "link": "https://www.toutiao.com/trending/7656107637293547529",
+      "rank": 7
+    },
+    {
+      "title": "四川宜宾5.5级地震已致13人轻微伤",
+      "hot_value": 17283575,
+      "link": "https://www.toutiao.com/trending/7656590159064075822",
+      "rank": 8
+    },
+    {
+      "title": "韩国队主帅辞职",
+      "hot_value": 15638825,
+      "link": "https://www.toutiao.com/trending/7655569850643009067",
+      "rank": 9
+    },
+    {
+      "title": "莫德里奇创世界杯最年长助攻纪录",
+      "hot_value": 14150594,
+      "link": "https://www.toutiao.com/trending/7656232487638732314",
+      "rank": 10
+    },
+    {
+      "title": "专家辟谣全球进入地震活跃期",
+      "hot_value": 12803987,
+      "link": "https://www.toutiao.com/trending/7655569850642943531",
+      "rank": 11
+    },
+    {
+      "title": "刘烨16岁儿子诺一颜值",
+      "hot_value": 11585527,
+      "link": "https://www.toutiao.com/trending/7655603920244588571",
+      "rank": 12
+    },
+    {
+      "title": "加拿大女球迷玩人浪把手机甩飞",
+      "hot_value": 10483018,
+      "link": "https://www.toutiao.com/trending/7656541141935915058",
+      "rank": 13
+    },
+    {
+      "title": "谢霆锋演唱会变大型呲水现场",
+      "hot_value": 9485427,
+      "link": "https://www.toutiao.com/trending/7656090180583309366",
+      "rank": 14
+    },
+    {
+      "title": "下半年A股怎么走",
+      "hot_value": 8582769,
+      "link": "https://www.toutiao.com/trending/7656099058775490611",
+      "rank": 15
+    },
+    {
+      "title": "男子持刀胁迫技师脱衣事发后翻窗坠亡",
+      "hot_value": 7766011,
+      "link": "https://www.toutiao.com/trending/7655965918875189258",
+      "rank": 16
+    },
+    {
+      "title": "韩国主帅辞职报告5分钟 双手插兜离场",
+      "hot_value": 7026977,
+      "link": "https://www.toutiao.com/trending/7656592498130996745",
+      "rank": 17
+    },
+    {
+      "title": "美伊同意停止互袭",
+      "hot_value": 6358272,
+      "link": "https://www.toutiao.com/trending/7656590703145045555",
+      "rank": 18
+    },
+    {
+      "title": "美国股灾告诉你泡沫如何收割散户",
+      "hot_value": 5753202,
+      "link": "https://www.toutiao.com/trending/7656455001794940458",
+      "rank": 19
+    },
+    {
+      "title": "黄金大跌带崩“黄金爱马仕”老铺黄金",
+      "hot_value": 5205712,
+      "link": "https://www.toutiao.com/trending/7656438161974758922",
+      "rank": 20
+    },
+    {
+      "title": "霍尔木兹海峡冲突再起",
+      "hot_value": 4710323,
+      "link": "https://www.toutiao.com/trending/7656425161645624875",
+      "rank": 21
+    },
+    {
+      "title": "中国避暑神器在欧洲卖爆了",
+      "hot_value": 4262077,
+      "link": "https://www.toutiao.com/trending/7655930412149162035",
+      "rank": 22
+    },
+    {
+      "title": "南非门将单场77次成功传球",
+      "hot_value": 3856486,
+      "link": "https://www.toutiao.com/trending/7656559361040891950",
+      "rank": 23
+    },
+    {
+      "title": "当地回应多辆“百吨王”强行冲卡",
+      "hot_value": 3489493,
+      "link": "https://www.toutiao.com/trending/7656036179684032539",
+      "rank": 24
+    },
+    {
+      "title": "老人上山放羊离奇失踪39天",
+      "hot_value": 3157424,
+      "link": "https://www.toutiao.com/trending/7656407770400800777",
+      "rank": 25
+    },
+    {
+      "title": "中国U17男篮78-87加拿大U17男篮",
+      "hot_value": 2856955,
+      "link": "https://www.toutiao.com/trending/7656113151062736938",
+      "rank": 26
+    },
+    {
+      "title": "19家A股上市公司发布上半年业绩预告",
+      "hot_value": 2585080,
+      "link": "https://www.toutiao.com/trending/7655865447581122601",
+      "rank": 27
+    },
+    {
+      "title": "凯恩何时能拿到国际大赛冠军",
+      "hot_value": 2339077,
+      "link": "https://www.toutiao.com/trending/7656079871039422502",
+      "rank": 28
+    },
+    {
+      "title": "李维嘉回应“人老了做什么都心酸”",
+      "hot_value": 2116484,
+      "link": "https://www.toutiao.com/trending/7655889533296820266",
+      "rank": 29
+    },
+    {
+      "title": "温峥嵘直播回应恶评",
+      "hot_value": 1915074,
+      "link": "https://www.toutiao.com/trending/7655958703790751750",
+      "rank": 30
+    },
+    {
+      "title": "浦玮：阿根廷所在半区对手实力偏弱",
+      "hot_value": 1732831,
+      "link": "https://www.toutiao.com/trending/7655513895162904602",
+      "rank": 31
+    },
+    {
+      "title": "小马被游客无人机惊扰狂奔炸肺死亡",
+      "hot_value": 1567930,
+      "link": "https://www.toutiao.com/trending/7655914721375322153",
+      "rank": 32
+    },
+    {
+      "title": "黄灿灿恭喜自己拿到全季通告费",
+      "hot_value": 1418722,
+      "link": "https://www.toutiao.com/trending/7656363797225422889",
+      "rank": 33
+    },
+    {
+      "title": "韩国队被淘汰痛失11亿韩元巨奖",
+      "hot_value": 1283712,
+      "link": "https://www.toutiao.com/trending/7655491671820025902",
+      "rank": 34
+    },
+    {
+      "title": "陈垣宇晋级WTT美国大满贯男单32强",
+      "hot_value": 1161551,
+      "link": "https://www.toutiao.com/trending/7655849498647822382",
+      "rank": 35
+    },
+    {
+      "title": "户外吃烧烤多人头发变炸毛",
+      "hot_value": 1051015,
+      "link": "https://www.toutiao.com/trending/7655965030395019270",
+      "rank": 36
+    },
+    {
+      "title": "《昨夜将至》为何是悬疑黑马",
+      "hot_value": 950997,
+      "link": "https://www.toutiao.com/trending/7656530215565246515",
+      "rank": 37
+    },
+    {
+      "title": "中央通报3起政绩观偏差问题",
+      "hot_value": 860498,
+      "link": "https://www.toutiao.com/trending/7656402495530339881",
+      "rank": 38
+    },
+    {
+      "title": "河南一考生高考703分",
+      "hot_value": 778611,
+      "link": "https://www.toutiao.com/trending/7655609176413503534",
+      "rank": 39
+    },
+    {
+      "title": "欧洲“炙烤模式”为何来得更早更猛",
+      "hot_value": 704516,
+      "link": "https://www.toutiao.com/trending/7655838920220540982",
+      "rank": 40
+    },
+    {
+      "title": "为什么欧洲人不装空调",
+      "hot_value": 637473,
+      "link": "https://www.toutiao.com/trending/7656328911383085092",
+      "rank": 41
+    },
+    {
+      "title": "加拿大连续三脚射门无一命中",
+      "hot_value": 576809,
+      "link": "https://www.toutiao.com/trending/7656321563231289354",
+      "rank": 42
+    },
+    {
+      "title": "德国人为抢中国空调开始氪金了",
+      "hot_value": 521918,
+      "link": "https://www.toutiao.com/trending/7655699358997872683",
+      "rank": 43
+    },
+    {
+      "title": "老铺黄金把市值赌没了2/3",
+      "hot_value": 472251,
+      "link": "https://www.toutiao.com/trending/7656447231196663347",
+      "rank": 44
+    },
+    {
+      "title": "亚洲离大力神杯还有多远",
+      "hot_value": 427310,
+      "link": "https://www.toutiao.com/trending/7656337581290373174",
+      "rank": 45
+    },
+    {
+      "title": "日本和澳大利亚能代表亚洲足球走多远",
+      "hot_value": 386646,
+      "link": "https://www.toutiao.com/trending/7656321563231272970",
+      "rank": 46
+    },
+    {
+      "title": "罗马诺：李刚仁已与马竞达成协议",
+      "hot_value": 349852,
+      "link": "https://www.toutiao.com/trending/7655208629125152809",
+      "rank": 47
+    },
+    {
+      "title": "林诗栋晋级WTT美国大满贯男单32强",
+      "hot_value": 316559,
+      "link": "https://www.toutiao.com/trending/7656516787634913307",
+      "rank": 48
+    },
+    {
+      "title": "强势美元回归 暴风雨要来了吗",
+      "hot_value": 286435,
+      "link": "https://www.toutiao.com/trending/7656406731290840586",
+      "rank": 49
+    },
+    {
+      "title": "陈丽君演出结束后饭撒",
+      "hot_value": 259177,
+      "link": "https://www.toutiao.com/trending/7655916769039745075",
+      "rank": 50
+    }
+  ]
+}
