@@ -1,0 +1,307 @@
+{
+  "platform": "weibo",
+  "platform_name": "微博热搜",
+  "time": "2026-06-30 21:26:52",
+  "items": [
+    {
+      "title": "恋与深空敖尹取消上线",
+      "hot_value": 24854414,
+      "link": "https://s.weibo.com/weibo?q=%E6%81%8B%E4%B8%8E%E6%B7%B1%E7%A9%BA%E6%95%96%E5%B0%B9%E5%8F%96%E6%B6%88%E4%B8%8A%E7%BA%BF",
+      "rank": 1
+    },
+    {
+      "title": "德国队已原地解散",
+      "hot_value": 2079108,
+      "link": "https://s.weibo.com/weibo?q=%E5%BE%B7%E5%9B%BD%E9%98%9F%E5%B7%B2%E5%8E%9F%E5%9C%B0%E8%A7%A3%E6%95%A3",
+      "rank": 2
+    },
+    {
+      "title": "教育部发布高考招生防诈骗预警",
+      "hot_value": 1889797,
+      "link": "https://s.weibo.com/weibo?q=%E6%95%99%E8%82%B2%E9%83%A8%E5%8F%91%E5%B8%83%E9%AB%98%E8%80%83%E6%8B%9B%E7%94%9F%E9%98%B2%E8%AF%88%E9%AA%97%E9%A2%84%E8%AD%A6",
+      "rank": 3
+    },
+    {
+      "title": "敖尹超话",
+      "hot_value": 1882697,
+      "link": "https://s.weibo.com/weibo?q=%E6%95%96%E5%B0%B9%E8%B6%85%E8%AF%9D",
+      "rank": 4
+    },
+    {
+      "title": "白鹿演蚌精vs虞书欣演蚌精",
+      "hot_value": 1867463,
+      "link": "https://s.weibo.com/weibo?q=%E7%99%BD%E9%B9%BF%E6%BC%94%E8%9A%8C%E7%B2%BEvs%E8%99%9E%E4%B9%A6%E6%AC%A3%E6%BC%94%E8%9A%8C%E7%B2%BE",
+      "rank": 5
+    },
+    {
+      "title": "多囊卵巢综合征正式更名",
+      "hot_value": 1387337,
+      "link": "https://s.weibo.com/weibo?q=%E5%A4%9A%E5%9B%8A%E5%8D%B5%E5%B7%A2%E7%BB%BC%E5%90%88%E5%BE%81%E6%AD%A3%E5%BC%8F%E6%9B%B4%E5%90%8D",
+      "rank": 6
+    },
+    {
+      "title": "退休女子月入7899元登记困难职工",
+      "hot_value": 1057355,
+      "link": "https://s.weibo.com/weibo?q=%E9%80%80%E4%BC%91%E5%A5%B3%E5%AD%90%E6%9C%88%E5%85%A57899%E5%85%83%E7%99%BB%E8%AE%B0%E5%9B%B0%E9%9A%BE%E8%81%8C%E5%B7%A5",
+      "rank": 7
+    },
+    {
+      "title": "沈梦辰哪个是杜海涛哪个是张凌赫",
+      "hot_value": 831531,
+      "link": "https://s.weibo.com/weibo?q=%E6%B2%88%E6%A2%A6%E8%BE%B0%E5%93%AA%E4%B8%AA%E6%98%AF%E6%9D%9C%E6%B5%B7%E6%B6%9B%E5%93%AA%E4%B8%AA%E6%98%AF%E5%BC%A0%E5%87%8C%E8%B5%AB",
+      "rank": 8
+    },
+    {
+      "title": "恋与深空四大调整",
+      "hot_value": 810000,
+      "link": "https://s.weibo.com/weibo?q=%E6%81%8B%E4%B8%8E%E6%B7%B1%E7%A9%BA%E5%9B%9B%E5%A4%A7%E8%B0%83%E6%95%B4",
+      "rank": 9
+    },
+    {
+      "title": "红米K90至尊版价格",
+      "hot_value": 300152,
+      "link": "https://s.weibo.com/weibo?q=%E7%BA%A2%E7%B1%B3K90%E8%87%B3%E5%B0%8A%E7%89%88%E4%BB%B7%E6%A0%BC",
+      "rank": 10
+    },
+    {
+      "title": "恋与深空不再推出新男主",
+      "hot_value": 299833,
+      "link": "https://s.weibo.com/weibo?q=%E6%81%8B%E4%B8%8E%E6%B7%B1%E7%A9%BA%E4%B8%8D%E5%86%8D%E6%8E%A8%E5%87%BA%E6%96%B0%E7%94%B7%E4%B8%BB",
+      "rank": 11
+    },
+    {
+      "title": "陈翔六点半妹爷扮演者去世",
+      "hot_value": 298856,
+      "link": "https://s.weibo.com/weibo?q=%E9%99%88%E7%BF%94%E5%85%AD%E7%82%B9%E5%8D%8A%E5%A6%B9%E7%88%B7%E6%89%AE%E6%BC%94%E8%80%85%E5%8E%BB%E4%B8%96",
+      "rank": 12
+    },
+    {
+      "title": "沈梦辰张凌赫同款文案",
+      "hot_value": 297754,
+      "link": "https://s.weibo.com/weibo?q=%E6%B2%88%E6%A2%A6%E8%BE%B0%E5%BC%A0%E5%87%8C%E8%B5%AB%E5%90%8C%E6%AC%BE%E6%96%87%E6%A1%88",
+      "rank": 13
+    },
+    {
+      "title": "女乘务员悄悄拉走女生换车厢",
+      "hot_value": 297017,
+      "link": "https://s.weibo.com/weibo?q=%E5%A5%B3%E4%B9%98%E5%8A%A1%E5%91%98%E6%82%84%E6%82%84%E6%8B%89%E8%B5%B0%E5%A5%B3%E7%94%9F%E6%8D%A2%E8%BD%A6%E5%8E%A2",
+      "rank": 14
+    },
+    {
+      "title": "A股上半年股王涨超770%",
+      "hot_value": 296792,
+      "link": "https://s.weibo.com/weibo?q=A%E8%82%A1%E4%B8%8A%E5%8D%8A%E5%B9%B4%E8%82%A1%E7%8E%8B%E6%B6%A8%E8%B6%85770%25",
+      "rank": 15
+    },
+    {
+      "title": "极氪OTA",
+      "hot_value": 295495,
+      "link": "https://s.weibo.com/weibo?q=%E6%9E%81%E6%B0%AAOTA",
+      "rank": 16
+    },
+    {
+      "title": "红米发布会现场秒变电竞比赛",
+      "hot_value": 295331,
+      "link": "https://s.weibo.com/weibo?q=%E7%BA%A2%E7%B1%B3%E5%8F%91%E5%B8%83%E4%BC%9A%E7%8E%B0%E5%9C%BA%E7%A7%92%E5%8F%98%E7%94%B5%E7%AB%9E%E6%AF%94%E8%B5%9B",
+      "rank": 17
+    },
+    {
+      "title": "Prada官宣登陆少年组合",
+      "hot_value": 293812,
+      "link": "https://s.weibo.com/weibo?q=Prada%E5%AE%98%E5%AE%A3%E7%99%BB%E9%99%86%E5%B0%91%E5%B9%B4%E7%BB%84%E5%90%88",
+      "rank": 18
+    },
+    {
+      "title": "江苏一工地挖出僧人圆寂坐缸容器",
+      "hot_value": 293077,
+      "link": "https://s.weibo.com/weibo?q=%E6%B1%9F%E8%8B%8F%E4%B8%80%E5%B7%A5%E5%9C%B0%E6%8C%96%E5%87%BA%E5%83%A7%E4%BA%BA%E5%9C%86%E5%AF%82%E5%9D%90%E7%BC%B8%E5%AE%B9%E5%99%A8",
+      "rank": 19
+    },
+    {
+      "title": "夫妻月入两万被登记困难职工引质疑",
+      "hot_value": 292681,
+      "link": "https://s.weibo.com/weibo?q=%E5%A4%AB%E5%A6%BB%E6%9C%88%E5%85%A5%E4%B8%A4%E4%B8%87%E8%A2%AB%E7%99%BB%E8%AE%B0%E5%9B%B0%E9%9A%BE%E8%81%8C%E5%B7%A5%E5%BC%95%E8%B4%A8%E7%96%91",
+      "rank": 20
+    },
+    {
+      "title": "杨紫爸爸回应杨紫改名",
+      "hot_value": 291792,
+      "link": "https://s.weibo.com/weibo?q=%E6%9D%A8%E7%B4%AB%E7%88%B8%E7%88%B8%E5%9B%9E%E5%BA%94%E6%9D%A8%E7%B4%AB%E6%94%B9%E5%90%8D",
+      "rank": 21
+    },
+    {
+      "title": "现在就出发4",
+      "hot_value": 291274,
+      "link": "https://s.weibo.com/weibo?q=%E7%8E%B0%E5%9C%A8%E5%B0%B1%E5%87%BA%E5%8F%914",
+      "rank": 22
+    },
+    {
+      "title": "27岁就这样了很精彩",
+      "hot_value": 289864,
+      "link": "https://s.weibo.com/weibo?q=27%E5%B2%81%E5%B0%B1%E8%BF%99%E6%A0%B7%E4%BA%86%E5%BE%88%E7%B2%BE%E5%BD%A9",
+      "rank": 23
+    },
+    {
+      "title": "野生炸姐被抓呼吁彻查买稿方",
+      "hot_value": 289044,
+      "link": "https://s.weibo.com/weibo?q=%E9%87%8E%E7%94%9F%E7%82%B8%E5%A7%90%E8%A2%AB%E6%8A%93%E5%91%BC%E5%90%81%E5%BD%BB%E6%9F%A5%E4%B9%B0%E7%A8%BF%E6%96%B9",
+      "rank": 24
+    },
+    {
+      "title": "金鹰奖最佳女主角参评名单公布",
+      "hot_value": 288337,
+      "link": "https://s.weibo.com/weibo?q=%E9%87%91%E9%B9%B0%E5%A5%96%E6%9C%80%E4%BD%B3%E5%A5%B3%E4%B8%BB%E8%A7%92%E5%8F%82%E8%AF%84%E5%90%8D%E5%8D%95%E5%85%AC%E5%B8%83",
+      "rank": 25
+    },
+    {
+      "title": "乒乓球收视率远不及世界杯",
+      "hot_value": 288121,
+      "link": "https://s.weibo.com/weibo?q=%E4%B9%92%E4%B9%93%E7%90%83%E6%94%B6%E8%A7%86%E7%8E%87%E8%BF%9C%E4%B8%8D%E5%8F%8A%E4%B8%96%E7%95%8C%E6%9D%AF",
+      "rank": 26
+    },
+    {
+      "title": "张月以为刘亦菲很高冷",
+      "hot_value": 287504,
+      "link": "https://s.weibo.com/weibo?q=%E5%BC%A0%E6%9C%88%E4%BB%A5%E4%B8%BA%E5%88%98%E4%BA%A6%E8%8F%B2%E5%BE%88%E9%AB%98%E5%86%B7",
+      "rank": 27
+    },
+    {
+      "title": "王橹杰忧郁",
+      "hot_value": 279603,
+      "link": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A9%B9%E6%9D%B0%E5%BF%A7%E9%83%81",
+      "rank": 28
+    },
+    {
+      "title": "张家界玻璃桥印度游客堵塞栈道",
+      "hot_value": 268490,
+      "link": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%AE%B6%E7%95%8C%E7%8E%BB%E7%92%83%E6%A1%A5%E5%8D%B0%E5%BA%A6%E6%B8%B8%E5%AE%A2%E5%A0%B5%E5%A1%9E%E6%A0%88%E9%81%93",
+      "rank": 29
+    },
+    {
+      "title": "A股上半年10大牛股",
+      "hot_value": 259903,
+      "link": "https://s.weibo.com/weibo?q=A%E8%82%A1%E4%B8%8A%E5%8D%8A%E5%B9%B410%E5%A4%A7%E7%89%9B%E8%82%A1",
+      "rank": 30
+    },
+    {
+      "title": "一个人好命是什么样子",
+      "hot_value": 252461,
+      "link": "https://s.weibo.com/weibo?q=%E4%B8%80%E4%B8%AA%E4%BA%BA%E5%A5%BD%E5%91%BD%E6%98%AF%E4%BB%80%E4%B9%88%E6%A0%B7%E5%AD%90",
+      "rank": 31
+    },
+    {
+      "title": "杨紫父亲称杨旎奥全国没有重名",
+      "hot_value": 247141,
+      "link": "https://s.weibo.com/weibo?q=%E6%9D%A8%E7%B4%AB%E7%88%B6%E4%BA%B2%E7%A7%B0%E6%9D%A8%E6%97%8E%E5%A5%A5%E5%85%A8%E5%9B%BD%E6%B2%A1%E6%9C%89%E9%87%8D%E5%90%8D",
+      "rank": 32
+    },
+    {
+      "title": "金鹰奖最佳女主角候选",
+      "hot_value": 240884,
+      "link": "https://s.weibo.com/weibo?q=%E9%87%91%E9%B9%B0%E5%A5%96%E6%9C%80%E4%BD%B3%E5%A5%B3%E4%B8%BB%E8%A7%92%E5%80%99%E9%80%89",
+      "rank": 33
+    },
+    {
+      "title": "恋与深空将引狼入室浪漫化不可取",
+      "hot_value": 236815,
+      "link": "https://s.weibo.com/weibo?q=%E6%81%8B%E4%B8%8E%E6%B7%B1%E7%A9%BA%E5%B0%86%E5%BC%95%E7%8B%BC%E5%85%A5%E5%AE%A4%E6%B5%AA%E6%BC%AB%E5%8C%96%E4%B8%8D%E5%8F%AF%E5%8F%96",
+      "rank": 34
+    },
+    {
+      "title": "沈月陈鑫海贺峻霖合照",
+      "hot_value": 235228,
+      "link": "https://s.weibo.com/weibo?q=%E6%B2%88%E6%9C%88%E9%99%88%E9%91%AB%E6%B5%B7%E8%B4%BA%E5%B3%BB%E9%9C%96%E5%90%88%E7%85%A7",
+      "rank": 35
+    },
+    {
+      "title": "Angelababy 我保证她是天使",
+      "hot_value": 231847,
+      "link": "https://s.weibo.com/weibo?q=Angelababy%20%E6%88%91%E4%BF%9D%E8%AF%81%E5%A5%B9%E6%98%AF%E5%A4%A9%E4%BD%BF",
+      "rank": 36
+    },
+    {
+      "title": "日本在外网翻车",
+      "hot_value": 212672,
+      "link": "https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E5%9C%A8%E5%A4%96%E7%BD%91%E7%BF%BB%E8%BD%A6",
+      "rank": 37
+    },
+    {
+      "title": "韩红基金会回应博主称捐赠后无记录",
+      "hot_value": 209596,
+      "link": "https://s.weibo.com/weibo?q=%E9%9F%A9%E7%BA%A2%E5%9F%BA%E9%87%91%E4%BC%9A%E5%9B%9E%E5%BA%94%E5%8D%9A%E4%B8%BB%E7%A7%B0%E6%8D%90%E8%B5%A0%E5%90%8E%E6%97%A0%E8%AE%B0%E5%BD%95",
+      "rank": 38
+    },
+    {
+      "title": "当代人空调观不合现状",
+      "hot_value": 209365,
+      "link": "https://s.weibo.com/weibo?q=%E5%BD%93%E4%BB%A3%E4%BA%BA%E7%A9%BA%E8%B0%83%E8%A7%82%E4%B8%8D%E5%90%88%E7%8E%B0%E7%8A%B6",
+      "rank": 39
+    },
+    {
+      "title": "现在就出发4 接原班人马",
+      "hot_value": 209224,
+      "link": "https://s.weibo.com/weibo?q=%E7%8E%B0%E5%9C%A8%E5%B0%B1%E5%87%BA%E5%8F%914%20%E6%8E%A5%E5%8E%9F%E7%8F%AD%E4%BA%BA%E9%A9%AC",
+      "rank": 40
+    },
+    {
+      "title": "造谣小米汽车销售公司被罚40万",
+      "hot_value": 206016,
+      "link": "https://s.weibo.com/weibo?q=%E9%80%A0%E8%B0%A3%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E9%94%80%E5%94%AE%E5%85%AC%E5%8F%B8%E8%A2%AB%E7%BD%9A40%E4%B8%87",
+      "rank": 41
+    },
+    {
+      "title": "半熟恋人",
+      "hot_value": 205296,
+      "link": "https://s.weibo.com/weibo?q=%E5%8D%8A%E7%86%9F%E6%81%8B%E4%BA%BA",
+      "rank": 42
+    },
+    {
+      "title": "杨博文 学习机",
+      "hot_value": 200891,
+      "link": "https://s.weibo.com/weibo?q=%E6%9D%A8%E5%8D%9A%E6%96%87%20%E5%AD%A6%E4%B9%A0%E6%9C%BA",
+      "rank": 43
+    },
+    {
+      "title": "男生4年练一个字体高考英语147分",
+      "hot_value": 178365,
+      "link": "https://s.weibo.com/weibo?q=%E7%94%B7%E7%94%9F4%E5%B9%B4%E7%BB%83%E4%B8%80%E4%B8%AA%E5%AD%97%E4%BD%93%E9%AB%98%E8%80%83%E8%8B%B1%E8%AF%AD147%E5%88%86",
+      "rank": 44
+    },
+    {
+      "title": "马宁回应给C罗黄牌",
+      "hot_value": 178248,
+      "link": "https://s.weibo.com/weibo?q=%E9%A9%AC%E5%AE%81%E5%9B%9E%E5%BA%94%E7%BB%99C%E7%BD%97%E9%BB%84%E7%89%8C",
+      "rank": 45
+    },
+    {
+      "title": "女子吐槽网购4元耳环商场卖128元",
+      "hot_value": 177905,
+      "link": "https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%90%E5%90%90%E6%A7%BD%E7%BD%91%E8%B4%AD4%E5%85%83%E8%80%B3%E7%8E%AF%E5%95%86%E5%9C%BA%E5%8D%96128%E5%85%83",
+      "rank": 46
+    },
+    {
+      "title": "格力称好空调不是PPT包装出来的",
+      "hot_value": 177631,
+      "link": "https://s.weibo.com/weibo?q=%E6%A0%BC%E5%8A%9B%E7%A7%B0%E5%A5%BD%E7%A9%BA%E8%B0%83%E4%B8%8D%E6%98%AFPPT%E5%8C%85%E8%A3%85%E5%87%BA%E6%9D%A5%E7%9A%84",
+      "rank": 47
+    },
+    {
+      "title": "优必选超仿生机器人",
+      "hot_value": 177421,
+      "link": "https://s.weibo.com/weibo?q=%E4%BC%98%E5%BF%85%E9%80%89%E8%B6%85%E4%BB%BF%E7%94%9F%E6%9C%BA%E5%99%A8%E4%BA%BA",
+      "rank": 48
+    },
+    {
+      "title": "海信空调法国暴涨100%",
+      "hot_value": 177258,
+      "link": "https://s.weibo.com/weibo?q=%E6%B5%B7%E4%BF%A1%E7%A9%BA%E8%B0%83%E6%B3%95%E5%9B%BD%E6%9A%B4%E6%B6%A8100%25",
+      "rank": 49
+    },
+    {
+      "title": "丁禹兮来接你回家了海侠",
+      "hot_value": 176815,
+      "link": "https://s.weibo.com/weibo?q=%E4%B8%81%E7%A6%B9%E5%85%AE%E6%9D%A5%E6%8E%A5%E4%BD%A0%E5%9B%9E%E5%AE%B6%E4%BA%86%E6%B5%B7%E4%BE%A0",
+      "rank": 50
+    }
+  ]
+}
