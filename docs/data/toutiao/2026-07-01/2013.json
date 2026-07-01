@@ -1,0 +1,307 @@
+{
+  "platform": "toutiao",
+  "platform_name": "今日头条",
+  "time": "2026-07-01 20:13:00",
+  "items": [
+    {
+      "title": "比亚迪6月新能源汽车销量403472辆",
+      "hot_value": 18800586,
+      "link": "https://www.toutiao.com/trending/7656692993961820214",
+      "rank": 1
+    },
+    {
+      "title": "外交部回应巴拉圭外长涉台言论",
+      "hot_value": 17011473,
+      "link": "https://www.toutiao.com/trending/7657106728366866495",
+      "rank": 2
+    },
+    {
+      "title": "实现愿景的非凡能力",
+      "hot_value": 15392618,
+      "link": "https://www.toutiao.com/trending/7657528787420302898",
+      "rank": 3
+    },
+    {
+      "title": "AI进入下半场：模型不再稀缺",
+      "hot_value": 13927816,
+      "link": "https://www.toutiao.com/trending/7657493112633167403",
+      "rank": 4
+    },
+    {
+      "title": "699分女生分享学习经验",
+      "hot_value": 12602409,
+      "link": "https://www.toutiao.com/trending/7656743469188907051",
+      "rank": 5
+    },
+    {
+      "title": "哈兰德每天要补充6000卡路里热量",
+      "hot_value": 11403131,
+      "link": "https://www.toutiao.com/trending/7657408644329492006",
+      "rank": 6
+    },
+    {
+      "title": "我国即将启动“双火炉”",
+      "hot_value": 10317980,
+      "link": "https://www.toutiao.com/trending/7657205620445023782",
+      "rank": 7
+    },
+    {
+      "title": "中国军舰在日本周边海域“刷屏出现”",
+      "hot_value": 9336094,
+      "link": "https://www.toutiao.com/trending/7657385985998684179",
+      "rank": 8
+    },
+    {
+      "title": "我国多项水运指标稳居世界第一",
+      "hot_value": 8447647,
+      "link": "https://www.toutiao.com/trending/7656779779732668470",
+      "rank": 9
+    },
+    {
+      "title": "哈兰德女友社媒感谢中国球迷",
+      "hot_value": 7643747,
+      "link": "https://www.toutiao.com/trending/7657378952978694185",
+      "rank": 10
+    },
+    {
+      "title": "“中考作文阅卷30秒快速打分”不实",
+      "hot_value": 6916349,
+      "link": "https://www.toutiao.com/trending/7657059495683558966",
+      "rank": 11
+    },
+    {
+      "title": "特斯拉撞护栏起火 理想车主救出司机",
+      "hot_value": 6258171,
+      "link": "https://www.toutiao.com/trending/7657459579064221746",
+      "rank": 12
+    },
+    {
+      "title": "媒体：今年世界杯射手榜太有意思了",
+      "hot_value": 5662627,
+      "link": "https://www.toutiao.com/trending/7657483123269337097",
+      "rank": 13
+    },
+    {
+      "title": "香港护旗方队三段式劈枪场面震撼",
+      "hot_value": 5123757,
+      "link": "https://www.toutiao.com/trending/7657048618599645238",
+      "rank": 14
+    },
+    {
+      "title": "今年我国首个台风来了",
+      "hot_value": 4636167,
+      "link": "https://www.toutiao.com/trending/7656964857711214655",
+      "rank": 15
+    },
+    {
+      "title": "董明珠喊话股东：不用格力凭什么分红",
+      "hot_value": 4194977,
+      "link": "https://www.toutiao.com/trending/7656410510829682694",
+      "rank": 16
+    },
+    {
+      "title": "名记：斯玛特2年1300万签约火箭",
+      "hot_value": 3795772,
+      "link": "https://www.toutiao.com/trending/7657522007210200618",
+      "rank": 17
+    },
+    {
+      "title": "乌鲁木齐20万株野生大麻被铲除",
+      "hot_value": 3434557,
+      "link": "https://www.toutiao.com/trending/7656794255622684678",
+      "rank": 18
+    },
+    {
+      "title": "富春江第一网江鲜鲜到掉眉毛",
+      "hot_value": 3107716,
+      "link": "https://www.toutiao.com/trending/7657462298038534186",
+      "rank": 19
+    },
+    {
+      "title": "乘客称乘坐G2056遇多次停车最后换车",
+      "hot_value": 2811977,
+      "link": "https://www.toutiao.com/trending/7657465232973824063",
+      "rank": 20
+    },
+    {
+      "title": "E组也团灭了",
+      "hot_value": 2544382,
+      "link": "https://www.toutiao.com/trending/7657412286440640051",
+      "rank": 21
+    },
+    {
+      "title": "一台空调为何让欧洲陷入精神分裂",
+      "hot_value": 2302252,
+      "link": "https://www.toutiao.com/trending/7657129669191273990",
+      "rank": 22
+    },
+    {
+      "title": "女子疑因进站问题与车站人员起冲突",
+      "hot_value": 2083164,
+      "link": "https://www.toutiao.com/trending/7657465232973905983",
+      "rank": 23
+    },
+    {
+      "title": "李在明邀文在寅来青瓦台吃拌饭",
+      "hot_value": 1884925,
+      "link": "https://www.toutiao.com/trending/7656997494320463914",
+      "rank": 24
+    },
+    {
+      "title": "男子邀女子到家吃饭强抱对方被行拘",
+      "hot_value": 1705550,
+      "link": "https://www.toutiao.com/trending/7657442821708742692",
+      "rank": 25
+    },
+    {
+      "title": "卢卡申科出席儿子在北大的毕业礼",
+      "hot_value": 1543246,
+      "link": "https://www.toutiao.com/trending/7657182087606423086",
+      "rank": 26
+    },
+    {
+      "title": "造谣小米汽车的销售公司被罚40万",
+      "hot_value": 1396386,
+      "link": "https://www.toutiao.com/trending/7657135886391410742",
+      "rank": 27
+    },
+    {
+      "title": "《陈翔六点半》球球发文悼念妹爷",
+      "hot_value": 1263503,
+      "link": "https://www.toutiao.com/trending/7657129958518669350",
+      "rank": 28
+    },
+    {
+      "title": "外国军官延安偶遇中国老兵争相敬礼",
+      "hot_value": 1143264,
+      "link": "https://www.toutiao.com/trending/7657369508306386963",
+      "rank": 29
+    },
+    {
+      "title": "马拉多纳2018年神预言美加墨世界杯",
+      "hot_value": 1034468,
+      "link": "https://www.toutiao.com/trending/7657167684032036890",
+      "rank": 30
+    },
+    {
+      "title": "台舰所谓“驱离大陆海警”是摆拍",
+      "hot_value": 936026,
+      "link": "https://www.toutiao.com/trending/7656688343178625087",
+      "rank": 31
+    },
+    {
+      "title": "泽连斯基称对俄再次实施远程打击",
+      "hot_value": 846951,
+      "link": "https://www.toutiao.com/trending/7656731702163095579",
+      "rank": 32
+    },
+    {
+      "title": "美出生公民权战火从白宫烧到国会",
+      "hot_value": 766353,
+      "link": "https://www.toutiao.com/trending/7657462323006672427",
+      "rank": 33
+    },
+    {
+      "title": "新加坡家庭在潮汕的“三场重逢”",
+      "hot_value": 693425,
+      "link": "https://www.toutiao.com/trending/7656911180123881482",
+      "rank": 34
+    },
+    {
+      "title": "老兵击落U-2后把一等功藏了40多年",
+      "hot_value": 627437,
+      "link": "https://www.toutiao.com/trending/7657397684520878116",
+      "rank": 35
+    },
+    {
+      "title": "博主：一场热浪把欧洲打回原形",
+      "hot_value": 567728,
+      "link": "https://www.toutiao.com/trending/7657466850392935982",
+      "rank": 36
+    },
+    {
+      "title": "二手豪华燃油车价格大跳水",
+      "hot_value": 513702,
+      "link": "https://www.toutiao.com/trending/7657446493908897321",
+      "rank": 37
+    },
+    {
+      "title": "中方回应“日本公民大连被拘案进展”",
+      "hot_value": 464816,
+      "link": "https://www.toutiao.com/trending/7656413385873047579",
+      "rank": 38
+    },
+    {
+      "title": "华为余承东称将冲击第二个百万目标",
+      "hot_value": 420583,
+      "link": "https://www.toutiao.com/trending/7656626381799034411",
+      "rank": 39
+    },
+    {
+      "title": "全球资金为何从黄金转向AI",
+      "hot_value": 380559,
+      "link": "https://www.toutiao.com/trending/7657483804688256548",
+      "rank": 40
+    },
+    {
+      "title": "外交部三问日本为政者",
+      "hot_value": 344344,
+      "link": "https://www.toutiao.com/trending/7656954815188222015",
+      "rank": 41
+    },
+    {
+      "title": "无人机时代的两栖作战新逻辑",
+      "hot_value": 311576,
+      "link": "https://www.toutiao.com/trending/7657499951018020378",
+      "rank": 42
+    },
+    {
+      "title": "世界杯夺冠概率：法国暴涨至30%",
+      "hot_value": 281925,
+      "link": "https://www.toutiao.com/trending/7656518719920980010",
+      "rank": 43
+    },
+    {
+      "title": "C罗和莫德里奇将最后一次世界杯交手",
+      "hot_value": 255096,
+      "link": "https://www.toutiao.com/trending/7657478531814788671",
+      "rank": 44
+    },
+    {
+      "title": "英格兰队苦练罚点球",
+      "hot_value": 230821,
+      "link": "https://www.toutiao.com/trending/7657054302359420934",
+      "rank": 45
+    },
+    {
+      "title": "机器人伴侣订单破1.1万台意味什么",
+      "hot_value": 208855,
+      "link": "https://www.toutiao.com/trending/7657443799446081060",
+      "rank": 46
+    },
+    {
+      "title": "8人获“七一勋章” 名单公布",
+      "hot_value": 188980,
+      "link": "https://www.toutiao.com/trending/7657376009712307763",
+      "rank": 47
+    },
+    {
+      "title": "世界杯淘汰赛3场对决看点拉满",
+      "hot_value": 170996,
+      "link": "https://www.toutiao.com/trending/7657196718351564843",
+      "rank": 48
+    },
+    {
+      "title": "爷爷离世相伴13年的狗狗垂泪相守",
+      "hot_value": 154724,
+      "link": "https://www.toutiao.com/trending/7656777952897679401",
+      "rank": 49
+    },
+    {
+      "title": "解放军代表整齐划一离开人民大会堂",
+      "hot_value": 103714,
+      "link": "https://www.toutiao.com/trending/7657175231565053993",
+      "rank": 50
+    }
+  ]
+}
