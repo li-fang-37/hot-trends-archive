@@ -1,0 +1,307 @@
+{
+  "platform": "weibo",
+  "platform_name": "微博热搜",
+  "time": "2026-07-02 15:50:39",
+  "items": [
+    {
+      "title": "官方通报西安赛格商场一男子坠楼",
+      "hot_value": 3198542,
+      "link": "https://s.weibo.com/weibo?q=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E8%A5%BF%E5%AE%89%E8%B5%9B%E6%A0%BC%E5%95%86%E5%9C%BA%E4%B8%80%E7%94%B7%E5%AD%90%E5%9D%A0%E6%A5%BC",
+      "rank": 1
+    },
+    {
+      "title": "半导体",
+      "hot_value": 1613431,
+      "link": "https://s.weibo.com/weibo?q=%E5%8D%8A%E5%AF%BC%E4%BD%93",
+      "rank": 2
+    },
+    {
+      "title": "最好的致敬是接续奋斗",
+      "hot_value": 1084591,
+      "link": "https://s.weibo.com/weibo?q=%E6%9C%80%E5%A5%BD%E7%9A%84%E8%87%B4%E6%95%AC%E6%98%AF%E6%8E%A5%E7%BB%AD%E5%A5%8B%E6%96%97",
+      "rank": 3
+    },
+    {
+      "title": "西安赛格商场家人也跳楼系谣言",
+      "hot_value": 926295,
+      "link": "https://s.weibo.com/weibo?q=%E8%A5%BF%E5%AE%89%E8%B5%9B%E6%A0%BC%E5%95%86%E5%9C%BA%E5%AE%B6%E4%BA%BA%E4%B9%9F%E8%B7%B3%E6%A5%BC%E7%B3%BB%E8%B0%A3%E8%A8%80",
+      "rank": 4
+    },
+    {
+      "title": "脱下长衫才发现打工有多爽",
+      "hot_value": 918163,
+      "link": "https://s.weibo.com/weibo?q=%E8%84%B1%E4%B8%8B%E9%95%BF%E8%A1%AB%E6%89%8D%E5%8F%91%E7%8E%B0%E6%89%93%E5%B7%A5%E6%9C%89%E5%A4%9A%E7%88%BD",
+      "rank": 5
+    },
+    {
+      "title": "月入过万年薪也才12万",
+      "hot_value": 805338,
+      "link": "https://s.weibo.com/weibo?q=%E6%9C%88%E5%85%A5%E8%BF%87%E4%B8%87%E5%B9%B4%E8%96%AA%E4%B9%9F%E6%89%8D12%E4%B8%87",
+      "rank": 6
+    },
+    {
+      "title": "身份证里有八根半永久头发",
+      "hot_value": 793592,
+      "link": "https://s.weibo.com/weibo?q=%E8%BA%AB%E4%BB%BD%E8%AF%81%E9%87%8C%E6%9C%89%E5%85%AB%E6%A0%B9%E5%8D%8A%E6%B0%B8%E4%B9%85%E5%A4%B4%E5%8F%91",
+      "rank": 7
+    },
+    {
+      "title": "王俊凯你有这样的身材进入内娱",
+      "hot_value": 496572,
+      "link": "https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%E4%BD%A0%E6%9C%89%E8%BF%99%E6%A0%B7%E7%9A%84%E8%BA%AB%E6%9D%90%E8%BF%9B%E5%85%A5%E5%86%85%E5%A8%B1",
+      "rank": 8
+    },
+    {
+      "title": "Tim和中国boy疑似打架",
+      "hot_value": 428667,
+      "link": "https://s.weibo.com/weibo?q=Tim%E5%92%8C%E4%B8%AD%E5%9B%BDboy%E7%96%91%E4%BC%BC%E6%89%93%E6%9E%B6",
+      "rank": 9
+    },
+    {
+      "title": "歌手第七期歌单",
+      "hot_value": 424745,
+      "link": "https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B%E7%AC%AC%E4%B8%83%E6%9C%9F%E6%AD%8C%E5%8D%95",
+      "rank": 10
+    },
+    {
+      "title": "王楚然被烟人逼没招了",
+      "hot_value": 420758,
+      "link": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E7%84%B6%E8%A2%AB%E7%83%9F%E4%BA%BA%E9%80%BC%E6%B2%A1%E6%8B%9B%E4%BA%86",
+      "rank": 11
+    },
+    {
+      "title": "LV起诉茉莉奶白判赔1030万",
+      "hot_value": 416510,
+      "link": "https://s.weibo.com/weibo?q=LV%E8%B5%B7%E8%AF%89%E8%8C%89%E8%8E%89%E5%A5%B6%E7%99%BD%E5%88%A4%E8%B5%941030%E4%B8%87",
+      "rank": 12
+    },
+    {
+      "title": "50元竞猜世界杯中182万",
+      "hot_value": 415501,
+      "link": "https://s.weibo.com/weibo?q=50%E5%85%83%E7%AB%9E%E7%8C%9C%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%AD182%E4%B8%87",
+      "rank": 13
+    },
+    {
+      "title": "香港演员梁珊离世",
+      "hot_value": 408590,
+      "link": "https://s.weibo.com/weibo?q=%E9%A6%99%E6%B8%AF%E6%BC%94%E5%91%98%E6%A2%81%E7%8F%8A%E7%A6%BB%E4%B8%96",
+      "rank": 14
+    },
+    {
+      "title": "宋妍霏本名",
+      "hot_value": 404870,
+      "link": "https://s.weibo.com/weibo?q=%E5%AE%8B%E5%A6%8D%E9%9C%8F%E6%9C%AC%E5%90%8D",
+      "rank": 15
+    },
+    {
+      "title": "一代人有一代人的僵尸肉",
+      "hot_value": 400182,
+      "link": "https://s.weibo.com/weibo?q=%E4%B8%80%E4%BB%A3%E4%BA%BA%E6%9C%89%E4%B8%80%E4%BB%A3%E4%BA%BA%E7%9A%84%E5%83%B5%E5%B0%B8%E8%82%89",
+      "rank": 16
+    },
+    {
+      "title": "乌兰图雅把万千惠设成封面了",
+      "hot_value": 398812,
+      "link": "https://s.weibo.com/weibo?q=%E4%B9%8C%E5%85%B0%E5%9B%BE%E9%9B%85%E6%8A%8A%E4%B8%87%E5%8D%83%E6%83%A0%E8%AE%BE%E6%88%90%E5%B0%81%E9%9D%A2%E4%BA%86",
+      "rank": 17
+    },
+    {
+      "title": "葡萄牙主帅谈C罗是否替补",
+      "hot_value": 395302,
+      "link": "https://s.weibo.com/weibo?q=%E8%91%A1%E8%90%84%E7%89%99%E4%B8%BB%E5%B8%85%E8%B0%88C%E7%BD%97%E6%98%AF%E5%90%A6%E6%9B%BF%E8%A1%A5",
+      "rank": 18
+    },
+    {
+      "title": "浮生",
+      "hot_value": 390636,
+      "link": "https://s.weibo.com/weibo?q=%E6%B5%AE%E7%94%9F",
+      "rank": 19
+    },
+    {
+      "title": "存储芯片涨价",
+      "hot_value": 386732,
+      "link": "https://s.weibo.com/weibo?q=%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87%E6%B6%A8%E4%BB%B7",
+      "rank": 20
+    },
+    {
+      "title": "豆包专业版的隐藏用法",
+      "hot_value": 382974,
+      "link": "https://s.weibo.com/weibo?q=%E8%B1%86%E5%8C%85%E4%B8%93%E4%B8%9A%E7%89%88%E7%9A%84%E9%9A%90%E8%97%8F%E7%94%A8%E6%B3%95",
+      "rank": 21
+    },
+    {
+      "title": "独居女子去世半年骨灰还在殡仪馆",
+      "hot_value": 377888,
+      "link": "https://s.weibo.com/weibo?q=%E7%8B%AC%E5%B1%85%E5%A5%B3%E5%AD%90%E5%8E%BB%E4%B8%96%E5%8D%8A%E5%B9%B4%E9%AA%A8%E7%81%B0%E8%BF%98%E5%9C%A8%E6%AE%A1%E4%BB%AA%E9%A6%86",
+      "rank": 22
+    },
+    {
+      "title": "老人手动关400斤电动门被砸进ICU",
+      "hot_value": 374301,
+      "link": "https://s.weibo.com/weibo?q=%E8%80%81%E4%BA%BA%E6%89%8B%E5%8A%A8%E5%85%B3400%E6%96%A4%E7%94%B5%E5%8A%A8%E9%97%A8%E8%A2%AB%E7%A0%B8%E8%BF%9BICU",
+      "rank": 23
+    },
+    {
+      "title": "不要喝小孩喝过的水",
+      "hot_value": 371570,
+      "link": "https://s.weibo.com/weibo?q=%E4%B8%8D%E8%A6%81%E5%96%9D%E5%B0%8F%E5%AD%A9%E5%96%9D%E8%BF%87%E7%9A%84%E6%B0%B4",
+      "rank": 24
+    },
+    {
+      "title": "AI演员已经能演出情绪变化了",
+      "hot_value": 367589,
+      "link": "https://s.weibo.com/weibo?q=AI%E6%BC%94%E5%91%98%E5%B7%B2%E7%BB%8F%E8%83%BD%E6%BC%94%E5%87%BA%E6%83%85%E7%BB%AA%E5%8F%98%E5%8C%96%E4%BA%86",
+      "rank": 25
+    },
+    {
+      "title": "王玉雯团队的取舍",
+      "hot_value": 314930,
+      "link": "https://s.weibo.com/weibo?q=%E7%8E%8B%E7%8E%89%E9%9B%AF%E5%9B%A2%E9%98%9F%E7%9A%84%E5%8F%96%E8%88%8D",
+      "rank": 26
+    },
+    {
+      "title": "崔瑞军涉留神峪煤矿事故被查",
+      "hot_value": 302834,
+      "link": "https://s.weibo.com/weibo?q=%E5%B4%94%E7%91%9E%E5%86%9B%E6%B6%89%E7%95%99%E7%A5%9E%E5%B3%AA%E7%85%A4%E7%9F%BF%E4%BA%8B%E6%95%85%E8%A2%AB%E6%9F%A5",
+      "rank": 27
+    },
+    {
+      "title": "存储一哥暴跌",
+      "hot_value": 291486,
+      "link": "https://s.weibo.com/weibo?q=%E5%AD%98%E5%82%A8%E4%B8%80%E5%93%A5%E6%9A%B4%E8%B7%8C",
+      "rank": 28
+    },
+    {
+      "title": "金莎回应被催生",
+      "hot_value": 291436,
+      "link": "https://s.weibo.com/weibo?q=%E9%87%91%E8%8E%8E%E5%9B%9E%E5%BA%94%E8%A2%AB%E5%82%AC%E7%94%9F",
+      "rank": 29
+    },
+    {
+      "title": "杨紫白玉兰正向大爆发",
+      "hot_value": 291431,
+      "link": "https://s.weibo.com/weibo?q=%E6%9D%A8%E7%B4%AB%E7%99%BD%E7%8E%89%E5%85%B0%E6%AD%A3%E5%90%91%E5%A4%A7%E7%88%86%E5%8F%91",
+      "rank": 30
+    },
+    {
+      "title": "别在外卖备注上抖机灵了",
+      "hot_value": 291431,
+      "link": "https://s.weibo.com/weibo?q=%E5%88%AB%E5%9C%A8%E5%A4%96%E5%8D%96%E5%A4%87%E6%B3%A8%E4%B8%8A%E6%8A%96%E6%9C%BA%E7%81%B5%E4%BA%86",
+      "rank": 31
+    },
+    {
+      "title": "猫眼美甲已经到这种程度了吗",
+      "hot_value": 291430,
+      "link": "https://s.weibo.com/weibo?q=%E7%8C%AB%E7%9C%BC%E7%BE%8E%E7%94%B2%E5%B7%B2%E7%BB%8F%E5%88%B0%E8%BF%99%E7%A7%8D%E7%A8%8B%E5%BA%A6%E4%BA%86%E5%90%97",
+      "rank": 32
+    },
+    {
+      "title": "一岁半女童遭两名男童骑车撞倒碾轧",
+      "hot_value": 288010,
+      "link": "https://s.weibo.com/weibo?q=%E4%B8%80%E5%B2%81%E5%8D%8A%E5%A5%B3%E7%AB%A5%E9%81%AD%E4%B8%A4%E5%90%8D%E7%94%B7%E7%AB%A5%E9%AA%91%E8%BD%A6%E6%92%9E%E5%80%92%E7%A2%BE%E8%BD%A7",
+      "rank": 33
+    },
+    {
+      "title": "尹锡悦妨害逮捕案将宣判",
+      "hot_value": 277706,
+      "link": "https://s.weibo.com/weibo?q=%E5%B0%B9%E9%94%A1%E6%82%A6%E5%A6%A8%E5%AE%B3%E9%80%AE%E6%8D%95%E6%A1%88%E5%B0%86%E5%AE%A3%E5%88%A4",
+      "rank": 34
+    },
+    {
+      "title": "于正已经报警",
+      "hot_value": 273119,
+      "link": "https://s.weibo.com/weibo?q=%E4%BA%8E%E6%AD%A3%E5%B7%B2%E7%BB%8F%E6%8A%A5%E8%AD%A6",
+      "rank": 35
+    },
+    {
+      "title": "王一博人鱼全新梗概",
+      "hot_value": 246781,
+      "link": "https://s.weibo.com/weibo?q=%E7%8E%8B%E4%B8%80%E5%8D%9A%E4%BA%BA%E9%B1%BC%E5%85%A8%E6%96%B0%E6%A2%97%E6%A6%82",
+      "rank": 36
+    },
+    {
+      "title": "霸王茶姬0元购",
+      "hot_value": 246417,
+      "link": "https://s.weibo.com/weibo?q=%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC0%E5%85%83%E8%B4%AD",
+      "rank": 37
+    },
+    {
+      "title": "陈小春Jasper共用一张脸",
+      "hot_value": 246325,
+      "link": "https://s.weibo.com/weibo?q=%E9%99%88%E5%B0%8F%E6%98%A5Jasper%E5%85%B1%E7%94%A8%E4%B8%80%E5%BC%A0%E8%84%B8",
+      "rank": 38
+    },
+    {
+      "title": "小酒窝穿董璇衣服",
+      "hot_value": 245406,
+      "link": "https://s.weibo.com/weibo?q=%E5%B0%8F%E9%85%92%E7%AA%9D%E7%A9%BF%E8%91%A3%E7%92%87%E8%A1%A3%E6%9C%8D",
+      "rank": 39
+    },
+    {
+      "title": "家长举报老师群内公开成绩转嫁压力",
+      "hot_value": 245124,
+      "link": "https://s.weibo.com/weibo?q=%E5%AE%B6%E9%95%BF%E4%B8%BE%E6%8A%A5%E8%80%81%E5%B8%88%E7%BE%A4%E5%86%85%E5%85%AC%E5%BC%80%E6%88%90%E7%BB%A9%E8%BD%AC%E5%AB%81%E5%8E%8B%E5%8A%9B",
+      "rank": 40
+    },
+    {
+      "title": "陈都灵理工女拍照姿势",
+      "hot_value": 243958,
+      "link": "https://s.weibo.com/weibo?q=%E9%99%88%E9%83%BD%E7%81%B5%E7%90%86%E5%B7%A5%E5%A5%B3%E6%8B%8D%E7%85%A7%E5%A7%BF%E5%8A%BF",
+      "rank": 41
+    },
+    {
+      "title": "佛得角总统称能1比0淘汰阿根廷队",
+      "hot_value": 242440,
+      "link": "https://s.weibo.com/weibo?q=%E4%BD%9B%E5%BE%97%E8%A7%92%E6%80%BB%E7%BB%9F%E7%A7%B0%E8%83%BD1%E6%AF%940%E6%B7%98%E6%B1%B0%E9%98%BF%E6%A0%B9%E5%BB%B7%E9%98%9F",
+      "rank": 42
+    },
+    {
+      "title": "荒野求生能不能给领导报名",
+      "hot_value": 241422,
+      "link": "https://s.weibo.com/weibo?q=%E8%8D%92%E9%87%8E%E6%B1%82%E7%94%9F%E8%83%BD%E4%B8%8D%E8%83%BD%E7%BB%99%E9%A2%86%E5%AF%BC%E6%8A%A5%E5%90%8D",
+      "rank": 43
+    },
+    {
+      "title": "SK海力士市值蒸发10000亿元",
+      "hot_value": 239763,
+      "link": "https://s.weibo.com/weibo?q=SK%E6%B5%B7%E5%8A%9B%E5%A3%AB%E5%B8%82%E5%80%BC%E8%92%B8%E5%8F%9110000%E4%BA%BF%E5%85%83",
+      "rank": 44
+    },
+    {
+      "title": "张元英坐大摆锤都不崩图",
+      "hot_value": 239570,
+      "link": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%85%83%E8%8B%B1%E5%9D%90%E5%A4%A7%E6%91%86%E9%94%A4%E9%83%BD%E4%B8%8D%E5%B4%A9%E5%9B%BE",
+      "rank": 45
+    },
+    {
+      "title": "3313存钱法让打工人不再月光",
+      "hot_value": 218452,
+      "link": "https://s.weibo.com/weibo?q=3313%E5%AD%98%E9%92%B1%E6%B3%95%E8%AE%A9%E6%89%93%E5%B7%A5%E4%BA%BA%E4%B8%8D%E5%86%8D%E6%9C%88%E5%85%89",
+      "rank": 46
+    },
+    {
+      "title": "王俊凯露腰了",
+      "hot_value": 214826,
+      "link": "https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%E9%9C%B2%E8%85%B0%E4%BA%86",
+      "rank": 47
+    },
+    {
+      "title": "瑶一瑶妈妈回应被指整容",
+      "hot_value": 214794,
+      "link": "https://s.weibo.com/weibo?q=%E7%91%B6%E4%B8%80%E7%91%B6%E5%A6%88%E5%A6%88%E5%9B%9E%E5%BA%94%E8%A2%AB%E6%8C%87%E6%95%B4%E5%AE%B9",
+      "rank": 48
+    },
+    {
+      "title": "北大毕业典礼最打动我的一句话",
+      "hot_value": 195181,
+      "link": "https://s.weibo.com/weibo?q=%E5%8C%97%E5%A4%A7%E6%AF%95%E4%B8%9A%E5%85%B8%E7%A4%BC%E6%9C%80%E6%89%93%E5%8A%A8%E6%88%91%E7%9A%84%E4%B8%80%E5%8F%A5%E8%AF%9D",
+      "rank": 49
+    },
+    {
+      "title": "王玉雯的格局",
+      "hot_value": 186025,
+      "link": "https://s.weibo.com/weibo?q=%E7%8E%8B%E7%8E%89%E9%9B%AF%E7%9A%84%E6%A0%BC%E5%B1%80",
+      "rank": 50
+    }
+  ]
+}
