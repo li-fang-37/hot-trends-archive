@@ -1,0 +1,307 @@
+{
+  "platform": "toutiao",
+  "platform_name": "今日头条",
+  "time": "2026-07-04 04:35:44",
+  "items": [
+    {
+      "title": "中国男篮世预赛主场惨败日本",
+      "hot_value": 22443814,
+      "link": "https://www.toutiao.com/trending/7657861832220229651",
+      "rank": 1
+    },
+    {
+      "title": "中国空调在欧洲卖爆 格力慢了一拍",
+      "hot_value": 20308003,
+      "link": "https://www.toutiao.com/trending/7658252585362525732",
+      "rank": 2
+    },
+    {
+      "title": "未来我国循环经济发展重点",
+      "hot_value": 18375441,
+      "link": "https://www.toutiao.com/trending/7658187084221464617",
+      "rank": 3
+    },
+    {
+      "title": "试验列车撞人致11死 调查报告公布",
+      "hot_value": 16626786,
+      "link": "https://www.toutiao.com/trending/7658235304504164379",
+      "rank": 4
+    },
+    {
+      "title": "教育部：坚决杜绝用手机布置作业",
+      "hot_value": 15044538,
+      "link": "https://www.toutiao.com/trending/7658188046671773723",
+      "rank": 5
+    },
+    {
+      "title": "本届世界杯乌龙球创历史新高",
+      "hot_value": 13612861,
+      "link": "https://www.toutiao.com/trending/7658382726013763638",
+      "rank": 6
+    },
+    {
+      "title": "中国造的“老头乐”在美国杀疯了",
+      "hot_value": 12317426,
+      "link": "https://www.toutiao.com/trending/7658075005603348522",
+      "rank": 7
+    },
+    {
+      "title": "澳大利亚vs埃及",
+      "hot_value": 11145268,
+      "link": "https://lf-tt-sourcecdn-tos.bytegecko.com/obj/byte-gurd-source/toutiao/amos/lynx/amos_live_page/main/template.js",
+      "rank": 8
+    },
+    {
+      "title": "埃及后卫单届世界杯两次打进乌龙球",
+      "hot_value": 10084655,
+      "link": "https://www.toutiao.com/trending/7657880054612987433",
+      "rank": 9
+    },
+    {
+      "title": "内塔尼亚胡在后台遭妻子当众斥责",
+      "hot_value": 9124974,
+      "link": "https://www.toutiao.com/trending/7657037502211440650",
+      "rank": 10
+    },
+    {
+      "title": "“南宁邕江主航道开放水上运动”系误读",
+      "hot_value": 8256617,
+      "link": "https://www.toutiao.com/trending/7657548239981625398",
+      "rank": 11
+    },
+    {
+      "title": "茉莉奶白已成功登记四叶星著作权",
+      "hot_value": 7470896,
+      "link": "https://www.toutiao.com/trending/7657763385794219556",
+      "rank": 12
+    },
+    {
+      "title": "记者：日本早用霍金森中国男篮或出局",
+      "hot_value": 6759947,
+      "link": "https://www.toutiao.com/trending/7657543072257065010",
+      "rank": 13
+    },
+    {
+      "title": "曝阿里7月10日起全面禁用Claude",
+      "hot_value": 6116652,
+      "link": "https://www.toutiao.com/trending/7658254613019102783",
+      "rank": 14
+    },
+    {
+      "title": "银行重启五年期存款背后的资金转折",
+      "hot_value": 5534576,
+      "link": "https://www.toutiao.com/trending/7658288979761958436",
+      "rank": 15
+    },
+    {
+      "title": "大学生独自归家途中失联后遇难",
+      "hot_value": 5007891,
+      "link": "https://www.toutiao.com/trending/7658079987030884415",
+      "rank": 16
+    },
+    {
+      "title": "女子自家种的黄瓜上长了一片叶子",
+      "hot_value": 4531327,
+      "link": "https://www.toutiao.com/trending/7657708239403909161",
+      "rank": 17
+    },
+    {
+      "title": "张曙光、王刚晋升上将军衔",
+      "hot_value": 4100115,
+      "link": "https://www.toutiao.com/trending/7657763385794367012",
+      "rank": 18
+    },
+    {
+      "title": "媒体：中国篮球醒醒吧",
+      "hot_value": 3709937,
+      "link": "https://www.toutiao.com/trending/7658306109505110079",
+      "rank": 19
+    },
+    {
+      "title": "奶奶称孙子来别带作业 自己受不了",
+      "hot_value": 3356890,
+      "link": "https://www.toutiao.com/trending/7657174416014557190",
+      "rank": 20
+    },
+    {
+      "title": "村民报警抓蛇没想到是“买1送22”",
+      "hot_value": 3037439,
+      "link": "https://www.toutiao.com/trending/7658214614187327515",
+      "rank": 21
+    },
+    {
+      "title": "网友买二手相机发现哈工大教授老照片",
+      "hot_value": 2748389,
+      "link": "https://www.toutiao.com/trending/7658146946816688147",
+      "rank": 22
+    },
+    {
+      "title": "6人4000米高空围桌吃牛排品红酒",
+      "hot_value": 2486845,
+      "link": "https://www.toutiao.com/trending/7658126202108887081",
+      "rank": 23
+    },
+    {
+      "title": "李刚任新疆维吾尔自治区党委常委",
+      "hot_value": 2250190,
+      "link": "https://www.toutiao.com/trending/7658287774328504326",
+      "rank": 24
+    },
+    {
+      "title": "学者：俄军空袭成泽连斯基“神助攻”",
+      "hot_value": 2036056,
+      "link": "https://www.toutiao.com/trending/7658256323938618889",
+      "rank": 25
+    },
+    {
+      "title": "海军上校方明执行飞行训练任务时牺牲",
+      "hot_value": 1842300,
+      "link": "https://www.toutiao.com/trending/7657890612604583999",
+      "rank": 26
+    },
+    {
+      "title": "国有行5年期大额存单回来了",
+      "hot_value": 1666982,
+      "link": "https://www.toutiao.com/trending/7657509802465280046",
+      "rank": 27
+    },
+    {
+      "title": "媒体人质疑郭士强“靠自己言论”",
+      "hot_value": 1508348,
+      "link": "https://www.toutiao.com/trending/7657972843994120230",
+      "rank": 28
+    },
+    {
+      "title": "买超回应“没有离婚只有丧偶”言论",
+      "hot_value": 1364809,
+      "link": "https://www.toutiao.com/trending/7658264499732348978",
+      "rank": 29
+    },
+    {
+      "title": "中国船员在被韩海警扣押期间死亡",
+      "hot_value": 1234930,
+      "link": "https://www.toutiao.com/trending/7658228169959276586",
+      "rank": 30
+    },
+    {
+      "title": "C罗继续前行 魔笛告别世界杯",
+      "hot_value": 1117411,
+      "link": "https://www.toutiao.com/trending/7658211062063304242",
+      "rank": 31
+    },
+    {
+      "title": "媒体谈日印上演“兄妹外交”",
+      "hot_value": 1011075,
+      "link": "https://www.toutiao.com/trending/7657545998617608234",
+      "rank": 32
+    },
+    {
+      "title": "推动金价上涨的“神秘央行”存在吗",
+      "hot_value": 914859,
+      "link": "https://www.toutiao.com/trending/7658284084967247369",
+      "rank": 33
+    },
+    {
+      "title": "制毒团伙在养猪场生产麻黄素超2吨",
+      "hot_value": 827798,
+      "link": "https://www.toutiao.com/trending/7657743254831153193",
+      "rank": 34
+    },
+    {
+      "title": "高铁是如何做到精准刹车的",
+      "hot_value": 749023,
+      "link": "https://www.toutiao.com/trending/7658297645890276873",
+      "rank": 35
+    },
+    {
+      "title": "本场比赛中国男篮徐昕庞峥麟未出场",
+      "hot_value": 677744,
+      "link": "https://www.toutiao.com/trending/7658254972950216740",
+      "rank": 36
+    },
+    {
+      "title": "油价三连降预期后的全球能源周期转向",
+      "hot_value": 613248,
+      "link": "https://www.toutiao.com/trending/7658290395901595186",
+      "rank": 37
+    },
+    {
+      "title": "委内瑞拉重灾区几乎所有官员遇难",
+      "hot_value": 554890,
+      "link": "https://www.toutiao.com/trending/7657477058720828991",
+      "rank": 38
+    },
+    {
+      "title": "欧洲人终于对中国空调“真香”了吗",
+      "hot_value": 502085,
+      "link": "https://www.toutiao.com/trending/7658255677353102867",
+      "rank": 39
+    },
+    {
+      "title": "日本加速布局印度市场有何考量",
+      "hot_value": 454305,
+      "link": "https://www.toutiao.com/trending/7658312994987707930",
+      "rank": 40
+    },
+    {
+      "title": "三名轿夫抬游客上山累得气喘吁吁",
+      "hot_value": 411072,
+      "link": "https://www.toutiao.com/trending/7658212247454547994",
+      "rank": 41
+    },
+    {
+      "title": "媒体：欧洲各种胶质东西都被热化了",
+      "hot_value": 371954,
+      "link": "https://www.toutiao.com/trending/7657833862743883814",
+      "rank": 42
+    },
+    {
+      "title": "黑龙江出台住宅物业服务定额",
+      "hot_value": 336557,
+      "link": "https://www.toutiao.com/trending/7657340974665842742",
+      "rank": 43
+    },
+    {
+      "title": "火箭军营区战备牌永久显示0天",
+      "hot_value": 304530,
+      "link": "https://www.toutiao.com/trending/7657763385794268708",
+      "rank": 44
+    },
+    {
+      "title": "萧旭岑：2028年一定是“蓝白合”",
+      "hot_value": 275550,
+      "link": "https://www.toutiao.com/trending/7657753151096881179",
+      "rank": 45
+    },
+    {
+      "title": "“莎头”组合晋级混双决赛",
+      "hot_value": 249328,
+      "link": "https://www.toutiao.com/trending/7657274890613293119",
+      "rank": 46
+    },
+    {
+      "title": "男子山里死守3.5小时静等菌子长大",
+      "hot_value": 225601,
+      "link": "https://www.toutiao.com/trending/7657619179423662106",
+      "rank": 47
+    },
+    {
+      "title": "世界杯16强仅剩3席",
+      "hot_value": 204132,
+      "link": "https://www.toutiao.com/trending/7658094488929271849",
+      "rank": 48
+    },
+    {
+      "title": "谁在操控乌军无人机",
+      "hot_value": 184706,
+      "link": "https://www.toutiao.com/trending/7658270532298608147",
+      "rank": 49
+    },
+    {
+      "title": "江波龙：上半年净利润预计同比暴增",
+      "hot_value": 167129,
+      "link": "https://www.toutiao.com/trending/7658263154387877934",
+      "rank": 50
+    }
+  ]
+}
