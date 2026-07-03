@@ -1,0 +1,307 @@
+{
+  "platform": "toutiao",
+  "platform_name": "今日头条",
+  "time": "2026-07-03 11:54:04",
+  "items": [
+    {
+      "title": "再见老友！C罗拥抱莫德里奇哭了",
+      "hot_value": 27649427,
+      "link": "https://www.toutiao.com/trending/7657763385777589823",
+      "rank": 1
+    },
+    {
+      "title": "王楚钦1-3无缘美国大满贯八强",
+      "hot_value": 25018236,
+      "link": "https://www.toutiao.com/trending/7657613219590471743",
+      "rank": 2
+    },
+    {
+      "title": "工业旅游市场规模预计超3000亿元",
+      "hot_value": 22637436,
+      "link": "https://www.toutiao.com/article/7657773513490661923",
+      "rank": 3
+    },
+    {
+      "title": "点射破门！C罗世界杯淘汰赛首球",
+      "hot_value": 20483199,
+      "link": "https://www.toutiao.com/trending/7657456123653590570",
+      "rank": 4
+    },
+    {
+      "title": "泰山的刀片刺绳隔离网围住了谁",
+      "hot_value": 18533965,
+      "link": "https://www.toutiao.com/trending/7657769282918420011",
+      "rank": 5
+    },
+    {
+      "title": "婆婆不带娃被儿媳妇打断四根肋骨",
+      "hot_value": 16770225,
+      "link": "https://www.toutiao.com/trending/7657745710352007204",
+      "rank": 6
+    },
+    {
+      "title": "00后本科生抱儿子参加毕业典礼",
+      "hot_value": 15174327,
+      "link": "https://www.toutiao.com/trending/7657831487636062214",
+      "rank": 7
+    },
+    {
+      "title": "C罗换上已故队友球衣指天庆祝",
+      "hot_value": 13730299,
+      "link": "https://www.toutiao.com/trending/7658121674839264794",
+      "rank": 8
+    },
+    {
+      "title": "美空军少校呼吁弹劾特朗普被捕",
+      "hot_value": 12423688,
+      "link": "https://www.toutiao.com/trending/7657766306192490532",
+      "rank": 9
+    },
+    {
+      "title": "国乒男单无缘美国大满贯8强",
+      "hot_value": 11241418,
+      "link": "https://www.toutiao.com/trending/7658142536459898404",
+      "rank": 10
+    },
+    {
+      "title": "学生因中考失利跳河？谣言",
+      "hot_value": 10171655,
+      "link": "https://www.toutiao.com/trending/7657828867579854911",
+      "rank": 11
+    },
+    {
+      "title": "葡萄牙主帅回应81分钟换下C罗",
+      "hot_value": 9203694,
+      "link": "https://www.toutiao.com/trending/7658132002050231834",
+      "rank": 12
+    },
+    {
+      "title": "白敬亭张国强带着角色来了",
+      "hot_value": 8327847,
+      "link": "https://www.toutiao.com/trending/7657868497822351423",
+      "rank": 13
+    },
+    {
+      "title": "联合国警告：各国应针对AI采取行动",
+      "hot_value": 7535347,
+      "link": "https://www.toutiao.com/trending/7657422400892485673",
+      "rank": 14
+    },
+    {
+      "title": "克罗地亚103分钟绝平球被吹",
+      "hot_value": 6818264,
+      "link": "https://www.toutiao.com/trending/7658089937224646698",
+      "rank": 15
+    },
+    {
+      "title": "男子骑车载妻子被查一句话逗乐交警",
+      "hot_value": 6169421,
+      "link": "https://www.toutiao.com/trending/7657719723148902454",
+      "rank": 16
+    },
+    {
+      "title": "曝穆杰塔巴不会现身哈梅内伊葬礼",
+      "hot_value": 5582323,
+      "link": "https://www.toutiao.com/trending/7657516364492046379",
+      "rank": 17
+    },
+    {
+      "title": "张佳玮谈C罗送走莫德里奇：造化弄人",
+      "hot_value": 5051094,
+      "link": "https://www.toutiao.com/trending/7658122306836762121",
+      "rank": 18
+    },
+    {
+      "title": "普京已获悉打击基辅情况",
+      "hot_value": 4570419,
+      "link": "https://www.toutiao.com/trending/7657344615753711657",
+      "rank": 19
+    },
+    {
+      "title": "孙颖莎一日双线作战连拿两场胜利",
+      "hot_value": 4135486,
+      "link": "https://www.toutiao.com/trending/7657748056638685203",
+      "rank": 20
+    },
+    {
+      "title": "41岁C罗将PK18岁亚马尔",
+      "hot_value": 3741943,
+      "link": "https://www.toutiao.com/trending/7658105159692009491",
+      "rank": 21
+    },
+    {
+      "title": "杨紫全家福",
+      "hot_value": 3385850,
+      "link": "https://www.toutiao.com/trending/7657803197298393124",
+      "rank": 22
+    },
+    {
+      "title": "同床还是分床？现代婚姻的睡眠困局",
+      "hot_value": 3063643,
+      "link": "https://www.toutiao.com/trending/7657928990362963506",
+      "rank": 23
+    },
+    {
+      "title": "媒体人热议葡萄牙2-1克罗地亚",
+      "hot_value": 2772099,
+      "link": "https://www.toutiao.com/trending/7658097392646045737",
+      "rank": 24
+    },
+    {
+      "title": "女子患罕见病 半边身长满“苔藓”",
+      "hot_value": 2508299,
+      "link": "https://www.toutiao.com/trending/7657909255160299539",
+      "rank": 25
+    },
+    {
+      "title": "爸爸带弱视儿子徒步2年改善视力",
+      "hot_value": 2269603,
+      "link": "https://www.toutiao.com/trending/7657745742479540287",
+      "rank": 26
+    },
+    {
+      "title": "40岁魔笛完成世界杯最后一舞",
+      "hot_value": 2053621,
+      "link": "https://www.toutiao.com/trending/7657397795292741658",
+      "rank": 27
+    },
+    {
+      "title": "19岁男生扛楼让离世父母放心",
+      "hot_value": 1858193,
+      "link": "https://www.toutiao.com/trending/7657913665751957558",
+      "rank": 28
+    },
+    {
+      "title": "白敬亭称十年后再演电影角色更有厚度",
+      "hot_value": 1681363,
+      "link": "https://www.toutiao.com/trending/7656973231336783908",
+      "rank": 29
+    },
+    {
+      "title": "克罗地亚球员科瓦契奇赛后痛哭",
+      "hot_value": 1521360,
+      "link": "https://www.toutiao.com/trending/7657711882736484402",
+      "rank": 30
+    },
+    {
+      "title": "甲亢哥因飞机挡风玻璃破裂错过看C罗",
+      "hot_value": 1376583,
+      "link": "https://www.toutiao.com/trending/7657179972490723369",
+      "rank": 31
+    },
+    {
+      "title": "媒体：九寨沟美景与安全不该是单选题",
+      "hot_value": 1245584,
+      "link": "https://www.toutiao.com/trending/7657871694225031231",
+      "rank": 32
+    },
+    {
+      "title": "中国空调为何能征服欧洲",
+      "hot_value": 1127051,
+      "link": "https://www.toutiao.com/trending/7657855706187435529",
+      "rank": 33
+    },
+    {
+      "title": "点射+绝杀！葡萄牙2-1淘汰克罗地亚",
+      "hot_value": 1019798,
+      "link": "https://www.toutiao.com/trending/7657318523328380938",
+      "rank": 34
+    },
+    {
+      "title": "美国巨额反华项目被曝管理混乱",
+      "hot_value": 922751,
+      "link": "https://www.toutiao.com/trending/7658073617518821382",
+      "rank": 35
+    },
+    {
+      "title": "17岁少年凌晨五点拔花生薅错地",
+      "hot_value": 834940,
+      "link": "https://www.toutiao.com/trending/7656932874729422889",
+      "rank": 36
+    },
+    {
+      "title": "瑞士vs阿尔及利亚",
+      "hot_value": 755485,
+      "link": "https://webcast-open.douyin.com/open/media_live/238099515779",
+      "rank": 37
+    },
+    {
+      "title": "赵洪波履新江苏南通市委副书记",
+      "hot_value": 683591,
+      "link": "https://www.toutiao.com/trending/7657887542088925238",
+      "rank": 38
+    },
+    {
+      "title": "7岁男孩旧笔头用到最短才兑换新笔",
+      "hot_value": 618539,
+      "link": "https://www.toutiao.com/trending/7657881444221616164",
+      "rank": 39
+    },
+    {
+      "title": "刘建宏：致敬莫德里奇与克罗地亚",
+      "hot_value": 559677,
+      "link": "https://www.toutiao.com/trending/7658122830004882990",
+      "rank": 40
+    },
+    {
+      "title": "孙颖莎回应混双进决赛",
+      "hot_value": 458224,
+      "link": "https://www.toutiao.com/trending/7657371723452416051",
+      "rank": 41
+    },
+    {
+      "title": "美国选美皇后在委内瑞拉强震中遇难",
+      "hot_value": 414619,
+      "link": "https://www.toutiao.com/trending/7657948306941509668",
+      "rank": 42
+    },
+    {
+      "title": "C罗包揽25粒大赛进球",
+      "hot_value": 339461,
+      "link": "https://www.toutiao.com/trending/7658104453840719406",
+      "rank": 43
+    },
+    {
+      "title": "特朗普发AI视频变身医生开可乐药方",
+      "hot_value": 307157,
+      "link": "https://www.toutiao.com/trending/7657679186635030554",
+      "rank": 44
+    },
+    {
+      "title": "男篮世预赛中国队再次出击",
+      "hot_value": 277927,
+      "link": "https://www.toutiao.com/trending/7657905396213186602",
+      "rank": 45
+    },
+    {
+      "title": "C罗回应将在世界杯后退出国家队",
+      "hot_value": 251479,
+      "link": "https://www.toutiao.com/trending/7657544509484974143",
+      "rank": 46
+    },
+    {
+      "title": "佛得角也有“温州一家人”",
+      "hot_value": 227547,
+      "link": "https://www.toutiao.com/trending/7658072785763205126",
+      "rank": 47
+    },
+    {
+      "title": "男子山里死守3.5小时静等菌子长大",
+      "hot_value": 205893,
+      "link": "https://www.toutiao.com/trending/7657619179423662106",
+      "rank": 48
+    },
+    {
+      "title": "C罗成首位41岁参加世界杯淘汰赛球员",
+      "hot_value": 186300,
+      "link": "https://www.toutiao.com/trending/7657514893986005034",
+      "rank": 49
+    },
+    {
+      "title": "评论员：蒋万安会成岛内“政治鲶鱼”",
+      "hot_value": 168571,
+      "link": "https://www.toutiao.com/trending/7657714569397256198",
+      "rank": 50
+    }
+  ]
+}
