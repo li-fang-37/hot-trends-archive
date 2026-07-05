@@ -1,0 +1,307 @@
+{
+  "platform": "toutiao",
+  "platform_name": "今日头条",
+  "time": "2026-07-05 09:15:08",
+  "items": [
+    {
+      "title": "瓜农谈西瓜滞销：一瓶水钱能换3个瓜",
+      "hot_value": 33849301,
+      "link": "https://www.toutiao.com/trending/7658602898850791460",
+      "rank": 1
+    },
+    {
+      "title": "中国7舰横穿日本4大要道有何深意",
+      "hot_value": 30628114,
+      "link": "https://www.toutiao.com/trending/7658181775148498950",
+      "rank": 2
+    },
+    {
+      "title": "立体交通绘就发展新图景",
+      "hot_value": 27713464,
+      "link": "https://www.toutiao.com/article/7658550169025151494",
+      "rank": 3
+    },
+    {
+      "title": "姆巴佩被犯规推搡 双方爆发冲突",
+      "hot_value": 25076179,
+      "link": "https://www.toutiao.com/trending/7658694633844785194",
+      "rank": 4
+    },
+    {
+      "title": "民众在哈梅内伊葬礼高喊美国去死",
+      "hot_value": 22689865,
+      "link": "https://www.toutiao.com/trending/7658139481027137066",
+      "rank": 5
+    },
+    {
+      "title": "王力宏缝了39针",
+      "hot_value": 20530639,
+      "link": "https://www.toutiao.com/trending/7658653430797762606",
+      "rank": 6
+    },
+    {
+      "title": "肉搏对抗拉满 巴拉圭真“扒拉龟”",
+      "hot_value": 18576890,
+      "link": "https://www.toutiao.com/trending/7658800370378063935",
+      "rank": 7
+    },
+    {
+      "title": "媒体评699分女孩报清华被网暴",
+      "hot_value": 16809065,
+      "link": "https://www.toutiao.com/trending/7657927447145086995",
+      "rank": 8
+    },
+    {
+      "title": "王力宏演唱会摔倒脸部流血",
+      "hot_value": 15209471,
+      "link": "https://www.toutiao.com/trending/7658655424954076682",
+      "rank": 9
+    },
+    {
+      "title": "法国晋级夜裁判抢风头",
+      "hot_value": 13762099,
+      "link": "https://www.toutiao.com/trending/7658804060715827243",
+      "rank": 10
+    },
+    {
+      "title": "“石宇为石学敏院士长子”不实",
+      "hot_value": 12452462,
+      "link": "https://www.toutiao.com/trending/7658643513664045098",
+      "rank": 11
+    },
+    {
+      "title": "王曼昱蒯曼美国大满贯夺冠",
+      "hot_value": 11267453,
+      "link": "https://www.toutiao.com/trending/7658443284846772250",
+      "rank": 12
+    },
+    {
+      "title": "马未都回应佛像被盗传闻：等鉴定结果",
+      "hot_value": 10195213,
+      "link": "https://www.toutiao.com/trending/7657760303935619082",
+      "rank": 13
+    },
+    {
+      "title": "巴拉圭门将：法国没点球不可能晋级",
+      "hot_value": 9225010,
+      "link": "https://www.toutiao.com/trending/7658257949298753578",
+      "rank": 14
+    },
+    {
+      "title": "涉82死矿难又有2人被查",
+      "hot_value": 8347135,
+      "link": "https://www.toutiao.com/trending/7657762525381197867",
+      "rank": 15
+    },
+    {
+      "title": "东北超延边啦啦队把“同事”吃了",
+      "hot_value": 7552800,
+      "link": "https://www.toutiao.com/trending/7658578981101928475",
+      "rank": 16
+    },
+    {
+      "title": "佛得角收获1100万美元赛事奖金",
+      "hot_value": 6834056,
+      "link": "https://www.toutiao.com/trending/7658547175105777162",
+      "rank": 17
+    },
+    {
+      "title": "中国男篮到底哪里出了问题",
+      "hot_value": 6183709,
+      "link": "https://www.toutiao.com/trending/7658726249044381225",
+      "rank": 18
+    },
+    {
+      "title": "一家三口自驾游突遇山洪 母子失联",
+      "hot_value": 5595251,
+      "link": "https://www.toutiao.com/trending/7658639856092446739",
+      "rank": 19
+    },
+    {
+      "title": "姆巴佩谈摩洛哥：很高兴对阵他们",
+      "hot_value": 5062793,
+      "link": "https://www.toutiao.com/trending/7658381345932197894",
+      "rank": 20
+    },
+    {
+      "title": "佛得角华人称当地居民都爱吃中餐",
+      "hot_value": 4581004,
+      "link": "https://www.toutiao.com/trending/7657878602846912566",
+      "rank": 21
+    },
+    {
+      "title": "应采儿Jasper现身陈小春演唱会",
+      "hot_value": 4145064,
+      "link": "https://www.toutiao.com/trending/7658300615705526308",
+      "rank": 22
+    },
+    {
+      "title": "法国队史第二次大赛开局5连胜",
+      "hot_value": 3750609,
+      "link": "https://www.toutiao.com/trending/7658081049897205766",
+      "rank": 23
+    },
+    {
+      "title": "塔克拉玛干沙漠里如何产海鲜",
+      "hot_value": 3393691,
+      "link": "https://www.toutiao.com/trending/7658773288616804395",
+      "rank": 24
+    },
+    {
+      "title": "香港青少年登上军舰说祖国好伟大",
+      "hot_value": 3070739,
+      "link": "https://www.toutiao.com/trending/7657750565431787556",
+      "rank": 25
+    },
+    {
+      "title": "德尚成首位世界杯淘汰赛10胜主帅",
+      "hot_value": 2778519,
+      "link": "https://www.toutiao.com/trending/7658660905349693459",
+      "rank": 26
+    },
+    {
+      "title": "80后集体“叛逆”染黄毛",
+      "hot_value": 2514108,
+      "link": "https://www.toutiao.com/trending/7658601892914561060",
+      "rank": 27
+    },
+    {
+      "title": "8名女子入境时绑藏53只活体龟被查",
+      "hot_value": 2274859,
+      "link": "https://www.toutiao.com/trending/7658661780448837651",
+      "rank": 28
+    },
+    {
+      "title": "佛得角背后的中国印记有多深",
+      "hot_value": 2058378,
+      "link": "https://www.toutiao.com/trending/7658698709797965375",
+      "rank": 29
+    },
+    {
+      "title": "加拿大主帅：我们是表现更好的一方",
+      "hot_value": 1862497,
+      "link": "https://www.toutiao.com/trending/7658618967049453609",
+      "rank": 30
+    },
+    {
+      "title": "官方公布膳魔师紧召百万件产品进展",
+      "hot_value": 1685257,
+      "link": "https://www.toutiao.com/trending/7658241706596302886",
+      "rank": 31
+    },
+    {
+      "title": "国足近期与佛得角交手可能性不大",
+      "hot_value": 1524884,
+      "link": "https://www.toutiao.com/trending/7657605386077798443",
+      "rank": 32
+    },
+    {
+      "title": "女子确诊肺癌晚期在地铁上介绍自己",
+      "hot_value": 1379772,
+      "link": "https://www.toutiao.com/trending/7657714963918716947",
+      "rank": 33
+    },
+    {
+      "title": "王思聪投资翻车损失惨重",
+      "hot_value": 1248469,
+      "link": "https://www.toutiao.com/trending/7658565435637497897",
+      "rank": 34
+    },
+    {
+      "title": "施一公用佛得角鼓励毕业生",
+      "hot_value": 1129661,
+      "link": "https://www.toutiao.com/trending/7658666672676421651",
+      "rank": 35
+    },
+    {
+      "title": "女子蹭车对方没开空调把娃热“炸毛”",
+      "hot_value": 1022160,
+      "link": "https://www.toutiao.com/trending/7658497804667043859",
+      "rank": 36
+    },
+    {
+      "title": "5条狗出逃3小时内致1死1伤主人获刑",
+      "hot_value": 924888,
+      "link": "https://www.toutiao.com/trending/7658262930987565119",
+      "rank": 37
+    },
+    {
+      "title": "贝克汉姆和西蒙尼合影",
+      "hot_value": 836874,
+      "link": "https://www.toutiao.com/trending/7657838919992852526",
+      "rank": 38
+    },
+    {
+      "title": "老人看一颗牙被拔12颗种10颗",
+      "hot_value": 757235,
+      "link": "https://www.toutiao.com/trending/7658611573578416179",
+      "rank": 39
+    },
+    {
+      "title": "炸串店女员工外出如厕时死亡",
+      "hot_value": 685174,
+      "link": "https://www.toutiao.com/trending/7658690201354944522",
+      "rank": 40
+    },
+    {
+      "title": "姆巴佩“点”破铁盾",
+      "hot_value": 619971,
+      "link": "https://www.toutiao.com/trending/7658828625017765942",
+      "rank": 41
+    },
+    {
+      "title": "印度驻华大使：扩大对华出口很合理",
+      "hot_value": 560973,
+      "link": "https://www.toutiao.com/trending/7658499644003680307",
+      "rank": 42
+    },
+    {
+      "title": "苏超观赛球迷上演维京划船名场面",
+      "hot_value": 507589,
+      "link": "https://www.toutiao.com/trending/7658130140166946854",
+      "rank": 43
+    },
+    {
+      "title": "姆巴佩遭巴拉圭球员贴身防守",
+      "hot_value": 459286,
+      "link": "https://www.toutiao.com/trending/7658139481027104298",
+      "rank": 44
+    },
+    {
+      "title": "4岁女孩遇好心老板帮忙洗头买衣服",
+      "hot_value": 415579,
+      "link": "https://www.toutiao.com/trending/7658251872734461995",
+      "rank": 45
+    },
+    {
+      "title": "火箭军“随时能战”底气何来",
+      "hot_value": 376031,
+      "link": "https://www.toutiao.com/trending/7658435111855620132",
+      "rank": 46
+    },
+    {
+      "title": "法国1-0巴拉圭晋级8强",
+      "hot_value": 340247,
+      "link": "https://www.toutiao.com/trending/7658185521180999734",
+      "rank": 47
+    },
+    {
+      "title": "香港私家车躲避检查连撞多车",
+      "hot_value": 307868,
+      "link": "https://www.toutiao.com/trending/7658684848797925419",
+      "rank": 48
+    },
+    {
+      "title": "曝买超与短剧女演员乔仙童恋情",
+      "hot_value": 278571,
+      "link": "https://www.toutiao.com/trending/7658523628504416262",
+      "rank": 49
+    },
+    {
+      "title": "摩洛哥这束光点亮世界足坛第三极",
+      "hot_value": 252061,
+      "link": "https://www.toutiao.com/trending/7658582963769131051",
+      "rank": 50
+    }
+  ]
+}
