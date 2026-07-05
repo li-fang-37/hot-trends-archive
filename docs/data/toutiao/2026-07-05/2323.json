@@ -1,0 +1,307 @@
+{
+  "platform": "toutiao",
+  "platform_name": "今日头条",
+  "time": "2026-07-05 23:23:39",
+  "items": [
+    {
+      "title": "猪价为什么突然连续上涨",
+      "hot_value": 28762811,
+      "link": "https://www.toutiao.com/trending/7659018535057755658",
+      "rank": 1
+    },
+    {
+      "title": "日本为找稀土开始拆空调了",
+      "hot_value": 26025668,
+      "link": "https://www.toutiao.com/trending/7658570707797934134",
+      "rank": 2
+    },
+    {
+      "title": "今年我国快递业务量超千亿件",
+      "hot_value": 23548998,
+      "link": "https://www.toutiao.com/article/7659006753429930550",
+      "rank": 3
+    },
+    {
+      "title": "四川绵竹发生4.5级地震",
+      "hot_value": 21308015,
+      "link": "https://www.toutiao.com/trending/7658599080632860678",
+      "rank": 4
+    },
+    {
+      "title": "老人看牙遭全口拔光 医院被顶格处罚",
+      "hot_value": 19280289,
+      "link": "https://www.toutiao.com/trending/7659046045871246894",
+      "rank": 5
+    },
+    {
+      "title": "人大通报“蒋方舟论文被指造假”",
+      "hot_value": 17445527,
+      "link": "https://www.toutiao.com/trending/7658366120295677961",
+      "rank": 6
+    },
+    {
+      "title": "“东风快递”送达画面曝光",
+      "hot_value": 15785365,
+      "link": "https://www.toutiao.com/trending/7658908387526164516",
+      "rank": 7
+    },
+    {
+      "title": "有线耳机为啥又翻红",
+      "hot_value": 14283189,
+      "link": "https://www.toutiao.com/trending/7658878570206629403",
+      "rank": 8
+    },
+    {
+      "title": "中国U17 3-0完胜澳大利亚U17",
+      "hot_value": 12923964,
+      "link": "https://www.toutiao.com/trending/7659012161368768562",
+      "rank": 9
+    },
+    {
+      "title": "TCL回应永乐款菩萨像现其广告",
+      "hot_value": 11694086,
+      "link": "https://www.toutiao.com/trending/7658411693671878187",
+      "rank": 10
+    },
+    {
+      "title": "汕头城乡居民医保每年交1100？谣言",
+      "hot_value": 10581247,
+      "link": "https://www.toutiao.com/trending/7657413753150980132",
+      "rank": 11
+    },
+    {
+      "title": "男子1个月没喂 七八斤锦鲤只剩骨架",
+      "hot_value": 9574308,
+      "link": "https://www.toutiao.com/trending/7658879632200335366",
+      "rank": 12
+    },
+    {
+      "title": "哈梅内伊三个儿子现身告别仪式",
+      "hot_value": 8663192,
+      "link": "https://www.toutiao.com/trending/7658555614343315494",
+      "rank": 13
+    },
+    {
+      "title": "世人不用再问佛得角在哪里了",
+      "hot_value": 7838780,
+      "link": "https://www.toutiao.com/trending/7659022529746439721",
+      "rank": 14
+    },
+    {
+      "title": "央视起底“违规秤”隐秘产销链",
+      "hot_value": 7092822,
+      "link": "https://www.toutiao.com/trending/7659017059124330534",
+      "rank": 15
+    },
+    {
+      "title": "18岁女生每天主动加班 店主给1万工资",
+      "hot_value": 6417850,
+      "link": "https://www.toutiao.com/trending/7658108180563787782",
+      "rank": 16
+    },
+    {
+      "title": "女子打车问能否开窗被怼“有优越感”",
+      "hot_value": 5807111,
+      "link": "https://www.toutiao.com/trending/7658966457011175443",
+      "rank": 17
+    },
+    {
+      "title": "54岁王千源参加hyrox比赛",
+      "hot_value": 5254491,
+      "link": "https://www.toutiao.com/trending/7658246835500400666",
+      "rank": 18
+    },
+    {
+      "title": "高质量肠镜检查让肠癌风险降低45%",
+      "hot_value": 4754460,
+      "link": "https://www.toutiao.com/trending/7658864632602279972",
+      "rank": 19
+    },
+    {
+      "title": "王力宏缝了39针",
+      "hot_value": 4302014,
+      "link": "https://www.toutiao.com/trending/7658653430797762606",
+      "rank": 20
+    },
+    {
+      "title": "空调为啥必须要有外机",
+      "hot_value": 3892623,
+      "link": "https://www.toutiao.com/trending/7657922355503530020",
+      "rank": 21
+    },
+    {
+      "title": "博主：俄军现在真防不住乌军无人机",
+      "hot_value": 3522191,
+      "link": "https://www.toutiao.com/trending/7659005058985496091",
+      "rank": 22
+    },
+    {
+      "title": "内蒙古危化品运输车事故致2死4伤",
+      "hot_value": 3187010,
+      "link": "https://www.toutiao.com/trending/7658992342199697427",
+      "rank": 23
+    },
+    {
+      "title": "世界杯金靴之争或迎来分水岭",
+      "hot_value": 2883726,
+      "link": "https://www.toutiao.com/trending/7659025963065282067",
+      "rank": 24
+    },
+    {
+      "title": "官方回应充电桩服务费比电费贵吐槽",
+      "hot_value": 2609303,
+      "link": "https://www.toutiao.com/trending/7658458761010479158",
+      "rank": 25
+    },
+    {
+      "title": "美军演习击沉大型舰艇有何意图",
+      "hot_value": 2360995,
+      "link": "https://www.toutiao.com/trending/7659016274382425642",
+      "rank": 26
+    },
+    {
+      "title": "山西朔州突降冰雹",
+      "hot_value": 2136316,
+      "link": "https://www.toutiao.com/trending/7658672431985672246",
+      "rank": 27
+    },
+    {
+      "title": "欧洲到底热到什么程度",
+      "hot_value": 1933019,
+      "link": "https://www.toutiao.com/trending/7659039751994871342",
+      "rank": 28
+    },
+    {
+      "title": "患者称住院天不亮就被叫起来",
+      "hot_value": 1749068,
+      "link": "https://www.toutiao.com/trending/7658884830424662079",
+      "rank": 29
+    },
+    {
+      "title": "印尼砍向镍矿的那一刀终究砍到自己",
+      "hot_value": 1582622,
+      "link": "https://www.toutiao.com/trending/7658967073124519460",
+      "rank": 30
+    },
+    {
+      "title": "台教授：两岸需增强交流缓和局势",
+      "hot_value": 1432016,
+      "link": "https://www.toutiao.com/trending/7659027402252992566",
+      "rank": 31
+    },
+    {
+      "title": "揭秘湖人为何放弃詹姆斯",
+      "hot_value": 1295741,
+      "link": "https://www.toutiao.com/trending/7658542340763746367",
+      "rank": 32
+    },
+    {
+      "title": "房子刚卖出就遇拆迁 能反悔吗",
+      "hot_value": 1172435,
+      "link": "https://www.toutiao.com/trending/7658870145896808454",
+      "rank": 33
+    },
+    {
+      "title": "人在濒死时大脑会经历什么",
+      "hot_value": 1060863,
+      "link": "https://www.toutiao.com/trending/7658959178504896531",
+      "rank": 34
+    },
+    {
+      "title": "网红回应西藏文旅奖50万：捐赠48万",
+      "hot_value": 959909,
+      "link": "https://www.toutiao.com/trending/7658945797161012763",
+      "rank": 35
+    },
+    {
+      "title": "“短剧一姐”徐艺真疑似喊话郭宇欣",
+      "hot_value": 868561,
+      "link": "https://www.toutiao.com/trending/7658202827886723108",
+      "rank": 36
+    },
+    {
+      "title": "高原反应？英格兰主帅称在酒店头疼",
+      "hot_value": 785907,
+      "link": "https://www.toutiao.com/trending/7658981901030342682",
+      "rank": 37
+    },
+    {
+      "title": "初中生剐蹭车辆留字条车主选择原谅",
+      "hot_value": 711118,
+      "link": "https://www.toutiao.com/trending/7657884109399834662",
+      "rank": 38
+    },
+    {
+      "title": "AI正在改写全球半导体定价逻辑",
+      "hot_value": 643446,
+      "link": "https://www.toutiao.com/trending/7659036699598523931",
+      "rank": 39
+    },
+    {
+      "title": "博主：英格兰才是世界杯另一大热门",
+      "hot_value": 582214,
+      "link": "https://www.toutiao.com/trending/7659039817463762473",
+      "rank": 40
+    },
+    {
+      "title": "广西贵州等地强降雨持续",
+      "hot_value": 526809,
+      "link": "https://www.toutiao.com/trending/7658664436630159366",
+      "rank": 41
+    },
+    {
+      "title": "俄空袭重创欧洲最大家禽养殖场",
+      "hot_value": 476676,
+      "link": "https://www.toutiao.com/trending/7658353077638447142",
+      "rank": 42
+    },
+    {
+      "title": "世界杯佛得角奇迹背后",
+      "hot_value": 431314,
+      "link": "https://www.toutiao.com/trending/7659036465640246810",
+      "rank": 43
+    },
+    {
+      "title": "佛得角队载誉归国",
+      "hot_value": 390269,
+      "link": "https://www.toutiao.com/trending/7658411693671910955",
+      "rank": 44
+    },
+    {
+      "title": "炸串店女员工外出如厕时死亡",
+      "hot_value": 353130,
+      "link": "https://www.toutiao.com/trending/7658690201354944522",
+      "rank": 45
+    },
+    {
+      "title": "日本军工真的要完了吗",
+      "hot_value": 319525,
+      "link": "https://www.toutiao.com/trending/7658466725897420854",
+      "rank": 46
+    },
+    {
+      "title": "打开“川超”球场之外的新副本",
+      "hot_value": 289119,
+      "link": "https://www.toutiao.com/trending/7659020923273658387",
+      "rank": 47
+    },
+    {
+      "title": "南昌“佛得角”烟酒店意外走红",
+      "hot_value": 261605,
+      "link": "https://www.toutiao.com/trending/7658900706540208169",
+      "rank": 48
+    },
+    {
+      "title": "下周A股解禁市值超千亿 屹唐占近2/3",
+      "hot_value": 236710,
+      "link": "https://www.toutiao.com/trending/7658213750706192390",
+      "rank": 49
+    },
+    {
+      "title": "广东两名干部任前公示",
+      "hot_value": 214184,
+      "link": "https://www.toutiao.com/trending/7658997377113718811",
+      "rank": 50
+    }
+  ]
+}
