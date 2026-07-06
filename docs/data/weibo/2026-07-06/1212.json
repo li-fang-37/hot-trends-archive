@@ -1,0 +1,307 @@
+{
+  "platform": "weibo",
+  "platform_name": "微博热搜",
+  "time": "2026-07-06 12:12:29",
+  "items": [
+    {
+      "title": "内马尔从巴西国家队退役",
+      "hot_value": 2167908,
+      "link": "https://s.weibo.com/weibo?q=%E5%86%85%E9%A9%AC%E5%B0%94%E4%BB%8E%E5%B7%B4%E8%A5%BF%E5%9B%BD%E5%AE%B6%E9%98%9F%E9%80%80%E5%BD%B9",
+      "rank": 1
+    },
+    {
+      "title": "孙颖莎冠军",
+      "hot_value": 1882134,
+      "link": "https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E%E5%86%A0%E5%86%9B",
+      "rank": 2
+    },
+    {
+      "title": "我国机电产品出口为何持续爆单",
+      "hot_value": 1400552,
+      "link": "https://s.weibo.com/weibo?q=%E6%88%91%E5%9B%BD%E6%9C%BA%E7%94%B5%E4%BA%A7%E5%93%81%E5%87%BA%E5%8F%A3%E4%B8%BA%E4%BD%95%E6%8C%81%E7%BB%AD%E7%88%86%E5%8D%95",
+      "rank": 3
+    },
+    {
+      "title": "巴西球迷痛批内马尔",
+      "hot_value": 1280605,
+      "link": "https://s.weibo.com/weibo?q=%E5%B7%B4%E8%A5%BF%E7%90%83%E8%BF%B7%E7%97%9B%E6%89%B9%E5%86%85%E9%A9%AC%E5%B0%94",
+      "rank": 4
+    },
+    {
+      "title": "墨西哥2比3英格兰",
+      "hot_value": 970790,
+      "link": "https://s.weibo.com/weibo?q=%E5%A2%A8%E8%A5%BF%E5%93%A52%E6%AF%943%E8%8B%B1%E6%A0%BC%E5%85%B0",
+      "rank": 5
+    },
+    {
+      "title": "功夫女足",
+      "hot_value": 832593,
+      "link": "https://s.weibo.com/weibo?q=%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3",
+      "rank": 6
+    },
+    {
+      "title": "99万机器人伴侣续航撑不过一晚",
+      "hot_value": 595132,
+      "link": "https://s.weibo.com/weibo?q=99%E4%B8%87%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BC%B4%E4%BE%A3%E7%BB%AD%E8%88%AA%E6%92%91%E4%B8%8D%E8%BF%87%E4%B8%80%E6%99%9A",
+      "rank": 7
+    },
+    {
+      "title": "爱奇艺近五年现偶首日热度",
+      "hot_value": 589164,
+      "link": "https://s.weibo.com/weibo?q=%E7%88%B1%E5%A5%87%E8%89%BA%E8%BF%91%E4%BA%94%E5%B9%B4%E7%8E%B0%E5%81%B6%E9%A6%96%E6%97%A5%E7%83%AD%E5%BA%A6",
+      "rank": 8
+    },
+    {
+      "title": "野狗骨头高开",
+      "hot_value": 569625,
+      "link": "https://s.weibo.com/weibo?q=%E9%87%8E%E7%8B%97%E9%AA%A8%E5%A4%B4%E9%AB%98%E5%BC%80",
+      "rank": 9
+    },
+    {
+      "title": "苏醒回应巴西淘汰",
+      "hot_value": 559866,
+      "link": "https://s.weibo.com/weibo?q=%E8%8B%8F%E9%86%92%E5%9B%9E%E5%BA%94%E5%B7%B4%E8%A5%BF%E6%B7%98%E6%B1%B0",
+      "rank": 10
+    },
+    {
+      "title": "司晓迪疑似发鹿晗",
+      "hot_value": 548860,
+      "link": "https://s.weibo.com/weibo?q=%E5%8F%B8%E6%99%93%E8%BF%AA%E7%96%91%E4%BC%BC%E5%8F%91%E9%B9%BF%E6%99%97",
+      "rank": 11
+    },
+    {
+      "title": "徐波代孕",
+      "hot_value": 531083,
+      "link": "https://s.weibo.com/weibo?q=%E5%BE%90%E6%B3%A2%E4%BB%A3%E5%AD%95",
+      "rank": 12
+    },
+    {
+      "title": "王安宇辟谣与关晓彤恋情",
+      "hot_value": 525999,
+      "link": "https://s.weibo.com/weibo?q=%E7%8E%8B%E5%AE%89%E5%AE%87%E8%BE%9F%E8%B0%A3%E4%B8%8E%E5%85%B3%E6%99%93%E5%BD%A4%E6%81%8B%E6%83%85",
+      "rank": 13
+    },
+    {
+      "title": "迪丽热巴全程都很不自在",
+      "hot_value": 507236,
+      "link": "https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%85%A8%E7%A8%8B%E9%83%BD%E5%BE%88%E4%B8%8D%E8%87%AA%E5%9C%A8",
+      "rank": 14
+    },
+    {
+      "title": "A股",
+      "hot_value": 505038,
+      "link": "https://s.weibo.com/weibo?q=A%E8%82%A1",
+      "rank": 15
+    },
+    {
+      "title": "司晓迪发了好多男明星",
+      "hot_value": 503471,
+      "link": "https://s.weibo.com/weibo?q=%E5%8F%B8%E6%99%93%E8%BF%AA%E5%8F%91%E4%BA%86%E5%A5%BD%E5%A4%9A%E7%94%B7%E6%98%8E%E6%98%9F",
+      "rank": 16
+    },
+    {
+      "title": "鹿晗工作室转发回应",
+      "hot_value": 500229,
+      "link": "https://s.weibo.com/weibo?q=%E9%B9%BF%E6%99%97%E5%B7%A5%E4%BD%9C%E5%AE%A4%E8%BD%AC%E5%8F%91%E5%9B%9E%E5%BA%94",
+      "rank": 17
+    },
+    {
+      "title": "灿如繁星 虞书欣单扛",
+      "hot_value": 496561,
+      "link": "https://s.weibo.com/weibo?q=%E7%81%BF%E5%A6%82%E7%B9%81%E6%98%9F%20%E8%99%9E%E4%B9%A6%E6%AC%A3%E5%8D%95%E6%89%9B",
+      "rank": 18
+    },
+    {
+      "title": "导协老龄化",
+      "hot_value": 487020,
+      "link": "https://s.weibo.com/weibo?q=%E5%AF%BC%E5%8D%8F%E8%80%81%E9%BE%84%E5%8C%96",
+      "rank": 19
+    },
+    {
+      "title": "墨西哥vs英格兰",
+      "hot_value": 484388,
+      "link": "https://s.weibo.com/weibo?q=%E5%A2%A8%E8%A5%BF%E5%93%A5vs%E8%8B%B1%E6%A0%BC%E5%85%B0",
+      "rank": 20
+    },
+    {
+      "title": "英格兰红牌",
+      "hot_value": 478232,
+      "link": "https://s.weibo.com/weibo?q=%E8%8B%B1%E6%A0%BC%E5%85%B0%E7%BA%A2%E7%89%8C",
+      "rank": 21
+    },
+    {
+      "title": "曝叶祖新恋情",
+      "hot_value": 454616,
+      "link": "https://s.weibo.com/weibo?q=%E6%9B%9D%E5%8F%B6%E7%A5%96%E6%96%B0%E6%81%8B%E6%83%85",
+      "rank": 22
+    },
+    {
+      "title": "赵丽颖狗啃刘海",
+      "hot_value": 453309,
+      "link": "https://s.weibo.com/weibo?q=%E8%B5%B5%E4%B8%BD%E9%A2%96%E7%8B%97%E5%95%83%E5%88%98%E6%B5%B7",
+      "rank": 23
+    },
+    {
+      "title": "2岁娃喝凉水吃冰西瓜确诊冰箱病",
+      "hot_value": 452398,
+      "link": "https://s.weibo.com/weibo?q=2%E5%B2%81%E5%A8%83%E5%96%9D%E5%87%89%E6%B0%B4%E5%90%83%E5%86%B0%E8%A5%BF%E7%93%9C%E7%A1%AE%E8%AF%8A%E5%86%B0%E7%AE%B1%E7%97%85",
+      "rank": 24
+    },
+    {
+      "title": "虞书欣张婧仪偶数年爆剧玄学",
+      "hot_value": 450923,
+      "link": "https://s.weibo.com/weibo?q=%E8%99%9E%E4%B9%A6%E6%AC%A3%E5%BC%A0%E5%A9%A7%E4%BB%AA%E5%81%B6%E6%95%B0%E5%B9%B4%E7%88%86%E5%89%A7%E7%8E%84%E5%AD%A6",
+      "rank": 25
+    },
+    {
+      "title": "中公教育突登A股人气榜第一",
+      "hot_value": 448877,
+      "link": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%85%AC%E6%95%99%E8%82%B2%E7%AA%81%E7%99%BBA%E8%82%A1%E4%BA%BA%E6%B0%94%E6%A6%9C%E7%AC%AC%E4%B8%80",
+      "rank": 26
+    },
+    {
+      "title": "有线耳机此生从此分明了",
+      "hot_value": 447703,
+      "link": "https://s.weibo.com/weibo?q=%E6%9C%89%E7%BA%BF%E8%80%B3%E6%9C%BA%E6%AD%A4%E7%94%9F%E4%BB%8E%E6%AD%A4%E5%88%86%E6%98%8E%E4%BA%86",
+      "rank": 27
+    },
+    {
+      "title": "没必要过于懂事",
+      "hot_value": 446195,
+      "link": "https://s.weibo.com/weibo?q=%E6%B2%A1%E5%BF%85%E8%A6%81%E8%BF%87%E4%BA%8E%E6%87%82%E4%BA%8B",
+      "rank": 28
+    },
+    {
+      "title": "凌晨5点的咖啡店",
+      "hot_value": 444955,
+      "link": "https://s.weibo.com/weibo?q=%E5%87%8C%E6%99%A85%E7%82%B9%E7%9A%84%E5%92%96%E5%95%A1%E5%BA%97",
+      "rank": 29
+    },
+    {
+      "title": "美国头号射手被红牌罚下但仍可参赛",
+      "hot_value": 443435,
+      "link": "https://s.weibo.com/weibo?q=%E7%BE%8E%E5%9B%BD%E5%A4%B4%E5%8F%B7%E5%B0%84%E6%89%8B%E8%A2%AB%E7%BA%A2%E7%89%8C%E7%BD%9A%E4%B8%8B%E4%BD%86%E4%BB%8D%E5%8F%AF%E5%8F%82%E8%B5%9B",
+      "rank": 30
+    },
+    {
+      "title": "孙颖莎回应第6个WTT大满贯单打冠军",
+      "hot_value": 442838,
+      "link": "https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E%E5%9B%9E%E5%BA%94%E7%AC%AC6%E4%B8%AAWTT%E5%A4%A7%E6%BB%A1%E8%B4%AF%E5%8D%95%E6%89%93%E5%86%A0%E5%86%9B",
+      "rank": 31
+    },
+    {
+      "title": "贝林厄姆2分钟2球",
+      "hot_value": 441525,
+      "link": "https://s.weibo.com/weibo?q=%E8%B4%9D%E6%9E%97%E5%8E%84%E5%A7%862%E5%88%86%E9%92%9F2%E7%90%83",
+      "rank": 32
+    },
+    {
+      "title": "孙颖莎vs蒯曼",
+      "hot_value": 429814,
+      "link": "https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8Evs%E8%92%AF%E6%9B%BC",
+      "rank": 33
+    },
+    {
+      "title": "哈兰德",
+      "hot_value": 405092,
+      "link": "https://s.weibo.com/weibo?q=%E5%93%88%E5%85%B0%E5%BE%B7",
+      "rank": 34
+    },
+    {
+      "title": "孙颖莎4比3蒯曼",
+      "hot_value": 401619,
+      "link": "https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E4%E6%AF%943%E8%92%AF%E6%9B%BC",
+      "rank": 35
+    },
+    {
+      "title": "孙颖莎解锁美满666",
+      "hot_value": 381013,
+      "link": "https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E%E8%A7%A3%E9%94%81%E7%BE%8E%E6%BB%A1666",
+      "rank": 36
+    },
+    {
+      "title": "尹净汉洪知秀小分队",
+      "hot_value": 346318,
+      "link": "https://s.weibo.com/weibo?q=%E5%B0%B9%E5%87%80%E6%B1%89%E6%B4%AA%E7%9F%A5%E7%A7%80%E5%B0%8F%E5%88%86%E9%98%9F",
+      "rank": 37
+    },
+    {
+      "title": "哈兰德回应淘汰巴西",
+      "hot_value": 343717,
+      "link": "https://s.weibo.com/weibo?q=%E5%93%88%E5%85%B0%E5%BE%B7%E5%9B%9E%E5%BA%94%E6%B7%98%E6%B1%B0%E5%B7%B4%E8%A5%BF",
+      "rank": 38
+    },
+    {
+      "title": "英格兰 伟哥",
+      "hot_value": 306806,
+      "link": "https://s.weibo.com/weibo?q=%E8%8B%B1%E6%A0%BC%E5%85%B0%20%E4%BC%9F%E5%93%A5",
+      "rank": 39
+    },
+    {
+      "title": "黄有龙曾6天赌光2.8亿",
+      "hot_value": 304365,
+      "link": "https://s.weibo.com/weibo?q=%E9%BB%84%E6%9C%89%E9%BE%99%E6%9B%BE6%E5%A4%A9%E8%B5%8C%E5%85%892.8%E4%BA%BF",
+      "rank": 40
+    },
+    {
+      "title": "孙颖莎振臂庆祝",
+      "hot_value": 303315,
+      "link": "https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E%E6%8C%AF%E8%87%82%E5%BA%86%E7%A5%9D",
+      "rank": 41
+    },
+    {
+      "title": "开一家公司 员工全是AI",
+      "hot_value": 303180,
+      "link": "https://s.weibo.com/weibo?q=%E5%BC%80%E4%B8%80%E5%AE%B6%E5%85%AC%E5%8F%B8%20%E5%91%98%E5%B7%A5%E5%85%A8%E6%98%AFAI",
+      "rank": 42
+    },
+    {
+      "title": "闵塔鲨回应迪丽热巴妆造",
+      "hot_value": 300698,
+      "link": "https://s.weibo.com/weibo?q=%E9%97%B5%E5%A1%94%E9%B2%A8%E5%9B%9E%E5%BA%94%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%A6%86%E9%80%A0",
+      "rank": 43
+    },
+    {
+      "title": "老人看牙遭全口拔光医院被顶格处罚",
+      "hot_value": 299684,
+      "link": "https://s.weibo.com/weibo?q=%E8%80%81%E4%BA%BA%E7%9C%8B%E7%89%99%E9%81%AD%E5%85%A8%E5%8F%A3%E6%8B%94%E5%85%89%E5%8C%BB%E9%99%A2%E8%A2%AB%E9%A1%B6%E6%A0%BC%E5%A4%84%E7%BD%9A",
+      "rank": 44
+    },
+    {
+      "title": "黄有龙赌债纠纷判决曝光",
+      "hot_value": 298395,
+      "link": "https://s.weibo.com/weibo?q=%E9%BB%84%E6%9C%89%E9%BE%99%E8%B5%8C%E5%80%BA%E7%BA%A0%E7%BA%B7%E5%88%A4%E5%86%B3%E6%9B%9D%E5%85%89",
+      "rank": 45
+    },
+    {
+      "title": "曝时代少年团有成员去歌手帮唱",
+      "hot_value": 296964,
+      "link": "https://s.weibo.com/weibo?q=%E6%9B%9D%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E6%9C%89%E6%88%90%E5%91%98%E5%8E%BB%E6%AD%8C%E6%89%8B%E5%B8%AE%E5%94%B1",
+      "rank": 46
+    },
+    {
+      "title": "LV在中国疯狂打官司",
+      "hot_value": 296208,
+      "link": "https://s.weibo.com/weibo?q=LV%E5%9C%A8%E4%B8%AD%E5%9B%BD%E7%96%AF%E7%8B%82%E6%89%93%E5%AE%98%E5%8F%B8",
+      "rank": 47
+    },
+    {
+      "title": "野狗骨头把湖南台哄成胚胎",
+      "hot_value": 293821,
+      "link": "https://s.weibo.com/weibo?q=%E9%87%8E%E7%8B%97%E9%AA%A8%E5%A4%B4%E6%8A%8A%E6%B9%96%E5%8D%97%E5%8F%B0%E5%93%84%E6%88%90%E8%83%9A%E8%83%8E",
+      "rank": 48
+    },
+    {
+      "title": "中国免安装空调欧洲一台1000欧",
+      "hot_value": 293296,
+      "link": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E5%85%8D%E5%AE%89%E8%A3%85%E7%A9%BA%E8%B0%83%E6%AC%A7%E6%B4%B2%E4%B8%80%E5%8F%B01000%E6%AC%A7",
+      "rank": 49
+    },
+    {
+      "title": "原来泰国的身份证长这样",
+      "hot_value": 290929,
+      "link": "https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E6%B3%B0%E5%9B%BD%E7%9A%84%E8%BA%AB%E4%BB%BD%E8%AF%81%E9%95%BF%E8%BF%99%E6%A0%B7",
+      "rank": 50
+    }
+  ]
+}
