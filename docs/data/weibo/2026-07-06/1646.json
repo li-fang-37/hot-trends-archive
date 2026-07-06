@@ -1,0 +1,307 @@
+{
+  "platform": "weibo",
+  "platform_name": "微博热搜",
+  "time": "2026-07-06 16:46:57",
+  "items": [
+    {
+      "title": "六蓝水库决堤",
+      "hot_value": 2242974,
+      "link": "https://s.weibo.com/weibo?q=%E5%85%AD%E8%93%9D%E6%B0%B4%E5%BA%93%E5%86%B3%E5%A0%A4",
+      "rank": 1
+    },
+    {
+      "title": "佛得角邀国足踢友谊赛被婉拒",
+      "hot_value": 1080060,
+      "link": "https://s.weibo.com/weibo?q=%E4%BD%9B%E5%BE%97%E8%A7%92%E9%82%80%E5%9B%BD%E8%B6%B3%E8%B8%A2%E5%8F%8B%E8%B0%8A%E8%B5%9B%E8%A2%AB%E5%A9%89%E6%8B%92",
+      "rank": 2
+    },
+    {
+      "title": "美丽中国建设十五五规划释放利好",
+      "hot_value": 875357,
+      "link": "https://s.weibo.com/weibo?q=%E7%BE%8E%E4%B8%BD%E4%B8%AD%E5%9B%BD%E5%BB%BA%E8%AE%BE%E5%8D%81%E4%BA%94%E4%BA%94%E8%A7%84%E5%88%92%E9%87%8A%E6%94%BE%E5%88%A9%E5%A5%BD",
+      "rank": 3
+    },
+    {
+      "title": "好怕LV告我家房子",
+      "hot_value": 871114,
+      "link": "https://s.weibo.com/weibo?q=%E5%A5%BD%E6%80%95LV%E5%91%8A%E6%88%91%E5%AE%B6%E6%88%BF%E5%AD%90",
+      "rank": 4
+    },
+    {
+      "title": "中国男篮战胜中国台北男篮",
+      "hot_value": 782997,
+      "link": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E6%88%98%E8%83%9C%E4%B8%AD%E5%9B%BD%E5%8F%B0%E5%8C%97%E7%94%B7%E7%AF%AE",
+      "rank": 5
+    },
+    {
+      "title": "灿如繁星",
+      "hot_value": 470974,
+      "link": "https://s.weibo.com/weibo?q=%E7%81%BF%E5%A6%82%E7%B9%81%E6%98%9F",
+      "rank": 6
+    },
+    {
+      "title": "哈兰德又偷喝了对方门将的水",
+      "hot_value": 458093,
+      "link": "https://s.weibo.com/weibo?q=%E5%93%88%E5%85%B0%E5%BE%B7%E5%8F%88%E5%81%B7%E5%96%9D%E4%BA%86%E5%AF%B9%E6%96%B9%E9%97%A8%E5%B0%86%E7%9A%84%E6%B0%B4",
+      "rank": 7
+    },
+    {
+      "title": "TOP 青岛演唱会",
+      "hot_value": 458045,
+      "link": "https://s.weibo.com/weibo?q=TOP%20%E9%9D%92%E5%B2%9B%E6%BC%94%E5%94%B1%E4%BC%9A",
+      "rank": 8
+    },
+    {
+      "title": "花少8全员素颜墨西哥跳水",
+      "hot_value": 455881,
+      "link": "https://s.weibo.com/weibo?q=%E8%8A%B1%E5%B0%918%E5%85%A8%E5%91%98%E7%B4%A0%E9%A2%9C%E5%A2%A8%E8%A5%BF%E5%93%A5%E8%B7%B3%E6%B0%B4",
+      "rank": 9
+    },
+    {
+      "title": "曝华为Mate90正在芯片装测",
+      "hot_value": 452187,
+      "link": "https://s.weibo.com/weibo?q=%E6%9B%9D%E5%8D%8E%E4%B8%BAMate90%E6%AD%A3%E5%9C%A8%E8%8A%AF%E7%89%87%E8%A3%85%E6%B5%8B",
+      "rank": 10
+    },
+    {
+      "title": "范丞丞拉黑司晓迪",
+      "hot_value": 449898,
+      "link": "https://s.weibo.com/weibo?q=%E8%8C%83%E4%B8%9E%E4%B8%9E%E6%8B%89%E9%BB%91%E5%8F%B8%E6%99%93%E8%BF%AA",
+      "rank": 11
+    },
+    {
+      "title": "关晓彤心疼你都有时差",
+      "hot_value": 449426,
+      "link": "https://s.weibo.com/weibo?q=%E5%85%B3%E6%99%93%E5%BD%A4%E5%BF%83%E7%96%BC%E4%BD%A0%E9%83%BD%E6%9C%89%E6%97%B6%E5%B7%AE",
+      "rank": 12
+    },
+    {
+      "title": "哈兰德连发5条中文动态",
+      "hot_value": 446586,
+      "link": "https://s.weibo.com/weibo?q=%E5%93%88%E5%85%B0%E5%BE%B7%E8%BF%9E%E5%8F%915%E6%9D%A1%E4%B8%AD%E6%96%87%E5%8A%A8%E6%80%81",
+      "rank": 13
+    },
+    {
+      "title": "鹿晗持续掉粉",
+      "hot_value": 444190,
+      "link": "https://s.weibo.com/weibo?q=%E9%B9%BF%E6%99%97%E6%8C%81%E7%BB%AD%E6%8E%89%E7%B2%89",
+      "rank": 14
+    },
+    {
+      "title": "功夫女足官宣全阵容",
+      "hot_value": 443020,
+      "link": "https://s.weibo.com/weibo?q=%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E5%AE%98%E5%AE%A3%E5%85%A8%E9%98%B5%E5%AE%B9",
+      "rank": 15
+    },
+    {
+      "title": "英格兰主帅希望特朗普帮忙取消红牌",
+      "hot_value": 440537,
+      "link": "https://s.weibo.com/weibo?q=%E8%8B%B1%E6%A0%BC%E5%85%B0%E4%B8%BB%E5%B8%85%E5%B8%8C%E6%9C%9B%E7%89%B9%E6%9C%97%E6%99%AE%E5%B8%AE%E5%BF%99%E5%8F%96%E6%B6%88%E7%BA%A2%E7%89%8C",
+      "rank": 16
+    },
+    {
+      "title": "Poka晒与司晓迪聊天记录",
+      "hot_value": 439384,
+      "link": "https://s.weibo.com/weibo?q=Poka%E6%99%92%E4%B8%8E%E5%8F%B8%E6%99%93%E8%BF%AA%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95",
+      "rank": 17
+    },
+    {
+      "title": "此人爱商极高",
+      "hot_value": 437338,
+      "link": "https://s.weibo.com/weibo?q=%E6%AD%A4%E4%BA%BA%E7%88%B1%E5%95%86%E6%9E%81%E9%AB%98",
+      "rank": 18
+    },
+    {
+      "title": "华境S第1万台车在华为松山湖交付",
+      "hot_value": 435158,
+      "link": "https://s.weibo.com/weibo?q=%E5%8D%8E%E5%A2%83S%E7%AC%AC1%E4%B8%87%E5%8F%B0%E8%BD%A6%E5%9C%A8%E5%8D%8E%E4%B8%BA%E6%9D%BE%E5%B1%B1%E6%B9%96%E4%BA%A4%E4%BB%98",
+      "rank": 19
+    },
+    {
+      "title": "南宁应急通报两水库出现缺口",
+      "hot_value": 431885,
+      "link": "https://s.weibo.com/weibo?q=%E5%8D%97%E5%AE%81%E5%BA%94%E6%80%A5%E9%80%9A%E6%8A%A5%E4%B8%A4%E6%B0%B4%E5%BA%93%E5%87%BA%E7%8E%B0%E7%BC%BA%E5%8F%A3",
+      "rank": 20
+    },
+    {
+      "title": "央视调查外卖骑行超速乱象",
+      "hot_value": 429668,
+      "link": "https://s.weibo.com/weibo?q=%E5%A4%AE%E8%A7%86%E8%B0%83%E6%9F%A5%E5%A4%96%E5%8D%96%E9%AA%91%E8%A1%8C%E8%B6%85%E9%80%9F%E4%B9%B1%E8%B1%A1",
+      "rank": 21
+    },
+    {
+      "title": "迪丽热巴功夫女足二番",
+      "hot_value": 429107,
+      "link": "https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E4%BA%8C%E7%95%AA",
+      "rank": 22
+    },
+    {
+      "title": "灿如繁星微博追剧团",
+      "hot_value": 426965,
+      "link": "https://s.weibo.com/weibo?q=%E7%81%BF%E5%A6%82%E7%B9%81%E6%98%9F%E5%BE%AE%E5%8D%9A%E8%BF%BD%E5%89%A7%E5%9B%A2",
+      "rank": 23
+    },
+    {
+      "title": "广西横州 断电断水",
+      "hot_value": 424592,
+      "link": "https://s.weibo.com/weibo?q=%E5%B9%BF%E8%A5%BF%E6%A8%AA%E5%B7%9E%20%E6%96%AD%E7%94%B5%E6%96%AD%E6%B0%B4",
+      "rank": 24
+    },
+    {
+      "title": "A股",
+      "hot_value": 421043,
+      "link": "https://s.weibo.com/weibo?q=A%E8%82%A1",
+      "rank": 25
+    },
+    {
+      "title": "iPhoneUltra和18ProMax对比",
+      "hot_value": 419606,
+      "link": "https://s.weibo.com/weibo?q=iPhoneUltra%E5%92%8C18ProMax%E5%AF%B9%E6%AF%94",
+      "rank": 26
+    },
+    {
+      "title": "Poka 夏夏",
+      "hot_value": 417311,
+      "link": "https://s.weibo.com/weibo?q=Poka%20%E5%A4%8F%E5%A4%8F",
+      "rank": 27
+    },
+    {
+      "title": "永远别说反问句",
+      "hot_value": 414673,
+      "link": "https://s.weibo.com/weibo?q=%E6%B0%B8%E8%BF%9C%E5%88%AB%E8%AF%B4%E5%8F%8D%E9%97%AE%E5%8F%A5",
+      "rank": 28
+    },
+    {
+      "title": "冉莹颖邹市明三次离婚没离成",
+      "hot_value": 413889,
+      "link": "https://s.weibo.com/weibo?q=%E5%86%89%E8%8E%B9%E9%A2%96%E9%82%B9%E5%B8%82%E6%98%8E%E4%B8%89%E6%AC%A1%E7%A6%BB%E5%A9%9A%E6%B2%A1%E7%A6%BB%E6%88%90",
+      "rank": 29
+    },
+    {
+      "title": "广西南宁多个水库出现险情",
+      "hot_value": 412459,
+      "link": "https://s.weibo.com/weibo?q=%E5%B9%BF%E8%A5%BF%E5%8D%97%E5%AE%81%E5%A4%9A%E4%B8%AA%E6%B0%B4%E5%BA%93%E5%87%BA%E7%8E%B0%E9%99%A9%E6%83%85",
+      "rank": 30
+    },
+    {
+      "title": "正午阳光公子哥 侯鸿亮儿子",
+      "hot_value": 408587,
+      "link": "https://s.weibo.com/weibo?q=%E6%AD%A3%E5%8D%88%E9%98%B3%E5%85%89%E5%85%AC%E5%AD%90%E5%93%A5%20%E4%BE%AF%E9%B8%BF%E4%BA%AE%E5%84%BF%E5%AD%90",
+      "rank": 31
+    },
+    {
+      "title": "国际足联震惊整个足球界",
+      "hot_value": 408319,
+      "link": "https://s.weibo.com/weibo?q=%E5%9B%BD%E9%99%85%E8%B6%B3%E8%81%94%E9%9C%87%E6%83%8A%E6%95%B4%E4%B8%AA%E8%B6%B3%E7%90%83%E7%95%8C",
+      "rank": 32
+    },
+    {
+      "title": "迪丽热巴代言投广功夫女足",
+      "hot_value": 404601,
+      "link": "https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E4%BB%A3%E8%A8%80%E6%8A%95%E5%B9%BF%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3",
+      "rank": 33
+    },
+    {
+      "title": "哈兰德回复陈赫",
+      "hot_value": 402904,
+      "link": "https://s.weibo.com/weibo?q=%E5%93%88%E5%85%B0%E5%BE%B7%E5%9B%9E%E5%A4%8D%E9%99%88%E8%B5%AB",
+      "rank": 34
+    },
+    {
+      "title": "中国男篮vs中国台北男篮",
+      "hot_value": 400507,
+      "link": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AEvs%E4%B8%AD%E5%9B%BD%E5%8F%B0%E5%8C%97%E7%94%B7%E7%AF%AE",
+      "rank": 35
+    },
+    {
+      "title": "周星驰回来了",
+      "hot_value": 398420,
+      "link": "https://s.weibo.com/weibo?q=%E5%91%A8%E6%98%9F%E9%A9%B0%E5%9B%9E%E6%9D%A5%E4%BA%86",
+      "rank": 36
+    },
+    {
+      "title": "内马尔从巴西国家队退役",
+      "hot_value": 396013,
+      "link": "https://s.weibo.com/weibo?q=%E5%86%85%E9%A9%AC%E5%B0%94%E4%BB%8E%E5%B7%B4%E8%A5%BF%E5%9B%BD%E5%AE%B6%E9%98%9F%E9%80%80%E5%BD%B9",
+      "rank": 37
+    },
+    {
+      "title": "时代峰峻未给四代正确引导",
+      "hot_value": 395607,
+      "link": "https://s.weibo.com/weibo?q=%E6%97%B6%E4%BB%A3%E5%B3%B0%E5%B3%BB%E6%9C%AA%E7%BB%99%E5%9B%9B%E4%BB%A3%E6%AD%A3%E7%A1%AE%E5%BC%95%E5%AF%BC",
+      "rank": 38
+    },
+    {
+      "title": "正午阳光公子哥是谁",
+      "hot_value": 393317,
+      "link": "https://s.weibo.com/weibo?q=%E6%AD%A3%E5%8D%88%E9%98%B3%E5%85%89%E5%85%AC%E5%AD%90%E5%93%A5%E6%98%AF%E8%B0%81",
+      "rank": 39
+    },
+    {
+      "title": "一家三口骑车上高架发生车祸",
+      "hot_value": 391774,
+      "link": "https://s.weibo.com/weibo?q=%E4%B8%80%E5%AE%B6%E4%B8%89%E5%8F%A3%E9%AA%91%E8%BD%A6%E4%B8%8A%E9%AB%98%E6%9E%B6%E5%8F%91%E7%94%9F%E8%BD%A6%E7%A5%B8",
+      "rank": 40
+    },
+    {
+      "title": "陈靖可看虞书欣卖萌的反应",
+      "hot_value": 387955,
+      "link": "https://s.weibo.com/weibo?q=%E9%99%88%E9%9D%96%E5%8F%AF%E7%9C%8B%E8%99%9E%E4%B9%A6%E6%AC%A3%E5%8D%96%E8%90%8C%E7%9A%84%E5%8F%8D%E5%BA%94",
+      "rank": 41
+    },
+    {
+      "title": "网红刘一手离婚",
+      "hot_value": 387671,
+      "link": "https://s.weibo.com/weibo?q=%E7%BD%91%E7%BA%A2%E5%88%98%E4%B8%80%E6%89%8B%E7%A6%BB%E5%A9%9A",
+      "rank": 42
+    },
+    {
+      "title": "800km纯电干进18万",
+      "hot_value": 383980,
+      "link": "https://s.weibo.com/weibo?q=800km%E7%BA%AF%E7%94%B5%E5%B9%B2%E8%BF%9B18%E4%B8%87",
+      "rank": 43
+    },
+    {
+      "title": "T1对战FUR",
+      "hot_value": 381991,
+      "link": "https://s.weibo.com/weibo?q=T1%E5%AF%B9%E6%88%98FUR",
+      "rank": 44
+    },
+    {
+      "title": "吴慷仁吃山东馒头吃发腮了",
+      "hot_value": 381340,
+      "link": "https://s.weibo.com/weibo?q=%E5%90%B4%E6%85%B7%E4%BB%81%E5%90%83%E5%B1%B1%E4%B8%9C%E9%A6%92%E5%A4%B4%E5%90%83%E5%8F%91%E8%85%AE%E4%BA%86",
+      "rank": 45
+    },
+    {
+      "title": "Bin要3比1击败HLE",
+      "hot_value": 377388,
+      "link": "https://s.weibo.com/weibo?q=Bin%E8%A6%813%E6%AF%941%E5%87%BB%E8%B4%A5HLE",
+      "rank": 46
+    },
+    {
+      "title": "金山办公回应WPS滥收费背刺用户",
+      "hot_value": 375444,
+      "link": "https://s.weibo.com/weibo?q=%E9%87%91%E5%B1%B1%E5%8A%9E%E5%85%AC%E5%9B%9E%E5%BA%94WPS%E6%BB%A5%E6%94%B6%E8%B4%B9%E8%83%8C%E5%88%BA%E7%94%A8%E6%88%B7",
+      "rank": 47
+    },
+    {
+      "title": "六蓝水库下游村庄被淹",
+      "hot_value": 373948,
+      "link": "https://s.weibo.com/weibo?q=%E5%85%AD%E8%93%9D%E6%B0%B4%E5%BA%93%E4%B8%8B%E6%B8%B8%E6%9D%91%E5%BA%84%E8%A2%AB%E6%B7%B9",
+      "rank": 48
+    },
+    {
+      "title": "中公教育突登A股人气榜第一",
+      "hot_value": 372859,
+      "link": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%85%AC%E6%95%99%E8%82%B2%E7%AA%81%E7%99%BBA%E8%82%A1%E4%BA%BA%E6%B0%94%E6%A6%9C%E7%AC%AC%E4%B8%80",
+      "rank": 49
+    },
+    {
+      "title": "BLG决胜局差点翻车",
+      "hot_value": 370868,
+      "link": "https://s.weibo.com/weibo?q=BLG%E5%86%B3%E8%83%9C%E5%B1%80%E5%B7%AE%E7%82%B9%E7%BF%BB%E8%BD%A6",
+      "rank": 50
+    }
+  ]
+}
