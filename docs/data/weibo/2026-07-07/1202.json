@@ -1,0 +1,307 @@
+{
+  "platform": "weibo",
+  "platform_name": "微博热搜",
+  "time": "2026-07-07 12:02:28",
+  "items": [
+    {
+      "title": "广西抗洪",
+      "hot_value": 1420818,
+      "link": "https://s.weibo.com/weibo?q=%E5%B9%BF%E8%A5%BF%E6%8A%97%E6%B4%AA",
+      "rank": 1
+    },
+    {
+      "title": "C罗称葡萄牙在我之前没有任何冠军",
+      "hot_value": 1347913,
+      "link": "https://s.weibo.com/weibo?q=C%E7%BD%97%E7%A7%B0%E8%91%A1%E8%90%84%E7%89%99%E5%9C%A8%E6%88%91%E4%B9%8B%E5%89%8D%E6%B2%A1%E6%9C%89%E4%BB%BB%E4%BD%95%E5%86%A0%E5%86%9B",
+      "rank": 2
+    },
+    {
+      "title": "抓实一上一下打好防汛硬仗",
+      "hot_value": 1278730,
+      "link": "https://s.weibo.com/weibo?q=%E6%8A%93%E5%AE%9E%E4%B8%80%E4%B8%8A%E4%B8%80%E4%B8%8B%E6%89%93%E5%A5%BD%E9%98%B2%E6%B1%9B%E7%A1%AC%E4%BB%97",
+      "rank": 3
+    },
+    {
+      "title": "杉杉来了2",
+      "hot_value": 1194868,
+      "link": "https://s.weibo.com/weibo?q=%E6%9D%89%E6%9D%89%E6%9D%A5%E4%BA%862",
+      "rank": 4
+    },
+    {
+      "title": "美国门将大失误",
+      "hot_value": 1094088,
+      "link": "https://s.weibo.com/weibo?q=%E7%BE%8E%E5%9B%BD%E9%97%A8%E5%B0%86%E5%A4%A7%E5%A4%B1%E8%AF%AF",
+      "rank": 5
+    },
+    {
+      "title": "浙大校徽 阿玛尼",
+      "hot_value": 1059162,
+      "link": "https://s.weibo.com/weibo?q=%E6%B5%99%E5%A4%A7%E6%A0%A1%E5%BE%BD%20%E9%98%BF%E7%8E%9B%E5%B0%BC",
+      "rank": 6
+    },
+    {
+      "title": "前华为天才少年吐槽DeepSeek面试",
+      "hot_value": 1006096,
+      "link": "https://s.weibo.com/weibo?q=%E5%89%8D%E5%8D%8E%E4%B8%BA%E5%A4%A9%E6%89%8D%E5%B0%91%E5%B9%B4%E5%90%90%E6%A7%BDDeepSeek%E9%9D%A2%E8%AF%95",
+      "rank": 7
+    },
+    {
+      "title": "虞书欣新剧叫高中男学生宝宝",
+      "hot_value": 1001228,
+      "link": "https://s.weibo.com/weibo?q=%E8%99%9E%E4%B9%A6%E6%AC%A3%E6%96%B0%E5%89%A7%E5%8F%AB%E9%AB%98%E4%B8%AD%E7%94%B7%E5%AD%A6%E7%94%9F%E5%AE%9D%E5%AE%9D",
+      "rank": 8
+    },
+    {
+      "title": "巨无霸台风可能登陆我国",
+      "hot_value": 947229,
+      "link": "https://s.weibo.com/weibo?q=%E5%B7%A8%E6%97%A0%E9%9C%B8%E5%8F%B0%E9%A3%8E%E5%8F%AF%E8%83%BD%E7%99%BB%E9%99%86%E6%88%91%E5%9B%BD",
+      "rank": 9
+    },
+    {
+      "title": "大一生立遗嘱将2000万财产赠好友",
+      "hot_value": 916583,
+      "link": "https://s.weibo.com/weibo?q=%E5%A4%A7%E4%B8%80%E7%94%9F%E7%AB%8B%E9%81%97%E5%98%B1%E5%B0%862000%E4%B8%87%E8%B4%A2%E4%BA%A7%E8%B5%A0%E5%A5%BD%E5%8F%8B",
+      "rank": 10
+    },
+    {
+      "title": "金子涵发明星名单",
+      "hot_value": 869568,
+      "link": "https://s.weibo.com/weibo?q=%E9%87%91%E5%AD%90%E6%B6%B5%E5%8F%91%E6%98%8E%E6%98%9F%E5%90%8D%E5%8D%95",
+      "rank": 11
+    },
+    {
+      "title": "全世界都在笑话美国",
+      "hot_value": 857029,
+      "link": "https://s.weibo.com/weibo?q=%E5%85%A8%E4%B8%96%E7%95%8C%E9%83%BD%E5%9C%A8%E7%AC%91%E8%AF%9D%E7%BE%8E%E5%9B%BD",
+      "rank": 12
+    },
+    {
+      "title": "苏醒 世界从此清静了",
+      "hot_value": 829676,
+      "link": "https://s.weibo.com/weibo?q=%E8%8B%8F%E9%86%92%20%E4%B8%96%E7%95%8C%E4%BB%8E%E6%AD%A4%E6%B8%85%E9%9D%99%E4%BA%86",
+      "rank": 13
+    },
+    {
+      "title": "黄冈龙卷风致多人伤亡失联",
+      "hot_value": 770487,
+      "link": "https://s.weibo.com/weibo?q=%E9%BB%84%E5%86%88%E9%BE%99%E5%8D%B7%E9%A3%8E%E8%87%B4%E5%A4%9A%E4%BA%BA%E4%BC%A4%E4%BA%A1%E5%A4%B1%E8%81%94",
+      "rank": 14
+    },
+    {
+      "title": "迪丽热巴封闭特训三个月",
+      "hot_value": 616200,
+      "link": "https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%B0%81%E9%97%AD%E7%89%B9%E8%AE%AD%E4%B8%89%E4%B8%AA%E6%9C%88",
+      "rank": 15
+    },
+    {
+      "title": "金子涵怎么了",
+      "hot_value": 374007,
+      "link": "https://s.weibo.com/weibo?q=%E9%87%91%E5%AD%90%E6%B6%B5%E6%80%8E%E4%B9%88%E4%BA%86",
+      "rank": 16
+    },
+    {
+      "title": "特朗普称不知道红牌还要禁赛",
+      "hot_value": 357191,
+      "link": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%8D%E7%9F%A5%E9%81%93%E7%BA%A2%E7%89%8C%E8%BF%98%E8%A6%81%E7%A6%81%E8%B5%9B",
+      "rank": 17
+    },
+    {
+      "title": "LV等大牌集体撞款中国传统纹样",
+      "hot_value": 327743,
+      "link": "https://s.weibo.com/weibo?q=LV%E7%AD%89%E5%A4%A7%E7%89%8C%E9%9B%86%E4%BD%93%E6%92%9E%E6%AC%BE%E4%B8%AD%E5%9B%BD%E4%BC%A0%E7%BB%9F%E7%BA%B9%E6%A0%B7",
+      "rank": 18
+    },
+    {
+      "title": "12306回应改了凌晨票提示语",
+      "hot_value": 326586,
+      "link": "https://s.weibo.com/weibo?q=12306%E5%9B%9E%E5%BA%94%E6%94%B9%E4%BA%86%E5%87%8C%E6%99%A8%E7%A5%A8%E6%8F%90%E7%A4%BA%E8%AF%AD",
+      "rank": 19
+    },
+    {
+      "title": "三星利润",
+      "hot_value": 326034,
+      "link": "https://s.weibo.com/weibo?q=%E4%B8%89%E6%98%9F%E5%88%A9%E6%B6%A6",
+      "rank": 20
+    },
+    {
+      "title": "功夫女足 周杰伦阿信",
+      "hot_value": 323886,
+      "link": "https://s.weibo.com/weibo?q=%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%20%E5%91%A8%E6%9D%B0%E4%BC%A6%E9%98%BF%E4%BF%A1",
+      "rank": 21
+    },
+    {
+      "title": "我喜欢不着急的人",
+      "hot_value": 322056,
+      "link": "https://s.weibo.com/weibo?q=%E6%88%91%E5%96%9C%E6%AC%A2%E4%B8%8D%E7%9D%80%E6%80%A5%E7%9A%84%E4%BA%BA",
+      "rank": 22
+    },
+    {
+      "title": "特朗普说比利时赢球有黑幕",
+      "hot_value": 320687,
+      "link": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E6%AF%94%E5%88%A9%E6%97%B6%E8%B5%A2%E7%90%83%E6%9C%89%E9%BB%91%E5%B9%95",
+      "rank": 23
+    },
+    {
+      "title": "杨威向杨阳洋道歉",
+      "hot_value": 319851,
+      "link": "https://s.weibo.com/weibo?q=%E6%9D%A8%E5%A8%81%E5%90%91%E6%9D%A8%E9%98%B3%E6%B4%8B%E9%81%93%E6%AD%89",
+      "rank": 24
+    },
+    {
+      "title": "张柏芝商演生图",
+      "hot_value": 318197,
+      "link": "https://s.weibo.com/weibo?q=%E5%BC%A0%E6%9F%8F%E8%8A%9D%E5%95%86%E6%BC%94%E7%94%9F%E5%9B%BE",
+      "rank": 25
+    },
+    {
+      "title": "世界杯8强6席已定",
+      "hot_value": 316946,
+      "link": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF8%E5%BC%BA6%E5%B8%AD%E5%B7%B2%E5%AE%9A",
+      "rank": 26
+    },
+    {
+      "title": "迪丽热巴练出一身肌肉线条",
+      "hot_value": 315436,
+      "link": "https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%BB%83%E5%87%BA%E4%B8%80%E8%BA%AB%E8%82%8C%E8%82%89%E7%BA%BF%E6%9D%A1",
+      "rank": 27
+    },
+    {
+      "title": "离婚后别把我写成歌",
+      "hot_value": 313892,
+      "link": "https://s.weibo.com/weibo?q=%E7%A6%BB%E5%A9%9A%E5%90%8E%E5%88%AB%E6%8A%8A%E6%88%91%E5%86%99%E6%88%90%E6%AD%8C",
+      "rank": 28
+    },
+    {
+      "title": "美国淘汰",
+      "hot_value": 311132,
+      "link": "https://s.weibo.com/weibo?q=%E7%BE%8E%E5%9B%BD%E6%B7%98%E6%B1%B0",
+      "rank": 29
+    },
+    {
+      "title": "王濛聊到浪姐随意更改赛制",
+      "hot_value": 311074,
+      "link": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%BF%9B%E8%81%8A%E5%88%B0%E6%B5%AA%E5%A7%90%E9%9A%8F%E6%84%8F%E6%9B%B4%E6%94%B9%E8%B5%9B%E5%88%B6",
+      "rank": 30
+    },
+    {
+      "title": "世界杯上的黄昏荣光与少年星光",
+      "hot_value": 309282,
+      "link": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%8A%E7%9A%84%E9%BB%84%E6%98%8F%E8%8D%A3%E5%85%89%E4%B8%8E%E5%B0%91%E5%B9%B4%E6%98%9F%E5%85%89",
+      "rank": 31
+    },
+    {
+      "title": "还我佛得角",
+      "hot_value": 307291,
+      "link": "https://s.weibo.com/weibo?q=%E8%BF%98%E6%88%91%E4%BD%9B%E5%BE%97%E8%A7%92",
+      "rank": 32
+    },
+    {
+      "title": "恋与深空玩家为敖尹捐款",
+      "hot_value": 305163,
+      "link": "https://s.weibo.com/weibo?q=%E6%81%8B%E4%B8%8E%E6%B7%B1%E7%A9%BA%E7%8E%A9%E5%AE%B6%E4%B8%BA%E6%95%96%E5%B0%B9%E6%8D%90%E6%AC%BE",
+      "rank": 33
+    },
+    {
+      "title": "LV被指垄断中国古纹样",
+      "hot_value": 304956,
+      "link": "https://s.weibo.com/weibo?q=LV%E8%A2%AB%E6%8C%87%E5%9E%84%E6%96%AD%E4%B8%AD%E5%9B%BD%E5%8F%A4%E7%BA%B9%E6%A0%B7",
+      "rank": 34
+    },
+    {
+      "title": "功夫女足海外版预告",
+      "hot_value": 303402,
+      "link": "https://s.weibo.com/weibo?q=%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E6%B5%B7%E5%A4%96%E7%89%88%E9%A2%84%E5%91%8A",
+      "rank": 35
+    },
+    {
+      "title": "我家那闺女 陈妍希黄灿灿",
+      "hot_value": 301419,
+      "link": "https://s.weibo.com/weibo?q=%E6%88%91%E5%AE%B6%E9%82%A3%E9%97%BA%E5%A5%B3%20%E9%99%88%E5%A6%8D%E5%B8%8C%E9%BB%84%E7%81%BF%E7%81%BF",
+      "rank": 36
+    },
+    {
+      "title": "美富豪与19岁儿子换血后自曝患病",
+      "hot_value": 299035,
+      "link": "https://s.weibo.com/weibo?q=%E7%BE%8E%E5%AF%8C%E8%B1%AA%E4%B8%8E19%E5%B2%81%E5%84%BF%E5%AD%90%E6%8D%A2%E8%A1%80%E5%90%8E%E8%87%AA%E6%9B%9D%E6%82%A3%E7%97%85",
+      "rank": 37
+    },
+    {
+      "title": "苏醒谈葡萄牙淘汰",
+      "hot_value": 298077,
+      "link": "https://s.weibo.com/weibo?q=%E8%8B%8F%E9%86%92%E8%B0%88%E8%91%A1%E8%90%84%E7%89%99%E6%B7%98%E6%B1%B0",
+      "rank": 38
+    },
+    {
+      "title": "把上班叫做待gap期",
+      "hot_value": 296420,
+      "link": "https://s.weibo.com/weibo?q=%E6%8A%8A%E4%B8%8A%E7%8F%AD%E5%8F%AB%E5%81%9A%E5%BE%85gap%E6%9C%9F",
+      "rank": 39
+    },
+    {
+      "title": "papi酱该补牙了",
+      "hot_value": 295339,
+      "link": "https://s.weibo.com/weibo?q=papi%E9%85%B1%E8%AF%A5%E8%A1%A5%E7%89%99%E4%BA%86",
+      "rank": 40
+    },
+    {
+      "title": "香港黑帮头目垄断工地盒饭年赚千万",
+      "hot_value": 294327,
+      "link": "https://s.weibo.com/weibo?q=%E9%A6%99%E6%B8%AF%E9%BB%91%E5%B8%AE%E5%A4%B4%E7%9B%AE%E5%9E%84%E6%96%AD%E5%B7%A5%E5%9C%B0%E7%9B%92%E9%A5%AD%E5%B9%B4%E8%B5%9A%E5%8D%83%E4%B8%87",
+      "rank": 41
+    },
+    {
+      "title": "野狗骨头 不急于爱情",
+      "hot_value": 291492,
+      "link": "https://s.weibo.com/weibo?q=%E9%87%8E%E7%8B%97%E9%AA%A8%E5%A4%B4%20%E4%B8%8D%E6%80%A5%E4%BA%8E%E7%88%B1%E6%83%85",
+      "rank": 42
+    },
+    {
+      "title": "野狗骨头 亲子鉴定",
+      "hot_value": 290576,
+      "link": "https://s.weibo.com/weibo?q=%E9%87%8E%E7%8B%97%E9%AA%A8%E5%A4%B4%20%E4%BA%B2%E5%AD%90%E9%89%B4%E5%AE%9A",
+      "rank": 43
+    },
+    {
+      "title": "比利时回应战胜美国",
+      "hot_value": 289605,
+      "link": "https://s.weibo.com/weibo?q=%E6%AF%94%E5%88%A9%E6%97%B6%E5%9B%9E%E5%BA%94%E6%88%98%E8%83%9C%E7%BE%8E%E5%9B%BD",
+      "rank": 44
+    },
+    {
+      "title": "白敬亭把假人吹爆反被吓一跳",
+      "hot_value": 287145,
+      "link": "https://s.weibo.com/weibo?q=%E7%99%BD%E6%95%AC%E4%BA%AD%E6%8A%8A%E5%81%87%E4%BA%BA%E5%90%B9%E7%88%86%E5%8F%8D%E8%A2%AB%E5%90%93%E4%B8%80%E8%B7%B3",
+      "rank": 45
+    },
+    {
+      "title": "苹果涨涨涨",
+      "hot_value": 285450,
+      "link": "https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C%E6%B6%A8%E6%B6%A8%E6%B6%A8",
+      "rank": 46
+    },
+    {
+      "title": "野狗骨头小说",
+      "hot_value": 284824,
+      "link": "https://s.weibo.com/weibo?q=%E9%87%8E%E7%8B%97%E9%AA%A8%E5%A4%B4%E5%B0%8F%E8%AF%B4",
+      "rank": 47
+    },
+    {
+      "title": "向佐说向佑懒",
+      "hot_value": 283551,
+      "link": "https://s.weibo.com/weibo?q=%E5%90%91%E4%BD%90%E8%AF%B4%E5%90%91%E4%BD%91%E6%87%92",
+      "rank": 48
+    },
+    {
+      "title": "美国1比4比利时",
+      "hot_value": 281849,
+      "link": "https://s.weibo.com/weibo?q=%E7%BE%8E%E5%9B%BD1%E6%AF%944%E6%AF%94%E5%88%A9%E6%97%B6",
+      "rank": 49
+    },
+    {
+      "title": "台风",
+      "hot_value": 280792,
+      "link": "https://s.weibo.com/weibo?q=%E5%8F%B0%E9%A3%8E",
+      "rank": 50
+    }
+  ]
+}
