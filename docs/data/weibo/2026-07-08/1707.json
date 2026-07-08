@@ -1,0 +1,307 @@
+{
+  "platform": "weibo",
+  "platform_name": "微博热搜",
+  "time": "2026-07-08 17:07:36",
+  "items": [
+    {
+      "title": "乳状云 特大暴雨",
+      "hot_value": 2181020,
+      "link": "https://s.weibo.com/weibo?q=%E4%B9%B3%E7%8A%B6%E4%BA%91%20%E7%89%B9%E5%A4%A7%E6%9A%B4%E9%9B%A8",
+      "rank": 1
+    },
+    {
+      "title": "莫德里奇点赞达利奇",
+      "hot_value": 1120493,
+      "link": "https://s.weibo.com/weibo?q=%E8%8E%AB%E5%BE%B7%E9%87%8C%E5%A5%87%E7%82%B9%E8%B5%9E%E8%BE%BE%E5%88%A9%E5%A5%87",
+      "rank": 2
+    },
+    {
+      "title": "科学应对台风指南",
+      "hot_value": 961500,
+      "link": "https://s.weibo.com/weibo?q=%E7%A7%91%E5%AD%A6%E5%BA%94%E5%AF%B9%E5%8F%B0%E9%A3%8E%E6%8C%87%E5%8D%97",
+      "rank": 3
+    },
+    {
+      "title": "千万不要侧躺玩手机",
+      "hot_value": 956327,
+      "link": "https://s.weibo.com/weibo?q=%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E4%BE%A7%E8%BA%BA%E7%8E%A9%E6%89%8B%E6%9C%BA",
+      "rank": 4
+    },
+    {
+      "title": "法拉利高管称中国车企像在开发快消品",
+      "hot_value": 914839,
+      "link": "https://s.weibo.com/weibo?q=%E6%B3%95%E6%8B%89%E5%88%A9%E9%AB%98%E7%AE%A1%E7%A7%B0%E4%B8%AD%E5%9B%BD%E8%BD%A6%E4%BC%81%E5%83%8F%E5%9C%A8%E5%BC%80%E5%8F%91%E5%BF%AB%E6%B6%88%E5%93%81",
+      "rank": 5
+    },
+    {
+      "title": "有没有体面一点的午休方式",
+      "hot_value": 914760,
+      "link": "https://s.weibo.com/weibo?q=%E6%9C%89%E6%B2%A1%E6%9C%89%E4%BD%93%E9%9D%A2%E4%B8%80%E7%82%B9%E7%9A%84%E5%8D%88%E4%BC%91%E6%96%B9%E5%BC%8F",
+      "rank": 6
+    },
+    {
+      "title": "台风巴威路径又开始摇摆了",
+      "hot_value": 909495,
+      "link": "https://s.weibo.com/weibo?q=%E5%8F%B0%E9%A3%8E%E5%B7%B4%E5%A8%81%E8%B7%AF%E5%BE%84%E5%8F%88%E5%BC%80%E5%A7%8B%E6%91%87%E6%91%86%E4%BA%86",
+      "rank": 7
+    },
+    {
+      "title": "挪威队多人生病",
+      "hot_value": 902960,
+      "link": "https://s.weibo.com/weibo?q=%E6%8C%AA%E5%A8%81%E9%98%9F%E5%A4%9A%E4%BA%BA%E7%94%9F%E7%97%85",
+      "rank": 8
+    },
+    {
+      "title": "法国球员回应全阿根廷裁判组执法",
+      "hot_value": 900824,
+      "link": "https://s.weibo.com/weibo?q=%E6%B3%95%E5%9B%BD%E7%90%83%E5%91%98%E5%9B%9E%E5%BA%94%E5%85%A8%E9%98%BF%E6%A0%B9%E5%BB%B7%E8%A3%81%E5%88%A4%E7%BB%84%E6%89%A7%E6%B3%95",
+      "rank": 9
+    },
+    {
+      "title": "G2对战T1",
+      "hot_value": 895469,
+      "link": "https://s.weibo.com/weibo?q=G2%E5%AF%B9%E6%88%98T1",
+      "rank": 10
+    },
+    {
+      "title": "金晨仍持续掉粉",
+      "hot_value": 891752,
+      "link": "https://s.weibo.com/weibo?q=%E9%87%91%E6%99%A8%E4%BB%8D%E6%8C%81%E7%BB%AD%E6%8E%89%E7%B2%89",
+      "rank": 11
+    },
+    {
+      "title": "赵丽颖闺蜜暂代经纪人",
+      "hot_value": 886944,
+      "link": "https://s.weibo.com/weibo?q=%E8%B5%B5%E4%B8%BD%E9%A2%96%E9%97%BA%E8%9C%9C%E6%9A%82%E4%BB%A3%E7%BB%8F%E7%BA%AA%E4%BA%BA",
+      "rank": 12
+    },
+    {
+      "title": "身体严重缺觉的8个迹象",
+      "hot_value": 880322,
+      "link": "https://s.weibo.com/weibo?q=%E8%BA%AB%E4%BD%93%E4%B8%A5%E9%87%8D%E7%BC%BA%E8%A7%89%E7%9A%848%E4%B8%AA%E8%BF%B9%E8%B1%A1",
+      "rank": 13
+    },
+    {
+      "title": "消防员凭微弱求救声救起洪水中男孩",
+      "hot_value": 878038,
+      "link": "https://s.weibo.com/weibo?q=%E6%B6%88%E9%98%B2%E5%91%98%E5%87%AD%E5%BE%AE%E5%BC%B1%E6%B1%82%E6%95%91%E5%A3%B0%E6%95%91%E8%B5%B7%E6%B4%AA%E6%B0%B4%E4%B8%AD%E7%94%B7%E5%AD%A9",
+      "rank": 14
+    },
+    {
+      "title": "野狗骨头疑似剧宣抄袭",
+      "hot_value": 873211,
+      "link": "https://s.weibo.com/weibo?q=%E9%87%8E%E7%8B%97%E9%AA%A8%E5%A4%B4%E7%96%91%E4%BC%BC%E5%89%A7%E5%AE%A3%E6%8A%84%E8%A2%AD",
+      "rank": 15
+    },
+    {
+      "title": "虞书欣陈靖可老钱风剧宣",
+      "hot_value": 869807,
+      "link": "https://s.weibo.com/weibo?q=%E8%99%9E%E4%B9%A6%E6%AC%A3%E9%99%88%E9%9D%96%E5%8F%AF%E8%80%81%E9%92%B1%E9%A3%8E%E5%89%A7%E5%AE%A3",
+      "rank": 16
+    },
+    {
+      "title": "多支救援队带设备转移贵港被困学生",
+      "hot_value": 864176,
+      "link": "https://s.weibo.com/weibo?q=%E5%A4%9A%E6%94%AF%E6%95%91%E6%8F%B4%E9%98%9F%E5%B8%A6%E8%AE%BE%E5%A4%87%E8%BD%AC%E7%A7%BB%E8%B4%B5%E6%B8%AF%E8%A2%AB%E5%9B%B0%E5%AD%A6%E7%94%9F",
+      "rank": 17
+    },
+    {
+      "title": "王俊凯演唱会舞美团队",
+      "hot_value": 861889,
+      "link": "https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%E6%BC%94%E5%94%B1%E4%BC%9A%E8%88%9E%E7%BE%8E%E5%9B%A2%E9%98%9F",
+      "rank": 18
+    },
+    {
+      "title": "哈兰德 没白偷水喝",
+      "hot_value": 856490,
+      "link": "https://s.weibo.com/weibo?q=%E5%93%88%E5%85%B0%E5%BE%B7%20%E6%B2%A1%E7%99%BD%E5%81%B7%E6%B0%B4%E5%96%9D",
+      "rank": 19
+    },
+    {
+      "title": "阿根廷 脏",
+      "hot_value": 849717,
+      "link": "https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7%20%E8%84%8F",
+      "rank": 20
+    },
+    {
+      "title": "广西一龙舟队划龙舟救人",
+      "hot_value": 845989,
+      "link": "https://s.weibo.com/weibo?q=%E5%B9%BF%E8%A5%BF%E4%B8%80%E9%BE%99%E8%88%9F%E9%98%9F%E5%88%92%E9%BE%99%E8%88%9F%E6%95%91%E4%BA%BA",
+      "rank": 21
+    },
+    {
+      "title": "董思成退出NCT",
+      "hot_value": 843125,
+      "link": "https://s.weibo.com/weibo?q=%E8%91%A3%E6%80%9D%E6%88%90%E9%80%80%E5%87%BANCT",
+      "rank": 22
+    },
+    {
+      "title": "小米集团大涨超9%",
+      "hot_value": 838117,
+      "link": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E9%9B%86%E5%9B%A2%E5%A4%A7%E6%B6%A8%E8%B6%859%25",
+      "rank": 23
+    },
+    {
+      "title": "猫粮品牌回应疑致小猫瘫痪",
+      "hot_value": 831357,
+      "link": "https://s.weibo.com/weibo?q=%E7%8C%AB%E7%B2%AE%E5%93%81%E7%89%8C%E5%9B%9E%E5%BA%94%E7%96%91%E8%87%B4%E5%B0%8F%E7%8C%AB%E7%98%AB%E7%97%AA",
+      "rank": 24
+    },
+    {
+      "title": "gemini为了偷懒不择手段",
+      "hot_value": 831166,
+      "link": "https://s.weibo.com/weibo?q=gemini%E4%B8%BA%E4%BA%86%E5%81%B7%E6%87%92%E4%B8%8D%E6%8B%A9%E6%89%8B%E6%AE%B5",
+      "rank": 25
+    },
+    {
+      "title": "薛小婉任权领结婚证了",
+      "hot_value": 825878,
+      "link": "https://s.weibo.com/weibo?q=%E8%96%9B%E5%B0%8F%E5%A9%89%E4%BB%BB%E6%9D%83%E9%A2%86%E7%BB%93%E5%A9%9A%E8%AF%81%E4%BA%86",
+      "rank": 26
+    },
+    {
+      "title": "董思成回应退出NCT",
+      "hot_value": 818868,
+      "link": "https://s.weibo.com/weibo?q=%E8%91%A3%E6%80%9D%E6%88%90%E5%9B%9E%E5%BA%94%E9%80%80%E5%87%BANCT",
+      "rank": 27
+    },
+    {
+      "title": "韩国节目男主持当众殴打女主持",
+      "hot_value": 815980,
+      "link": "https://s.weibo.com/weibo?q=%E9%9F%A9%E5%9B%BD%E8%8A%82%E7%9B%AE%E7%94%B7%E4%B8%BB%E6%8C%81%E5%BD%93%E4%BC%97%E6%AE%B4%E6%89%93%E5%A5%B3%E4%B8%BB%E6%8C%81",
+      "rank": 28
+    },
+    {
+      "title": "迪丽热巴张艺兴功夫女足深圳路演",
+      "hot_value": 812584,
+      "link": "https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%BC%A0%E8%89%BA%E5%85%B4%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E6%B7%B1%E5%9C%B3%E8%B7%AF%E6%BC%94",
+      "rank": 29
+    },
+    {
+      "title": "丁程鑫张凌赫看到刘宇宁身上有草莓的反应",
+      "hot_value": 807595,
+      "link": "https://s.weibo.com/weibo?q=%E4%B8%81%E7%A8%8B%E9%91%AB%E5%BC%A0%E5%87%8C%E8%B5%AB%E7%9C%8B%E5%88%B0%E5%88%98%E5%AE%87%E5%AE%81%E8%BA%AB%E4%B8%8A%E6%9C%89%E8%8D%89%E8%8E%93%E7%9A%84%E5%8F%8D%E5%BA%94",
+      "rank": 30
+    },
+    {
+      "title": "广西 血清",
+      "hot_value": 801055,
+      "link": "https://s.weibo.com/weibo?q=%E5%B9%BF%E8%A5%BF%20%E8%A1%80%E6%B8%85",
+      "rank": 31
+    },
+    {
+      "title": "玄彬孙艺珍带儿子逛科技馆",
+      "hot_value": 797893,
+      "link": "https://s.weibo.com/weibo?q=%E7%8E%84%E5%BD%AC%E5%AD%99%E8%89%BA%E7%8F%8D%E5%B8%A6%E5%84%BF%E5%AD%90%E9%80%9B%E7%A7%91%E6%8A%80%E9%A6%86",
+      "rank": 32
+    },
+    {
+      "title": "范丞丞方起诉司晓迪",
+      "hot_value": 9469192,
+      "link": "https://s.weibo.com/weibo?q=%E8%8C%83%E4%B8%9E%E4%B8%9E%E6%96%B9%E8%B5%B7%E8%AF%89%E5%8F%B8%E6%99%93%E8%BF%AA",
+      "rank": 33
+    },
+    {
+      "title": "领导问有什么事比上班重要",
+      "hot_value": 791143,
+      "link": "https://s.weibo.com/weibo?q=%E9%A2%86%E5%AF%BC%E9%97%AE%E6%9C%89%E4%BB%80%E4%B9%88%E4%BA%8B%E6%AF%94%E4%B8%8A%E7%8F%AD%E9%87%8D%E8%A6%81",
+      "rank": 34
+    },
+    {
+      "title": "霉霉已经可以买下月球了",
+      "hot_value": 783658,
+      "link": "https://s.weibo.com/weibo?q=%E9%9C%89%E9%9C%89%E5%B7%B2%E7%BB%8F%E5%8F%AF%E4%BB%A5%E4%B9%B0%E4%B8%8B%E6%9C%88%E7%90%83%E4%BA%86",
+      "rank": 35
+    },
+    {
+      "title": "女生在最危险的时刻没有放弃狗狗",
+      "hot_value": 782541,
+      "link": "https://s.weibo.com/weibo?q=%E5%A5%B3%E7%94%9F%E5%9C%A8%E6%9C%80%E5%8D%B1%E9%99%A9%E7%9A%84%E6%97%B6%E5%88%BB%E6%B2%A1%E6%9C%89%E6%94%BE%E5%BC%83%E7%8B%97%E7%8B%97",
+      "rank": 36
+    },
+    {
+      "title": "突然发现雨伞可以当支架",
+      "hot_value": 775312,
+      "link": "https://s.weibo.com/weibo?q=%E7%AA%81%E7%84%B6%E5%8F%91%E7%8E%B0%E9%9B%A8%E4%BC%9E%E5%8F%AF%E4%BB%A5%E5%BD%93%E6%94%AF%E6%9E%B6",
+      "rank": 37
+    },
+    {
+      "title": "大厂人的消费观好可怕",
+      "hot_value": 772995,
+      "link": "https://s.weibo.com/weibo?q=%E5%A4%A7%E5%8E%82%E4%BA%BA%E7%9A%84%E6%B6%88%E8%B4%B9%E8%A7%82%E5%A5%BD%E5%8F%AF%E6%80%95",
+      "rank": 38
+    },
+    {
+      "title": "阿根廷球迷举以色列国旗",
+      "hot_value": 767891,
+      "link": "https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7%E7%90%83%E8%BF%B7%E4%B8%BE%E4%BB%A5%E8%89%B2%E5%88%97%E5%9B%BD%E6%97%97",
+      "rank": 39
+    },
+    {
+      "title": "上网看到了人均过万",
+      "hot_value": 764097,
+      "link": "https://s.weibo.com/weibo?q=%E4%B8%8A%E7%BD%91%E7%9C%8B%E5%88%B0%E4%BA%86%E4%BA%BA%E5%9D%87%E8%BF%87%E4%B8%87",
+      "rank": 40
+    },
+    {
+      "title": "papi酱 金曲奖最佳MV",
+      "hot_value": 757211,
+      "link": "https://s.weibo.com/weibo?q=papi%E9%85%B1%20%E9%87%91%E6%9B%B2%E5%A5%96%E6%9C%80%E4%BD%B3MV",
+      "rank": 41
+    },
+    {
+      "title": "迪丽热巴功夫女足路演场满座",
+      "hot_value": 756257,
+      "link": "https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E8%B7%AF%E6%BC%94%E5%9C%BA%E6%BB%A1%E5%BA%A7",
+      "rank": 42
+    },
+    {
+      "title": "旅游7天定律",
+      "hot_value": 747850,
+      "link": "https://s.weibo.com/weibo?q=%E6%97%85%E6%B8%B87%E5%A4%A9%E5%AE%9A%E5%BE%8B",
+      "rank": 43
+    },
+    {
+      "title": "吴彤大变样",
+      "hot_value": 744195,
+      "link": "https://s.weibo.com/weibo?q=%E5%90%B4%E5%BD%A4%E5%A4%A7%E5%8F%98%E6%A0%B7",
+      "rank": 44
+    },
+    {
+      "title": "肖战齐夏要送走好多人",
+      "hot_value": 741204,
+      "link": "https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E9%BD%90%E5%A4%8F%E8%A6%81%E9%80%81%E8%B5%B0%E5%A5%BD%E5%A4%9A%E4%BA%BA",
+      "rank": 45
+    },
+    {
+      "title": "特朗普认为美伊谅解备忘录已终结",
+      "hot_value": 738674,
+      "link": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%A4%E4%B8%BA%E7%BE%8E%E4%BC%8A%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95%E5%B7%B2%E7%BB%88%E7%BB%93",
+      "rank": 46
+    },
+    {
+      "title": "周杰伦御用编曲王俊凯下一天",
+      "hot_value": 733672,
+      "link": "https://s.weibo.com/weibo?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%E5%BE%A1%E7%94%A8%E7%BC%96%E6%9B%B2%E7%8E%8B%E4%BF%8A%E5%87%AF%E4%B8%8B%E4%B8%80%E5%A4%A9",
+      "rank": 47
+    },
+    {
+      "title": "阿里 全员卸载Claude",
+      "hot_value": 730023,
+      "link": "https://s.weibo.com/weibo?q=%E9%98%BF%E9%87%8C%20%E5%85%A8%E5%91%98%E5%8D%B8%E8%BD%BDClaude",
+      "rank": 48
+    },
+    {
+      "title": "肖战小城良方换声线了",
+      "hot_value": 721646,
+      "link": "https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E5%B0%8F%E5%9F%8E%E8%89%AF%E6%96%B9%E6%8D%A2%E5%A3%B0%E7%BA%BF%E4%BA%86",
+      "rank": 49
+    },
+    {
+      "title": "第一次对极繁主义有了实感",
+      "hot_value": 721376,
+      "link": "https://s.weibo.com/weibo?q=%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%AF%B9%E6%9E%81%E7%B9%81%E4%B8%BB%E4%B9%89%E6%9C%89%E4%BA%86%E5%AE%9E%E6%84%9F",
+      "rank": 50
+    }
+  ]
+}
