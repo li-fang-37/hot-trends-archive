@@ -1,0 +1,307 @@
+{
+  "platform": "weibo",
+  "platform_name": "微博热搜",
+  "time": "2026-07-09 09:07:30",
+  "items": [
+    {
+      "title": "台风巴威可能正面登陆",
+      "hot_value": 2192653,
+      "link": "https://s.weibo.com/weibo?q=%E5%8F%B0%E9%A3%8E%E5%B7%B4%E5%A8%81%E5%8F%AF%E8%83%BD%E6%AD%A3%E9%9D%A2%E7%99%BB%E9%99%86",
+      "rank": 1
+    },
+    {
+      "title": "上海暴雨",
+      "hot_value": 1183165,
+      "link": "https://s.weibo.com/weibo?q=%E4%B8%8A%E6%B5%B7%E6%9A%B4%E9%9B%A8",
+      "rank": 2
+    },
+    {
+      "title": "当寂静的广西街头响起子弟兵口号",
+      "hot_value": 1162692,
+      "link": "https://s.weibo.com/weibo?q=%E5%BD%93%E5%AF%82%E9%9D%99%E7%9A%84%E5%B9%BF%E8%A5%BF%E8%A1%97%E5%A4%B4%E5%93%8D%E8%B5%B7%E5%AD%90%E5%BC%9F%E5%85%B5%E5%8F%A3%E5%8F%B7",
+      "rank": 3
+    },
+    {
+      "title": "宜宾高县地震",
+      "hot_value": 1161987,
+      "link": "https://s.weibo.com/weibo?q=%E5%AE%9C%E5%AE%BE%E9%AB%98%E5%8E%BF%E5%9C%B0%E9%9C%87",
+      "rank": 4
+    },
+    {
+      "title": "FBI调查阿根廷足协在美资金运作",
+      "hot_value": 1024136,
+      "link": "https://s.weibo.com/weibo?q=FBI%E8%B0%83%E6%9F%A5%E9%98%BF%E6%A0%B9%E5%BB%B7%E8%B6%B3%E5%8D%8F%E5%9C%A8%E7%BE%8E%E8%B5%84%E9%87%91%E8%BF%90%E4%BD%9C",
+      "rank": 5
+    },
+    {
+      "title": "巴威",
+      "hot_value": 881013,
+      "link": "https://s.weibo.com/weibo?q=%E5%B7%B4%E5%A8%81",
+      "rank": 6
+    },
+    {
+      "title": "阿根廷夺冠概率跌至第四",
+      "hot_value": 701542,
+      "link": "https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7%E5%A4%BA%E5%86%A0%E6%A6%82%E7%8E%87%E8%B7%8C%E8%87%B3%E7%AC%AC%E5%9B%9B",
+      "rank": 7
+    },
+    {
+      "title": "粉笔CEO张小龙辞职",
+      "hot_value": 454325,
+      "link": "https://s.weibo.com/weibo?q=%E7%B2%89%E7%AC%94CEO%E5%BC%A0%E5%B0%8F%E9%BE%99%E8%BE%9E%E8%81%8C",
+      "rank": 8
+    },
+    {
+      "title": "虞书欣就这样一胖一瘦地过来了",
+      "hot_value": 314172,
+      "link": "https://s.weibo.com/weibo?q=%E8%99%9E%E4%B9%A6%E6%AC%A3%E5%B0%B1%E8%BF%99%E6%A0%B7%E4%B8%80%E8%83%96%E4%B8%80%E7%98%A6%E5%9C%B0%E8%BF%87%E6%9D%A5%E4%BA%86",
+      "rank": 9
+    },
+    {
+      "title": "千亿民企被曝全员停薪",
+      "hot_value": 313964,
+      "link": "https://s.weibo.com/weibo?q=%E5%8D%83%E4%BA%BF%E6%B0%91%E4%BC%81%E8%A2%AB%E6%9B%9D%E5%85%A8%E5%91%98%E5%81%9C%E8%96%AA",
+      "rank": 10
+    },
+    {
+      "title": "良子体检报告出来了",
+      "hot_value": 309187,
+      "link": "https://s.weibo.com/weibo?q=%E8%89%AF%E5%AD%90%E4%BD%93%E6%A3%80%E6%8A%A5%E5%91%8A%E5%87%BA%E6%9D%A5%E4%BA%86",
+      "rank": 11
+    },
+    {
+      "title": "黄灿灿 体重方面我会注意的",
+      "hot_value": 305269,
+      "link": "https://s.weibo.com/weibo?q=%E9%BB%84%E7%81%BF%E7%81%BF%20%E4%BD%93%E9%87%8D%E6%96%B9%E9%9D%A2%E6%88%91%E4%BC%9A%E6%B3%A8%E6%84%8F%E7%9A%84",
+      "rank": 12
+    },
+    {
+      "title": "才知道宝贝回家是给本人看的",
+      "hot_value": 300923,
+      "link": "https://s.weibo.com/weibo?q=%E6%89%8D%E7%9F%A5%E9%81%93%E5%AE%9D%E8%B4%9D%E5%9B%9E%E5%AE%B6%E6%98%AF%E7%BB%99%E6%9C%AC%E4%BA%BA%E7%9C%8B%E7%9A%84",
+      "rank": 13
+    },
+    {
+      "title": "功夫女足质感",
+      "hot_value": 300802,
+      "link": "https://s.weibo.com/weibo?q=%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E8%B4%A8%E6%84%9F",
+      "rank": 14
+    },
+    {
+      "title": "家人被卷走身亡幸存大儿子被送医院",
+      "hot_value": 300796,
+      "link": "https://s.weibo.com/weibo?q=%E5%AE%B6%E4%BA%BA%E8%A2%AB%E5%8D%B7%E8%B5%B0%E8%BA%AB%E4%BA%A1%E5%B9%B8%E5%AD%98%E5%A4%A7%E5%84%BF%E5%AD%90%E8%A2%AB%E9%80%81%E5%8C%BB%E9%99%A2",
+      "rank": 15
+    },
+    {
+      "title": "横州养殖户称每间蛇房都有铁丝网",
+      "hot_value": 300392,
+      "link": "https://s.weibo.com/weibo?q=%E6%A8%AA%E5%B7%9E%E5%85%BB%E6%AE%96%E6%88%B7%E7%A7%B0%E6%AF%8F%E9%97%B4%E8%9B%87%E6%88%BF%E9%83%BD%E6%9C%89%E9%93%81%E4%B8%9D%E7%BD%91",
+      "rank": 16
+    },
+    {
+      "title": "河南大哥带6000份烩面驰援广西",
+      "hot_value": 300046,
+      "link": "https://s.weibo.com/weibo?q=%E6%B2%B3%E5%8D%97%E5%A4%A7%E5%93%A5%E5%B8%A66000%E4%BB%BD%E7%83%A9%E9%9D%A2%E9%A9%B0%E6%8F%B4%E5%B9%BF%E8%A5%BF",
+      "rank": 17
+    },
+    {
+      "title": "长鑫科技新股申购",
+      "hot_value": 299798,
+      "link": "https://s.weibo.com/weibo?q=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E6%96%B0%E8%82%A1%E7%94%B3%E8%B4%AD",
+      "rank": 18
+    },
+    {
+      "title": "邓紫棋已经尽全力给到大家补偿了",
+      "hot_value": 299535,
+      "link": "https://s.weibo.com/weibo?q=%E9%82%93%E7%B4%AB%E6%A3%8B%E5%B7%B2%E7%BB%8F%E5%B0%BD%E5%85%A8%E5%8A%9B%E7%BB%99%E5%88%B0%E5%A4%A7%E5%AE%B6%E8%A1%A5%E5%81%BF%E4%BA%86",
+      "rank": 19
+    },
+    {
+      "title": "野狗骨头看完亲嘴再看这个好美味",
+      "hot_value": 299448,
+      "link": "https://s.weibo.com/weibo?q=%E9%87%8E%E7%8B%97%E9%AA%A8%E5%A4%B4%E7%9C%8B%E5%AE%8C%E4%BA%B2%E5%98%B4%E5%86%8D%E7%9C%8B%E8%BF%99%E4%B8%AA%E5%A5%BD%E7%BE%8E%E5%91%B3",
+      "rank": 20
+    },
+    {
+      "title": "被蛇咬伤村民在家看到五六条蛇",
+      "hot_value": 299122,
+      "link": "https://s.weibo.com/weibo?q=%E8%A2%AB%E8%9B%87%E5%92%AC%E4%BC%A4%E6%9D%91%E6%B0%91%E5%9C%A8%E5%AE%B6%E7%9C%8B%E5%88%B0%E4%BA%94%E5%85%AD%E6%9D%A1%E8%9B%87",
+      "rank": 21
+    },
+    {
+      "title": "邕江已出现70.92米的洪峰",
+      "hot_value": 298928,
+      "link": "https://s.weibo.com/weibo?q=%E9%82%95%E6%B1%9F%E5%B7%B2%E5%87%BA%E7%8E%B070.92%E7%B1%B3%E7%9A%84%E6%B4%AA%E5%B3%B0",
+      "rank": 22
+    },
+    {
+      "title": "台风巴威10日起影响杭州",
+      "hot_value": 298587,
+      "link": "https://s.weibo.com/weibo?q=%E5%8F%B0%E9%A3%8E%E5%B7%B4%E5%A8%8110%E6%97%A5%E8%B5%B7%E5%BD%B1%E5%93%8D%E6%9D%AD%E5%B7%9E",
+      "rank": 23
+    },
+    {
+      "title": "台风",
+      "hot_value": 298440,
+      "link": "https://s.weibo.com/weibo?q=%E5%8F%B0%E9%A3%8E",
+      "rank": 24
+    },
+    {
+      "title": "丁禹兮 刷子",
+      "hot_value": 298110,
+      "link": "https://s.weibo.com/weibo?q=%E4%B8%81%E7%A6%B9%E5%85%AE%20%E5%88%B7%E5%AD%90",
+      "rank": 25
+    },
+    {
+      "title": "印度12岁少女被4男轮奸沉塘",
+      "hot_value": 297883,
+      "link": "https://s.weibo.com/weibo?q=%E5%8D%B0%E5%BA%A612%E5%B2%81%E5%B0%91%E5%A5%B3%E8%A2%AB4%E7%94%B7%E8%BD%AE%E5%A5%B8%E6%B2%89%E5%A1%98",
+      "rank": 26
+    },
+    {
+      "title": "广东IP劝江浙沪囤货",
+      "hot_value": 297564,
+      "link": "https://s.weibo.com/weibo?q=%E5%B9%BF%E4%B8%9CIP%E5%8A%9D%E6%B1%9F%E6%B5%99%E6%B2%AA%E5%9B%A4%E8%B4%A7",
+      "rank": 27
+    },
+    {
+      "title": "良子今年的血糖和血压甚至更健康了",
+      "hot_value": 297434,
+      "link": "https://s.weibo.com/weibo?q=%E8%89%AF%E5%AD%90%E4%BB%8A%E5%B9%B4%E7%9A%84%E8%A1%80%E7%B3%96%E5%92%8C%E8%A1%80%E5%8E%8B%E7%94%9A%E8%87%B3%E6%9B%B4%E5%81%A5%E5%BA%B7%E4%BA%86",
+      "rank": 28
+    },
+    {
+      "title": "邓紫棋回应因台风取消演唱会",
+      "hot_value": 296975,
+      "link": "https://s.weibo.com/weibo?q=%E9%82%93%E7%B4%AB%E6%A3%8B%E5%9B%9E%E5%BA%94%E5%9B%A0%E5%8F%B0%E9%A3%8E%E5%8F%96%E6%B6%88%E6%BC%94%E5%94%B1%E4%BC%9A",
+      "rank": 29
+    },
+    {
+      "title": "纯电GLC价格给到夯",
+      "hot_value": 296925,
+      "link": "https://s.weibo.com/weibo?q=%E7%BA%AF%E7%94%B5GLC%E4%BB%B7%E6%A0%BC%E7%BB%99%E5%88%B0%E5%A4%AF",
+      "rank": 30
+    },
+    {
+      "title": "范丞丞方起诉司晓迪",
+      "hot_value": 296499,
+      "link": "https://s.weibo.com/weibo?q=%E8%8C%83%E4%B8%9E%E4%B8%9E%E6%96%B9%E8%B5%B7%E8%AF%89%E5%8F%B8%E6%99%93%E8%BF%AA",
+      "rank": 31
+    },
+    {
+      "title": "C罗乘私人飞机离开",
+      "hot_value": 296346,
+      "link": "https://s.weibo.com/weibo?q=C%E7%BD%97%E4%B9%98%E7%A7%81%E4%BA%BA%E9%A3%9E%E6%9C%BA%E7%A6%BB%E5%BC%80",
+      "rank": 32
+    },
+    {
+      "title": "德尚回应阿根廷裁判组执法",
+      "hot_value": 296086,
+      "link": "https://s.weibo.com/weibo?q=%E5%BE%B7%E5%B0%9A%E5%9B%9E%E5%BA%94%E9%98%BF%E6%A0%B9%E5%BB%B7%E8%A3%81%E5%88%A4%E7%BB%84%E6%89%A7%E6%B3%95",
+      "rank": 33
+    },
+    {
+      "title": "宋亚轩发型师是谁",
+      "hot_value": 295876,
+      "link": "https://s.weibo.com/weibo?q=%E5%AE%8B%E4%BA%9A%E8%BD%A9%E5%8F%91%E5%9E%8B%E5%B8%88%E6%98%AF%E8%B0%81",
+      "rank": 34
+    },
+    {
+      "title": "雷军坦言车内空间不应该固定",
+      "hot_value": 295673,
+      "link": "https://s.weibo.com/weibo?q=%E9%9B%B7%E5%86%9B%E5%9D%A6%E8%A8%80%E8%BD%A6%E5%86%85%E7%A9%BA%E9%97%B4%E4%B8%8D%E5%BA%94%E8%AF%A5%E5%9B%BA%E5%AE%9A",
+      "rank": 35
+    },
+    {
+      "title": "44岁渐冻症男子创奇迹结婚生下俩女",
+      "hot_value": 280428,
+      "link": "https://s.weibo.com/weibo?q=44%E5%B2%81%E6%B8%90%E5%86%BB%E7%97%87%E7%94%B7%E5%AD%90%E5%88%9B%E5%A5%87%E8%BF%B9%E7%BB%93%E5%A9%9A%E7%94%9F%E4%B8%8B%E4%BF%A9%E5%A5%B3",
+      "rank": 36
+    },
+    {
+      "title": "一家三口被风卷走坠亡官方介入",
+      "hot_value": 278013,
+      "link": "https://s.weibo.com/weibo?q=%E4%B8%80%E5%AE%B6%E4%B8%89%E5%8F%A3%E8%A2%AB%E9%A3%8E%E5%8D%B7%E8%B5%B0%E5%9D%A0%E4%BA%A1%E5%AE%98%E6%96%B9%E4%BB%8B%E5%85%A5",
+      "rank": 37
+    },
+    {
+      "title": "第一次见这么完美的西瓜",
+      "hot_value": 265951,
+      "link": "https://s.weibo.com/weibo?q=%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%81%E8%BF%99%E4%B9%88%E5%AE%8C%E7%BE%8E%E7%9A%84%E8%A5%BF%E7%93%9C",
+      "rank": 38
+    },
+    {
+      "title": "审美是一种无法伪装的能力",
+      "hot_value": 263759,
+      "link": "https://s.weibo.com/weibo?q=%E5%AE%A1%E7%BE%8E%E6%98%AF%E4%B8%80%E7%A7%8D%E6%97%A0%E6%B3%95%E4%BC%AA%E8%A3%85%E7%9A%84%E8%83%BD%E5%8A%9B",
+      "rank": 39
+    },
+    {
+      "title": "韦东奕获国家自然科学二等奖",
+      "hot_value": 248317,
+      "link": "https://s.weibo.com/weibo?q=%E9%9F%A6%E4%B8%9C%E5%A5%95%E8%8E%B7%E5%9B%BD%E5%AE%B6%E8%87%AA%E7%84%B6%E7%A7%91%E5%AD%A6%E4%BA%8C%E7%AD%89%E5%A5%96",
+      "rank": 40
+    },
+    {
+      "title": "广西洪水现状",
+      "hot_value": 247047,
+      "link": "https://s.weibo.com/weibo?q=%E5%B9%BF%E8%A5%BF%E6%B4%AA%E6%B0%B4%E7%8E%B0%E7%8A%B6",
+      "rank": 41
+    },
+    {
+      "title": "贵港动物园上百只动物被洪水冲走",
+      "hot_value": 215859,
+      "link": "https://s.weibo.com/weibo?q=%E8%B4%B5%E6%B8%AF%E5%8A%A8%E7%89%A9%E5%9B%AD%E4%B8%8A%E7%99%BE%E5%8F%AA%E5%8A%A8%E7%89%A9%E8%A2%AB%E6%B4%AA%E6%B0%B4%E5%86%B2%E8%B5%B0",
+      "rank": 42
+    },
+    {
+      "title": "小孩语言系统直白又可爱",
+      "hot_value": 201140,
+      "link": "https://s.weibo.com/weibo?q=%E5%B0%8F%E5%AD%A9%E8%AF%AD%E8%A8%80%E7%B3%BB%E7%BB%9F%E7%9B%B4%E7%99%BD%E5%8F%88%E5%8F%AF%E7%88%B1",
+      "rank": 43
+    },
+    {
+      "title": "黑天鹅突袭全球股市",
+      "hot_value": 188180,
+      "link": "https://s.weibo.com/weibo?q=%E9%BB%91%E5%A4%A9%E9%B9%85%E7%AA%81%E8%A2%AD%E5%85%A8%E7%90%83%E8%82%A1%E5%B8%82",
+      "rank": 44
+    },
+    {
+      "title": "王俊凯演唱会有实感了",
+      "hot_value": 187896,
+      "link": "https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%E6%BC%94%E5%94%B1%E4%BC%9A%E6%9C%89%E5%AE%9E%E6%84%9F%E4%BA%86",
+      "rank": 45
+    },
+    {
+      "title": "宋威龙张婧仪第一场戏就是初吻",
+      "hot_value": 187389,
+      "link": "https://s.weibo.com/weibo?q=%E5%AE%8B%E5%A8%81%E9%BE%99%E5%BC%A0%E5%A9%A7%E4%BB%AA%E7%AC%AC%E4%B8%80%E5%9C%BA%E6%88%8F%E5%B0%B1%E6%98%AF%E5%88%9D%E5%90%BB",
+      "rank": 46
+    },
+    {
+      "title": "研究称Claude内部有类人脑架构",
+      "hot_value": 187075,
+      "link": "https://s.weibo.com/weibo?q=%E7%A0%94%E7%A9%B6%E7%A7%B0Claude%E5%86%85%E9%83%A8%E6%9C%89%E7%B1%BB%E4%BA%BA%E8%84%91%E6%9E%B6%E6%9E%84",
+      "rank": 47
+    },
+    {
+      "title": "茶颜悦色吃出蟑螂干寄回才能赔付",
+      "hot_value": 186483,
+      "link": "https://s.weibo.com/weibo?q=%E8%8C%B6%E9%A2%9C%E6%82%A6%E8%89%B2%E5%90%83%E5%87%BA%E8%9F%91%E8%9E%82%E5%B9%B2%E5%AF%84%E5%9B%9E%E6%89%8D%E8%83%BD%E8%B5%94%E4%BB%98",
+      "rank": 48
+    },
+    {
+      "title": "功夫女足找回了港片黄金时代的味儿",
+      "hot_value": 185914,
+      "link": "https://s.weibo.com/weibo?q=%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E6%89%BE%E5%9B%9E%E4%BA%86%E6%B8%AF%E7%89%87%E9%BB%84%E9%87%91%E6%97%B6%E4%BB%A3%E7%9A%84%E5%91%B3%E5%84%BF",
+      "rank": 49
+    },
+    {
+      "title": "刘昊然欧阳娜娜聊天",
+      "hot_value": 185517,
+      "link": "https://s.weibo.com/weibo?q=%E5%88%98%E6%98%8A%E7%84%B6%E6%AC%A7%E9%98%B3%E5%A8%9C%E5%A8%9C%E8%81%8A%E5%A4%A9",
+      "rank": 50
+    }
+  ]
+}
