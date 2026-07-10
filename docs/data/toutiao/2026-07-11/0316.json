@@ -1,0 +1,307 @@
+{
+  "platform": "toutiao",
+  "platform_name": "今日头条",
+  "time": "2026-07-11 03:16:15",
+  "items": [
+    {
+      "title": "亚马尔领衔！西班牙VS比利时",
+      "hot_value": 44016546,
+      "link": "https://webcast-open.douyin.com/open/media_live/466275560750",
+      "rank": 1
+    },
+    {
+      "title": "“巴威”实时路径",
+      "hot_value": 39827818,
+      "link": "https://webcast-open.douyin.com/open/media_live/944483853805",
+      "rank": 2
+    },
+    {
+      "title": "广西多地汛情趋缓 子弟兵持续奋战",
+      "hot_value": 36037700,
+      "link": "https://www.toutiao.com/trending/7660118939531345974",
+      "rank": 3
+    },
+    {
+      "title": "微信红包转账有新变化",
+      "hot_value": 32608259,
+      "link": "https://www.toutiao.com/trending/7659918758710132772",
+      "rank": 4
+    },
+    {
+      "title": "浙江温岭金沙滩掀起数层楼高巨浪",
+      "hot_value": 29505173,
+      "link": "https://www.toutiao.com/trending/7660420426262839332",
+      "rank": 5
+    },
+    {
+      "title": "白发与癌症有一个意想不到的关联",
+      "hot_value": 26697384,
+      "link": "https://www.toutiao.com/trending/7660751778996109353",
+      "rank": 6
+    },
+    {
+      "title": "外媒感叹中国火箭回收“创造历史”",
+      "hot_value": 24156792,
+      "link": "https://www.toutiao.com/trending/7660881053470736434",
+      "rank": 7
+    },
+    {
+      "title": "台风巴威预计12日凌晨登陆",
+      "hot_value": 21857970,
+      "link": "https://www.toutiao.com/trending/7660301748204044294",
+      "rank": 8
+    },
+    {
+      "title": "山西五台山景区全域禁止徒步朝台",
+      "hot_value": 19777909,
+      "link": "https://www.toutiao.com/trending/7660396331387387947",
+      "rank": 9
+    },
+    {
+      "title": "阿根廷劫匪打劫老夫妻被连开五枪反杀",
+      "hot_value": 17895792,
+      "link": "https://www.toutiao.com/trending/7660551633143021622",
+      "rank": 10
+    },
+    {
+      "title": "“灾后恢复供电要交高额抢修费”不实",
+      "hot_value": 16192782,
+      "link": "https://www.toutiao.com/trending/7660796168749711406",
+      "rank": 11
+    },
+    {
+      "title": "特朗普：伊朗要求继续谈判 美已同意",
+      "hot_value": 14651835,
+      "link": "https://www.toutiao.com/trending/7660909473094962730",
+      "rank": 12
+    },
+    {
+      "title": "霍思燕的鸟也夺冠了",
+      "hot_value": 13257528,
+      "link": "https://www.toutiao.com/trending/7660387624108015659",
+      "rank": 13
+    },
+    {
+      "title": "福建火灾发生时鞋厂内共有239人",
+      "hot_value": 11995908,
+      "link": "https://www.toutiao.com/trending/7660401669062020671",
+      "rank": 14
+    },
+    {
+      "title": "哈梅内伊3个儿子再次现身安葬仪式",
+      "hot_value": 10854346,
+      "link": "https://www.toutiao.com/trending/7660378323081576454",
+      "rank": 15
+    },
+    {
+      "title": "网友香港餐厅偶遇刘亦菲",
+      "hot_value": 9821419,
+      "link": "https://www.toutiao.com/trending/7660493704407728164",
+      "rank": 16
+    },
+    {
+      "title": "原则上无人机不许吊人但人民大于原则",
+      "hot_value": 8886787,
+      "link": "https://www.toutiao.com/trending/7660404735362698815",
+      "rank": 17
+    },
+    {
+      "title": "4人给20多个鸭头挤40分钟鼻涕",
+      "hot_value": 8041097,
+      "link": "https://www.toutiao.com/trending/7660521528341463081",
+      "rank": 18
+    },
+    {
+      "title": "印尼：中国有权进行远程弹道导弹试验",
+      "hot_value": 7275886,
+      "link": "https://www.toutiao.com/trending/7660850466758557747",
+      "rank": 19
+    },
+    {
+      "title": "印度接盘救得了印尼镍矿产业吗",
+      "hot_value": 6583494,
+      "link": "https://www.toutiao.com/trending/7660881021776170502",
+      "rank": 20
+    },
+    {
+      "title": "起火鞋厂事发前2天被查出消防隐患",
+      "hot_value": 5956991,
+      "link": "https://www.toutiao.com/trending/7660519619669065764",
+      "rank": 21
+    },
+    {
+      "title": "为什么我们看见哈兰德就想笑",
+      "hot_value": 5390109,
+      "link": "https://www.toutiao.com/trending/7660878198082637338",
+      "rank": 22
+    },
+    {
+      "title": "巴威逼近 温州霞关镇全镇撤离",
+      "hot_value": 4877172,
+      "link": "https://www.toutiao.com/trending/7659940723870646335",
+      "rank": 23
+    },
+    {
+      "title": "福建晋江火灾已致28人死亡",
+      "hot_value": 4413048,
+      "link": "https://www.toutiao.com/trending/7660401669049667108",
+      "rank": 24
+    },
+    {
+      "title": "印度拿什么和中国抢空调订单",
+      "hot_value": 3993090,
+      "link": "https://www.toutiao.com/trending/7660895103879220779",
+      "rank": 25
+    },
+    {
+      "title": "防御台风 台州市委书记作电视讲话",
+      "hot_value": 3613098,
+      "link": "https://www.toutiao.com/trending/7660886691405630985",
+      "rank": 26
+    },
+    {
+      "title": "太空经济的“iPhone时刻”要来了吗",
+      "hot_value": 3269266,
+      "link": "https://www.toutiao.com/trending/7660854338671087130",
+      "rank": 27
+    },
+    {
+      "title": "中国不接受不承认所谓南海仲裁案",
+      "hot_value": 2958154,
+      "link": "https://www.toutiao.com/trending/7660146656280772617",
+      "rank": 28
+    },
+    {
+      "title": "告诉爸妈夏天别不舍得开空调",
+      "hot_value": 2676648,
+      "link": "https://www.toutiao.com/trending/7660819122570444841",
+      "rank": 29
+    },
+    {
+      "title": "我国对氦气临时禁止出口",
+      "hot_value": 2421932,
+      "link": "https://www.toutiao.com/trending/7660822101175124031",
+      "rank": 30
+    },
+    {
+      "title": "日本遗孤吃中国饭长大为何“当鬼”",
+      "hot_value": 2191454,
+      "link": "https://www.toutiao.com/trending/7660701529334205998",
+      "rank": 31
+    },
+    {
+      "title": "中纳同意加强铀锂稀土等关键矿产合作",
+      "hot_value": 1982910,
+      "link": "https://www.toutiao.com/trending/7660361131768234027",
+      "rank": 32
+    },
+    {
+      "title": "刘建宏：姆巴佩再夺一冠地位就奠定了",
+      "hot_value": 1794211,
+      "link": "https://www.toutiao.com/trending/7660146665340387364",
+      "rank": 33
+    },
+    {
+      "title": "高志凯：澳大利亚该珍惜本国无核",
+      "hot_value": 1623469,
+      "link": "https://www.toutiao.com/trending/7660890788334669353",
+      "rank": 34
+    },
+    {
+      "title": "抗洪军人偶遇自己妻儿被救",
+      "hot_value": 1468976,
+      "link": "https://www.toutiao.com/trending/7660432224390676489",
+      "rank": 35
+    },
+    {
+      "title": "《功夫女足》点映及预售票房破6000万",
+      "hot_value": 1329184,
+      "link": "https://www.toutiao.com/trending/7660408856882790436",
+      "rank": 36
+    },
+    {
+      "title": "教师人数两连降释放什么信号",
+      "hot_value": 1202695,
+      "link": "https://www.toutiao.com/trending/7660388828637167679",
+      "rank": 37
+    },
+    {
+      "title": "两部门再次预拨8000万支持广西救灾",
+      "hot_value": 1088244,
+      "link": "https://www.toutiao.com/trending/7659774102823534630",
+      "rank": 38
+    },
+    {
+      "title": "IU李钟硕宣布分手",
+      "hot_value": 984684,
+      "link": "https://www.toutiao.com/trending/7660761816867589670",
+      "rank": 39
+    },
+    {
+      "title": "巴威来袭多地“五停”",
+      "hot_value": 890979,
+      "link": "https://www.toutiao.com/trending/7660860449735278655",
+      "rank": 40
+    },
+    {
+      "title": "北京积水潭医院透析中心启动应急响应",
+      "hot_value": 806191,
+      "link": "https://www.toutiao.com/trending/7660827224180064310",
+      "rank": 41
+    },
+    {
+      "title": "挪威驻华大使：挪威创造历史最佳成绩",
+      "hot_value": 729471,
+      "link": "https://www.toutiao.com/trending/7660177209429065747",
+      "rank": 42
+    },
+    {
+      "title": "中国火箭回收为何一次就成功",
+      "hot_value": 660053,
+      "link": "https://www.toutiao.com/trending/7660828155283770899",
+      "rank": 43
+    },
+    {
+      "title": "人工智能时代最大的挑战是什么",
+      "hot_value": 597241,
+      "link": "https://www.toutiao.com/trending/7660881435691060755",
+      "rank": 44
+    },
+    {
+      "title": "中国空调治好了欧洲人的“安装病”",
+      "hot_value": 540406,
+      "link": "https://www.toutiao.com/trending/7660808953181244979",
+      "rank": 45
+    },
+    {
+      "title": "什么是火箭“网系回收”",
+      "hot_value": 488979,
+      "link": "https://www.toutiao.com/trending/7660873711402094126",
+      "rank": 46
+    },
+    {
+      "title": "如何看待印度媒体认为得向中国学习",
+      "hot_value": 442447,
+      "link": "https://www.toutiao.com/trending/7660876624207810084",
+      "rank": 47
+    },
+    {
+      "title": "世界杯前瞻：迟暮红魔遇青春斗牛士",
+      "hot_value": 400342,
+      "link": "https://www.toutiao.com/trending/7660853924122857014",
+      "rank": 48
+    },
+    {
+      "title": "我国成功实施火箭一子级可控回收",
+      "hot_value": 362245,
+      "link": "https://www.toutiao.com/trending/7660752075780787731",
+      "rank": 49
+    },
+    {
+      "title": "男子进山捡菌子死亡：或遭熊袭击",
+      "hot_value": 296581,
+      "link": "https://www.toutiao.com/trending/7660726586110640164",
+      "rank": 50
+    }
+  ]
+}
