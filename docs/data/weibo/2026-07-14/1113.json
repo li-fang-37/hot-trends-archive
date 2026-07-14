@@ -1,0 +1,307 @@
+{
+  "platform": "weibo",
+  "platform_name": "微博热搜",
+  "time": "2026-07-14 11:13:26",
+  "items": [
+    {
+      "title": "超250万人请愿将阿根廷逐出世界杯",
+      "hot_value": 2317428,
+      "link": "https://s.weibo.com/weibo?q=%E8%B6%85250%E4%B8%87%E4%BA%BA%E8%AF%B7%E6%84%BF%E5%B0%86%E9%98%BF%E6%A0%B9%E5%BB%B7%E9%80%90%E5%87%BA%E4%B8%96%E7%95%8C%E6%9D%AF",
+      "rank": 1
+    },
+    {
+      "title": "哈兰德抱着浣熊回挪威",
+      "hot_value": 2030353,
+      "link": "https://s.weibo.com/weibo?q=%E5%93%88%E5%85%B0%E5%BE%B7%E6%8A%B1%E7%9D%80%E6%B5%A3%E7%86%8A%E5%9B%9E%E6%8C%AA%E5%A8%81",
+      "rank": 2
+    },
+    {
+      "title": "一组先行指标看中国经济",
+      "hot_value": 2026722,
+      "link": "https://s.weibo.com/weibo?q=%E4%B8%80%E7%BB%84%E5%85%88%E8%A1%8C%E6%8C%87%E6%A0%87%E7%9C%8B%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E",
+      "rank": 3
+    },
+    {
+      "title": "中国人一旦吃饱就触发善良人格",
+      "hot_value": 2025556,
+      "link": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E4%B8%80%E6%97%A6%E5%90%83%E9%A5%B1%E5%B0%B1%E8%A7%A6%E5%8F%91%E5%96%84%E8%89%AF%E4%BA%BA%E6%A0%BC",
+      "rank": 4
+    },
+    {
+      "title": "预测离婚准确率高达94%",
+      "hot_value": 1278622,
+      "link": "https://s.weibo.com/weibo?q=%E9%A2%84%E6%B5%8B%E7%A6%BB%E5%A9%9A%E5%87%86%E7%A1%AE%E7%8E%87%E9%AB%98%E8%BE%BE94%25",
+      "rank": 5
+    },
+    {
+      "title": "民警家暴妻子致死曾多次写保证书",
+      "hot_value": 1191143,
+      "link": "https://s.weibo.com/weibo?q=%E6%B0%91%E8%AD%A6%E5%AE%B6%E6%9A%B4%E5%A6%BB%E5%AD%90%E8%87%B4%E6%AD%BB%E6%9B%BE%E5%A4%9A%E6%AC%A1%E5%86%99%E4%BF%9D%E8%AF%81%E4%B9%A6",
+      "rank": 6
+    },
+    {
+      "title": "女子把绿豆汤当水喝致脑出血",
+      "hot_value": 1115194,
+      "link": "https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%90%E6%8A%8A%E7%BB%BF%E8%B1%86%E6%B1%A4%E5%BD%93%E6%B0%B4%E5%96%9D%E8%87%B4%E8%84%91%E5%87%BA%E8%A1%80",
+      "rank": 7
+    },
+    {
+      "title": "张雅琪回应中餐厅表现争议",
+      "hot_value": 1011982,
+      "link": "https://s.weibo.com/weibo?q=%E5%BC%A0%E9%9B%85%E7%90%AA%E5%9B%9E%E5%BA%94%E4%B8%AD%E9%A4%90%E5%8E%85%E8%A1%A8%E7%8E%B0%E4%BA%89%E8%AE%AE",
+      "rank": 8
+    },
+    {
+      "title": "暑假档只剩野狗骨头有广了",
+      "hot_value": 390623,
+      "link": "https://s.weibo.com/weibo?q=%E6%9A%91%E5%81%87%E6%A1%A3%E5%8F%AA%E5%89%A9%E9%87%8E%E7%8B%97%E9%AA%A8%E5%A4%B4%E6%9C%89%E5%B9%BF%E4%BA%86",
+      "rank": 9
+    },
+    {
+      "title": "副局长自购10亿token月费20多",
+      "hot_value": 389780,
+      "link": "https://s.weibo.com/weibo?q=%E5%89%AF%E5%B1%80%E9%95%BF%E8%87%AA%E8%B4%AD10%E4%BA%BFtoken%E6%9C%88%E8%B4%B920%E5%A4%9A",
+      "rank": 10
+    },
+    {
+      "title": "周子瑜不与JYP续约",
+      "hot_value": 389143,
+      "link": "https://s.weibo.com/weibo?q=%E5%91%A8%E5%AD%90%E7%91%9C%E4%B8%8D%E4%B8%8EJYP%E7%BB%AD%E7%BA%A6",
+      "rank": 11
+    },
+    {
+      "title": "白鹿莫离被删戏编剧证实",
+      "hot_value": 388369,
+      "link": "https://s.weibo.com/weibo?q=%E7%99%BD%E9%B9%BF%E8%8E%AB%E7%A6%BB%E8%A2%AB%E5%88%A0%E6%88%8F%E7%BC%96%E5%89%A7%E8%AF%81%E5%AE%9E",
+      "rank": 12
+    },
+    {
+      "title": "阿根廷队想给广西捐赠物资",
+      "hot_value": 387983,
+      "link": "https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7%E9%98%9F%E6%83%B3%E7%BB%99%E5%B9%BF%E8%A5%BF%E6%8D%90%E8%B5%A0%E7%89%A9%E8%B5%84",
+      "rank": 13
+    },
+    {
+      "title": "kpop史诗级直播被下架",
+      "hot_value": 386595,
+      "link": "https://s.weibo.com/weibo?q=kpop%E5%8F%B2%E8%AF%97%E7%BA%A7%E7%9B%B4%E6%92%AD%E8%A2%AB%E4%B8%8B%E6%9E%B6",
+      "rank": 14
+    },
+    {
+      "title": "中餐厅客人观众都不舒服了",
+      "hot_value": 385949,
+      "link": "https://s.weibo.com/weibo?q=%E4%B8%AD%E9%A4%90%E5%8E%85%E5%AE%A2%E4%BA%BA%E8%A7%82%E4%BC%97%E9%83%BD%E4%B8%8D%E8%88%92%E6%9C%8D%E4%BA%86",
+      "rank": 15
+    },
+    {
+      "title": "超强厄尔尼诺真要来了",
+      "hot_value": 385346,
+      "link": "https://s.weibo.com/weibo?q=%E8%B6%85%E5%BC%BA%E5%8E%84%E5%B0%94%E5%B0%BC%E8%AF%BA%E7%9C%9F%E8%A6%81%E6%9D%A5%E4%BA%86",
+      "rank": 16
+    },
+    {
+      "title": "特朗普宣布重新开战",
+      "hot_value": 384115,
+      "link": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E5%B8%83%E9%87%8D%E6%96%B0%E5%BC%80%E6%88%98",
+      "rank": 17
+    },
+    {
+      "title": "林青霞发文不舍施南生",
+      "hot_value": 352985,
+      "link": "https://s.weibo.com/weibo?q=%E6%9E%97%E9%9D%92%E9%9C%9E%E5%8F%91%E6%96%87%E4%B8%8D%E8%88%8D%E6%96%BD%E5%8D%97%E7%94%9F",
+      "rank": 18
+    },
+    {
+      "title": "海力士暴跌致韩国散户爆仓",
+      "hot_value": 343825,
+      "link": "https://s.weibo.com/weibo?q=%E6%B5%B7%E5%8A%9B%E5%A3%AB%E6%9A%B4%E8%B7%8C%E8%87%B4%E9%9F%A9%E5%9B%BD%E6%95%A3%E6%88%B7%E7%88%86%E4%BB%93",
+      "rank": 19
+    },
+    {
+      "title": "美国裁判吹罚英阿半决赛",
+      "hot_value": 339073,
+      "link": "https://s.weibo.com/weibo?q=%E7%BE%8E%E5%9B%BD%E8%A3%81%E5%88%A4%E5%90%B9%E7%BD%9A%E8%8B%B1%E9%98%BF%E5%8D%8A%E5%86%B3%E8%B5%9B",
+      "rank": 20
+    },
+    {
+      "title": "影视飓风的硅基摄影师",
+      "hot_value": 338770,
+      "link": "https://s.weibo.com/weibo?q=%E5%BD%B1%E8%A7%86%E9%A3%93%E9%A3%8E%E7%9A%84%E7%A1%85%E5%9F%BA%E6%91%84%E5%BD%B1%E5%B8%88",
+      "rank": 21
+    },
+    {
+      "title": "跑男收官焦点不该是白鹿章若楠妆容",
+      "hot_value": 338770,
+      "link": "https://s.weibo.com/weibo?q=%E8%B7%91%E7%94%B7%E6%94%B6%E5%AE%98%E7%84%A6%E7%82%B9%E4%B8%8D%E8%AF%A5%E6%98%AF%E7%99%BD%E9%B9%BF%E7%AB%A0%E8%8B%A5%E6%A5%A0%E5%A6%86%E5%AE%B9",
+      "rank": 22
+    },
+    {
+      "title": "八仙",
+      "hot_value": 338766,
+      "link": "https://s.weibo.com/weibo?q=%E5%85%AB%E4%BB%99",
+      "rank": 23
+    },
+    {
+      "title": "马龙 退不了休了",
+      "hot_value": 309906,
+      "link": "https://s.weibo.com/weibo?q=%E9%A9%AC%E9%BE%99%20%E9%80%80%E4%B8%8D%E4%BA%86%E4%BC%91%E4%BA%86",
+      "rank": 24
+    },
+    {
+      "title": "美人鱼2早在18年就杀青了",
+      "hot_value": 297156,
+      "link": "https://s.weibo.com/weibo?q=%E7%BE%8E%E4%BA%BA%E9%B1%BC2%E6%97%A9%E5%9C%A818%E5%B9%B4%E5%B0%B1%E6%9D%80%E9%9D%92%E4%BA%86",
+      "rank": 25
+    },
+    {
+      "title": "杭州警方通报一甜品店主被刺身亡",
+      "hot_value": 290818,
+      "link": "https://s.weibo.com/weibo?q=%E6%9D%AD%E5%B7%9E%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E4%B8%80%E7%94%9C%E5%93%81%E5%BA%97%E4%B8%BB%E8%A2%AB%E5%88%BA%E8%BA%AB%E4%BA%A1",
+      "rank": 26
+    },
+    {
+      "title": "林允曾多次表示希望美人鱼2早点来",
+      "hot_value": 258404,
+      "link": "https://s.weibo.com/weibo?q=%E6%9E%97%E5%85%81%E6%9B%BE%E5%A4%9A%E6%AC%A1%E8%A1%A8%E7%A4%BA%E5%B8%8C%E6%9C%9B%E7%BE%8E%E4%BA%BA%E9%B1%BC2%E6%97%A9%E7%82%B9%E6%9D%A5",
+      "rank": 27
+    },
+    {
+      "title": "让金莎艾米演母女的简直天才",
+      "hot_value": 252149,
+      "link": "https://s.weibo.com/weibo?q=%E8%AE%A9%E9%87%91%E8%8E%8E%E8%89%BE%E7%B1%B3%E6%BC%94%E6%AF%8D%E5%A5%B3%E7%9A%84%E7%AE%80%E7%9B%B4%E5%A4%A9%E6%89%8D",
+      "rank": 28
+    },
+    {
+      "title": "6岁才写字的男孩高考606分",
+      "hot_value": 249083,
+      "link": "https://s.weibo.com/weibo?q=6%E5%B2%81%E6%89%8D%E5%86%99%E5%AD%97%E7%9A%84%E7%94%B7%E5%AD%A9%E9%AB%98%E8%80%83606%E5%88%86",
+      "rank": 29
+    },
+    {
+      "title": "巴威今天离开山东",
+      "hot_value": 247725,
+      "link": "https://s.weibo.com/weibo?q=%E5%B7%B4%E5%A8%81%E4%BB%8A%E5%A4%A9%E7%A6%BB%E5%BC%80%E5%B1%B1%E4%B8%9C",
+      "rank": 30
+    },
+    {
+      "title": "电影八仙提档",
+      "hot_value": 247719,
+      "link": "https://s.weibo.com/weibo?q=%E7%94%B5%E5%BD%B1%E5%85%AB%E4%BB%99%E6%8F%90%E6%A1%A3",
+      "rank": 31
+    },
+    {
+      "title": "老板奖励泡积水里才请假小伙500元",
+      "hot_value": 247534,
+      "link": "https://s.weibo.com/weibo?q=%E8%80%81%E6%9D%BF%E5%A5%96%E5%8A%B1%E6%B3%A1%E7%A7%AF%E6%B0%B4%E9%87%8C%E6%89%8D%E8%AF%B7%E5%81%87%E5%B0%8F%E4%BC%99500%E5%85%83",
+      "rank": 32
+    },
+    {
+      "title": "周子瑜继续twice跟团活动",
+      "hot_value": 247463,
+      "link": "https://s.weibo.com/weibo?q=%E5%91%A8%E5%AD%90%E7%91%9C%E7%BB%A7%E7%BB%ADtwice%E8%B7%9F%E5%9B%A2%E6%B4%BB%E5%8A%A8",
+      "rank": 33
+    },
+    {
+      "title": "遭仅退款损失20万老板有单也不敢接",
+      "hot_value": 233943,
+      "link": "https://s.weibo.com/weibo?q=%E9%81%AD%E4%BB%85%E9%80%80%E6%AC%BE%E6%8D%9F%E5%A4%B120%E4%B8%87%E8%80%81%E6%9D%BF%E6%9C%89%E5%8D%95%E4%B9%9F%E4%B8%8D%E6%95%A2%E6%8E%A5",
+      "rank": 34
+    },
+    {
+      "title": "哈兰德女朋友穿高跟鞋颠球",
+      "hot_value": 223786,
+      "link": "https://s.weibo.com/weibo?q=%E5%93%88%E5%85%B0%E5%BE%B7%E5%A5%B3%E6%9C%8B%E5%8F%8B%E7%A9%BF%E9%AB%98%E8%B7%9F%E9%9E%8B%E9%A2%A0%E7%90%83",
+      "rank": 35
+    },
+    {
+      "title": "徐克深夜医院门口回应施南生离世",
+      "hot_value": 222268,
+      "link": "https://s.weibo.com/weibo?q=%E5%BE%90%E5%85%8B%E6%B7%B1%E5%A4%9C%E5%8C%BB%E9%99%A2%E9%97%A8%E5%8F%A3%E5%9B%9E%E5%BA%94%E6%96%BD%E5%8D%97%E7%94%9F%E7%A6%BB%E4%B8%96",
+      "rank": 36
+    },
+    {
+      "title": "黄瓜这种情况比砒霜还毒",
+      "hot_value": 216630,
+      "link": "https://s.weibo.com/weibo?q=%E9%BB%84%E7%93%9C%E8%BF%99%E7%A7%8D%E6%83%85%E5%86%B5%E6%AF%94%E7%A0%92%E9%9C%9C%E8%BF%98%E6%AF%92",
+      "rank": 37
+    },
+    {
+      "title": "周星驰说没人欠我电影票",
+      "hot_value": 205843,
+      "link": "https://s.weibo.com/weibo?q=%E5%91%A8%E6%98%9F%E9%A9%B0%E8%AF%B4%E6%B2%A1%E4%BA%BA%E6%AC%A0%E6%88%91%E7%94%B5%E5%BD%B1%E7%A5%A8",
+      "rank": 38
+    },
+    {
+      "title": "怪不得网上买的东西好多货不对板",
+      "hot_value": 193611,
+      "link": "https://s.weibo.com/weibo?q=%E6%80%AA%E4%B8%8D%E5%BE%97%E7%BD%91%E4%B8%8A%E4%B9%B0%E7%9A%84%E4%B8%9C%E8%A5%BF%E5%A5%BD%E5%A4%9A%E8%B4%A7%E4%B8%8D%E5%AF%B9%E6%9D%BF",
+      "rank": 39
+    },
+    {
+      "title": "AI会替代哪些专业",
+      "hot_value": 193076,
+      "link": "https://s.weibo.com/weibo?q=AI%E4%BC%9A%E6%9B%BF%E4%BB%A3%E5%93%AA%E4%BA%9B%E4%B8%93%E4%B8%9A",
+      "rank": 40
+    },
+    {
+      "title": "施南生徐克相恋三十六年",
+      "hot_value": 193001,
+      "link": "https://s.weibo.com/weibo?q=%E6%96%BD%E5%8D%97%E7%94%9F%E5%BE%90%E5%85%8B%E7%9B%B8%E6%81%8B%E4%B8%89%E5%8D%81%E5%85%AD%E5%B9%B4",
+      "rank": 41
+    },
+    {
+      "title": "开到荼蘼",
+      "hot_value": 192816,
+      "link": "https://s.weibo.com/weibo?q=%E5%BC%80%E5%88%B0%E8%8D%BC%E8%98%BC",
+      "rank": 42
+    },
+    {
+      "title": "舅舅回应十几个外甥一顿吃10斤米粉",
+      "hot_value": 189683,
+      "link": "https://s.weibo.com/weibo?q=%E8%88%85%E8%88%85%E5%9B%9E%E5%BA%94%E5%8D%81%E5%87%A0%E4%B8%AA%E5%A4%96%E7%94%A5%E4%B8%80%E9%A1%BF%E5%90%8310%E6%96%A4%E7%B1%B3%E7%B2%89",
+      "rank": 43
+    },
+    {
+      "title": "伊朗大规模袭击地区美军目标",
+      "hot_value": 186664,
+      "link": "https://s.weibo.com/weibo?q=%E4%BC%8A%E6%9C%97%E5%A4%A7%E8%A7%84%E6%A8%A1%E8%A2%AD%E5%87%BB%E5%9C%B0%E5%8C%BA%E7%BE%8E%E5%86%9B%E7%9B%AE%E6%A0%87",
+      "rank": 44
+    },
+    {
+      "title": "成毅跑太快没收住扑进人群",
+      "hot_value": 185585,
+      "link": "https://s.weibo.com/weibo?q=%E6%88%90%E6%AF%85%E8%B7%91%E5%A4%AA%E5%BF%AB%E6%B2%A1%E6%94%B6%E4%BD%8F%E6%89%91%E8%BF%9B%E4%BA%BA%E7%BE%A4",
+      "rank": 45
+    },
+    {
+      "title": "国产三蹦子在佛得角热卖",
+      "hot_value": 185550,
+      "link": "https://s.weibo.com/weibo?q=%E5%9B%BD%E4%BA%A7%E4%B8%89%E8%B9%A6%E5%AD%90%E5%9C%A8%E4%BD%9B%E5%BE%97%E8%A7%92%E7%83%AD%E5%8D%96",
+      "rank": 46
+    },
+    {
+      "title": "副局长手搓小程序爱好编程20多年",
+      "hot_value": 185539,
+      "link": "https://s.weibo.com/weibo?q=%E5%89%AF%E5%B1%80%E9%95%BF%E6%89%8B%E6%90%93%E5%B0%8F%E7%A8%8B%E5%BA%8F%E7%88%B1%E5%A5%BD%E7%BC%96%E7%A8%8B20%E5%A4%9A%E5%B9%B4",
+      "rank": 47
+    },
+    {
+      "title": "10亿token多少钱",
+      "hot_value": 185538,
+      "link": "https://s.weibo.com/weibo?q=10%E4%BA%BFtoken%E5%A4%9A%E5%B0%91%E9%92%B1",
+      "rank": 48
+    },
+    {
+      "title": "A股失守3900",
+      "hot_value": 185537,
+      "link": "https://s.weibo.com/weibo?q=A%E8%82%A1%E5%A4%B1%E5%AE%883900",
+      "rank": 49
+    },
+    {
+      "title": "众星悼念施南生",
+      "hot_value": 174952,
+      "link": "https://s.weibo.com/weibo?q=%E4%BC%97%E6%98%9F%E6%82%BC%E5%BF%B5%E6%96%BD%E5%8D%97%E7%94%9F",
+      "rank": 50
+    }
+  ]
+}
