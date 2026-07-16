@@ -1,0 +1,307 @@
+{
+  "platform": "weibo",
+  "platform_name": "微博热搜",
+  "time": "2026-07-16 13:59:57",
+  "items": [
+    {
+      "title": "阿根廷球员偷看英格兰战术小抄",
+      "hot_value": 1774716,
+      "link": "https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7%E7%90%83%E5%91%98%E5%81%B7%E7%9C%8B%E8%8B%B1%E6%A0%BC%E5%85%B0%E6%88%98%E6%9C%AF%E5%B0%8F%E6%8A%84",
+      "rank": 1
+    },
+    {
+      "title": "阿根廷或遭罚",
+      "hot_value": 1057477,
+      "link": "https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7%E6%88%96%E9%81%AD%E7%BD%9A",
+      "rank": 2
+    },
+    {
+      "title": "上半年经济高质量发展向新向优",
+      "hot_value": 988264,
+      "link": "https://s.weibo.com/weibo?q=%E4%B8%8A%E5%8D%8A%E5%B9%B4%E7%BB%8F%E6%B5%8E%E9%AB%98%E8%B4%A8%E9%87%8F%E5%8F%91%E5%B1%95%E5%90%91%E6%96%B0%E5%90%91%E4%BC%98",
+      "rank": 3
+    },
+    {
+      "title": "偷票房",
+      "hot_value": 961099,
+      "link": "https://s.weibo.com/weibo?q=%E5%81%B7%E7%A5%A8%E6%88%BF",
+      "rank": 4
+    },
+    {
+      "title": "贝林厄姆打人疑似被西语脏话激怒",
+      "hot_value": 545048,
+      "link": "https://s.weibo.com/weibo?q=%E8%B4%9D%E6%9E%97%E5%8E%84%E5%A7%86%E6%89%93%E4%BA%BA%E7%96%91%E4%BC%BC%E8%A2%AB%E8%A5%BF%E8%AF%AD%E8%84%8F%E8%AF%9D%E6%BF%80%E6%80%92",
+      "rank": 5
+    },
+    {
+      "title": "46岁教师脱产读博6年毕业前去世",
+      "hot_value": 520897,
+      "link": "https://s.weibo.com/weibo?q=46%E5%B2%81%E6%95%99%E5%B8%88%E8%84%B1%E4%BA%A7%E8%AF%BB%E5%8D%9A6%E5%B9%B4%E6%AF%95%E4%B8%9A%E5%89%8D%E5%8E%BB%E4%B8%96",
+      "rank": 6
+    },
+    {
+      "title": "父母离婚孩子想跟爸爸被法院驳回",
+      "hot_value": 509160,
+      "link": "https://s.weibo.com/weibo?q=%E7%88%B6%E6%AF%8D%E7%A6%BB%E5%A9%9A%E5%AD%A9%E5%AD%90%E6%83%B3%E8%B7%9F%E7%88%B8%E7%88%B8%E8%A2%AB%E6%B3%95%E9%99%A2%E9%A9%B3%E5%9B%9E",
+      "rank": 7
+    },
+    {
+      "title": "贺峻霖靠张真源赚孟子义八十",
+      "hot_value": 487630,
+      "link": "https://s.weibo.com/weibo?q=%E8%B4%BA%E5%B3%BB%E9%9C%96%E9%9D%A0%E5%BC%A0%E7%9C%9F%E6%BA%90%E8%B5%9A%E5%AD%9F%E5%AD%90%E4%B9%89%E5%85%AB%E5%8D%81",
+      "rank": 8
+    },
+    {
+      "title": "曾硬刚王健林的80后干部被查",
+      "hot_value": 464181,
+      "link": "https://s.weibo.com/weibo?q=%E6%9B%BE%E7%A1%AC%E5%88%9A%E7%8E%8B%E5%81%A5%E6%9E%97%E7%9A%8480%E5%90%8E%E5%B9%B2%E9%83%A8%E8%A2%AB%E6%9F%A5",
+      "rank": 9
+    },
+    {
+      "title": "26年苹果返校季活动缩水",
+      "hot_value": 447669,
+      "link": "https://s.weibo.com/weibo?q=26%E5%B9%B4%E8%8B%B9%E6%9E%9C%E8%BF%94%E6%A0%A1%E5%AD%A3%E6%B4%BB%E5%8A%A8%E7%BC%A9%E6%B0%B4",
+      "rank": 10
+    },
+    {
+      "title": "曝白鹿新经纪人大雷",
+      "hot_value": 418834,
+      "link": "https://s.weibo.com/weibo?q=%E6%9B%9D%E7%99%BD%E9%B9%BF%E6%96%B0%E7%BB%8F%E7%BA%AA%E4%BA%BA%E5%A4%A7%E9%9B%B7",
+      "rank": 11
+    },
+    {
+      "title": "TF家族运动会直播",
+      "hot_value": 397845,
+      "link": "https://s.weibo.com/weibo?q=TF%E5%AE%B6%E6%97%8F%E8%BF%90%E5%8A%A8%E4%BC%9A%E7%9B%B4%E6%92%AD",
+      "rank": 12
+    },
+    {
+      "title": "月薪6万 001号老君山云海观察员定了",
+      "hot_value": 380300,
+      "link": "https://s.weibo.com/weibo?q=%E6%9C%88%E8%96%AA6%E4%B8%87%20001%E5%8F%B7%E8%80%81%E5%90%9B%E5%B1%B1%E4%BA%91%E6%B5%B7%E8%A7%82%E5%AF%9F%E5%91%98%E5%AE%9A%E4%BA%86",
+      "rank": 13
+    },
+    {
+      "title": "张天陈奕辰分手",
+      "hot_value": 378832,
+      "link": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%A4%A9%E9%99%88%E5%A5%95%E8%BE%B0%E5%88%86%E6%89%8B",
+      "rank": 14
+    },
+    {
+      "title": "于正回应哭晕在厕所",
+      "hot_value": 378609,
+      "link": "https://s.weibo.com/weibo?q=%E4%BA%8E%E6%AD%A3%E5%9B%9E%E5%BA%94%E5%93%AD%E6%99%95%E5%9C%A8%E5%8E%95%E6%89%80",
+      "rank": 15
+    },
+    {
+      "title": "贝林厄姆 赛后打人",
+      "hot_value": 377200,
+      "link": "https://s.weibo.com/weibo?q=%E8%B4%9D%E6%9E%97%E5%8E%84%E5%A7%86%20%E8%B5%9B%E5%90%8E%E6%89%93%E4%BA%BA",
+      "rank": 16
+    },
+    {
+      "title": "长鑫科技中签",
+      "hot_value": 377123,
+      "link": "https://s.weibo.com/weibo?q=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E4%B8%AD%E7%AD%BE",
+      "rank": 17
+    },
+    {
+      "title": "没有人哭是为了解决问题",
+      "hot_value": 377008,
+      "link": "https://s.weibo.com/weibo?q=%E6%B2%A1%E6%9C%89%E4%BA%BA%E5%93%AD%E6%98%AF%E4%B8%BA%E4%BA%86%E8%A7%A3%E5%86%B3%E9%97%AE%E9%A2%98",
+      "rank": 18
+    },
+    {
+      "title": "陈奕辰回应分手",
+      "hot_value": 376992,
+      "link": "https://s.weibo.com/weibo?q=%E9%99%88%E5%A5%95%E8%BE%B0%E5%9B%9E%E5%BA%94%E5%88%86%E6%89%8B",
+      "rank": 19
+    },
+    {
+      "title": "男生高考596分被学费愁哭",
+      "hot_value": 376891,
+      "link": "https://s.weibo.com/weibo?q=%E7%94%B7%E7%94%9F%E9%AB%98%E8%80%83596%E5%88%86%E8%A2%AB%E5%AD%A6%E8%B4%B9%E6%84%81%E5%93%AD",
+      "rank": 20
+    },
+    {
+      "title": "于正回应白鹿到期不续",
+      "hot_value": 376790,
+      "link": "https://s.weibo.com/weibo?q=%E4%BA%8E%E6%AD%A3%E5%9B%9E%E5%BA%94%E7%99%BD%E9%B9%BF%E5%88%B0%E6%9C%9F%E4%B8%8D%E7%BB%AD",
+      "rank": 21
+    },
+    {
+      "title": "TF运动会灯牌",
+      "hot_value": 376682,
+      "link": "https://s.weibo.com/weibo?q=TF%E8%BF%90%E5%8A%A8%E4%BC%9A%E7%81%AF%E7%89%8C",
+      "rank": 22
+    },
+    {
+      "title": "离婚十大原因婚外情居首",
+      "hot_value": 376583,
+      "link": "https://s.weibo.com/weibo?q=%E7%A6%BB%E5%A9%9A%E5%8D%81%E5%A4%A7%E5%8E%9F%E5%9B%A0%E5%A9%9A%E5%A4%96%E6%83%85%E5%B1%85%E9%A6%96",
+      "rank": 23
+    },
+    {
+      "title": "绿队队服公开",
+      "hot_value": 376464,
+      "link": "https://s.weibo.com/weibo?q=%E7%BB%BF%E9%98%9F%E9%98%9F%E6%9C%8D%E5%85%AC%E5%BC%80",
+      "rank": 24
+    },
+    {
+      "title": "16月龄幼儿遭托育园老师虐待29分钟",
+      "hot_value": 376421,
+      "link": "https://s.weibo.com/weibo?q=16%E6%9C%88%E9%BE%84%E5%B9%BC%E5%84%BF%E9%81%AD%E6%89%98%E8%82%B2%E5%9B%AD%E8%80%81%E5%B8%88%E8%99%90%E5%BE%8529%E5%88%86%E9%92%9F",
+      "rank": 25
+    },
+    {
+      "title": "残血版iPhone",
+      "hot_value": 376309,
+      "link": "https://s.weibo.com/weibo?q=%E6%AE%8B%E8%A1%80%E7%89%88iPhone",
+      "rank": 26
+    },
+    {
+      "title": "周杰伦王俊凯演唱会想看榜前二",
+      "hot_value": 376154,
+      "link": "https://s.weibo.com/weibo?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%E7%8E%8B%E4%BF%8A%E5%87%AF%E6%BC%94%E5%94%B1%E4%BC%9A%E6%83%B3%E7%9C%8B%E6%A6%9C%E5%89%8D%E4%BA%8C",
+      "rank": 27
+    },
+    {
+      "title": "开到荼蘼",
+      "hot_value": 376058,
+      "link": "https://s.weibo.com/weibo?q=%E5%BC%80%E5%88%B0%E8%8D%BC%E8%98%BC",
+      "rank": 28
+    },
+    {
+      "title": "特朗普发文感谢伊朗",
+      "hot_value": 375956,
+      "link": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%91%E6%96%87%E6%84%9F%E8%B0%A2%E4%BC%8A%E6%9C%97",
+      "rank": 29
+    },
+    {
+      "title": "男子酒后刺死妻子儿子出具谅解书",
+      "hot_value": 375921,
+      "link": "https://s.weibo.com/weibo?q=%E7%94%B7%E5%AD%90%E9%85%92%E5%90%8E%E5%88%BA%E6%AD%BB%E5%A6%BB%E5%AD%90%E5%84%BF%E5%AD%90%E5%87%BA%E5%85%B7%E8%B0%85%E8%A7%A3%E4%B9%A6",
+      "rank": 30
+    },
+    {
+      "title": "TF运动会",
+      "hot_value": 375844,
+      "link": "https://s.weibo.com/weibo?q=TF%E8%BF%90%E5%8A%A8%E4%BC%9A",
+      "rank": 31
+    },
+    {
+      "title": "冉莹颖人设",
+      "hot_value": 375789,
+      "link": "https://s.weibo.com/weibo?q=%E5%86%89%E8%8E%B9%E9%A2%96%E4%BA%BA%E8%AE%BE",
+      "rank": 32
+    },
+    {
+      "title": "贝林厄姆赛后道歉",
+      "hot_value": 351880,
+      "link": "https://s.weibo.com/weibo?q=%E8%B4%9D%E6%9E%97%E5%8E%84%E5%A7%86%E8%B5%9B%E5%90%8E%E9%81%93%E6%AD%89",
+      "rank": 33
+    },
+    {
+      "title": "王俊凯联合国水杯",
+      "hot_value": 346978,
+      "link": "https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%E8%81%94%E5%90%88%E5%9B%BD%E6%B0%B4%E6%9D%AF",
+      "rank": 34
+    },
+    {
+      "title": "左航戴墨镜",
+      "hot_value": 324496,
+      "link": "https://s.weibo.com/weibo?q=%E5%B7%A6%E8%88%AA%E6%88%B4%E5%A2%A8%E9%95%9C",
+      "rank": 35
+    },
+    {
+      "title": "英媒列举阿根廷31宗罪",
+      "hot_value": 311152,
+      "link": "https://s.weibo.com/weibo?q=%E8%8B%B1%E5%AA%92%E5%88%97%E4%B8%BE%E9%98%BF%E6%A0%B9%E5%BB%B731%E5%AE%97%E7%BD%AA",
+      "rank": 36
+    },
+    {
+      "title": "赵樱子把脸部填充都融掉了",
+      "hot_value": 302839,
+      "link": "https://s.weibo.com/weibo?q=%E8%B5%B5%E6%A8%B1%E5%AD%90%E6%8A%8A%E8%84%B8%E9%83%A8%E5%A1%AB%E5%85%85%E9%83%BD%E8%9E%8D%E6%8E%89%E4%BA%86",
+      "rank": 37
+    },
+    {
+      "title": "韩娱限薪令",
+      "hot_value": 302059,
+      "link": "https://s.weibo.com/weibo?q=%E9%9F%A9%E5%A8%B1%E9%99%90%E8%96%AA%E4%BB%A4",
+      "rank": 38
+    },
+    {
+      "title": "澡盆德比",
+      "hot_value": 275958,
+      "link": "https://s.weibo.com/weibo?q=%E6%BE%A1%E7%9B%86%E5%BE%B7%E6%AF%94",
+      "rank": 39
+    },
+    {
+      "title": "刘宇宁长枪变短枪",
+      "hot_value": 259101,
+      "link": "https://s.weibo.com/weibo?q=%E5%88%98%E5%AE%87%E5%AE%81%E9%95%BF%E6%9E%AA%E5%8F%98%E7%9F%AD%E6%9E%AA",
+      "rank": 40
+    },
+    {
+      "title": "原来实习生比正职痛苦是正常的",
+      "hot_value": 257950,
+      "link": "https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E5%AE%9E%E4%B9%A0%E7%94%9F%E6%AF%94%E6%AD%A3%E8%81%8C%E7%97%9B%E8%8B%A6%E6%98%AF%E6%AD%A3%E5%B8%B8%E7%9A%84",
+      "rank": 41
+    },
+    {
+      "title": "陈伟霆MV女主是章若楠",
+      "hot_value": 256894,
+      "link": "https://s.weibo.com/weibo?q=%E9%99%88%E4%BC%9F%E9%9C%86MV%E5%A5%B3%E4%B8%BB%E6%98%AF%E7%AB%A0%E8%8B%A5%E6%A5%A0",
+      "rank": 42
+    },
+    {
+      "title": "穆祉丞进场镜头切王橹杰",
+      "hot_value": 254920,
+      "link": "https://s.weibo.com/weibo?q=%E7%A9%86%E7%A5%89%E4%B8%9E%E8%BF%9B%E5%9C%BA%E9%95%9C%E5%A4%B4%E5%88%87%E7%8E%8B%E6%A9%B9%E6%9D%B0",
+      "rank": 43
+    },
+    {
+      "title": "新冠病例为何又多了起来",
+      "hot_value": 202721,
+      "link": "https://s.weibo.com/weibo?q=%E6%96%B0%E5%86%A0%E7%97%85%E4%BE%8B%E4%B8%BA%E4%BD%95%E5%8F%88%E5%A4%9A%E4%BA%86%E8%B5%B7%E6%9D%A5",
+      "rank": 44
+    },
+    {
+      "title": "世界第1对世界第2",
+      "hot_value": 202494,
+      "link": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E7%AC%AC1%E5%AF%B9%E4%B8%96%E7%95%8C%E7%AC%AC2",
+      "rank": 45
+    },
+    {
+      "title": "功夫女足口碑是靠手表电话传出来的",
+      "hot_value": 202427,
+      "link": "https://s.weibo.com/weibo?q=%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E5%8F%A3%E7%A2%91%E6%98%AF%E9%9D%A0%E6%89%8B%E8%A1%A8%E7%94%B5%E8%AF%9D%E4%BC%A0%E5%87%BA%E6%9D%A5%E7%9A%84",
+      "rank": 46
+    },
+    {
+      "title": "周柯宇和王玉雯小城春色身高差",
+      "hot_value": 202181,
+      "link": "https://s.weibo.com/weibo?q=%E5%91%A8%E6%9F%AF%E5%AE%87%E5%92%8C%E7%8E%8B%E7%8E%89%E9%9B%AF%E5%B0%8F%E5%9F%8E%E6%98%A5%E8%89%B2%E8%BA%AB%E9%AB%98%E5%B7%AE",
+      "rank": 47
+    },
+    {
+      "title": "长鑫科技中一签需缴4330元",
+      "hot_value": 201940,
+      "link": "https://s.weibo.com/weibo?q=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E4%B8%AD%E4%B8%80%E7%AD%BE%E9%9C%80%E7%BC%B44330%E5%85%83",
+      "rank": 48
+    },
+    {
+      "title": "中国用户终于迎来满血iPhone",
+      "hot_value": 201806,
+      "link": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E7%94%A8%E6%88%B7%E7%BB%88%E4%BA%8E%E8%BF%8E%E6%9D%A5%E6%BB%A1%E8%A1%80iPhone",
+      "rank": 49
+    },
+    {
+      "title": "萌兰也是用上智能家居了",
+      "hot_value": 201715,
+      "link": "https://s.weibo.com/weibo?q=%E8%90%8C%E5%85%B0%E4%B9%9F%E6%98%AF%E7%94%A8%E4%B8%8A%E6%99%BA%E8%83%BD%E5%AE%B6%E5%B1%85%E4%BA%86",
+      "rank": 50
+    }
+  ]
+}
