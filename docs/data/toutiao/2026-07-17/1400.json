@@ -1,0 +1,307 @@
+{
+  "platform": "toutiao",
+  "platform_name": "今日头条",
+  "time": "2026-07-17 14:00:25",
+  "items": [
+    {
+      "title": "重庆彭水山体崩塌已救出9人",
+      "hot_value": 14468030,
+      "link": "https://www.toutiao.com/trending/7662659156129697323",
+      "rank": 1
+    },
+    {
+      "title": "台积电披露2nm营收占比释放何信号",
+      "hot_value": 13091215,
+      "link": "https://www.toutiao.com/trending/7663316533493386790",
+      "rank": 2
+    },
+    {
+      "title": "开局之年 中国经济坚韧向前蓬勃向好",
+      "hot_value": 11845421,
+      "link": "https://www.toutiao.com/article/7663278160313713179",
+      "rank": 3
+    },
+    {
+      "title": "重庆山体垮塌受损房屋被曝有五六层",
+      "hot_value": 10718180,
+      "link": "https://www.toutiao.com/trending/7662931043699703859",
+      "rank": 4
+    },
+    {
+      "title": "洪秀柱身着“华夏黄”西服亮相杭州",
+      "hot_value": 9698210,
+      "link": "https://www.toutiao.com/trending/7663353987026013747",
+      "rank": 5
+    },
+    {
+      "title": "世界杯冠军将获定制戒指 球迷也能买",
+      "hot_value": 8775303,
+      "link": "https://www.toutiao.com/trending/7663193808557277225",
+      "rank": 6
+    },
+    {
+      "title": "直击重庆彭水垮塌救援现场",
+      "hot_value": 7940223,
+      "link": "https://www.toutiao.com/trending/7663352930589773321",
+      "rank": 7
+    },
+    {
+      "title": "全球科技股为何突然“熄火”",
+      "hot_value": 7184611,
+      "link": "https://www.toutiao.com/trending/7662310627776757787",
+      "rank": 8
+    },
+    {
+      "title": "成都暴雨",
+      "hot_value": 6500905,
+      "link": "https://www.toutiao.com/trending/7662947028586151942",
+      "rank": 9
+    },
+    {
+      "title": "应急管理部部长赶赴重庆山体垮塌现场",
+      "hot_value": 5882262,
+      "link": "https://www.toutiao.com/trending/7663364003803958803",
+      "rank": 10
+    },
+    {
+      "title": "阿勒泰现UFO？天文台辟谣",
+      "hot_value": 5322490,
+      "link": "https://www.toutiao.com/trending/7663268714464185906",
+      "rank": 11
+    },
+    {
+      "title": "吉林辽源市委书记沈德生突发疾病逝世",
+      "hot_value": 4815988,
+      "link": "https://www.toutiao.com/trending/7663337919003758118",
+      "rank": 12
+    },
+    {
+      "title": "施南生去世：她从不只是谁的前妻",
+      "hot_value": 4357686,
+      "link": "https://www.toutiao.com/trending/7663331540796968467",
+      "rank": 13
+    },
+    {
+      "title": "埃及裁判专家：阿根廷绝杀球应判无效",
+      "hot_value": 3942998,
+      "link": "https://www.toutiao.com/trending/7662450296504909874",
+      "rank": 14
+    },
+    {
+      "title": "昆明暴雨呈柱状倾泻如“登天电梯”",
+      "hot_value": 3567772,
+      "link": "https://www.toutiao.com/trending/7662718025757524031",
+      "rank": 15
+    },
+    {
+      "title": "王楚钦孙颖莎晋级全锦赛混双八强",
+      "hot_value": 3228253,
+      "link": "https://www.toutiao.com/trending/7662423496108244998",
+      "rank": 16
+    },
+    {
+      "title": "国产二维半导体产线投产",
+      "hot_value": 2921044,
+      "link": "https://www.toutiao.com/trending/7662388447847759922",
+      "rank": 17
+    },
+    {
+      "title": "唐驳虎：越南选了全国大基建这招险棋",
+      "hot_value": 2643070,
+      "link": "https://www.toutiao.com/trending/7663297957281680938",
+      "rank": 18
+    },
+    {
+      "title": "ofo小黄车账号停更5年突然发文",
+      "hot_value": 2391549,
+      "link": "https://www.toutiao.com/trending/7663279804821389318",
+      "rank": 19
+    },
+    {
+      "title": "世界杯冠军奖金5000万美元",
+      "hot_value": 2163963,
+      "link": "https://www.toutiao.com/trending/7662510119124877348",
+      "rank": 20
+    },
+    {
+      "title": "洪秀柱：很喜欢张凌赫分享的“跨”字",
+      "hot_value": 1958034,
+      "link": "https://www.toutiao.com/trending/7663336664328912938",
+      "rank": 21
+    },
+    {
+      "title": "储殷谈邹市明的困境",
+      "hot_value": 1771703,
+      "link": "https://www.toutiao.com/trending/7663323793019915812",
+      "rank": 22
+    },
+    {
+      "title": "周星驰三个问号回应偷票房风波",
+      "hot_value": 1603103,
+      "link": "https://www.toutiao.com/trending/7662839929134874665",
+      "rank": 23
+    },
+    {
+      "title": "老人31万积蓄被女婿转给前妻之子",
+      "hot_value": 1450547,
+      "link": "https://www.toutiao.com/trending/7663120215749591059",
+      "rank": 24
+    },
+    {
+      "title": "海外游客来中国避暑火了",
+      "hot_value": 1312510,
+      "link": "https://www.toutiao.com/trending/7663266137530777643",
+      "rank": 25
+    },
+    {
+      "title": "《功夫女足》背后的“资本阳谋”",
+      "hot_value": 1187608,
+      "link": "https://www.toutiao.com/trending/7663292170622733830",
+      "rank": 26
+    },
+    {
+      "title": "绿豆汤应该是红色还是绿色",
+      "hot_value": 1074592,
+      "link": "https://www.toutiao.com/trending/7662703533963542570",
+      "rank": 27
+    },
+    {
+      "title": "白宫官宣特朗普将出席世界杯决赛",
+      "hot_value": 972331,
+      "link": "https://www.toutiao.com/trending/7663253128728657971",
+      "rank": 28
+    },
+    {
+      "title": "包工头恶意欠薪获刑一年二个月",
+      "hot_value": 879801,
+      "link": "https://www.toutiao.com/trending/7663058263437230143",
+      "rank": 29
+    },
+    {
+      "title": "抗洪子弟兵吃螺蛳粉 老板偷偷加粉",
+      "hot_value": 796077,
+      "link": "https://www.toutiao.com/trending/7662767643694858278",
+      "rank": 30
+    },
+    {
+      "title": "邵永灵：印度挺“南海仲裁”当心反噬",
+      "hot_value": 720320,
+      "link": "https://www.toutiao.com/trending/7663311307608690214",
+      "rank": 31
+    },
+    {
+      "title": "CPO板块重挫超8%",
+      "hot_value": 651773,
+      "link": "https://www.toutiao.com/trending/7662669855719571498",
+      "rank": 32
+    },
+    {
+      "title": "今天起多地雨热同台",
+      "hot_value": 589748,
+      "link": "https://www.toutiao.com/trending/7662599495124877354",
+      "rank": 33
+    },
+    {
+      "title": "古人的蓑衣如何“穿”越千年风雨",
+      "hot_value": 533626,
+      "link": "https://www.toutiao.com/trending/7663248862274764846",
+      "rank": 34
+    },
+    {
+      "title": "福建漳州警方通报女子殴打87岁老人",
+      "hot_value": 482845,
+      "link": "https://www.toutiao.com/trending/7663131552147095571",
+      "rank": 35
+    },
+    {
+      "title": "瓜农回应于东来加价下单5000斤甜瓜",
+      "hot_value": 436896,
+      "link": "https://www.toutiao.com/trending/7663320120602296358",
+      "rank": 36
+    },
+    {
+      "title": "美国74岁老人面对6人抢劫毫不退缩",
+      "hot_value": 395320,
+      "link": "https://www.toutiao.com/trending/7663284803442163739",
+      "rank": 37
+    },
+    {
+      "title": "摩托车高速上变道被撞负全责",
+      "hot_value": 357700,
+      "link": "https://www.toutiao.com/trending/7662259572245037082",
+      "rank": 38
+    },
+    {
+      "title": "企业采购3.8万斤西瓜助力瓜农",
+      "hot_value": 323661,
+      "link": "https://www.toutiao.com/trending/7661899759984918537",
+      "rank": 39
+    },
+    {
+      "title": "超110艘俄船只遭“史无前例”的袭击",
+      "hot_value": 292860,
+      "link": "https://www.toutiao.com/trending/7662671136975667206",
+      "rank": 40
+    },
+    {
+      "title": "黄金鏖战4000点 多空巨头激辩",
+      "hot_value": 264991,
+      "link": "https://www.toutiao.com/trending/7663341697681624603",
+      "rank": 41
+    },
+    {
+      "title": "白宫提词器操作员靠特朗普讲话下注",
+      "hot_value": 239773,
+      "link": "https://www.toutiao.com/trending/7663206846555521066",
+      "rank": 42
+    },
+    {
+      "title": "冉莹颖成不了“贝嫂”维多利亚吗",
+      "hot_value": 216956,
+      "link": "https://www.toutiao.com/trending/7662307013535711274",
+      "rank": 43
+    },
+    {
+      "title": "媒体评网红官员被免职六天后被查",
+      "hot_value": 196310,
+      "link": "https://www.toutiao.com/trending/7663030971702231078",
+      "rank": 44
+    },
+    {
+      "title": "中国足球小将迎战中国足球老将",
+      "hot_value": 177628,
+      "link": "https://www.toutiao.com/trending/7662320899036250153",
+      "rank": 45
+    },
+    {
+      "title": "半夜断电 女子一问得知酒店突然倒闭",
+      "hot_value": 160725,
+      "link": "https://www.toutiao.com/trending/7663150903926538282",
+      "rank": 46
+    },
+    {
+      "title": "媒体谈英国“过河拆桥”强征中资钢企",
+      "hot_value": 145430,
+      "link": "https://www.toutiao.com/trending/7663311413939486739",
+      "rank": 47
+    },
+    {
+      "title": "黄健翔谈美加墨世界杯终局之战",
+      "hot_value": 131590,
+      "link": "https://www.toutiao.com/trending/7662299427805069339",
+      "rank": 48
+    },
+    {
+      "title": "千万粉丝网红“作弊”赢得600台冰箱",
+      "hot_value": 119068,
+      "link": "https://www.toutiao.com/trending/7663308496268345390",
+      "rank": 49
+    },
+    {
+      "title": "王濛透露《心愿便利贴》全开麦原因",
+      "hot_value": 107737,
+      "link": "https://www.toutiao.com/trending/7662239777932525618",
+      "rank": 50
+    }
+  ]
+}
