@@ -1,0 +1,307 @@
+{
+  "platform": "toutiao",
+  "platform_name": "今日头条",
+  "time": "2026-07-17 11:22:12",
+  "items": [
+    {
+      "title": "成都暴雨",
+      "hot_value": 19493775,
+      "link": "https://www.toutiao.com/trending/7662947028586151942",
+      "rank": 1
+    },
+    {
+      "title": "超110艘俄船只遭“史无前例”的袭击",
+      "hot_value": 17638697,
+      "link": "https://www.toutiao.com/trending/7662671136975667206",
+      "rank": 2
+    },
+    {
+      "title": "开局之年 中国经济坚韧向前蓬勃向好",
+      "hot_value": 15960153,
+      "link": "https://www.toutiao.com/article/7663278160313713179",
+      "rank": 3
+    },
+    {
+      "title": "世界杯冠军将获定制戒指 球迷也能买",
+      "hot_value": 14441344,
+      "link": "https://www.toutiao.com/trending/7663193808557277225",
+      "rank": 4
+    },
+    {
+      "title": "苹果智能入华 阿里百度赢麻了吗",
+      "hot_value": 13067068,
+      "link": "https://www.toutiao.com/trending/7663161022072491570",
+      "rank": 5
+    },
+    {
+      "title": "周星驰三个问号回应偷票房风波",
+      "hot_value": 11823572,
+      "link": "https://www.toutiao.com/trending/7662839929134874665",
+      "rank": 6
+    },
+    {
+      "title": "白宫官宣特朗普将出席世界杯决赛",
+      "hot_value": 10698410,
+      "link": "https://www.toutiao.com/trending/7663253128728657971",
+      "rank": 7
+    },
+    {
+      "title": "昆明暴雨呈柱状倾泻如“登天电梯”",
+      "hot_value": 9680322,
+      "link": "https://www.toutiao.com/trending/7662718025757524031",
+      "rank": 8
+    },
+    {
+      "title": "重庆彭水山体垮塌有人员被埋",
+      "hot_value": 8759118,
+      "link": "https://www.toutiao.com/trending/7663319809869745718",
+      "rank": 9
+    },
+    {
+      "title": "《功夫女足》背后的“资本阳谋”",
+      "hot_value": 7925577,
+      "link": "https://www.toutiao.com/trending/7663292170622733830",
+      "rank": 10
+    },
+    {
+      "title": "阿勒泰现UFO？天文台辟谣",
+      "hot_value": 7171359,
+      "link": "https://www.toutiao.com/trending/7663268714464185906",
+      "rank": 11
+    },
+    {
+      "title": "埃及裁判专家：阿根廷绝杀球应判无效",
+      "hot_value": 6488914,
+      "link": "https://www.toutiao.com/trending/7662450296504909874",
+      "rank": 12
+    },
+    {
+      "title": "全球最大规模开源模型Kimi K3发布",
+      "hot_value": 5871412,
+      "link": "https://www.toutiao.com/trending/7663270788073524782",
+      "rank": 13
+    },
+    {
+      "title": "女游客被大浪打翻救生员冲刺下海救人",
+      "hot_value": 5312673,
+      "link": "https://www.toutiao.com/trending/7663135135923486739",
+      "rank": 14
+    },
+    {
+      "title": "世界杯冠军奖金5000万美元",
+      "hot_value": 4807105,
+      "link": "https://www.toutiao.com/trending/7662510119124877348",
+      "rank": 15
+    },
+    {
+      "title": "中方驳斥个别媒体解读印尼领导人表态",
+      "hot_value": 4349649,
+      "link": "https://www.toutiao.com/trending/7662471632455630857",
+      "rank": 16
+    },
+    {
+      "title": "泰总理抵上海 胸前别中泰国旗说中文",
+      "hot_value": 3935725,
+      "link": "https://www.toutiao.com/trending/7663089237956296740",
+      "rank": 17
+    },
+    {
+      "title": "FIFA回应是否处罚阿根廷",
+      "hot_value": 3561191,
+      "link": "https://www.toutiao.com/trending/7663239907921415721",
+      "rank": 18
+    },
+    {
+      "title": "半夜断电 女子一问得知酒店突然倒闭",
+      "hot_value": 3222299,
+      "link": "https://www.toutiao.com/trending/7663150903926538282",
+      "rank": 19
+    },
+    {
+      "title": "空调随用随开和全天开启哪种更省电",
+      "hot_value": 2915657,
+      "link": "https://www.toutiao.com/trending/7662562242416541702",
+      "rank": 20
+    },
+    {
+      "title": "冉莹颖成不了“贝嫂”维多利亚吗",
+      "hot_value": 2638195,
+      "link": "https://www.toutiao.com/trending/7662307013535711274",
+      "rank": 21
+    },
+    {
+      "title": "存储涨价周期下手机企业纷纷转战海外",
+      "hot_value": 2387138,
+      "link": "https://www.toutiao.com/trending/7663101529926991914",
+      "rank": 22
+    },
+    {
+      "title": "NFC果汁系勾兑2家企业被立案",
+      "hot_value": 2159971,
+      "link": "https://www.toutiao.com/trending/7663277377359183913",
+      "rank": 23
+    },
+    {
+      "title": "伊朗：美军事打击构成“战争罪”",
+      "hot_value": 1954423,
+      "link": "https://www.toutiao.com/trending/7663151009167196211",
+      "rank": 24
+    },
+    {
+      "title": "股市调整波及理财",
+      "hot_value": 1768435,
+      "link": "https://www.toutiao.com/trending/7663122986118971455",
+      "rank": 25
+    },
+    {
+      "title": "阿根廷队滞留亚特兰大 备战受阻",
+      "hot_value": 1600146,
+      "link": "https://www.toutiao.com/trending/7662312991526944822",
+      "rank": 26
+    },
+    {
+      "title": "老外来中国买空调是咋回事",
+      "hot_value": 1447872,
+      "link": "https://www.toutiao.com/trending/7663294481856220698",
+      "rank": 27
+    },
+    {
+      "title": "媒体：谁在逼基层干部“纸上种田”",
+      "hot_value": 1310089,
+      "link": "https://www.toutiao.com/trending/7663273603886222898",
+      "rank": 28
+    },
+    {
+      "title": "三个妯娌“抱团养老”背后的故事",
+      "hot_value": 1185417,
+      "link": "https://www.toutiao.com/trending/7663039442902581284",
+      "rank": 29
+    },
+    {
+      "title": "民警比对画像抓获逃亡20年命案嫌疑人",
+      "hot_value": 1072610,
+      "link": "https://www.toutiao.com/trending/7663106162876530751",
+      "rank": 30
+    },
+    {
+      "title": "年内8次熔断 韩国黄金时代落幕了吗",
+      "hot_value": 970537,
+      "link": "https://www.toutiao.com/trending/7663261350793072171",
+      "rank": 31
+    },
+    {
+      "title": "贝克汉姆15岁女儿观赛世界杯",
+      "hot_value": 878179,
+      "link": "https://www.toutiao.com/trending/7662529309185163270",
+      "rank": 32
+    },
+    {
+      "title": "岛内民调称88%青年愿上战场结果翻车",
+      "hot_value": 794609,
+      "link": "https://www.toutiao.com/trending/7663028230777192490",
+      "rank": 33
+    },
+    {
+      "title": "帕雷德斯：马岛永远都是阿根廷的",
+      "hot_value": 718992,
+      "link": "https://www.toutiao.com/trending/7662245316112121866",
+      "rank": 34
+    },
+    {
+      "title": "上海学生赴广西救灾提前备齐装备",
+      "hot_value": 650571,
+      "link": "https://www.toutiao.com/trending/7662217201076699174",
+      "rank": 35
+    },
+    {
+      "title": "WAIC上6个机器人挑战8万块积木拼长城",
+      "hot_value": 588661,
+      "link": "https://www.toutiao.com/trending/7663298794846765119",
+      "rank": 36
+    },
+    {
+      "title": "媒体：阿根廷队是真的“招人恨”吗",
+      "hot_value": 532642,
+      "link": "https://www.toutiao.com/trending/7662998396823470143",
+      "rank": 37
+    },
+    {
+      "title": "女子当街殴打89岁拾荒老人",
+      "hot_value": 481954,
+      "link": "https://www.toutiao.com/trending/7663086377650880531",
+      "rank": 38
+    },
+    {
+      "title": "美股牛市还能靠谁抬轿",
+      "hot_value": 436090,
+      "link": "https://www.toutiao.com/trending/7663304146560224794",
+      "rank": 39
+    },
+    {
+      "title": "一级军士长父亲勉励从军校毕业儿子",
+      "hot_value": 394591,
+      "link": "https://www.toutiao.com/trending/7662406370335178790",
+      "rank": 40
+    },
+    {
+      "title": "白宫提词器操作员靠特朗普讲话下注",
+      "hot_value": 357040,
+      "link": "https://www.toutiao.com/trending/7663206846555521066",
+      "rank": 41
+    },
+    {
+      "title": "美股芯片股深夜大跌",
+      "hot_value": 323064,
+      "link": "https://www.toutiao.com/trending/7663271539885739558",
+      "rank": 42
+    },
+    {
+      "title": "媒体评车位之争联合通报酿二次舆情",
+      "hot_value": 292320,
+      "link": "https://www.toutiao.com/trending/7662336372100808714",
+      "rank": 43
+    },
+    {
+      "title": "瓜迪奥拉：亚马尔是决定比赛的球员",
+      "hot_value": 264502,
+      "link": "https://www.toutiao.com/trending/7662600709108219947",
+      "rank": 44
+    },
+    {
+      "title": "刘纪鹏谈A股长慢牛的底层逻辑",
+      "hot_value": 239331,
+      "link": "https://www.toutiao.com/trending/7663297022048341547",
+      "rank": 45
+    },
+    {
+      "title": "石家庄社保中心推行退休预服务机制",
+      "hot_value": 216556,
+      "link": "https://www.toutiao.com/trending/7662959404409339923",
+      "rank": 46
+    },
+    {
+      "title": "西班牙与阿根廷的世纪之战盘点",
+      "hot_value": 195948,
+      "link": "https://www.toutiao.com/trending/7662922154572447785",
+      "rank": 47
+    },
+    {
+      "title": "民进党当局高官被喊“下台”",
+      "hot_value": 177301,
+      "link": "https://www.toutiao.com/trending/7663259335216087094",
+      "rank": 48
+    },
+    {
+      "title": "俄不承认“南海仲裁案裁决”合法性",
+      "hot_value": 160428,
+      "link": "https://www.toutiao.com/trending/7662009584916545586",
+      "rank": 49
+    },
+    {
+      "title": "今夏饮料市场出现明显反常现象",
+      "hot_value": 145162,
+      "link": "https://www.toutiao.com/trending/7663026063576105023",
+      "rank": 50
+    }
+  ]
+}
