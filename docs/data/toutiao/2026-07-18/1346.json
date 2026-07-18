@@ -1,0 +1,307 @@
+{
+  "platform": "toutiao",
+  "platform_name": "今日头条",
+  "time": "2026-07-18 13:46:10",
+  "items": [
+    {
+      "title": "FIFA主席提议中美合办世界杯",
+      "hot_value": 37240261,
+      "link": "https://www.toutiao.com/trending/7663707553033113126",
+      "rank": 1
+    },
+    {
+      "title": "公安部原部长助理谭权已任重庆市领导",
+      "hot_value": 33696382,
+      "link": "https://www.toutiao.com/trending/7663367465585475626",
+      "rank": 2
+    },
+    {
+      "title": "宏观政策靠前发力应对有力",
+      "hot_value": 30489747,
+      "link": "https://www.toutiao.com/article/7663653166323433993",
+      "rank": 3
+    },
+    {
+      "title": "黄仁勋标志性皮衣以96万美元成交",
+      "hot_value": 27588264,
+      "link": "https://www.toutiao.com/trending/7663505960069906475",
+      "rank": 4
+    },
+    {
+      "title": "足协通报申思祁宏遭禁足仍参与青训",
+      "hot_value": 24962893,
+      "link": "https://www.toutiao.com/trending/7663257596513484846",
+      "rank": 5
+    },
+    {
+      "title": "重庆山体崩塌前后对比图",
+      "hot_value": 22587360,
+      "link": "https://www.toutiao.com/trending/7663061418727444010",
+      "rank": 6
+    },
+    {
+      "title": "A股一周熊股出炉：最熊股跌超41%",
+      "hot_value": 20437888,
+      "link": "https://www.toutiao.com/trending/7663260734738710564",
+      "rank": 7
+    },
+    {
+      "title": "阿根廷西班牙决赛均穿主场球衣",
+      "hot_value": 18492966,
+      "link": "https://www.toutiao.com/trending/7663407479577755711",
+      "rank": 8
+    },
+    {
+      "title": "《功夫女足》梨花队让韩网友破防",
+      "hot_value": 16733128,
+      "link": "https://www.toutiao.com/trending/7662925610188521522",
+      "rank": 9
+    },
+    {
+      "title": "王楚钦/孙颖莎晋级全锦赛混双四强",
+      "hot_value": 15140760,
+      "link": "https://www.toutiao.com/trending/7663701678822002218",
+      "rank": 10
+    },
+    {
+      "title": "广西横州抗蛇毒血清告急？假的",
+      "hot_value": 13699926,
+      "link": "https://www.toutiao.com/trending/7663437993612918822",
+      "rank": 11
+    },
+    {
+      "title": "重庆崩塌最大山石体积相当于1栋楼",
+      "hot_value": 12396206,
+      "link": "https://www.toutiao.com/trending/7663455820470157318",
+      "rank": 12
+    },
+    {
+      "title": "大衣哥测试除草剂草长疯了果断拒代言",
+      "hot_value": 11216551,
+      "link": "https://www.toutiao.com/trending/7663501261077004298",
+      "rank": 13
+    },
+    {
+      "title": "媒体：县长硬刚首富背后是权力傲慢",
+      "hot_value": 10149155,
+      "link": "https://www.toutiao.com/trending/7662980260295852073",
+      "rank": 14
+    },
+    {
+      "title": "日本从废料里找稀土能解决问题吗",
+      "hot_value": 9183335,
+      "link": "https://www.toutiao.com/trending/7663674681286725174",
+      "rank": 15
+    },
+    {
+      "title": "广西大姐流泪拦下救援队想请他们吃饭",
+      "hot_value": 8309425,
+      "link": "https://www.toutiao.com/trending/7663461994989207602",
+      "rank": 16
+    },
+    {
+      "title": "内蒙古草原英雄会开幕",
+      "hot_value": 7518679,
+      "link": "https://www.toutiao.com/trending/7663026433703133203",
+      "rank": 17
+    },
+    {
+      "title": "冰岛小镇出现中国产“三蹦子”",
+      "hot_value": 6803182,
+      "link": "https://www.toutiao.com/trending/7663366770795151366",
+      "rank": 18
+    },
+    {
+      "title": "图灵奖得主：当前计算模式可能错了",
+      "hot_value": 6155773,
+      "link": "https://www.toutiao.com/trending/7663672147822280723",
+      "rank": 19
+    },
+    {
+      "title": "美国西北大学发明一种隐形无人机",
+      "hot_value": 5569974,
+      "link": "https://www.toutiao.com/trending/7663245404863184939",
+      "rank": 20
+    },
+    {
+      "title": "残疾老人50万存款变寿险5年损失6万",
+      "hot_value": 5039921,
+      "link": "https://www.toutiao.com/trending/7662559491984654342",
+      "rank": 21
+    },
+    {
+      "title": "女子3万多元LV夹克送洗后涂层脱落",
+      "hot_value": 4560309,
+      "link": "https://www.toutiao.com/trending/7663034473739583524",
+      "rank": 22
+    },
+    {
+      "title": "傅利叶携多款机器人亮相WAIC",
+      "hot_value": 4126338,
+      "link": "https://www.toutiao.com/trending/7663513800234205247",
+      "rank": 23
+    },
+    {
+      "title": "媒体评英钢案：中国不能总当东郭先生",
+      "hot_value": 3733665,
+      "link": "https://www.toutiao.com/trending/7662672815011266586",
+      "rank": 24
+    },
+    {
+      "title": "欧洲热销空调产自广州南沙",
+      "hot_value": 3378360,
+      "link": "https://www.toutiao.com/trending/7663058422237003817",
+      "rank": 25
+    },
+    {
+      "title": "徐良这次真成伴唱了",
+      "hot_value": 3056866,
+      "link": "https://www.toutiao.com/trending/7663090768814800915",
+      "rank": 26
+    },
+    {
+      "title": "老君山月薪6万的云海观察员发声",
+      "hot_value": 2765967,
+      "link": "https://www.toutiao.com/trending/7662969432079122458",
+      "rank": 27
+    },
+    {
+      "title": "这轮科技牛市谁在赚钱",
+      "hot_value": 2502750,
+      "link": "https://www.toutiao.com/trending/7663680114462297626",
+      "rank": 28
+    },
+    {
+      "title": "法国名宿：世界杯拿亚军也只是安慰奖",
+      "hot_value": 2264582,
+      "link": "https://www.toutiao.com/trending/7663648646814695450",
+      "rank": 29
+    },
+    {
+      "title": "男子上山找菌子偶遇蛇",
+      "hot_value": 2049079,
+      "link": "https://www.toutiao.com/trending/7663496017572692019",
+      "rank": 30
+    },
+    {
+      "title": "小提琴梁祝作曲者陈钢去世",
+      "hot_value": 1854083,
+      "link": "https://www.toutiao.com/trending/7663677438857170478",
+      "rank": 31
+    },
+    {
+      "title": "19年前洗澡图两位主角决赛相见",
+      "hot_value": 1677644,
+      "link": "https://www.toutiao.com/trending/7662938276857544758",
+      "rank": 32
+    },
+    {
+      "title": "重庆山体崩塌已致8死34失联",
+      "hot_value": 1517995,
+      "link": "https://www.toutiao.com/trending/7662578686872505862",
+      "rank": 33
+    },
+    {
+      "title": "WAIC上具身智能占据C位",
+      "hot_value": 1373538,
+      "link": "https://www.toutiao.com/trending/7663689554544561705",
+      "rank": 34
+    },
+    {
+      "title": "马宁回应世界杯只执法一场比赛",
+      "hot_value": 1242829,
+      "link": "https://www.toutiao.com/trending/7663015207505543222",
+      "rank": 35
+    },
+    {
+      "title": "中方回应媒体将菲律宾人描绘成猴子",
+      "hot_value": 1124558,
+      "link": "https://www.toutiao.com/trending/7663646713818779146",
+      "rank": 36
+    },
+    {
+      "title": "外卖小哥三年半还完60万债务",
+      "hot_value": 1017542,
+      "link": "https://www.toutiao.com/trending/7663046132653899802",
+      "rank": 37
+    },
+    {
+      "title": "媒体：“美式”玩法消磨了足球的纯粹",
+      "hot_value": 920710,
+      "link": "https://www.toutiao.com/trending/7663252751958310963",
+      "rank": 38
+    },
+    {
+      "title": "男子6岁时被送养 时隔48年与母亲团聚",
+      "hot_value": 833093,
+      "link": "https://www.toutiao.com/trending/7663693771482759231",
+      "rank": 39
+    },
+    {
+      "title": "南通大学投档线公布",
+      "hot_value": 753814,
+      "link": "https://www.toutiao.com/trending/7662694935230545974",
+      "rank": 40
+    },
+    {
+      "title": "哈兰德食谱火了 我们能不能抄作业",
+      "hot_value": 682079,
+      "link": "https://www.toutiao.com/trending/7663288735308415030",
+      "rank": 41
+    },
+    {
+      "title": "莫斯科奏响中俄友好交响乐章",
+      "hot_value": 617170,
+      "link": "https://www.toutiao.com/trending/7663394857264136238",
+      "rank": 42
+    },
+    {
+      "title": "韩国散户“勇敢者游戏”终结",
+      "hot_value": 558439,
+      "link": "https://www.toutiao.com/trending/7662653428757921811",
+      "rank": 43
+    },
+    {
+      "title": "本届世界杯季军赛是“鸡肋战”吗",
+      "hot_value": 505296,
+      "link": "https://www.toutiao.com/trending/7663693136169815578",
+      "rank": 44
+    },
+    {
+      "title": "景德镇万千从业者同心守护制瓷文脉",
+      "hot_value": 457211,
+      "link": "https://www.toutiao.com/trending/7663623605464580132",
+      "rank": 45
+    },
+    {
+      "title": "从WAIC看AI产业六个趋势",
+      "hot_value": 413701,
+      "link": "https://www.toutiao.com/trending/7663701406842359305",
+      "rank": 46
+    },
+    {
+      "title": "黄健翔今晚将直播聊世界杯",
+      "hot_value": 374332,
+      "link": "https://www.toutiao.com/trending/7662655020500860947",
+      "rank": 47
+    },
+    {
+      "title": "美伊局势难降温",
+      "hot_value": 338710,
+      "link": "https://www.toutiao.com/trending/7663640017490677284",
+      "rank": 48
+    },
+    {
+      "title": "如何推动教育迭代为孩子成长筑基",
+      "hot_value": 277312,
+      "link": "https://www.toutiao.com/trending/7663688488841166902",
+      "rank": 49
+    },
+    {
+      "title": "大马丁：为世界杯拒绝了手术",
+      "hot_value": 250922,
+      "link": "https://www.toutiao.com/trending/7663337861958942726",
+      "rank": 50
+    }
+  ]
+}
