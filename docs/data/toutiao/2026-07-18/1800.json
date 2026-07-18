@@ -1,0 +1,307 @@
+{
+  "platform": "toutiao",
+  "platform_name": "今日头条",
+  "time": "2026-07-18 18:00:17",
+  "items": [
+    {
+      "title": "FIFA主席提议中美合办世界杯",
+      "hot_value": 43773437,
+      "link": "https://www.toutiao.com/trending/7663707553033113126",
+      "rank": 1
+    },
+    {
+      "title": "老板让朋友15岁儿子干零活被罚",
+      "hot_value": 39607844,
+      "link": "https://www.toutiao.com/trending/7663656681444065299",
+      "rank": 2
+    },
+    {
+      "title": "上半年我国外汇领域热点扫描",
+      "hot_value": 35838659,
+      "link": "https://www.toutiao.com/article/7663493492307509769",
+      "rank": 3
+    },
+    {
+      "title": "上海通报申思涉嫌打骂小球员",
+      "hot_value": 32428160,
+      "link": "https://www.toutiao.com/trending/7663784137072938522",
+      "rank": 4
+    },
+    {
+      "title": "专家：市场给投资者上了一课",
+      "hot_value": 29342212,
+      "link": "https://www.toutiao.com/trending/7663675198251470355",
+      "rank": 5
+    },
+    {
+      "title": "重庆山体崩塌最新救援方案曝光",
+      "hot_value": 26549931,
+      "link": "https://www.toutiao.com/trending/7663776639708581402",
+      "rank": 6
+    },
+    {
+      "title": "女足球员孙子七本色出演《功夫女足》",
+      "hot_value": 24023371,
+      "link": "https://www.toutiao.com/trending/7662366736163340324",
+      "rank": 7
+    },
+    {
+      "title": "男子养了多年的“九尾狐”被老婆烧毁",
+      "hot_value": 21737245,
+      "link": "https://www.toutiao.com/trending/7663452238811988009",
+      "rank": 8
+    },
+    {
+      "title": "输给莎头的夫妻组合收获全场掌声",
+      "hot_value": 19668673,
+      "link": "https://www.toutiao.com/trending/7663303290423197747",
+      "rank": 9
+    },
+    {
+      "title": "《功夫女足》诠释中式体育风骨",
+      "hot_value": 17796951,
+      "link": "https://www.toutiao.com/trending/7663651601248223273",
+      "rank": 10
+    },
+    {
+      "title": "广西横州抗蛇毒血清告急？假的",
+      "hot_value": 16103347,
+      "link": "https://www.toutiao.com/trending/7663437993612918822",
+      "rank": 11
+    },
+    {
+      "title": "彭水塌方中立大功的网格员成功获救",
+      "hot_value": 14570911,
+      "link": "https://www.toutiao.com/trending/7663707544611553316",
+      "rank": 12
+    },
+    {
+      "title": "周星驰御用“星女郎”是张美娥吗",
+      "hot_value": 13184306,
+      "link": "https://www.toutiao.com/trending/7663450720121307155",
+      "rank": 13
+    },
+    {
+      "title": "董璇女儿获中韩国际声乐比赛一等奖",
+      "hot_value": 11929653,
+      "link": "https://www.toutiao.com/trending/7663314782996578347",
+      "rank": 14
+    },
+    {
+      "title": "重庆彭水872人争分夺秒开展救援",
+      "hot_value": 10794396,
+      "link": "https://www.toutiao.com/trending/7663360881342005299",
+      "rank": 15
+    },
+    {
+      "title": "邵永灵：日本离造核弹只差一个名分",
+      "hot_value": 9767174,
+      "link": "https://www.toutiao.com/trending/7663779461065608758",
+      "rank": 16
+    },
+    {
+      "title": "媒体：县长硬刚首富背后是权力傲慢",
+      "hot_value": 8837704,
+      "link": "https://www.toutiao.com/trending/7662980260295852073",
+      "rank": 17
+    },
+    {
+      "title": "重庆崩塌最大山石体积相当于1栋楼",
+      "hot_value": 7996685,
+      "link": "https://www.toutiao.com/trending/7663455820470157318",
+      "rank": 18
+    },
+    {
+      "title": "《八仙！》预测总票房破11亿",
+      "hot_value": 7235700,
+      "link": "https://www.toutiao.com/trending/7662643538085675051",
+      "rank": 19
+    },
+    {
+      "title": "范志毅放话世界杯夺冠还得看阿根廷",
+      "hot_value": 6547132,
+      "link": "https://www.toutiao.com/trending/7662903019243159558",
+      "rank": 20
+    },
+    {
+      "title": "女儿报警称遭父性侵两年后二审翻供",
+      "hot_value": 5924090,
+      "link": "https://www.toutiao.com/trending/7663701745532485678",
+      "rank": 21
+    },
+    {
+      "title": "重庆山体崩塌前后对比图",
+      "hot_value": 5360338,
+      "link": "https://www.toutiao.com/trending/7663061418727444010",
+      "rank": 22
+    },
+    {
+      "title": "黑龙江省一跨河浮桥被洪水冲塌",
+      "hot_value": 4850235,
+      "link": "https://www.toutiao.com/trending/7662658317467041834",
+      "rank": 23
+    },
+    {
+      "title": "大衣哥测试除草剂草长疯了果断拒代言",
+      "hot_value": 4388674,
+      "link": "https://www.toutiao.com/trending/7663501261077004298",
+      "rank": 24
+    },
+    {
+      "title": "女子因网格员大喊捡回一条命",
+      "hot_value": 3971036,
+      "link": "https://www.toutiao.com/trending/7663755146547609642",
+      "rank": 25
+    },
+    {
+      "title": "三伏天养生这份指南请收好",
+      "hot_value": 3593142,
+      "link": "https://www.toutiao.com/trending/7663651664825663539",
+      "rank": 26
+    },
+    {
+      "title": "两只高原鼠兔在路上打架打完分道扬镳",
+      "hot_value": 3251209,
+      "link": "https://www.toutiao.com/trending/7663370728321941523",
+      "rank": 27
+    },
+    {
+      "title": "重庆山体崩塌现场发现生命迹象",
+      "hot_value": 2941816,
+      "link": "https://www.toutiao.com/trending/7663461677019775027",
+      "rank": 28
+    },
+    {
+      "title": "中国军人又帅又有安全感",
+      "hot_value": 2661865,
+      "link": "https://www.toutiao.com/trending/7662897268806352902",
+      "rank": 29
+    },
+    {
+      "title": "美方：伊朗向沙特美军基地发射导弹",
+      "hot_value": 2408555,
+      "link": "https://www.toutiao.com/trending/7663423753623470123",
+      "rank": 30
+    },
+    {
+      "title": "全球巨头发声：必须在中国扎根",
+      "hot_value": 2179351,
+      "link": "https://www.toutiao.com/trending/7663029845223587883",
+      "rank": 31
+    },
+    {
+      "title": "重庆彭水饭店自发为救援提供饭菜",
+      "hot_value": 1971958,
+      "link": "https://www.toutiao.com/trending/7663677168573005830",
+      "rank": 32
+    },
+    {
+      "title": "小竹无人车加速扩张",
+      "hot_value": 1784301,
+      "link": "https://www.toutiao.com/trending/7663722718071623178",
+      "rank": 33
+    },
+    {
+      "title": "外国友人想去苏州结果订错票到宿州",
+      "hot_value": 1614503,
+      "link": "https://www.toutiao.com/trending/7663664006040666163",
+      "rank": 34
+    },
+    {
+      "title": "朝鲜谴责美日韩军事勾结破坏地区和平",
+      "hot_value": 1460862,
+      "link": "https://www.toutiao.com/trending/7663055959732305974",
+      "rank": 35
+    },
+    {
+      "title": "赛力斯的出路在哪里",
+      "hot_value": 1321843,
+      "link": "https://www.toutiao.com/trending/7663714793714355739",
+      "rank": 36
+    },
+    {
+      "title": "杭州热到生鱼片送达时变“熟鱼片”",
+      "hot_value": 1196053,
+      "link": "https://www.toutiao.com/trending/7662526556430319657",
+      "rank": 37
+    },
+    {
+      "title": "俄称对乌实施19次集群打击",
+      "hot_value": 1082233,
+      "link": "https://www.toutiao.com/trending/7662945506083586111",
+      "rank": 38
+    },
+    {
+      "title": "国家矿山安监局山西局干部李海潮被查",
+      "hot_value": 979245,
+      "link": "https://www.toutiao.com/trending/7663759410418188329",
+      "rank": 39
+    },
+    {
+      "title": "女孩学习搏克3天就在那达慕挑战男生",
+      "hot_value": 886058,
+      "link": "https://www.toutiao.com/trending/7663464083304235046",
+      "rank": 40
+    },
+    {
+      "title": "外媒民调：西班牙队获各洲球迷力挺",
+      "hot_value": 801738,
+      "link": "https://www.toutiao.com/trending/7663065514625712137",
+      "rank": 41
+    },
+    {
+      "title": "“床垫界特斯拉”破产背后",
+      "hot_value": 725442,
+      "link": "https://www.toutiao.com/trending/7663677809985850934",
+      "rank": 42
+    },
+    {
+      "title": "医生：三伏天管住嘴就能瘦",
+      "hot_value": 656407,
+      "link": "https://www.toutiao.com/trending/7663023338318938150",
+      "rank": 43
+    },
+    {
+      "title": "马克龙夫妇现身BTS演唱会",
+      "hot_value": 593942,
+      "link": "https://www.toutiao.com/trending/7663536913533452351",
+      "rank": 44
+    },
+    {
+      "title": "韩股大跌背后无处安放的焦虑",
+      "hot_value": 537421,
+      "link": "https://www.toutiao.com/trending/7663706401763495466",
+      "rank": 45
+    },
+    {
+      "title": "法国主帅德尚：争第三也是一种责任",
+      "hot_value": 486278,
+      "link": "https://www.toutiao.com/trending/7663731786329456694",
+      "rank": 46
+    },
+    {
+      "title": "驰援彭水志愿者坚守不愿回去休息",
+      "hot_value": 440003,
+      "link": "https://www.toutiao.com/trending/7662864684949274666",
+      "rank": 47
+    },
+    {
+      "title": "为什么牛市更要遵守投资纪律",
+      "hot_value": 398131,
+      "link": "https://www.toutiao.com/trending/7663784252147764774",
+      "rank": 48
+    },
+    {
+      "title": "塞舌尔中国和平统一促进会发表声明",
+      "hot_value": 360244,
+      "link": "https://www.toutiao.com/trending/7663499489516486719",
+      "rank": 49
+    },
+    {
+      "title": "李大霄：仔细甄别美股的“漂亮话”",
+      "hot_value": 325962,
+      "link": "https://www.toutiao.com/trending/7663787456138841626",
+      "rank": 50
+    }
+  ]
+}
