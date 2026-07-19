@@ -1,0 +1,181 @@
+{
+  "platform": "zhihu",
+  "platform_name": "知乎热榜",
+  "time": "2026-07-20 04:02:41",
+  "items": [
+    {
+      "title": "马龙/许昕获全国乒乓球锦标赛男双冠军，如何评价这场比赛？",
+      "hot_value": 0,
+      "link": "https://www.zhihu.com/question/2062261231742707046",
+      "rank": 1
+    },
+    {
+      "title": "于东来建议每年新增 20 至 40 天带薪年假，严格执行每周 40 小时工作制，怎样看待他的用工理念？",
+      "hot_value": 0,
+      "link": "https://www.zhihu.com/question/2061431899038409047",
+      "rank": 2
+    },
+    {
+      "title": "如何看待部分社区认为DeepSeek-V4的灰度测试是路由Claude Fable、Opus等模型？",
+      "hot_value": 0,
+      "link": "https://www.zhihu.com/question/2062188301013071138",
+      "rank": 3
+    },
+    {
+      "title": "如何看待OpenAI战略未来负责人对kimi k3开源的公开发言？",
+      "hot_value": 0,
+      "link": "https://www.zhihu.com/question/2062166923002090163",
+      "rank": 4
+    },
+    {
+      "title": "杭州图书馆允许流浪汉免费入馆阅读，回复投诉读者“我无权拒绝任何人，但你可以离开”，这个做法是否合理？",
+      "hot_value": 0,
+      "link": "https://www.zhihu.com/question/2061763921598476625",
+      "rank": 5
+    },
+    {
+      "title": "7 月 19 日苏州、杭州、上海等地遭遇大暴雨，你那儿雨下得大吗？出行和生活有没有受到影响？",
+      "hot_value": 0,
+      "link": "https://www.zhihu.com/question/2062227990260311853",
+      "rank": 6
+    },
+    {
+      "title": "清华大学的学生中有80%的人是过目不忘的，这个是真的么？",
+      "hot_value": 0,
+      "link": "https://www.zhihu.com/question/27686348",
+      "rank": 7
+    },
+    {
+      "title": "如何评价7月19日上线的阿里Qwen 3.8 Max Preview模型？其性能如何？",
+      "hot_value": 0,
+      "link": "https://www.zhihu.com/question/2062219946885657098",
+      "rank": 8
+    },
+    {
+      "title": "如何看待EWC官方邀请其他赛区选手观看《突然的陀螺》，随后因引发LPL粉丝不满而下架并处罚相关人员？",
+      "hot_value": 0,
+      "link": "https://www.zhihu.com/question/2062125118537610523",
+      "rank": 9
+    },
+    {
+      "title": "《功夫女足》和《少林足球》，抛开情怀滤镜，单论电影本身，你觉得哪个更好看？为什么？",
+      "hot_value": 0,
+      "link": "https://www.zhihu.com/question/2060160756528702468",
+      "rank": 10
+    },
+    {
+      "title": "2026 EWC 决赛DK vs KC，如何评价这场比赛？有哪些看点？",
+      "hot_value": 0,
+      "link": "https://www.zhihu.com/question/2062306087827501412",
+      "rank": 11
+    },
+    {
+      "title": "宜家集中出售 8 座商场，已全面清空，其中 7 家商场今年关停，如何看待宜家此次大规模资产处置？",
+      "hot_value": 0,
+      "link": "https://www.zhihu.com/question/2061839991072990909",
+      "rank": 12
+    },
+    {
+      "title": "电影《八仙！》票房突破 2 亿，猫眼预测超14亿，你觉得最终票房能到多少？",
+      "hot_value": 0,
+      "link": "https://www.zhihu.com/question/2062129573198657251",
+      "rank": 13
+    },
+    {
+      "title": "养了一个自私的且动不动就以跳楼威胁的女儿，该如何破局？",
+      "hot_value": 0,
+      "link": "https://www.zhihu.com/question/2051758275461436294",
+      "rank": 14
+    },
+    {
+      "title": "我想知道量子纠缠为什么能瞬间影响遥远的粒子？",
+      "hot_value": 0,
+      "link": "https://www.zhihu.com/question/2059281079941457516",
+      "rank": 15
+    },
+    {
+      "title": "月之暗面将推出新模型 KimiK3，将给 AI 市场带来哪些新冲击？",
+      "hot_value": 0,
+      "link": "https://www.zhihu.com/question/2061156114658485568",
+      "rank": 16
+    },
+    {
+      "title": "两只猫为什么会互相舔毛？怎么知道他们是闹着玩还是真的打架？",
+      "hot_value": 0,
+      "link": "https://www.zhihu.com/question/286733645",
+      "rank": 17
+    },
+    {
+      "title": "长鑫科技海外加密合约炒到8.64美元，市值一度逼近4万亿元人民币，是A股发行价估值的近7倍，如何解读？",
+      "hot_value": 0,
+      "link": "https://www.zhihu.com/question/2061864895159833546",
+      "rank": 18
+    },
+    {
+      "title": "如何评价 FIFA 主席说可以中美合办世界杯？这是玩笑还是有所考量？",
+      "hot_value": 0,
+      "link": "https://www.zhihu.com/question/2061815234465981878",
+      "rank": 19
+    },
+    {
+      "title": "上半年入境外国人超 2291 万人次，同比增长20.4%，希腊游客增长近2倍，老外为何扎堆来中国避暑？",
+      "hot_value": 0,
+      "link": "https://www.zhihu.com/question/2061485273788191373",
+      "rank": 20
+    },
+    {
+      "title": "怎样才能成为一个受人尊重和爱戴的好人？又如何避免成为一个“烂”好人呢？",
+      "hot_value": 0,
+      "link": "https://www.zhihu.com/question/2059067027948582006",
+      "rank": 21
+    },
+    {
+      "title": "罗马帝国灭亡的真正原因，至今仍让我感到困惑，究竟是什么？",
+      "hot_value": 0,
+      "link": "https://www.zhihu.com/question/2049448103732949993",
+      "rank": 22
+    },
+    {
+      "title": "最早那一批做断骨增高的人，现在怎么样了？",
+      "hot_value": 0,
+      "link": "https://www.zhihu.com/question/279422241",
+      "rank": 23
+    },
+    {
+      "title": "如何评价漫画《勇者赫鲁库》？",
+      "hot_value": 0,
+      "link": "https://www.zhihu.com/question/63090612",
+      "rank": 24
+    },
+    {
+      "title": "为什么我读了很多书，写作时却总感觉词不达意、逻辑混乱？",
+      "hot_value": 0,
+      "link": "https://www.zhihu.com/question/1976249164988978724",
+      "rank": 25
+    },
+    {
+      "title": "帝皇有灵能灭星的战力，为什么没有把所有敌人给平推了？",
+      "hot_value": 0,
+      "link": "https://www.zhihu.com/question/1942522451067135877",
+      "rank": 26
+    },
+    {
+      "title": "已知f(x+y)=f(x)g(y)+g(x)f(y)……能推出f(x),g(x)是三角函数吗？",
+      "hot_value": 0,
+      "link": "https://www.zhihu.com/question/349902345",
+      "rank": 27
+    },
+    {
+      "title": "新人机大战，2026年7月19日第二局，申真谞受让两子击败katago，如何评价这场对局？",
+      "hot_value": 0,
+      "link": "https://www.zhihu.com/question/2062172305267200014",
+      "rank": 28
+    },
+    {
+      "title": "如何评价动画《哥布林杀手》中尽管在生死攸关的时候，精灵仍然禁止主角使用水攻、火攻、毒攻的行为？",
+      "hot_value": 0,
+      "link": "https://www.zhihu.com/question/317421219",
+      "rank": 29
+    }
+  ]
+}
