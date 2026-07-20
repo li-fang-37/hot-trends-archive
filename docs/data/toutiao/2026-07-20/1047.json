@@ -1,0 +1,307 @@
+{
+  "platform": "toutiao",
+  "platform_name": "今日头条",
+  "time": "2026-07-20 10:47:38",
+  "items": [
+    {
+      "title": "西班牙时隔16年再夺世界杯冠军",
+      "hot_value": 36249246,
+      "link": "https://www.toutiao.com/trending/7663707421214474276",
+      "rank": 1
+    },
+    {
+      "title": "暴雨过后上海市民划皮划艇上路",
+      "hot_value": 32799674,
+      "link": "https://www.toutiao.com/trending/7664189469922181183",
+      "rank": 2
+    },
+    {
+      "title": "2026世界人工智能大会硬核瞬间",
+      "hot_value": 29678373,
+      "link": "https://www.toutiao.com/article/7664362559276876298",
+      "rank": 3
+    },
+    {
+      "title": "西班牙阿根廷赛后打起来了",
+      "hot_value": 26854102,
+      "link": "https://www.toutiao.com/trending/7663839528063942692",
+      "rank": 4
+    },
+    {
+      "title": "马龙：也就我能叫得动许昕了",
+      "hot_value": 24298596,
+      "link": "https://www.toutiao.com/trending/7664227357456125486",
+      "rank": 5
+    },
+    {
+      "title": "两大央企近600亿增持中国股票资产",
+      "hot_value": 21986279,
+      "link": "https://www.toutiao.com/trending/7664256912476605979",
+      "rank": 6
+    },
+    {
+      "title": "西班牙领奖时阿根廷球员集体背过身",
+      "hot_value": 19894008,
+      "link": "https://www.toutiao.com/trending/7663750963165154879",
+      "rank": 7
+    },
+    {
+      "title": "全球最大煤制油项目完成智能化改造",
+      "hot_value": 18000843,
+      "link": "https://www.toutiao.com/trending/7664079812458332214",
+      "rank": 8
+    },
+    {
+      "title": "印尼对中印尼投资合作未来充满信心",
+      "hot_value": 16287836,
+      "link": "https://www.toutiao.com/trending/7663389039337553958",
+      "rank": 9
+    },
+    {
+      "title": "卫健委辟谣韩红基金会物资分配不均",
+      "hot_value": 14737843,
+      "link": "https://www.toutiao.com/trending/7663515116738117651",
+      "rank": 10
+    },
+    {
+      "title": "西班牙首都万人空巷庆祝夺冠",
+      "hot_value": 13335352,
+      "link": "https://www.toutiao.com/trending/7663308043555995702",
+      "rank": 11
+    },
+    {
+      "title": "男子闪婚后发现妻子吸毒坐牢患梅毒",
+      "hot_value": 12066326,
+      "link": "https://www.toutiao.com/trending/7664222824638906374",
+      "rank": 12
+    },
+    {
+      "title": "旭旭宝宝回应争议：没说过周星驰不好",
+      "hot_value": 10918063,
+      "link": "https://www.toutiao.com/trending/7663541884242116646",
+      "rank": 13
+    },
+    {
+      "title": "西班牙夺冠路上唯一没赢的是佛得角",
+      "hot_value": 9879072,
+      "link": "https://www.toutiao.com/trending/7663751002117508614",
+      "rank": 14
+    },
+    {
+      "title": "美方称对伊朗军事行动将持续进行",
+      "hot_value": 8938954,
+      "link": "https://www.toutiao.com/trending/7663703753891233818",
+      "rank": 15
+    },
+    {
+      "title": "孙颖莎反复看了好几遍获奖证书",
+      "hot_value": 8088300,
+      "link": "https://www.toutiao.com/trending/7663879874982494249",
+      "rank": 16
+    },
+    {
+      "title": "19岁亚马尔加冕最年轻双冠王",
+      "hot_value": 7318596,
+      "link": "https://www.toutiao.com/trending/7664147096018173962",
+      "rank": 17
+    },
+    {
+      "title": "美军导弹打击伊朗石油重镇",
+      "hot_value": 6622140,
+      "link": "https://www.toutiao.com/trending/7664390484621528602",
+      "rank": 18
+    },
+    {
+      "title": "许昕回应夺冠：马龙选中的人不会差",
+      "hot_value": 5991960,
+      "link": "https://www.toutiao.com/trending/7664377531352550963",
+      "rank": 19
+    },
+    {
+      "title": "姆巴佩获金靴奖",
+      "hot_value": 5421749,
+      "link": "https://www.toutiao.com/trending/7664365878959410734",
+      "rank": 20
+    },
+    {
+      "title": "日本民间集会公开细菌战证词",
+      "hot_value": 4905802,
+      "link": "https://www.toutiao.com/trending/7664373785185599529",
+      "rank": 21
+    },
+    {
+      "title": "广东惠州一漂流景区有游客溺亡",
+      "hot_value": 4438953,
+      "link": "https://www.toutiao.com/trending/7664379330038300713",
+      "rank": 22
+    },
+    {
+      "title": "西班牙队赢得世界杯首批官方冠军戒指",
+      "hot_value": 4016531,
+      "link": "https://www.toutiao.com/trending/7664392202121920539",
+      "rank": 23
+    },
+    {
+      "title": "不认字老人被银行跨省开通证券账户",
+      "hot_value": 3288457,
+      "link": "https://www.toutiao.com/trending/7663739089509842998",
+      "rank": 24
+    },
+    {
+      "title": "刘亦菲素颜现身北京环球影城",
+      "hot_value": 2975519,
+      "link": "https://www.toutiao.com/trending/7663813278866849834",
+      "rank": 25
+    },
+    {
+      "title": "罗德里获世界杯金球奖",
+      "hot_value": 2692361,
+      "link": "https://www.toutiao.com/trending/7664091885997424681",
+      "rank": 26
+    },
+    {
+      "title": "普京会见朝鲜外务相",
+      "hot_value": 1632999,
+      "link": "https://www.toutiao.com/trending/7664203812915986473",
+      "rank": 27
+    },
+    {
+      "title": "家长如何帮孩子“长个儿”",
+      "hot_value": 1094632,
+      "link": "https://www.toutiao.com/trending/7664390930468028462",
+      "rank": 28
+    },
+    {
+      "title": "阿根廷队官方：接受遗憾",
+      "hot_value": 990464,
+      "link": "https://www.toutiao.com/trending/7663435555883728934",
+      "rank": 29
+    },
+    {
+      "title": "当星爷“童心”撞上大湾区“野心”",
+      "hot_value": 810923,
+      "link": "https://www.toutiao.com/trending/7664335659175542794",
+      "rank": 30
+    },
+    {
+      "title": "女子拎着大袋子偷菜当场被抓",
+      "hot_value": 663928,
+      "link": "https://www.toutiao.com/trending/7663876559366996014",
+      "rank": 31
+    },
+    {
+      "title": "西班牙王室观战世界杯决赛",
+      "hot_value": 445044,
+      "link": "https://www.toutiao.com/trending/7663318225678024747",
+      "rank": 32
+    },
+    {
+      "title": "新首相能救英国吗",
+      "hot_value": 402692,
+      "link": "https://www.toutiao.com/trending/7664334625841352228",
+      "rank": 33
+    },
+    {
+      "title": "媒体：日印“兄妹情”遇到尴尬",
+      "hot_value": 329696,
+      "link": "https://www.toutiao.com/trending/7663647703901749291",
+      "rank": 34
+    },
+    {
+      "title": "西班牙冠军奖金5000万美元",
+      "hot_value": 298322,
+      "link": "https://www.toutiao.com/trending/7663630635046535211",
+      "rank": 35
+    },
+    {
+      "title": "中医专家：夏天适量吃雪糕有好处",
+      "hot_value": 269933,
+      "link": "https://www.toutiao.com/trending/7663781614853324836",
+      "rank": 36
+    },
+    {
+      "title": "蒯曼双线作战一赛双冠",
+      "hot_value": 244245,
+      "link": "https://www.toutiao.com/trending/7663453235198148650",
+      "rank": 37
+    },
+    {
+      "title": "西班牙pk阿根廷：空间困住了时间",
+      "hot_value": 221002,
+      "link": "https://www.toutiao.com/trending/7664388660694879798",
+      "rank": 38
+    },
+    {
+      "title": "神二十三乘组在轨工作忙碌充实",
+      "hot_value": 199971,
+      "link": "https://www.toutiao.com/trending/7663487892577484806",
+      "rank": 39
+    },
+    {
+      "title": "美国10年期国债期货下跌6个基点",
+      "hot_value": 180941,
+      "link": "https://www.toutiao.com/trending/7664147623247200297",
+      "rank": 40
+    },
+    {
+      "title": "阿根廷总统宣布放假1天",
+      "hot_value": 163722,
+      "link": "https://www.toutiao.com/trending/7664182960693788722",
+      "rank": 41
+    },
+    {
+      "title": "“鬼子专业户”王侃去世",
+      "hot_value": 148142,
+      "link": "https://www.toutiao.com/trending/7663318330207653412",
+      "rank": 42
+    },
+    {
+      "title": "月之暗面Kimi：暂停C端新用户订阅",
+      "hot_value": 134044,
+      "link": "https://www.toutiao.com/trending/7663744950345089043",
+      "rank": 43
+    },
+    {
+      "title": "樊振东祝贺西班牙队世界杯夺冠",
+      "hot_value": 121288,
+      "link": "https://www.toutiao.com/trending/7664382302499160105",
+      "rank": 44
+    },
+    {
+      "title": "伊朗称打死数十名美军人员",
+      "hot_value": 109746,
+      "link": "https://www.toutiao.com/trending/7664426833449848347",
+      "rank": 45
+    },
+    {
+      "title": "8月气温还会更高吗",
+      "hot_value": 89852,
+      "link": "https://www.toutiao.com/trending/7663576684288999465",
+      "rank": 46
+    },
+    {
+      "title": "媒体：西班牙队比16年前更可怕",
+      "hot_value": 81302,
+      "link": "https://www.toutiao.com/trending/7664410851123068934",
+      "rank": 47
+    },
+    {
+      "title": "江苏宿迁开启足球之夏暑期文旅消费季",
+      "hot_value": 73565,
+      "link": "https://www.toutiao.com/trending/7664257536520093734",
+      "rank": 48
+    },
+    {
+      "title": "马龙许昕归来仍是传奇",
+      "hot_value": 54498,
+      "link": "https://www.toutiao.com/trending/7664228019011141678",
+      "rank": 49
+    },
+    {
+      "title": "西班牙队凭什么重返世界之巅",
+      "hot_value": 49312,
+      "link": "https://www.toutiao.com/trending/7664015932666642482",
+      "rank": 50
+    }
+  ]
+}
