@@ -1,0 +1,307 @@
+{
+  "platform": "toutiao",
+  "platform_name": "今日头条",
+  "time": "2026-07-25 06:56:19",
+  "items": [
+    {
+      "title": "广东多地宣布停止一切线下培训",
+      "hot_value": 43719784,
+      "link": "https://www.toutiao.com/trending/7666090049737330219",
+      "rank": 1
+    },
+    {
+      "title": "打虎！证监会原副主席方星海被查",
+      "hot_value": 39559297,
+      "link": "https://www.toutiao.com/trending/7666063296457965587",
+      "rank": 2
+    },
+    {
+      "title": "从三组外贸数据读懂“中国机遇2.0”",
+      "hot_value": 35794732,
+      "link": "https://www.toutiao.com/trending/7665115931831517210",
+      "rank": 3
+    },
+    {
+      "title": "越来越多高分考生选“中职直通本科”",
+      "hot_value": 32388413,
+      "link": "https://www.toutiao.com/trending/7665635499444928522",
+      "rank": 4
+    },
+    {
+      "title": "媒体评王虹获奖：别再说寒门难出贵子",
+      "hot_value": 29306248,
+      "link": "https://www.toutiao.com/trending/7665902856143716390",
+      "rank": 5
+    },
+    {
+      "title": "“鞋拔子脸”维权女孩：修复至少30万",
+      "hot_value": 26517390,
+      "link": "https://www.toutiao.com/trending/7665632878388215858",
+      "rank": 6
+    },
+    {
+      "title": "女子将家中电视背景墙装成教室黑板",
+      "hot_value": 23993926,
+      "link": "https://www.toutiao.com/trending/7665898002871992339",
+      "rank": 7
+    },
+    {
+      "title": "高温天做5件事会给身体埋下病根",
+      "hot_value": 21710602,
+      "link": "https://www.toutiao.com/trending/7665973959099793434",
+      "rank": 8
+    },
+    {
+      "title": "腾讯317万年终奖员工因泄密被辞退",
+      "hot_value": 19644565,
+      "link": "https://www.toutiao.com/trending/7665610788790992950",
+      "rank": 9
+    },
+    {
+      "title": "爸妈吵架都走了 男孩抱妹妹找奶奶",
+      "hot_value": 17775138,
+      "link": "https://www.toutiao.com/trending/7664894745051398185",
+      "rank": 10
+    },
+    {
+      "title": "“广西百色遭遇严重洪灾”系谣言",
+      "hot_value": 16083610,
+      "link": "https://www.toutiao.com/trending/7665533372596863019",
+      "rank": 11
+    },
+    {
+      "title": "男子在家裸体被女邻居发群是谁错了",
+      "hot_value": 14553052,
+      "link": "https://www.toutiao.com/trending/7665105506796814387",
+      "rank": 12
+    },
+    {
+      "title": "比亚迪“大汉”要来了",
+      "hot_value": 13168146,
+      "link": "https://www.toutiao.com/trending/7665730129716985865",
+      "rank": 13
+    },
+    {
+      "title": "马克龙打电话祝贺王虹获奖",
+      "hot_value": 11915031,
+      "link": "https://www.toutiao.com/trending/7665900627393809963",
+      "rank": 14
+    },
+    {
+      "title": "研究：适当“饿一饿”反而有好处",
+      "hot_value": 10781166,
+      "link": "https://www.toutiao.com/trending/7665635485721133075",
+      "rank": 15
+    },
+    {
+      "title": "腿上若有5个异常建议及时就医",
+      "hot_value": 9755202,
+      "link": "https://www.toutiao.com/trending/7665913905478877220",
+      "rank": 16
+    },
+    {
+      "title": "王虹16岁高考653分进北大",
+      "hot_value": 8826872,
+      "link": "https://www.toutiao.com/trending/7665112206291288106",
+      "rank": 17
+    },
+    {
+      "title": "伊朗称袭击美国亚马逊公司一数据中心",
+      "hot_value": 7986884,
+      "link": "https://www.toutiao.com/trending/7665519115210899499",
+      "rank": 18
+    },
+    {
+      "title": "医生：晚上太热持续伤全身",
+      "hot_value": 7226831,
+      "link": "https://www.toutiao.com/trending/7665677026632843310",
+      "rank": 19
+    },
+    {
+      "title": "学者：俄军饱和攻击战术奏效",
+      "hot_value": 6539107,
+      "link": "https://www.toutiao.com/trending/7666091989238025770",
+      "rank": 20
+    },
+    {
+      "title": "男子捂死妻子埋尸荒野13年后被抓",
+      "hot_value": 5916829,
+      "link": "https://www.toutiao.com/trending/7665969266038079551",
+      "rank": 21
+    },
+    {
+      "title": "广汽丰田：电池事故起火厂家全担责",
+      "hot_value": 5353768,
+      "link": "https://www.toutiao.com/trending/7665927899347009586",
+      "rank": 22
+    },
+    {
+      "title": "缅北“四大家族”已被彻底摧毁",
+      "hot_value": 4844290,
+      "link": "https://www.toutiao.com/trending/7665543921962880531",
+      "rank": 23
+    },
+    {
+      "title": "俄军苏-57战机坠毁与乌袭击有关吗",
+      "hot_value": 4383295,
+      "link": "https://www.toutiao.com/trending/7666028772688137769",
+      "rank": 24
+    },
+    {
+      "title": "菲律宾一边逃窜一边喊糟糕",
+      "hot_value": 3966169,
+      "link": "https://www.toutiao.com/trending/7665006629594791946",
+      "rank": 25
+    },
+    {
+      "title": "四位菲尔兹奖得主有三位会说中文",
+      "hot_value": 3588738,
+      "link": "https://www.toutiao.com/trending/7665497786082725418",
+      "rank": 26
+    },
+    {
+      "title": "物业大撤退背后发生了什么",
+      "hot_value": 3247224,
+      "link": "https://www.toutiao.com/trending/7665948964046471211",
+      "rank": 27
+    },
+    {
+      "title": "中国海警水炮喷射驱离菲船只现场",
+      "hot_value": 2938210,
+      "link": "https://www.toutiao.com/trending/7665836967930282027",
+      "rank": 28
+    },
+    {
+      "title": "中美贸易连涨3个月意味着什么",
+      "hot_value": 2658602,
+      "link": "https://www.toutiao.com/trending/7666061290502098486",
+      "rank": 29
+    },
+    {
+      "title": "演员钟雅婷收到北大录取通知书",
+      "hot_value": 2405603,
+      "link": "https://www.toutiao.com/trending/7665769355931336710",
+      "rank": 30
+    },
+    {
+      "title": "黄金还能不能买",
+      "hot_value": 2176679,
+      "link": "https://www.toutiao.com/trending/7666083399173410350",
+      "rank": 31
+    },
+    {
+      "title": "澳大利亚工党大会中方官员愤然离席",
+      "hot_value": 1969541,
+      "link": "https://www.toutiao.com/trending/7666053927447678515",
+      "rank": 32
+    },
+    {
+      "title": "尹烨：王虹邓煜如何改写人类认知边界",
+      "hot_value": 1782114,
+      "link": "https://www.toutiao.com/trending/7666046018932182566",
+      "rank": 33
+    },
+    {
+      "title": "长鑫科技一签能赚多少",
+      "hot_value": 1612524,
+      "link": "https://www.toutiao.com/trending/7665950655214784041",
+      "rank": 34
+    },
+    {
+      "title": "香港导演关锦鹏谈《功夫女足》",
+      "hot_value": 1459072,
+      "link": "https://www.toutiao.com/trending/7665236741582569491",
+      "rank": 35
+    },
+    {
+      "title": "丘成桐希望王虹邓煜回国任教",
+      "hot_value": 1320223,
+      "link": "https://www.toutiao.com/trending/7665720564956233778",
+      "rank": 36
+    },
+    {
+      "title": "AI重现狼牙山五壮士英雄壮举",
+      "hot_value": 1194587,
+      "link": "https://www.toutiao.com/trending/7666058970050183209",
+      "rank": 37
+    },
+    {
+      "title": "中方管制14家欧盟实体释放什么信号",
+      "hot_value": 1080907,
+      "link": "https://www.toutiao.com/trending/7666063971803205126",
+      "rank": 38
+    },
+    {
+      "title": "邓煜网上答疑曾被当场抬杠",
+      "hot_value": 978045,
+      "link": "https://www.toutiao.com/trending/7665874573417713190",
+      "rank": 39
+    },
+    {
+      "title": "专家：撕开美国关税战真相",
+      "hot_value": 884972,
+      "link": "https://www.toutiao.com/trending/7666088172287168043",
+      "rank": 40
+    },
+    {
+      "title": "白鹿新剧开机仪式上不慎摔倒",
+      "hot_value": 800755,
+      "link": "https://www.toutiao.com/trending/7665475104234782739",
+      "rank": 41
+    },
+    {
+      "title": "菲位南海多点生事蓄意挑衅",
+      "hot_value": 724553,
+      "link": "https://www.toutiao.com/trending/7665997870121618963",
+      "rank": 42
+    },
+    {
+      "title": "方某军因操纵证券市场被罚没1.75亿",
+      "hot_value": 655603,
+      "link": "https://www.toutiao.com/trending/7666027746867986451",
+      "rank": 43
+    },
+    {
+      "title": "邵永灵：菲挑衅中国又挨美关税大棒",
+      "hot_value": 593214,
+      "link": "https://www.toutiao.com/trending/7666059651762359862",
+      "rank": 44
+    },
+    {
+      "title": "夫妇疑因掉落电线触电身亡",
+      "hot_value": 536762,
+      "link": "https://www.toutiao.com/trending/7665962878713659435",
+      "rank": 45
+    },
+    {
+      "title": "菲公务船围中国舰船绕圈被驱离画面",
+      "hot_value": 485682,
+      "link": "https://www.toutiao.com/trending/7665690871228366875",
+      "rank": 46
+    },
+    {
+      "title": "美再打关税牌 全球贸易阴霾未消",
+      "hot_value": 439464,
+      "link": "https://www.toutiao.com/trending/7666088147431722505",
+      "rank": 47
+    },
+    {
+      "title": "日本民众集会反对政府扩军及讨论拥核",
+      "hot_value": 397643,
+      "link": "https://www.toutiao.com/trending/7665575970174173193",
+      "rank": 48
+    },
+    {
+      "title": "重庆彭水新搜寻出3名遇难者",
+      "hot_value": 359802,
+      "link": "https://www.toutiao.com/trending/7666101242266914358",
+      "rank": 49
+    },
+    {
+      "title": "多所“小而精”大学分数线超985",
+      "hot_value": 325563,
+      "link": "https://www.toutiao.com/trending/7665704422215057418",
+      "rank": 50
+    }
+  ]
+}
