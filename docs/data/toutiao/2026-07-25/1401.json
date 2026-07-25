@@ -1,0 +1,307 @@
+{
+  "platform": "toutiao",
+  "platform_name": "今日头条",
+  "time": "2026-07-25 14:01:13",
+  "items": [
+    {
+      "title": "王小洪会见美国联邦调查局局长",
+      "hot_value": 32079895,
+      "link": "https://www.toutiao.com/trending/7666079821497630771",
+      "rank": 1
+    },
+    {
+      "title": "携程因垄断行为被罚没51.79亿元",
+      "hot_value": 29027089,
+      "link": "https://www.toutiao.com/trending/7666046170700005430",
+      "rank": 2
+    },
+    {
+      "title": "中国基础教育 自信从何而来？",
+      "hot_value": 26264797,
+      "link": "https://www.toutiao.com/article/7666093287777813042",
+      "rank": 3
+    },
+    {
+      "title": "武汉高官之子香港洗钱被判入狱6年多",
+      "hot_value": 23765371,
+      "link": "https://www.toutiao.com/trending/7666302038606614042",
+      "rank": 4
+    },
+    {
+      "title": "中国大使问菲方闹什么闹能承担后果吗",
+      "hot_value": 21503797,
+      "link": "https://www.toutiao.com/trending/7665543921963044371",
+      "rank": 5
+    },
+    {
+      "title": "重庆警方今年打掉境内外电诈团伙198个",
+      "hot_value": 19457440,
+      "link": "https://www.toutiao.com/trending/7666253915905871398",
+      "rank": 6
+    },
+    {
+      "title": "台风红霞最新路径发布",
+      "hot_value": 17605819,
+      "link": "https://www.toutiao.com/trending/7666237422249709119",
+      "rank": 7
+    },
+    {
+      "title": "三个“第一”复盘携程垄断案始末",
+      "hot_value": 15930404,
+      "link": "https://www.toutiao.com/trending/7665543921963077139",
+      "rank": 8
+    },
+    {
+      "title": "空调房待三四小时要开窗通风",
+      "hot_value": 14414426,
+      "link": "https://www.toutiao.com/trending/7665261258569056319",
+      "rank": 9
+    },
+    {
+      "title": "台风预计今晚登陆 长沙将有大暴雨",
+      "hot_value": 13042712,
+      "link": "https://www.toutiao.com/trending/7666237304780079140",
+      "rank": 10
+    },
+    {
+      "title": "携程回应被处罚：诚恳接受坚决服从",
+      "hot_value": 11801534,
+      "link": "https://www.toutiao.com/trending/7666290387534745134",
+      "rank": 11
+    },
+    {
+      "title": "辟谣周榜｜沈阳全城停水系谣言",
+      "hot_value": 10678469,
+      "link": "https://www.toutiao.com/trending/7666039489613185043",
+      "rank": 12
+    },
+    {
+      "title": "胡军李乃文现身书博会支持黄圣依新书",
+      "hot_value": 9662278,
+      "link": "https://www.toutiao.com/trending/7665412793648136243",
+      "rank": 13
+    },
+    {
+      "title": "一到下午就昏昏欲睡？这是身体在预警",
+      "hot_value": 8742791,
+      "link": "https://www.toutiao.com/trending/7666003701077196851",
+      "rank": 14
+    },
+    {
+      "title": "宇树CEO携载人机甲登《时代》封面",
+      "hot_value": 7910804,
+      "link": "https://www.toutiao.com/trending/7665401350754271283",
+      "rank": 15
+    },
+    {
+      "title": "勇士11号秀对詹姆斯加盟76人表示疑惑",
+      "hot_value": 7157992,
+      "link": "https://www.toutiao.com/trending/7666146360438505499",
+      "rank": 16
+    },
+    {
+      "title": "工人救起溺水一家三口默默离开",
+      "hot_value": 6476819,
+      "link": "https://www.toutiao.com/trending/7666084157832101938",
+      "rank": 17
+    },
+    {
+      "title": "山西洪洞发生黄土崩塌5人死亡",
+      "hot_value": 5860468,
+      "link": "https://www.toutiao.com/trending/7666277153458192447",
+      "rank": 18
+    },
+    {
+      "title": "伊基塔复刻自己30年前的蝎子摆尾",
+      "hot_value": 5302771,
+      "link": "https://www.toutiao.com/trending/7666047441988304915",
+      "rank": 19
+    },
+    {
+      "title": "“鞋拔子脸”维权女孩：修复至少30万",
+      "hot_value": 4798145,
+      "link": "https://www.toutiao.com/trending/7665632878388215858",
+      "rank": 20
+    },
+    {
+      "title": "中国女排主教练谈逆转美国进入四强",
+      "hot_value": 4341541,
+      "link": "https://www.toutiao.com/trending/7665816911199977478",
+      "rank": 21
+    },
+    {
+      "title": "中学18位学生同日被空军航空大学录取",
+      "hot_value": 3928389,
+      "link": "https://www.toutiao.com/trending/7665986172292694058",
+      "rank": 22
+    },
+    {
+      "title": "三只狮子葬身洪水后动物园遭网暴",
+      "hot_value": 3554553,
+      "link": "https://www.toutiao.com/trending/7665597252333223942",
+      "rank": 23
+    },
+    {
+      "title": "男子在家裸体被女邻居发群是谁错了",
+      "hot_value": 3216293,
+      "link": "https://www.toutiao.com/trending/7665105506796814387",
+      "rank": 24
+    },
+    {
+      "title": "缅北“四大家族”已被彻底摧毁",
+      "hot_value": 2910222,
+      "link": "https://www.toutiao.com/trending/7665543921962880531",
+      "rank": 25
+    },
+    {
+      "title": "警方通报女子举报遭公安一领导猥亵",
+      "hot_value": 2633278,
+      "link": "https://www.toutiao.com/trending/7666274175920639538",
+      "rank": 26
+    },
+    {
+      "title": "特朗普拒答是否犯下战争罪行",
+      "hot_value": 2382688,
+      "link": "https://www.toutiao.com/trending/7666230332928507958",
+      "rank": 27
+    },
+    {
+      "title": "网友找了两天的锅 看监控破案了",
+      "hot_value": 2155945,
+      "link": "https://www.toutiao.com/trending/7665927638393503795",
+      "rank": 28
+    },
+    {
+      "title": "地产诉讼潮来袭背后有何深层原因",
+      "hot_value": 1950780,
+      "link": "https://www.toutiao.com/trending/7666250082223656467",
+      "rank": 29
+    },
+    {
+      "title": "澳大利亚工党大会中方官员愤然离席",
+      "hot_value": 1765139,
+      "link": "https://www.toutiao.com/trending/7666053927447678515",
+      "rank": 30
+    },
+    {
+      "title": "理财公司加码打新",
+      "hot_value": 1597163,
+      "link": "https://www.toutiao.com/trending/7665741188704993323",
+      "rank": 31
+    },
+    {
+      "title": "杭州突发一声巨响 有人称房子都颤了",
+      "hot_value": 1445173,
+      "link": "https://www.toutiao.com/trending/7666073987202400307",
+      "rank": 32
+    },
+    {
+      "title": "海南人大常委会原副主任被开除党籍",
+      "hot_value": 1307647,
+      "link": "https://www.toutiao.com/trending/7666295228383002678",
+      "rank": 33
+    },
+    {
+      "title": "中伏到 你的脂肪准备好了吗",
+      "hot_value": 1183208,
+      "link": "https://www.toutiao.com/trending/7666054097334239251",
+      "rank": 34
+    },
+    {
+      "title": "四川广元用近500斤冰块给变压器降温",
+      "hot_value": 1070611,
+      "link": "https://www.toutiao.com/trending/7665592502133080091",
+      "rank": 35
+    },
+    {
+      "title": "多地出现35℃以上高温天气",
+      "hot_value": 968728,
+      "link": "https://www.toutiao.com/trending/7665484820608434186",
+      "rank": 36
+    },
+    {
+      "title": "博三女生没结婚问亲戚：谁笑话我妈了",
+      "hot_value": 876542,
+      "link": "https://www.toutiao.com/trending/7665976615656276010",
+      "rank": 37
+    },
+    {
+      "title": "王楚钦击球失败小表情",
+      "hot_value": 793128,
+      "link": "https://www.toutiao.com/trending/7665734437702893577",
+      "rank": 38
+    },
+    {
+      "title": "张小斐个人票房破120亿",
+      "hot_value": 717652,
+      "link": "https://www.toutiao.com/trending/7665595276790890515",
+      "rank": 39
+    },
+    {
+      "title": "广东惠州实施“五停”措施",
+      "hot_value": 649358,
+      "link": "https://www.toutiao.com/trending/7666267219990416939",
+      "rank": 40
+    },
+    {
+      "title": "马斯克财富一周蒸发8800亿元",
+      "hot_value": 587563,
+      "link": "https://www.toutiao.com/trending/7665638121970745370",
+      "rank": 41
+    },
+    {
+      "title": "委内瑞拉决定退出国际刑事法院",
+      "hot_value": 531649,
+      "link": "https://www.toutiao.com/trending/7666206243904028681",
+      "rank": 42
+    },
+    {
+      "title": "汕尾市全域高速公路实施临时交通管制",
+      "hot_value": 481056,
+      "link": "https://www.toutiao.com/trending/7666323772638498342",
+      "rank": 43
+    },
+    {
+      "title": "乌克兰为何对俄电商仓库下手",
+      "hot_value": 435277,
+      "link": "https://www.toutiao.com/trending/7665302789560025134",
+      "rank": 44
+    },
+    {
+      "title": "詹姆斯加盟76人",
+      "hot_value": 393855,
+      "link": "https://www.toutiao.com/trending/7666232254640688681",
+      "rank": 45
+    },
+    {
+      "title": "广东汕尾实行“五停”措施",
+      "hot_value": 356375,
+      "link": "https://www.toutiao.com/trending/7666287528709721654",
+      "rank": 46
+    },
+    {
+      "title": "“景德镇手工瓷业遗存”申遗成功",
+      "hot_value": 322461,
+      "link": "https://www.toutiao.com/trending/7666307706780651054",
+      "rank": 47
+    },
+    {
+      "title": "评论员谈特朗普再挥关税大棒",
+      "hot_value": 291775,
+      "link": "https://www.toutiao.com/trending/7665207189830451227",
+      "rank": 48
+    },
+    {
+      "title": "男子旅游时肝脏出血饭店员工施以援手",
+      "hot_value": 264009,
+      "link": "https://www.toutiao.com/trending/7666107204602282027",
+      "rank": 49
+    },
+    {
+      "title": "外地游客坐错车 公交司机自驾送回",
+      "hot_value": 238885,
+      "link": "https://www.toutiao.com/trending/7665991652003643428",
+      "rank": 50
+    }
+  ]
+}
