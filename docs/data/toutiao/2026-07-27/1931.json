@@ -1,0 +1,307 @@
+{
+  "platform": "toutiao",
+  "platform_name": "今日头条",
+  "time": "2026-07-27 19:31:56",
+  "items": [
+    {
+      "title": "合肥国资赚了10000亿",
+      "hot_value": 18862634,
+      "link": "https://www.toutiao.com/trending/7666289625799052854",
+      "rank": 1
+    },
+    {
+      "title": "“听泉赏宝”宣布彻底告别股市",
+      "hot_value": 17067617,
+      "link": "https://www.toutiao.com/trending/7667059764711079990",
+      "rank": 2
+    },
+    {
+      "title": "全国规模以上工业企业利润增长18.7%",
+      "hot_value": 15443418,
+      "link": "https://www.toutiao.com/article/7667093918785307177",
+      "rank": 3
+    },
+    {
+      "title": "尹锡悦当选韩国总统或无效",
+      "hot_value": 13973783,
+      "link": "https://www.toutiao.com/trending/7667146044668562971",
+      "rank": 4
+    },
+    {
+      "title": "女副部张世平被开除党籍：大肆敛财",
+      "hot_value": 12644001,
+      "link": "https://www.toutiao.com/trending/7667130167358308388",
+      "rank": 5
+    },
+    {
+      "title": "员工女儿考上北大获公司10万元奖励",
+      "hot_value": 11440766,
+      "link": "https://www.toutiao.com/trending/7667022926164639771",
+      "rank": 6
+    },
+    {
+      "title": "中方回应美拟制裁中国人工智能企业",
+      "hot_value": 10352033,
+      "link": "https://www.toutiao.com/trending/7667153251594145331",
+      "rank": 7
+    },
+    {
+      "title": "台湾为何会爆发大规模抗议",
+      "hot_value": 9366906,
+      "link": "https://www.toutiao.com/trending/7666466531745857545",
+      "rank": 8
+    },
+    {
+      "title": "广东一女子被大水冲走 当地全力搜救",
+      "hot_value": 8475527,
+      "link": "https://www.toutiao.com/trending/7667106635668684838",
+      "rank": 9
+    },
+    {
+      "title": "越南为何感谢中方？菲律宾最好听听",
+      "hot_value": 7668974,
+      "link": "https://www.toutiao.com/trending/7666377405216591414",
+      "rank": 10
+    },
+    {
+      "title": "网民编造重庆大足火灾谣言被处罚",
+      "hot_value": 6939175,
+      "link": "https://www.toutiao.com/trending/7666655285481717779",
+      "rank": 11
+    },
+    {
+      "title": "张柏芝家里墙上都是三个儿子的照片",
+      "hot_value": 6278825,
+      "link": "https://www.toutiao.com/trending/7666030488717688874",
+      "rank": 12
+    },
+    {
+      "title": "印度男子在祖母火化时钻入焚尸炉",
+      "hot_value": 5681316,
+      "link": "https://www.toutiao.com/trending/7667049404360867883",
+      "rank": 13
+    },
+    {
+      "title": "网红良子爬山被两人用竹竿抬肚子",
+      "hot_value": 5140667,
+      "link": "https://www.toutiao.com/trending/7666715774945935406",
+      "rank": 14
+    },
+    {
+      "title": "美国AI霸权正在被自己人亲手撕碎吗",
+      "hot_value": 4651468,
+      "link": "https://www.toutiao.com/trending/7667143265350585875",
+      "rank": 15
+    },
+    {
+      "title": "周星驰重返故地回忆达叔",
+      "hot_value": 4208822,
+      "link": "https://www.toutiao.com/trending/7666707638516285494",
+      "rank": 16
+    },
+    {
+      "title": "比邱淑贞女儿还像邱淑贞的女警",
+      "hot_value": 3808300,
+      "link": "https://www.toutiao.com/trending/7666104841235873855",
+      "rank": 17
+    },
+    {
+      "title": "比跑步更护心的运动找到了",
+      "hot_value": 3445892,
+      "link": "https://www.toutiao.com/trending/7666788354238955562",
+      "rank": 18
+    },
+    {
+      "title": "柯文哲妻子赴大陆旅游赞“让人惊奇”",
+      "hot_value": 3117972,
+      "link": "https://www.toutiao.com/trending/7667086139988328489",
+      "rank": 19
+    },
+    {
+      "title": "詹青云回应和王虹长得像",
+      "hot_value": 2821258,
+      "link": "https://www.toutiao.com/trending/7666785202707300361",
+      "rank": 20
+    },
+    {
+      "title": "养老金有保障 补助资金达1.2万亿元",
+      "hot_value": 2552779,
+      "link": "https://www.toutiao.com/trending/7666623005707108394",
+      "rank": 21
+    },
+    {
+      "title": "烹饪嘉宾：绿豆汤大多数人都熬错了",
+      "hot_value": 2309850,
+      "link": "https://www.toutiao.com/trending/7667064701956718611",
+      "rank": 22
+    },
+    {
+      "title": "学生考上北大 房东免房租还奖励3万",
+      "hot_value": 2090039,
+      "link": "https://www.toutiao.com/trending/7667139353876987955",
+      "rank": 23
+    },
+    {
+      "title": "315曝光漂白鸡爪涉事公司被罚1085万",
+      "hot_value": 1891145,
+      "link": "https://www.toutiao.com/trending/7666767815308394505",
+      "rank": 24
+    },
+    {
+      "title": "女子多肉盆下发现碗口粗蟒蛇",
+      "hot_value": 1711179,
+      "link": "https://www.toutiao.com/trending/7666847198835228715",
+      "rank": 25
+    },
+    {
+      "title": "结肠癌 最像推理小说的癌症",
+      "hot_value": 1548339,
+      "link": "https://www.toutiao.com/trending/7667123596237753882",
+      "rank": 26
+    },
+    {
+      "title": "梅德韦杰夫讽刺英国新首相",
+      "hot_value": 1400995,
+      "link": "https://www.toutiao.com/trending/7667060126209572883",
+      "rank": 27
+    },
+    {
+      "title": "中国是否已是数学强国",
+      "hot_value": 1267673,
+      "link": "https://www.toutiao.com/trending/7666947611416333874",
+      "rank": 28
+    },
+    {
+      "title": "长鑫之后A股投资者还能吃到什么",
+      "hot_value": 1147037,
+      "link": "https://www.toutiao.com/trending/7667144954543607306",
+      "rank": 29
+    },
+    {
+      "title": "A股一哥换主 中国科技能否长兴",
+      "hot_value": 1037882,
+      "link": "https://www.toutiao.com/trending/7666715757385498678",
+      "rank": 30
+    },
+    {
+      "title": "男生收到大学录取通知书仪式感拉满",
+      "hot_value": 939115,
+      "link": "https://www.toutiao.com/trending/7666150038128803878",
+      "rank": 31
+    },
+    {
+      "title": "村民回应院里被洪水冲来一栋房子",
+      "hot_value": 849746,
+      "link": "https://www.toutiao.com/trending/7667082131327434771",
+      "rank": 32
+    },
+    {
+      "title": "长鑫科技市值达SK海力士55%",
+      "hot_value": 768882,
+      "link": "https://www.toutiao.com/trending/7667122600929136169",
+      "rank": 33
+    },
+    {
+      "title": "老外惊叹南京鸡鸣寺无人值守行李箱",
+      "hot_value": 695713,
+      "link": "https://www.toutiao.com/trending/7666024491688624137",
+      "rank": 34
+    },
+    {
+      "title": "天才必须是“异类”吗",
+      "hot_value": 629507,
+      "link": "https://www.toutiao.com/trending/7667038192096251443",
+      "rank": 35
+    },
+    {
+      "title": "外籍旅客携20件中国文物出境被查",
+      "hot_value": 569602,
+      "link": "https://www.toutiao.com/trending/7667094565280940086",
+      "rank": 36
+    },
+    {
+      "title": "驻坦桑尼亚使馆提醒中国公民注意安全",
+      "hot_value": 515397,
+      "link": "https://www.toutiao.com/trending/7667133248992182315",
+      "rank": 37
+    },
+    {
+      "title": "“网约车之王”被困存量电池安全隐忧",
+      "hot_value": 466350,
+      "link": "https://www.toutiao.com/trending/7667121986467794473",
+      "rank": 38
+    },
+    {
+      "title": "A股80股股价不足2元",
+      "hot_value": 421971,
+      "link": "https://www.toutiao.com/trending/7666543751007551514",
+      "rank": 39
+    },
+    {
+      "title": "苏州一货车撞断限高杆直插小轿车",
+      "hot_value": 381815,
+      "link": "https://www.toutiao.com/trending/7667070464979730468",
+      "rank": 40
+    },
+    {
+      "title": "土耳其男子拍跳水视频失误身亡",
+      "hot_value": 345481,
+      "link": "https://www.toutiao.com/trending/7666996271324397614",
+      "rank": 41
+    },
+    {
+      "title": "台风后女子海滩捡上百斤金鲳鱼",
+      "hot_value": 312604,
+      "link": "https://www.toutiao.com/trending/7667038151755431982",
+      "rank": 42
+    },
+    {
+      "title": "河南学子马骁参与攻克百年数学难题",
+      "hot_value": 282856,
+      "link": "https://www.toutiao.com/trending/7666816842098900998",
+      "rank": 43
+    },
+    {
+      "title": "专家：英国长期财政难题依旧无解",
+      "hot_value": 255938,
+      "link": "https://www.toutiao.com/trending/7667123540679724570",
+      "rank": 44
+    },
+    {
+      "title": "上海斯诺克大师赛：丁俊晖战胜姚东成",
+      "hot_value": 231582,
+      "link": "https://www.toutiao.com/trending/7667107171986849828",
+      "rank": 45
+    },
+    {
+      "title": "博主：美国AI闯祸 中国AI救场",
+      "hot_value": 209544,
+      "link": "https://www.toutiao.com/trending/7667097038139428371",
+      "rank": 46
+    },
+    {
+      "title": "国民党“新四巨头”竞合成型",
+      "hot_value": 189604,
+      "link": "https://www.toutiao.com/trending/7666647778806054922",
+      "rank": 47
+    },
+    {
+      "title": "奥沙利文：帮赵心童是为回报中国",
+      "hot_value": 171560,
+      "link": "https://www.toutiao.com/trending/7667095326990598185",
+      "rank": 48
+    },
+    {
+      "title": "男子3年骗同学8.3万致其自杀被判刑",
+      "hot_value": 155234,
+      "link": "https://www.toutiao.com/trending/7666444139351916553",
+      "rank": 49
+    },
+    {
+      "title": "长鑫科技中1签赚2万",
+      "hot_value": 140462,
+      "link": "https://www.toutiao.com/trending/7666049413378850870",
+      "rank": 50
+    }
+  ]
+}
