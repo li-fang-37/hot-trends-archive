@@ -1,0 +1,307 @@
+{
+  "platform": "toutiao",
+  "platform_name": "今日头条",
+  "time": "2026-07-28 19:36:12",
+  "items": [
+    {
+      "title": "日本熊本县附近发生7.1级地震",
+      "hot_value": 10790563,
+      "link": "https://www.toutiao.com/trending/7667479822087491091",
+      "rank": 1
+    },
+    {
+      "title": "敬一丹公众号疑似辟谣脑溢血传闻",
+      "hot_value": 9763705,
+      "link": "https://www.toutiao.com/trending/7666427445033324074",
+      "rank": 2
+    },
+    {
+      "title": "中国新新三样全球圈粉",
+      "hot_value": 8834566,
+      "link": "https://www.toutiao.com/trending/7666712707080503305",
+      "rank": 3
+    },
+    {
+      "title": "中国夫妇在马尔代夫玩拖曳伞双双坠海",
+      "hot_value": 7993846,
+      "link": "https://www.toutiao.com/trending/7667511275308957715",
+      "rank": 4
+    },
+    {
+      "title": "日本地震致著名景点古石墙倒塌",
+      "hot_value": 7233131,
+      "link": "https://www.toutiao.com/trending/7667497222874893874",
+      "rank": 5
+    },
+    {
+      "title": "寒武纪跌9.11%",
+      "hot_value": 6544807,
+      "link": "https://www.toutiao.com/trending/7667065124596629530",
+      "rank": 6
+    },
+    {
+      "title": "《功夫女足》票房破20亿",
+      "hot_value": 5921986,
+      "link": "https://www.toutiao.com/trending/7666455442757353523",
+      "rank": 7
+    },
+    {
+      "title": "感冒灵正式纳入禁驾清单",
+      "hot_value": 5358435,
+      "link": "https://www.toutiao.com/trending/7665700136699904006",
+      "rank": 8
+    },
+    {
+      "title": "日本强震后一购物中心坍塌致多人死亡",
+      "hot_value": 4848512,
+      "link": "https://www.toutiao.com/trending/7667533383014026815",
+      "rank": 9
+    },
+    {
+      "title": "日本地震 杭州上海江苏有震感",
+      "hot_value": 4387115,
+      "link": "https://www.toutiao.com/trending/7667478428581625862",
+      "rank": 10
+    },
+    {
+      "title": "伊朗导弹甩开美军多枚拦截弹画面",
+      "hot_value": 3969626,
+      "link": "https://www.toutiao.com/trending/7666729375357865515",
+      "rank": 11
+    },
+    {
+      "title": "女生展示什么是真正的梨形身材",
+      "hot_value": 3591866,
+      "link": "https://www.toutiao.com/trending/7667096312441602094",
+      "rank": 12
+    },
+    {
+      "title": "光模块“一哥”跌逾15%",
+      "hot_value": 3250055,
+      "link": "https://www.toutiao.com/trending/7667097521382752266",
+      "rank": 13
+    },
+    {
+      "title": "“老虎”段成刚贪1.44亿被判无期",
+      "hot_value": 2940771,
+      "link": "https://www.toutiao.com/trending/7667501205152599595",
+      "rank": 14
+    },
+    {
+      "title": "乒乓百分大战：张继科VS郑荣植",
+      "hot_value": 2660920,
+      "link": "https://www.toutiao.com/trending/7667503823631663123",
+      "rank": 15
+    },
+    {
+      "title": "全款买房的人变多",
+      "hot_value": 2407700,
+      "link": "https://www.toutiao.com/trending/7667444179103055882",
+      "rank": 16
+    },
+    {
+      "title": "692分双胞胎姐妹各赴山海",
+      "hot_value": 2178577,
+      "link": "https://www.toutiao.com/trending/7667440231565754431",
+      "rank": 17
+    },
+    {
+      "title": "医院药学部原主任受贿2547万获刑11年",
+      "hot_value": 1971258,
+      "link": "https://www.toutiao.com/trending/7667432826153746474",
+      "rank": 18
+    },
+    {
+      "title": "相声名家常佩业去世",
+      "hot_value": 1783668,
+      "link": "https://www.toutiao.com/trending/7667488673785004058",
+      "rank": 19
+    },
+    {
+      "title": "美法在联合国安理会上“撕破脸”",
+      "hot_value": 1613929,
+      "link": "https://www.toutiao.com/trending/7667440782470627379",
+      "rank": 20
+    },
+    {
+      "title": "日本九州岛海域6.8级地震或引发海啸",
+      "hot_value": 1460343,
+      "link": "https://www.toutiao.com/trending/7667490248867266566",
+      "rank": 21
+    },
+    {
+      "title": "比亚迪海獭在日本上市",
+      "hot_value": 1321373,
+      "link": "https://www.toutiao.com/trending/7667287388653109274",
+      "rank": 22
+    },
+    {
+      "title": "曝中国队不参加首届国际足联东南亚杯",
+      "hot_value": 1195628,
+      "link": "https://www.toutiao.com/trending/7667432541750755337",
+      "rank": 23
+    },
+    {
+      "title": "纽约中央公园“出轨门”男女身份确认",
+      "hot_value": 1081849,
+      "link": "https://www.toutiao.com/trending/7666647917814480937",
+      "rank": 24
+    },
+    {
+      "title": "中央气象台发布暴雨黄色预警",
+      "hot_value": 978897,
+      "link": "https://www.toutiao.com/trending/7666789403670675492",
+      "rank": 25
+    },
+    {
+      "title": "日本强震核电站正确认是否安全",
+      "hot_value": 885743,
+      "link": "https://www.toutiao.com/trending/7667484347991719977",
+      "rank": 26
+    },
+    {
+      "title": "齐达内出任法国国家队主教练",
+      "hot_value": 801453,
+      "link": "https://www.toutiao.com/trending/7667506388418956819",
+      "rank": 27
+    },
+    {
+      "title": "网红景区10人遇难 3次预警为何失效",
+      "hot_value": 725185,
+      "link": "https://www.toutiao.com/trending/7667355494197235209",
+      "rank": 28
+    },
+    {
+      "title": "刘亦菲被偶遇在北京SKP买黄金",
+      "hot_value": 656174,
+      "link": "https://www.toutiao.com/trending/7667459000623202358",
+      "rank": 29
+    },
+    {
+      "title": "普京：俄罗斯未来岌岌可危",
+      "hot_value": 593731,
+      "link": "https://www.toutiao.com/trending/7666952735664734249",
+      "rank": 30
+    },
+    {
+      "title": "六部门：禁止涉军队退役报废装备销售",
+      "hot_value": 537230,
+      "link": "https://www.toutiao.com/trending/7667411754222960646",
+      "rank": 31
+    },
+    {
+      "title": "爷爷撬开焊死6年存钱箱助孙子上大学",
+      "hot_value": 486106,
+      "link": "https://www.toutiao.com/trending/7667434242044936238",
+      "rank": 32
+    },
+    {
+      "title": "老人一个月内被骗近600万",
+      "hot_value": 439847,
+      "link": "https://www.toutiao.com/trending/7667161729927430194",
+      "rank": 33
+    },
+    {
+      "title": "中方回应“外国投资者利用印尼资源”",
+      "hot_value": 397990,
+      "link": "https://www.toutiao.com/trending/7666747484974252070",
+      "rank": 34
+    },
+    {
+      "title": "小米连续8年进入《财富》世界500强",
+      "hot_value": 360116,
+      "link": "https://www.toutiao.com/trending/7667364957801922606",
+      "rank": 35
+    },
+    {
+      "title": "年轻人为何越来越早进入世界前沿",
+      "hot_value": 325846,
+      "link": "https://www.toutiao.com/trending/7667426480149761579",
+      "rank": 36
+    },
+    {
+      "title": "A股市场主要指数走低",
+      "hot_value": 294838,
+      "link": "https://www.toutiao.com/trending/7667379174142672902",
+      "rank": 37
+    },
+    {
+      "title": "王祖蓝李亚男俩女儿颜值曝光",
+      "hot_value": 266780,
+      "link": "https://www.toutiao.com/trending/7667355194858881043",
+      "rank": 38
+    },
+    {
+      "title": "小米高管回应雷军投资长鑫",
+      "hot_value": 241393,
+      "link": "https://www.toutiao.com/trending/7667273293128335379",
+      "rank": 39
+    },
+    {
+      "title": "业内：蓝筹股强势有望延续",
+      "hot_value": 218421,
+      "link": "https://www.toutiao.com/trending/7667422571128193043",
+      "rank": 40
+    },
+    {
+      "title": "莫斯科地区遭大规模无人机袭击",
+      "hot_value": 197636,
+      "link": "https://www.toutiao.com/trending/7667416381394829354",
+      "rank": 41
+    },
+    {
+      "title": "山东泰山：主教练宿茂臻辞任",
+      "hot_value": 178828,
+      "link": "https://www.toutiao.com/trending/7667495317407088683",
+      "rank": 42
+    },
+    {
+      "title": "双创指数均大跌超6%",
+      "hot_value": 161810,
+      "link": "https://www.toutiao.com/trending/7667509326344536100",
+      "rank": 43
+    },
+    {
+      "title": "博主请陌生阿姨做饭被当亲儿子对待",
+      "hot_value": 146412,
+      "link": "https://www.toutiao.com/trending/7666389428701102134",
+      "rank": 44
+    },
+    {
+      "title": "游客打出租车被司机绕路还疯狂飙车",
+      "hot_value": 132479,
+      "link": "https://www.toutiao.com/trending/7666811253411610660",
+      "rank": 45
+    },
+    {
+      "title": "智驾汽车自动泊车频繁调整仍失败",
+      "hot_value": 119872,
+      "link": "https://www.toutiao.com/trending/7666818715241807935",
+      "rank": 46
+    },
+    {
+      "title": "顾客称在餐馆点的鸡汤里有冰块",
+      "hot_value": 108464,
+      "link": "https://www.toutiao.com/trending/7667415916590727211",
+      "rank": 47
+    },
+    {
+      "title": "黄仁勋夫妇为何斥巨资建新学院",
+      "hot_value": 98143,
+      "link": "https://www.toutiao.com/trending/7666885735995555846",
+      "rank": 48
+    },
+    {
+      "title": "交警遭冲卡货车碾压救治13个月牺牲",
+      "hot_value": 88803,
+      "link": "https://www.toutiao.com/trending/7666840158486446121",
+      "rank": 49
+    },
+    {
+      "title": "中方回应欧盟推出对华保护主义措施",
+      "hot_value": 80352,
+      "link": "https://www.toutiao.com/trending/7667481175628464178",
+      "rank": 50
+    }
+  ]
+}
