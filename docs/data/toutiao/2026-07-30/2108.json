@@ -1,0 +1,307 @@
+{
+  "platform": "toutiao",
+  "platform_name": "今日头条",
+  "time": "2026-07-30 21:08:27",
+  "items": [
+    {
+      "title": "解放军两次警告日方不能自称海军",
+      "hot_value": 15996427,
+      "link": "https://www.toutiao.com/trending/7667674880024428570",
+      "rank": 1
+    },
+    {
+      "title": "台风“白海豚”或冲击今年风王",
+      "hot_value": 14474166,
+      "link": "https://www.toutiao.com/trending/7667717006833483795",
+      "rank": 2
+    },
+    {
+      "title": "一组数据读懂我国能源转型新趋势",
+      "hot_value": 13096767,
+      "link": "https://www.toutiao.com/article/7668250705069687346",
+      "rank": 3
+    },
+    {
+      "title": "货车下高速遇暴雨 收费员帮忙盖雨布",
+      "hot_value": 11850445,
+      "link": "https://www.toutiao.com/trending/7668251737677479978",
+      "rank": 4
+    },
+    {
+      "title": "刘国洪任自然资源部党组书记",
+      "hot_value": 10722726,
+      "link": "https://www.toutiao.com/trending/7668285397760638982",
+      "rank": 5
+    },
+    {
+      "title": "小米澎程N90 Max预售价29.99万元",
+      "hot_value": 9702323,
+      "link": "https://www.toutiao.com/trending/7668228760780406838",
+      "rank": 6
+    },
+    {
+      "title": "货车夫妻忘付饭钱13天后回店补27元",
+      "hot_value": 8779025,
+      "link": "https://www.toutiao.com/trending/7667878463231377471",
+      "rank": 7
+    },
+    {
+      "title": "日本震后老年人睡地板民众哭喊怕余震",
+      "hot_value": 7943590,
+      "link": "https://www.toutiao.com/trending/7668024656082964010",
+      "rank": 8
+    },
+    {
+      "title": "女子搬新家妈妈送来一只公鸡",
+      "hot_value": 7187658,
+      "link": "https://www.toutiao.com/trending/7668161218469429289",
+      "rank": 9
+    },
+    {
+      "title": "杭州白领凑20万买大额存单",
+      "hot_value": 6503662,
+      "link": "https://www.toutiao.com/trending/7668258139657060378",
+      "rank": 10
+    },
+    {
+      "title": "“河南南阳楼房被冲进河中”不实",
+      "hot_value": 5884756,
+      "link": "https://www.toutiao.com/trending/7667779479867047945",
+      "rank": 11
+    },
+    {
+      "title": "伊朗称打击约旦美军基地摧毁3架F-35",
+      "hot_value": 5324748,
+      "link": "https://www.toutiao.com/trending/7668276655902690879",
+      "rank": 12
+    },
+    {
+      "title": "歼15试飞遇险距甲板边缘5米刹停",
+      "hot_value": 4818031,
+      "link": "https://www.toutiao.com/trending/7668024656082767402",
+      "rank": 13
+    },
+    {
+      "title": "长沙进入“蒸笼”模式",
+      "hot_value": 4359535,
+      "link": "https://www.toutiao.com/trending/7667165191793213466",
+      "rank": 14
+    },
+    {
+      "title": "中央：提升资本市场韧性和信心",
+      "hot_value": 3944670,
+      "link": "https://www.toutiao.com/trending/7668206754891333641",
+      "rank": 15
+    },
+    {
+      "title": "杨振宁遗孀翁帆赴新疆喀什看望老兵",
+      "hot_value": 3569285,
+      "link": "https://www.toutiao.com/trending/7667516744528822315",
+      "rank": 16
+    },
+    {
+      "title": "男生每天躺玩手机超5小时患血栓",
+      "hot_value": 3229623,
+      "link": "https://www.toutiao.com/trending/7668165665089683519",
+      "rank": 17
+    },
+    {
+      "title": "欧盟砸百亿欧元 匈牙利如何选择",
+      "hot_value": 2922283,
+      "link": "https://www.toutiao.com/trending/7668271177835675686",
+      "rank": 18
+    },
+    {
+      "title": "男孩骑羊骑出了汗血宝马的感觉",
+      "hot_value": 2644191,
+      "link": "https://www.toutiao.com/trending/7668160291338813491",
+      "rank": 19
+    },
+    {
+      "title": "国防部：提前祝战友们节日快乐",
+      "hot_value": 2392563,
+      "link": "https://www.toutiao.com/trending/7667182833981112356",
+      "rank": 20
+    },
+    {
+      "title": "印尼一男子遭7米长蟒蛇吞食身亡",
+      "hot_value": 2164881,
+      "link": "https://www.toutiao.com/trending/7667546546133499923",
+      "rank": 21
+    },
+    {
+      "title": "媒体评丁俊晖输球",
+      "hot_value": 1958865,
+      "link": "https://www.toutiao.com/trending/7668017043047841838",
+      "rank": 22
+    },
+    {
+      "title": "中方回应有无人艇接近中方军舰",
+      "hot_value": 1772454,
+      "link": "https://www.toutiao.com/trending/7667400613944573971",
+      "rank": 23
+    },
+    {
+      "title": "媒体：家长别用暴力给孩子上第一课",
+      "hot_value": 1603783,
+      "link": "https://www.toutiao.com/trending/7668159069818994724",
+      "rank": 24
+    },
+    {
+      "title": "男子路怒蛇形别车还竖手势被处罚",
+      "hot_value": 1451163,
+      "link": "https://www.toutiao.com/trending/7668186349257998342",
+      "rank": 25
+    },
+    {
+      "title": "乒超联赛常规赛第二阶段在雄安进行",
+      "hot_value": 1313066,
+      "link": "https://www.toutiao.com/trending/7667890652943876105",
+      "rank": 26
+    },
+    {
+      "title": "国防部：台湾是中国的一部分",
+      "hot_value": 1188111,
+      "link": "https://www.toutiao.com/trending/7667517108573863974",
+      "rank": 27
+    },
+    {
+      "title": "受暴雨影响黑龙江牡丹江部分区域停水",
+      "hot_value": 1075048,
+      "link": "https://www.toutiao.com/trending/7667597836846465062",
+      "rank": 28
+    },
+    {
+      "title": "销冠老妈带出清北双胞胎学霸",
+      "hot_value": 972743,
+      "link": "https://www.toutiao.com/trending/7668215860922187814",
+      "rank": 29
+    },
+    {
+      "title": "董路：海外比赛历练后孩子们不一样了",
+      "hot_value": 880174,
+      "link": "https://www.toutiao.com/trending/7668122855716945930",
+      "rank": 30
+    },
+    {
+      "title": "美联储“鹰派暂停”释放了什么信号",
+      "hot_value": 796415,
+      "link": "https://www.toutiao.com/trending/7668153828390211123",
+      "rank": 31
+    },
+    {
+      "title": "赵心童6连鞭横扫晋级半决赛",
+      "hot_value": 720626,
+      "link": "https://www.toutiao.com/trending/7668231793803267625",
+      "rank": 32
+    },
+    {
+      "title": "军嫂遇袭凶手无力赔偿 检察机关介入",
+      "hot_value": 652049,
+      "link": "https://www.toutiao.com/trending/7668154338812674084",
+      "rank": 33
+    },
+    {
+      "title": "闷热天气下如何科学防暑",
+      "hot_value": 589998,
+      "link": "https://www.toutiao.com/trending/7668238436366024723",
+      "rank": 34
+    },
+    {
+      "title": "光模块暴涨之谜",
+      "hot_value": 533853,
+      "link": "https://www.toutiao.com/trending/7668268069231267374",
+      "rank": 35
+    },
+    {
+      "title": "30岁小伙负债170万卖饺子翻身",
+      "hot_value": 483050,
+      "link": "https://www.toutiao.com/trending/7668124707233431603",
+      "rank": 36
+    },
+    {
+      "title": "国防部回应解放军打造台湾建筑模型",
+      "hot_value": 437081,
+      "link": "https://www.toutiao.com/trending/7668241517416464420",
+      "rank": 37
+    },
+    {
+      "title": "旭光电子跌停",
+      "hot_value": 395488,
+      "link": "https://www.toutiao.com/trending/7667926434548269065",
+      "rank": 38
+    },
+    {
+      "title": "成家班如何让蜘蛛侠重新学会“疼”",
+      "hot_value": 357852,
+      "link": "https://www.toutiao.com/trending/7668247440458301481",
+      "rank": 39
+    },
+    {
+      "title": "美方拟购约1700亿美元导弹和核潜艇",
+      "hot_value": 323798,
+      "link": "https://www.toutiao.com/trending/7667578252249153572",
+      "rank": 40
+    },
+    {
+      "title": "无人机捕捉座头鲸分娩瞬间",
+      "hot_value": 292984,
+      "link": "https://www.toutiao.com/trending/7668150585065144339",
+      "rank": 41
+    },
+    {
+      "title": "柯洁王中王冠军",
+      "hot_value": 265103,
+      "link": "https://www.toutiao.com/trending/7667759216043819034",
+      "rank": 42
+    },
+    {
+      "title": "《蜘蛛侠4》点燃暑期档",
+      "hot_value": 239875,
+      "link": "https://www.toutiao.com/trending/7668256987503788075",
+      "rank": 43
+    },
+    {
+      "title": "“亚洲女飞人”韦永丽步入婚姻殿堂",
+      "hot_value": 217048,
+      "link": "https://www.toutiao.com/trending/7668122828864815123",
+      "rank": 44
+    },
+    {
+      "title": "俄罗斯会启动大规模强制征兵吗",
+      "hot_value": 196393,
+      "link": "https://www.toutiao.com/trending/7668248458154741291",
+      "rank": 45
+    },
+    {
+      "title": "英首相拟拨款84亿英镑造4艘核潜艇",
+      "hot_value": 177704,
+      "link": "https://www.toutiao.com/trending/7667602413712457769",
+      "rank": 46
+    },
+    {
+      "title": "从军营到警营 他们初心不变",
+      "hot_value": 160793,
+      "link": "https://www.toutiao.com/trending/7667832523057070126",
+      "rank": 47
+    },
+    {
+      "title": "男子手机无预兆爆炸大腿被烫伤",
+      "hot_value": 145491,
+      "link": "https://www.toutiao.com/trending/7667887166919491620",
+      "rank": 48
+    },
+    {
+      "title": "国际金价失守4100美元 底部何时出现",
+      "hot_value": 131646,
+      "link": "https://www.toutiao.com/trending/7667827676688285759",
+      "rank": 49
+    },
+    {
+      "title": "A股为什么给长鑫“溢价”",
+      "hot_value": 119118,
+      "link": "https://www.toutiao.com/trending/7668236742402510372",
+      "rank": 50
+    }
+  ]
+}
