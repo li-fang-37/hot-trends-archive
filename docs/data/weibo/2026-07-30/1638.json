@@ -1,0 +1,307 @@
+{
+  "platform": "weibo",
+  "platform_name": "微博热搜",
+  "time": "2026-07-30 16:38:59",
+  "items": [
+    {
+      "title": "A股市值前10红了9个",
+      "hot_value": 1142062,
+      "link": "https://s.weibo.com/weibo?q=A%E8%82%A1%E5%B8%82%E5%80%BC%E5%89%8D10%E7%BA%A2%E4%BA%869%E4%B8%AA",
+      "rank": 1
+    },
+    {
+      "title": "曝C罗将结婚",
+      "hot_value": 832966,
+      "link": "https://s.weibo.com/weibo?q=%E6%9B%9DC%E7%BD%97%E5%B0%86%E7%BB%93%E5%A9%9A",
+      "rank": 2
+    },
+    {
+      "title": "我国再次发射一箭双星",
+      "hot_value": 679746,
+      "link": "https://s.weibo.com/weibo?q=%E6%88%91%E5%9B%BD%E5%86%8D%E6%AC%A1%E5%8F%91%E5%B0%84%E4%B8%80%E7%AE%AD%E5%8F%8C%E6%98%9F",
+      "rank": 3
+    },
+    {
+      "title": "影响上亿女性的病更名了",
+      "hot_value": 663512,
+      "link": "https://s.weibo.com/weibo?q=%E5%BD%B1%E5%93%8D%E4%B8%8A%E4%BA%BF%E5%A5%B3%E6%80%A7%E7%9A%84%E7%97%85%E6%9B%B4%E5%90%8D%E4%BA%86",
+      "rank": 4
+    },
+    {
+      "title": "拥有24h内洗澡证明的人才能出门",
+      "hot_value": 571804,
+      "link": "https://s.weibo.com/weibo?q=%E6%8B%A5%E6%9C%8924h%E5%86%85%E6%B4%97%E6%BE%A1%E8%AF%81%E6%98%8E%E7%9A%84%E4%BA%BA%E6%89%8D%E8%83%BD%E5%87%BA%E9%97%A8",
+      "rank": 5
+    },
+    {
+      "title": "九门首播4集共49个广",
+      "hot_value": 506609,
+      "link": "https://s.weibo.com/weibo?q=%E4%B9%9D%E9%97%A8%E9%A6%96%E6%92%AD4%E9%9B%86%E5%85%B149%E4%B8%AA%E5%B9%BF",
+      "rank": 6
+    },
+    {
+      "title": "吴谨言和前夫哥三搭了",
+      "hot_value": 432701,
+      "link": "https://s.weibo.com/weibo?q=%E5%90%B4%E8%B0%A8%E8%A8%80%E5%92%8C%E5%89%8D%E5%A4%AB%E5%93%A5%E4%B8%89%E6%90%AD%E4%BA%86",
+      "rank": 7
+    },
+    {
+      "title": "不建议大家买深色蛋糕",
+      "hot_value": 430269,
+      "link": "https://s.weibo.com/weibo?q=%E4%B8%8D%E5%BB%BA%E8%AE%AE%E5%A4%A7%E5%AE%B6%E4%B9%B0%E6%B7%B1%E8%89%B2%E8%9B%8B%E7%B3%95",
+      "rank": 8
+    },
+    {
+      "title": "解放军两次警告日方不能自称海军",
+      "hot_value": 428189,
+      "link": "https://s.weibo.com/weibo?q=%E8%A7%A3%E6%94%BE%E5%86%9B%E4%B8%A4%E6%AC%A1%E8%AD%A6%E5%91%8A%E6%97%A5%E6%96%B9%E4%B8%8D%E8%83%BD%E8%87%AA%E7%A7%B0%E6%B5%B7%E5%86%9B",
+      "rank": 9
+    },
+    {
+      "title": "尹新月配音没换",
+      "hot_value": 426558,
+      "link": "https://s.weibo.com/weibo?q=%E5%B0%B9%E6%96%B0%E6%9C%88%E9%85%8D%E9%9F%B3%E6%B2%A1%E6%8D%A2",
+      "rank": 10
+    },
+    {
+      "title": "尹新月 出戏",
+      "hot_value": 421546,
+      "link": "https://s.weibo.com/weibo?q=%E5%B0%B9%E6%96%B0%E6%9C%88%20%E5%87%BA%E6%88%8F",
+      "rank": 11
+    },
+    {
+      "title": "第一次看到母亲的收入",
+      "hot_value": 420917,
+      "link": "https://s.weibo.com/weibo?q=%E7%AC%AC%E4%B8%80%E6%AC%A1%E7%9C%8B%E5%88%B0%E6%AF%8D%E4%BA%B2%E7%9A%84%E6%94%B6%E5%85%A5",
+      "rank": 12
+    },
+    {
+      "title": "陈伟霆赵丽颖cp感",
+      "hot_value": 416559,
+      "link": "https://s.weibo.com/weibo?q=%E9%99%88%E4%BC%9F%E9%9C%86%E8%B5%B5%E4%B8%BD%E9%A2%96cp%E6%84%9F",
+      "rank": 13
+    },
+    {
+      "title": "女儿把离异妈妈培养成网红",
+      "hot_value": 415662,
+      "link": "https://s.weibo.com/weibo?q=%E5%A5%B3%E5%84%BF%E6%8A%8A%E7%A6%BB%E5%BC%82%E5%A6%88%E5%A6%88%E5%9F%B9%E5%85%BB%E6%88%90%E7%BD%91%E7%BA%A2",
+      "rank": 14
+    },
+    {
+      "title": "雷军同款项链仅售8.8元",
+      "hot_value": 412773,
+      "link": "https://s.weibo.com/weibo?q=%E9%9B%B7%E5%86%9B%E5%90%8C%E6%AC%BE%E9%A1%B9%E9%93%BE%E4%BB%85%E5%94%AE8.8%E5%85%83",
+      "rank": 15
+    },
+    {
+      "title": "退休后旅游根本没有意义",
+      "hot_value": 408067,
+      "link": "https://s.weibo.com/weibo?q=%E9%80%80%E4%BC%91%E5%90%8E%E6%97%85%E6%B8%B8%E6%A0%B9%E6%9C%AC%E6%B2%A1%E6%9C%89%E6%84%8F%E4%B9%89",
+      "rank": 16
+    },
+    {
+      "title": "粉丝买了杨幂摸过的蛇",
+      "hot_value": 404799,
+      "link": "https://s.weibo.com/weibo?q=%E7%B2%89%E4%B8%9D%E4%B9%B0%E4%BA%86%E6%9D%A8%E5%B9%82%E6%91%B8%E8%BF%87%E7%9A%84%E8%9B%87",
+      "rank": 17
+    },
+    {
+      "title": "白鹿回复猫的树",
+      "hot_value": 404460,
+      "link": "https://s.weibo.com/weibo?q=%E7%99%BD%E9%B9%BF%E5%9B%9E%E5%A4%8D%E7%8C%AB%E7%9A%84%E6%A0%91",
+      "rank": 18
+    },
+    {
+      "title": "AI 焚书",
+      "hot_value": 392986,
+      "link": "https://s.weibo.com/weibo?q=AI%20%E7%84%9A%E4%B9%A6",
+      "rank": 19
+    },
+    {
+      "title": "台风白海豚",
+      "hot_value": 392816,
+      "link": "https://s.weibo.com/weibo?q=%E5%8F%B0%E9%A3%8E%E7%99%BD%E6%B5%B7%E8%B1%9A",
+      "rank": 20
+    },
+    {
+      "title": "这私房菜有点太私房了",
+      "hot_value": 392761,
+      "link": "https://s.weibo.com/weibo?q=%E8%BF%99%E7%A7%81%E6%88%BF%E8%8F%9C%E6%9C%89%E7%82%B9%E5%A4%AA%E7%A7%81%E6%88%BF%E4%BA%86",
+      "rank": 21
+    },
+    {
+      "title": "官方通报客车弯道坠崖致3死",
+      "hot_value": 390426,
+      "link": "https://s.weibo.com/weibo?q=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%AE%A2%E8%BD%A6%E5%BC%AF%E9%81%93%E5%9D%A0%E5%B4%96%E8%87%B43%E6%AD%BB",
+      "rank": 22
+    },
+    {
+      "title": "AG对战JDG",
+      "hot_value": 390217,
+      "link": "https://s.weibo.com/weibo?q=AG%E5%AF%B9%E6%88%98JDG",
+      "rank": 23
+    },
+    {
+      "title": "尹新月 赵丽颖",
+      "hot_value": 372072,
+      "link": "https://s.weibo.com/weibo?q=%E5%B0%B9%E6%96%B0%E6%9C%88%20%E8%B5%B5%E4%B8%BD%E9%A2%96",
+      "rank": 24
+    },
+    {
+      "title": "台媒曝林志玲被人举报违反铁路法",
+      "hot_value": 337109,
+      "link": "https://s.weibo.com/weibo?q=%E5%8F%B0%E5%AA%92%E6%9B%9D%E6%9E%97%E5%BF%97%E7%8E%B2%E8%A2%AB%E4%BA%BA%E4%B8%BE%E6%8A%A5%E8%BF%9D%E5%8F%8D%E9%93%81%E8%B7%AF%E6%B3%95",
+      "rank": 25
+    },
+    {
+      "title": "GR对战FPX.ZQ",
+      "hot_value": 336671,
+      "link": "https://s.weibo.com/weibo?q=GR%E5%AF%B9%E6%88%98FPX.ZQ",
+      "rank": 26
+    },
+    {
+      "title": "曝TF四代一班二班没有变化",
+      "hot_value": 336450,
+      "link": "https://s.weibo.com/weibo?q=%E6%9B%9DTF%E5%9B%9B%E4%BB%A3%E4%B8%80%E7%8F%AD%E4%BA%8C%E7%8F%AD%E6%B2%A1%E6%9C%89%E5%8F%98%E5%8C%96",
+      "rank": 27
+    },
+    {
+      "title": "曾沛慈宝莲组川西之旅合照",
+      "hot_value": 332111,
+      "link": "https://s.weibo.com/weibo?q=%E6%9B%BE%E6%B2%9B%E6%85%88%E5%AE%9D%E8%8E%B2%E7%BB%84%E5%B7%9D%E8%A5%BF%E4%B9%8B%E6%97%85%E5%90%88%E7%85%A7",
+      "rank": 28
+    },
+    {
+      "title": "男子玩手机腿被熊咬了2口仍无察觉",
+      "hot_value": 309928,
+      "link": "https://s.weibo.com/weibo?q=%E7%94%B7%E5%AD%90%E7%8E%A9%E6%89%8B%E6%9C%BA%E8%85%BF%E8%A2%AB%E7%86%8A%E5%92%AC%E4%BA%862%E5%8F%A3%E4%BB%8D%E6%97%A0%E5%AF%9F%E8%A7%89",
+      "rank": 29
+    },
+    {
+      "title": "王楚钦周启豪1比2林诗栋赵钊彦",
+      "hot_value": 308594,
+      "link": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%91%A8%E5%90%AF%E8%B1%AA1%E6%AF%942%E6%9E%97%E8%AF%97%E6%A0%8B%E8%B5%B5%E9%92%8A%E5%BD%A6",
+      "rank": 30
+    },
+    {
+      "title": "男子亮军官证向民警施压寻前妻",
+      "hot_value": 308316,
+      "link": "https://s.weibo.com/weibo?q=%E7%94%B7%E5%AD%90%E4%BA%AE%E5%86%9B%E5%AE%98%E8%AF%81%E5%90%91%E6%B0%91%E8%AD%A6%E6%96%BD%E5%8E%8B%E5%AF%BB%E5%89%8D%E5%A6%BB",
+      "rank": 31
+    },
+    {
+      "title": "王一博脖子色差",
+      "hot_value": 308067,
+      "link": "https://s.weibo.com/weibo?q=%E7%8E%8B%E4%B8%80%E5%8D%9A%E8%84%96%E5%AD%90%E8%89%B2%E5%B7%AE",
+      "rank": 32
+    },
+    {
+      "title": "张雅琪接连两档综艺出现同类疏漏",
+      "hot_value": 275694,
+      "link": "https://s.weibo.com/weibo?q=%E5%BC%A0%E9%9B%85%E7%90%AA%E6%8E%A5%E8%BF%9E%E4%B8%A4%E6%A1%A3%E7%BB%BC%E8%89%BA%E5%87%BA%E7%8E%B0%E5%90%8C%E7%B1%BB%E7%96%8F%E6%BC%8F",
+      "rank": 33
+    },
+    {
+      "title": "网民称唐朝不存在致电骚扰陕西文旅",
+      "hot_value": 272753,
+      "link": "https://s.weibo.com/weibo?q=%E7%BD%91%E6%B0%91%E7%A7%B0%E5%94%90%E6%9C%9D%E4%B8%8D%E5%AD%98%E5%9C%A8%E8%87%B4%E7%94%B5%E9%AA%9A%E6%89%B0%E9%99%95%E8%A5%BF%E6%96%87%E6%97%85",
+      "rank": 34
+    },
+    {
+      "title": "电梯打架事件双方已和解",
+      "hot_value": 272482,
+      "link": "https://s.weibo.com/weibo?q=%E7%94%B5%E6%A2%AF%E6%89%93%E6%9E%B6%E4%BA%8B%E4%BB%B6%E5%8F%8C%E6%96%B9%E5%B7%B2%E5%92%8C%E8%A7%A3",
+      "rank": 35
+    },
+    {
+      "title": "冯提莫自曝没长高的原因",
+      "hot_value": 271252,
+      "link": "https://s.weibo.com/weibo?q=%E5%86%AF%E6%8F%90%E8%8E%AB%E8%87%AA%E6%9B%9D%E6%B2%A1%E9%95%BF%E9%AB%98%E7%9A%84%E5%8E%9F%E5%9B%A0",
+      "rank": 36
+    },
+    {
+      "title": "九门",
+      "hot_value": 250854,
+      "link": "https://s.weibo.com/weibo?q=%E4%B9%9D%E9%97%A8",
+      "rank": 37
+    },
+    {
+      "title": "30岁小伙负债170万卖饺子翻身",
+      "hot_value": 183523,
+      "link": "https://s.weibo.com/weibo?q=30%E5%B2%81%E5%B0%8F%E4%BC%99%E8%B4%9F%E5%80%BA170%E4%B8%87%E5%8D%96%E9%A5%BA%E5%AD%90%E7%BF%BB%E8%BA%AB",
+      "rank": 38
+    },
+    {
+      "title": "李飞问朱志鑫有什么小名",
+      "hot_value": 182524,
+      "link": "https://s.weibo.com/weibo?q=%E6%9D%8E%E9%A3%9E%E9%97%AE%E6%9C%B1%E5%BF%97%E9%91%AB%E6%9C%89%E4%BB%80%E4%B9%88%E5%B0%8F%E5%90%8D",
+      "rank": 39
+    },
+    {
+      "title": "白鹿周翊然透明爱人MV亲了",
+      "hot_value": 174397,
+      "link": "https://s.weibo.com/weibo?q=%E7%99%BD%E9%B9%BF%E5%91%A8%E7%BF%8A%E7%84%B6%E9%80%8F%E6%98%8E%E7%88%B1%E4%BA%BAMV%E4%BA%B2%E4%BA%86",
+      "rank": 40
+    },
+    {
+      "title": "国产剧终于尊重观众的智商了",
+      "hot_value": 170556,
+      "link": "https://s.weibo.com/weibo?q=%E5%9B%BD%E4%BA%A7%E5%89%A7%E7%BB%88%E4%BA%8E%E5%B0%8A%E9%87%8D%E8%A7%82%E4%BC%97%E7%9A%84%E6%99%BA%E5%95%86%E4%BA%86",
+      "rank": 41
+    },
+    {
+      "title": "终于抓到豆包的把柄了",
+      "hot_value": 168194,
+      "link": "https://s.weibo.com/weibo?q=%E7%BB%88%E4%BA%8E%E6%8A%93%E5%88%B0%E8%B1%86%E5%8C%85%E7%9A%84%E6%8A%8A%E6%9F%84%E4%BA%86",
+      "rank": 42
+    },
+    {
+      "title": "陈伟霆身材太好了",
+      "hot_value": 167292,
+      "link": "https://s.weibo.com/weibo?q=%E9%99%88%E4%BC%9F%E9%9C%86%E8%BA%AB%E6%9D%90%E5%A4%AA%E5%A5%BD%E4%BA%86",
+      "rank": 43
+    },
+    {
+      "title": "宁艺卓Gucci黑长直",
+      "hot_value": 164410,
+      "link": "https://s.weibo.com/weibo?q=%E5%AE%81%E8%89%BA%E5%8D%93Gucci%E9%BB%91%E9%95%BF%E7%9B%B4",
+      "rank": 44
+    },
+    {
+      "title": "洗衣机上有诡异奶奶",
+      "hot_value": 159476,
+      "link": "https://s.weibo.com/weibo?q=%E6%B4%97%E8%A1%A3%E6%9C%BA%E4%B8%8A%E6%9C%89%E8%AF%A1%E5%BC%82%E5%A5%B6%E5%A5%B6",
+      "rank": 45
+    },
+    {
+      "title": "韦雪后悔整容",
+      "hot_value": 158556,
+      "link": "https://s.weibo.com/weibo?q=%E9%9F%A6%E9%9B%AA%E5%90%8E%E6%82%94%E6%95%B4%E5%AE%B9",
+      "rank": 46
+    },
+    {
+      "title": "肖战躺沙发嘟嘴",
+      "hot_value": 154520,
+      "link": "https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E8%BA%BA%E6%B2%99%E5%8F%91%E5%98%9F%E5%98%B4",
+      "rank": 47
+    },
+    {
+      "title": "天价退票费全额退了",
+      "hot_value": 150533,
+      "link": "https://s.weibo.com/weibo?q=%E5%A4%A9%E4%BB%B7%E9%80%80%E7%A5%A8%E8%B4%B9%E5%85%A8%E9%A2%9D%E9%80%80%E4%BA%86",
+      "rank": 48
+    },
+    {
+      "title": "78岁老人体内取出1200颗结石",
+      "hot_value": 137064,
+      "link": "https://s.weibo.com/weibo?q=78%E5%B2%81%E8%80%81%E4%BA%BA%E4%BD%93%E5%86%85%E5%8F%96%E5%87%BA1200%E9%A2%97%E7%BB%93%E7%9F%B3",
+      "rank": 49
+    },
+    {
+      "title": "日本震后网上出现涉华阴谋论",
+      "hot_value": 135552,
+      "link": "https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E9%9C%87%E5%90%8E%E7%BD%91%E4%B8%8A%E5%87%BA%E7%8E%B0%E6%B6%89%E5%8D%8E%E9%98%B4%E8%B0%8B%E8%AE%BA",
+      "rank": 50
+    }
+  ]
+}
