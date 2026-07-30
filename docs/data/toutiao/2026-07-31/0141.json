@@ -1,0 +1,307 @@
+{
+  "platform": "toutiao",
+  "platform_name": "今日头条",
+  "time": "2026-07-31 01:41:28",
+  "items": [
+    {
+      "title": "基金已经在抄底了",
+      "hot_value": 12019637,
+      "link": "https://www.toutiao.com/trending/7667859329187446825",
+      "rank": 1
+    },
+    {
+      "title": "解放军两次警告日方不能自称海军",
+      "hot_value": 10875817,
+      "link": "https://www.toutiao.com/trending/7667674880024428570",
+      "rank": 2
+    },
+    {
+      "title": "一组数据读懂我国能源转型新趋势",
+      "hot_value": 9840846,
+      "link": "https://www.toutiao.com/article/7668250705069687346",
+      "rank": 3
+    },
+    {
+      "title": "小米澎程N90 Max预售价29.99万元",
+      "hot_value": 8904366,
+      "link": "https://www.toutiao.com/trending/7668228760780406838",
+      "rank": 4
+    },
+    {
+      "title": "1.55升“哑铃矿泉水”走红 厂家回应",
+      "hot_value": 8057003,
+      "link": "https://www.toutiao.com/trending/7667350103325196342",
+      "rank": 5
+    },
+    {
+      "title": "重庆彭水山体崩塌致51人遇难10人失联",
+      "hot_value": 7290278,
+      "link": "https://www.toutiao.com/trending/7668338615017016882",
+      "rank": 6
+    },
+    {
+      "title": "日本震后老年人睡地板民众哭喊怕余震",
+      "hot_value": 6596516,
+      "link": "https://www.toutiao.com/trending/7668024656082964010",
+      "rank": 7
+    },
+    {
+      "title": "雷军：澎程从北京到上海无需补能",
+      "hot_value": 5968775,
+      "link": "https://www.toutiao.com/trending/7667821306465599529",
+      "rank": 8
+    },
+    {
+      "title": "歼15试飞遇险距甲板边缘5米刹停",
+      "hot_value": 5400771,
+      "link": "https://www.toutiao.com/trending/7668024656082767402",
+      "rank": 9
+    },
+    {
+      "title": "宇树科技：8月10日打新",
+      "hot_value": 4886819,
+      "link": "https://www.toutiao.com/trending/7667763686765019190",
+      "rank": 10
+    },
+    {
+      "title": "“河南南阳楼房被冲进河中”不实",
+      "hot_value": 4421777,
+      "link": "https://www.toutiao.com/trending/7667779479867047945",
+      "rank": 11
+    },
+    {
+      "title": "中国向伊朗提供400枚导弹？外交部回应",
+      "hot_value": 4000989,
+      "link": "https://www.toutiao.com/trending/7668128346190053385",
+      "rank": 12
+    },
+    {
+      "title": "“公公强奸儿媳案”二审维持原判",
+      "hot_value": 3620245,
+      "link": "https://www.toutiao.com/trending/7668278439698972678",
+      "rank": 13
+    },
+    {
+      "title": "长沙天马德馨园7-0中国足球小将蓝队",
+      "hot_value": 3275733,
+      "link": "https://www.toutiao.com/trending/7667752219152711690",
+      "rank": 14
+    },
+    {
+      "title": "曾舜晞吴老狗上线4分钟热度破亿",
+      "hot_value": 2964006,
+      "link": "https://www.toutiao.com/trending/7667496401576312838",
+      "rank": 15
+    },
+    {
+      "title": "李小璐与女儿甜馨聊择偶观",
+      "hot_value": 2681943,
+      "link": "https://www.toutiao.com/trending/7667153273358434345",
+      "rank": 16
+    },
+    {
+      "title": "杨振宁遗孀翁帆赴新疆喀什看望老兵",
+      "hot_value": 2426722,
+      "link": "https://www.toutiao.com/trending/7667516744528822315",
+      "rank": 17
+    },
+    {
+      "title": "小学生球赛为啥引来3500万人围观",
+      "hot_value": 2195789,
+      "link": "https://www.toutiao.com/trending/7667996775479836710",
+      "rank": 18
+    },
+    {
+      "title": "作者分享《王的猜想》怎么写出来的",
+      "hot_value": 1986832,
+      "link": "https://www.toutiao.com/trending/7667699802049789994",
+      "rank": 19
+    },
+    {
+      "title": "杭州白领凑20万买大额存单",
+      "hot_value": 1797760,
+      "link": "https://www.toutiao.com/trending/7668258139657060378",
+      "rank": 20
+    },
+    {
+      "title": "印尼一男子遭7米长蟒蛇吞食身亡",
+      "hot_value": 1626681,
+      "link": "https://www.toutiao.com/trending/7667546546133499923",
+      "rank": 21
+    },
+    {
+      "title": "蛇叼着青蛙游过小溪飞速上岸",
+      "hot_value": 1471881,
+      "link": "https://www.toutiao.com/trending/7667119441414897670",
+      "rank": 22
+    },
+    {
+      "title": "政治局会议释放哪些重要经济信号",
+      "hot_value": 1331813,
+      "link": "https://www.toutiao.com/trending/7668295382706687507",
+      "rank": 23
+    },
+    {
+      "title": "伊朗称袭击科威特的美空军基地",
+      "hot_value": 1205074,
+      "link": "https://www.toutiao.com/trending/7668304219085999652",
+      "rank": 24
+    },
+    {
+      "title": "男生每天躺玩手机超5小时患血栓",
+      "hot_value": 1090396,
+      "link": "https://www.toutiao.com/trending/7668165665089683519",
+      "rank": 25
+    },
+    {
+      "title": "小米澎程N90车型详解",
+      "hot_value": 986631,
+      "link": "https://www.toutiao.com/trending/7667212610387902470",
+      "rank": 26
+    },
+    {
+      "title": "俄称对乌克兰实施大规模打击",
+      "hot_value": 892741,
+      "link": "https://www.toutiao.com/trending/7668016707260432390",
+      "rank": 27
+    },
+    {
+      "title": "中央强调及时谋划出台增量政策",
+      "hot_value": 807785,
+      "link": "https://www.toutiao.com/trending/7668214072895275014",
+      "rank": 28
+    },
+    {
+      "title": "伊朗称打击约旦美军基地摧毁3架F-35",
+      "hot_value": 730914,
+      "link": "https://www.toutiao.com/trending/7668276655902690879",
+      "rank": 29
+    },
+    {
+      "title": "中美经贸双方牵头人视频通话",
+      "hot_value": 661359,
+      "link": "https://www.toutiao.com/trending/7668334444691852842",
+      "rank": 30
+    },
+    {
+      "title": "国防部回应解放军打造台湾建筑模型",
+      "hot_value": 598422,
+      "link": "https://www.toutiao.com/trending/7668241517416464420",
+      "rank": 31
+    },
+    {
+      "title": "迪丽热巴：和星爷工作非常轻松自在",
+      "hot_value": 541475,
+      "link": "https://www.toutiao.com/trending/7667350743636131859",
+      "rank": 32
+    },
+    {
+      "title": "老师午休散步猝死 家属工亡诉求被驳",
+      "hot_value": 489946,
+      "link": "https://www.toutiao.com/trending/7668175191050272831",
+      "rank": 33
+    },
+    {
+      "title": "小米澎程N90全网首次多车对比",
+      "hot_value": 443322,
+      "link": "https://www.toutiao.com/trending/7668024656095350335",
+      "rank": 34
+    },
+    {
+      "title": "媒体：美必须将管控“台独”落到实处",
+      "hot_value": 401134,
+      "link": "https://www.toutiao.com/trending/7667454645152792617",
+      "rank": 35
+    },
+    {
+      "title": "按克计价金饰重回消费风口",
+      "hot_value": 362961,
+      "link": "https://www.toutiao.com/trending/7667748687699820595",
+      "rank": 36
+    },
+    {
+      "title": "中央：提升资本市场韧性和信心",
+      "hot_value": 328421,
+      "link": "https://www.toutiao.com/trending/7668206754891333641",
+      "rank": 37
+    },
+    {
+      "title": "高校录取通知书上身份证写成身证份",
+      "hot_value": 297167,
+      "link": "https://www.toutiao.com/trending/7667370611970965567",
+      "rank": 38
+    },
+    {
+      "title": "军嫂遇袭凶手无力赔偿 检察机关介入",
+      "hot_value": 268888,
+      "link": "https://www.toutiao.com/trending/7668154338812674084",
+      "rank": 39
+    },
+    {
+      "title": "韩国抛出五大“救市牌”",
+      "hot_value": 243300,
+      "link": "https://www.toutiao.com/trending/7668316895526784566",
+      "rank": 40
+    },
+    {
+      "title": "兆易创新跌倒 长鑫科技吃饱",
+      "hot_value": 220147,
+      "link": "https://www.toutiao.com/trending/7668081725993389631",
+      "rank": 41
+    },
+    {
+      "title": "小米新车营销为何引争议",
+      "hot_value": 199197,
+      "link": "https://www.toutiao.com/trending/7668309782150778418",
+      "rank": 42
+    },
+    {
+      "title": "香港老戏骨胡枫自曝进ICU抢救经历",
+      "hot_value": 180241,
+      "link": "https://www.toutiao.com/trending/7668040196482629659",
+      "rank": 43
+    },
+    {
+      "title": "男孩被奶奶责怪负气离家5天后被找到",
+      "hot_value": 163089,
+      "link": "https://www.toutiao.com/trending/7667677525585215539",
+      "rank": 44
+    },
+    {
+      "title": "小米澎程拉升小米股价超30%",
+      "hot_value": 147569,
+      "link": "https://www.toutiao.com/trending/7667884087532752427",
+      "rank": 45
+    },
+    {
+      "title": "试飞员高空失压为躲客机坚持不下降",
+      "hot_value": 133526,
+      "link": "https://www.toutiao.com/trending/7668210903250714633",
+      "rank": 46
+    },
+    {
+      "title": "“医保账本”释放了哪些新信号",
+      "hot_value": 120819,
+      "link": "https://www.toutiao.com/trending/7668265447637762054",
+      "rank": 47
+    },
+    {
+      "title": "美战略收缩之际日本急于填补权力真空",
+      "hot_value": 109321,
+      "link": "https://www.toutiao.com/trending/7667358236550987826",
+      "rank": 48
+    },
+    {
+      "title": "小米澎程自带车内休闲桌板",
+      "hot_value": 98918,
+      "link": "https://www.toutiao.com/trending/7667413111653023794",
+      "rank": 49
+    },
+    {
+      "title": "持续高温为何不能人工降雨解暑",
+      "hot_value": 89505,
+      "link": "https://www.toutiao.com/trending/7667444467699646518",
+      "rank": 50
+    }
+  ]
+}
