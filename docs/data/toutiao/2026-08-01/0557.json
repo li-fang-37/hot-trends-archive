@@ -1,0 +1,307 @@
+{
+  "platform": "toutiao",
+  "platform_name": "今日头条",
+  "time": "2026-08-01 05:57:18",
+  "items": [
+    {
+      "title": "50℃高温来了",
+      "hot_value": 14112282,
+      "link": "https://www.toutiao.com/trending/7668537827139780671",
+      "rank": 1
+    },
+    {
+      "title": "国家电网原董事长辛保安被查",
+      "hot_value": 12769320,
+      "link": "https://www.toutiao.com/trending/7668687269330911270",
+      "rank": 2
+    },
+    {
+      "title": "北斗卫星导航系统全面完成在轨升级",
+      "hot_value": 11554159,
+      "link": "https://www.toutiao.com/article/7668603441899405864",
+      "rank": 3
+    },
+    {
+      "title": "054B护卫舰首次亮相黄岩岛",
+      "hot_value": 10454635,
+      "link": "https://www.toutiao.com/trending/7667567988811776036",
+      "rank": 4
+    },
+    {
+      "title": "保时捷女销冠回应被AI合成不雅视频",
+      "hot_value": 9459745,
+      "link": "https://www.toutiao.com/trending/7668540826486865930",
+      "rank": 5
+    },
+    {
+      "title": "消防回应火灾母女坠楼 还原救援过程",
+      "hot_value": 8559531,
+      "link": "https://www.toutiao.com/trending/7668677068208475694",
+      "rank": 6
+    },
+    {
+      "title": "“台独”“汉奸”在美开“汉奸大会”",
+      "hot_value": 7744984,
+      "link": "https://www.toutiao.com/trending/7668601116059631670",
+      "rank": 7
+    },
+    {
+      "title": "72岁董明珠打卡成都太古里",
+      "hot_value": 7007951,
+      "link": "https://www.toutiao.com/trending/7668101451247304747",
+      "rank": 8
+    },
+    {
+      "title": "12306回应高铁为何会提前7分钟发车",
+      "hot_value": 6341057,
+      "link": "https://www.toutiao.com/trending/7668642504205467691",
+      "rank": 9
+    },
+    {
+      "title": "上海维也纳酒店被指房间爬满床虱",
+      "hot_value": 5737625,
+      "link": "https://www.toutiao.com/trending/7668521031410647066",
+      "rank": 10
+    },
+    {
+      "title": "“河南两市可领备孕补贴”系假消息",
+      "hot_value": 5191618,
+      "link": "https://www.toutiao.com/trending/7667913209707348009",
+      "rank": 11
+    },
+    {
+      "title": "32岁男子在香港一酒吧被围殴身亡",
+      "hot_value": 4697570,
+      "link": "https://www.toutiao.com/trending/7668556316494872585",
+      "rank": 12
+    },
+    {
+      "title": "俄选美小姐遭肢解抛尸 男友被通缉",
+      "hot_value": 4250537,
+      "link": "https://www.toutiao.com/trending/7668591179815419913",
+      "rank": 13
+    },
+    {
+      "title": "伊朗在霍尔木兹击中并扣留2艘油轮",
+      "hot_value": 3846045,
+      "link": "https://www.toutiao.com/trending/7668445091514155050",
+      "rank": 14
+    },
+    {
+      "title": "网友两个夏天捡知了壳狂赚130万",
+      "hot_value": 3480045,
+      "link": "https://www.toutiao.com/trending/7667824772759715903",
+      "rank": 15
+    },
+    {
+      "title": "机器狼扛单兵火箭筒冲上滩头",
+      "hot_value": 3148875,
+      "link": "https://www.toutiao.com/trending/7667651743819333668",
+      "rank": 16
+    },
+    {
+      "title": "孙女躲着想吓爷爷 爷爷超级配合",
+      "hot_value": 2849220,
+      "link": "https://www.toutiao.com/trending/7668343275518689343",
+      "rank": 17
+    },
+    {
+      "title": "医保个人账户里的钱怎么用才不浪费",
+      "hot_value": 2578081,
+      "link": "https://www.toutiao.com/trending/7668212376966512686",
+      "rank": 18
+    },
+    {
+      "title": "当金价不再上涨 老铺黄金还值多少钱",
+      "hot_value": 2332744,
+      "link": "https://www.toutiao.com/trending/7668653612649680447",
+      "rank": 19
+    },
+    {
+      "title": "28人因四川马尔康红旗大桥垮塌被问责",
+      "hot_value": 2110754,
+      "link": "https://www.toutiao.com/trending/7668588729786699307",
+      "rank": 20
+    },
+    {
+      "title": "陈天桥2.2亿“抄底”上海酒店",
+      "hot_value": 1909889,
+      "link": "https://www.toutiao.com/trending/7667817500806086710",
+      "rank": 21
+    },
+    {
+      "title": "取消午休4点下班你会同意吗",
+      "hot_value": 1728139,
+      "link": "https://www.toutiao.com/trending/7668571447275814962",
+      "rank": 22
+    },
+    {
+      "title": "福建一镇政府巡逻车装警灯被查扣",
+      "hot_value": 1563685,
+      "link": "https://www.toutiao.com/trending/7668296451861905450",
+      "rank": 23
+    },
+    {
+      "title": "老挝为什么能向中国出口电力",
+      "hot_value": 1414881,
+      "link": "https://www.toutiao.com/trending/7668609151718657546",
+      "rank": 24
+    },
+    {
+      "title": "媒体人：特高课在行动 731阴魂不散",
+      "hot_value": 1280237,
+      "link": "https://www.toutiao.com/trending/7668560268401577491",
+      "rank": 25
+    },
+    {
+      "title": "男子砸伤摊主后西瓜全买就能免责吗",
+      "hot_value": 1158406,
+      "link": "https://www.toutiao.com/trending/7668175500669943835",
+      "rank": 26
+    },
+    {
+      "title": "退役军人事务部向广大退役军人送祝福",
+      "hot_value": 1048169,
+      "link": "https://www.toutiao.com/trending/7668247104610975787",
+      "rank": 27
+    },
+    {
+      "title": "外交部回应日本设立“国家情报局”",
+      "hot_value": 948423,
+      "link": "https://www.toutiao.com/trending/7668650241578942502",
+      "rank": 28
+    },
+    {
+      "title": "伊朗宣布霍尔木兹海峡暂停通行",
+      "hot_value": 858168,
+      "link": "https://www.toutiao.com/trending/7668680642107805238",
+      "rank": 29
+    },
+    {
+      "title": "男子因破坏军婚被判一年",
+      "hot_value": 776503,
+      "link": "https://www.toutiao.com/trending/7667532201517039635",
+      "rank": 30
+    },
+    {
+      "title": "吴宜泽无缘斯诺克上海大师赛决赛",
+      "hot_value": 702609,
+      "link": "https://www.toutiao.com/trending/7668685950586719763",
+      "rank": 31
+    },
+    {
+      "title": "亚足联：与欧足联共同捍卫世界杯",
+      "hot_value": 635747,
+      "link": "https://www.toutiao.com/trending/7668081645454753818",
+      "rank": 32
+    },
+    {
+      "title": "22岁女子南太行独自游玩失联超4天",
+      "hot_value": 575247,
+      "link": "https://www.toutiao.com/trending/7668480752690053161",
+      "rank": 33
+    },
+    {
+      "title": "A股放量上涨是反弹还是反转",
+      "hot_value": 520505,
+      "link": "https://www.toutiao.com/trending/7668655671906143798",
+      "rank": 34
+    },
+    {
+      "title": "男生在草原驯马 场面格外惊险",
+      "hot_value": 470973,
+      "link": "https://www.toutiao.com/trending/7667842268560392202",
+      "rank": 35
+    },
+    {
+      "title": "央视报道歼-16驱逐外机能看出什么",
+      "hot_value": 426153,
+      "link": "https://www.toutiao.com/trending/7668660922558189099",
+      "rank": 36
+    },
+    {
+      "title": "蔡康永称已立遗嘱 第一顺位是家人",
+      "hot_value": 385600,
+      "link": "https://www.toutiao.com/trending/7668623133372383251",
+      "rank": 37
+    },
+    {
+      "title": "国务院：拓宽住房公积金提取使用范围",
+      "hot_value": 348905,
+      "link": "https://www.toutiao.com/trending/7668650115694886975",
+      "rank": 38
+    },
+    {
+      "title": "两项社保标准公开征求意见",
+      "hot_value": 315702,
+      "link": "https://www.toutiao.com/trending/7668096298356228102",
+      "rank": 39
+    },
+    {
+      "title": "罗文任河北省委书记",
+      "hot_value": 285659,
+      "link": "https://www.toutiao.com/trending/7668499335776862271",
+      "rank": 40
+    },
+    {
+      "title": "拜仁名宿：没欧洲球队世界杯一文不值",
+      "hot_value": 258475,
+      "link": "https://www.toutiao.com/trending/7668426247885815817",
+      "rank": 41
+    },
+    {
+      "title": "住宅突发火灾如何逃生自救",
+      "hot_value": 233878,
+      "link": "https://www.toutiao.com/trending/7668635847033487402",
+      "rank": 42
+    },
+    {
+      "title": "8月起网贷息费彻底透明",
+      "hot_value": 211621,
+      "link": "https://www.toutiao.com/trending/7668653092937666054",
+      "rank": 43
+    },
+    {
+      "title": "汉口站北门未开致旅客误车被起诉",
+      "hot_value": 191483,
+      "link": "https://www.toutiao.com/trending/7668617701539250203",
+      "rank": 44
+    },
+    {
+      "title": "国盛证券被证监会立案",
+      "hot_value": 173261,
+      "link": "https://www.toutiao.com/trending/7668495528677638198",
+      "rank": 45
+    },
+    {
+      "title": "中国无人机锁定菲军机画面曝光",
+      "hot_value": 156773,
+      "link": "https://www.toutiao.com/trending/7668346349636567082",
+      "rank": 46
+    },
+    {
+      "title": "国防部：日本拥核野心不可纵",
+      "hot_value": 141854,
+      "link": "https://www.toutiao.com/trending/7667679568069640235",
+      "rank": 47
+    },
+    {
+      "title": "朱一明为何能带长鑫打赢内存战争",
+      "hot_value": 128355,
+      "link": "https://www.toutiao.com/trending/7668641271275064868",
+      "rank": 48
+    },
+    {
+      "title": "女孩大学毕业照顾渐冻症母亲三年",
+      "hot_value": 116140,
+      "link": "https://www.toutiao.com/trending/7668573711687565331",
+      "rank": 49
+    },
+    {
+      "title": "2027年或成有记录以来最热一年",
+      "hot_value": 105088,
+      "link": "https://www.toutiao.com/trending/7667693395204276278",
+      "rank": 50
+    }
+  ]
+}
