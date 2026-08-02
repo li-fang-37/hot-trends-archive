@@ -1,0 +1,307 @@
+{
+  "platform": "toutiao",
+  "platform_name": "今日头条",
+  "time": "2026-08-02 11:34:26",
+  "items": [
+    {
+      "title": "包钢致10死84伤爆炸事故62人被追责",
+      "hot_value": 16360990,
+      "link": "https://www.toutiao.com/trending/7669251295118626310",
+      "rank": 1
+    },
+    {
+      "title": "漂流抓到15斤大鱼当事人发声",
+      "hot_value": 14804036,
+      "link": "https://www.toutiao.com/trending/7668937302252470335",
+      "rank": 2
+    },
+    {
+      "title": "致敬最可爱的人",
+      "hot_value": 13395246,
+      "link": "https://www.toutiao.com/trending/7668265934108885055",
+      "rank": 3
+    },
+    {
+      "title": "甘肃渭源山洪已致25死23伤",
+      "hot_value": 12120520,
+      "link": "https://www.toutiao.com/trending/7669117720610045993",
+      "rank": 4
+    },
+    {
+      "title": "损坏地锁公职人员称没想到闹这么大",
+      "hot_value": 10967100,
+      "link": "https://www.toutiao.com/trending/7669254027284106798",
+      "rank": 5
+    },
+    {
+      "title": "婚外胚胎案当事人女儿刚考上一本",
+      "hot_value": 9923442,
+      "link": "https://www.toutiao.com/trending/7668589630266232339",
+      "rank": 6
+    },
+    {
+      "title": "小米多款手机正式涨价",
+      "hot_value": 8979102,
+      "link": "https://www.toutiao.com/trending/7668692534747398150",
+      "rank": 7
+    },
+    {
+      "title": "国防部部长：当好祖国统一的稳固底牌",
+      "hot_value": 8124627,
+      "link": "https://www.toutiao.com/trending/7668676319316688902",
+      "rank": 8
+    },
+    {
+      "title": "直-20J亮剑黄岩岛",
+      "hot_value": 7351467,
+      "link": "https://www.toutiao.com/trending/7668940746304634943",
+      "rank": 9
+    },
+    {
+      "title": "歼-20王牌旅长为何说耻辱牌永不摘下",
+      "hot_value": 6651882,
+      "link": "https://www.toutiao.com/trending/7669235076026286143",
+      "rank": 10
+    },
+    {
+      "title": "洪灾后广西道路现持枪男子？谣言",
+      "hot_value": 6018872,
+      "link": "https://www.toutiao.com/trending/7668638323833290762",
+      "rank": 11
+    },
+    {
+      "title": "男演员因穷意外翻红后跪地磕头致谢",
+      "hot_value": 5446100,
+      "link": "https://www.toutiao.com/trending/7668300900523393066",
+      "rank": 12
+    },
+    {
+      "title": "凤凰传奇成都演唱会秒变雨中蹦迪",
+      "hot_value": 4927835,
+      "link": "https://www.toutiao.com/trending/7668868311348068395",
+      "rank": 13
+    },
+    {
+      "title": "台风“鲸鱼”或将生成",
+      "hot_value": 4458890,
+      "link": "https://www.toutiao.com/trending/7668837784739872811",
+      "rank": 14
+    },
+    {
+      "title": "海警在黄岩岛模拟拖离侵权船只",
+      "hot_value": 4034570,
+      "link": "https://www.toutiao.com/trending/7669019008590695982",
+      "rank": 15
+    },
+    {
+      "title": "女子退房把酒店用品搬空只剩电视",
+      "hot_value": 3650630,
+      "link": "https://www.toutiao.com/trending/7668967824806903858",
+      "rank": 16
+    },
+    {
+      "title": "媒体评小伙贷100万开制冰厂月赚30万",
+      "hot_value": 3303227,
+      "link": "https://www.toutiao.com/trending/7668589630266183187",
+      "rank": 17
+    },
+    {
+      "title": "大国重器捷报频传 中国军队体系制胜",
+      "hot_value": 2988883,
+      "link": "https://www.toutiao.com/trending/7668214992998531115",
+      "rank": 18
+    },
+    {
+      "title": "毕业留美工作可能要先交10万美元",
+      "hot_value": 2704453,
+      "link": "https://www.toutiao.com/trending/7668972315778059785",
+      "rank": 19
+    },
+    {
+      "title": "8000米高峰雪崩 登山公司称10人遇难",
+      "hot_value": 2447090,
+      "link": "https://www.toutiao.com/trending/7669209405941992987",
+      "rank": 20
+    },
+    {
+      "title": "一等功臣蒋荣伟：十发火箭弹破敌堡",
+      "hot_value": 2214219,
+      "link": "https://www.toutiao.com/trending/7669233312636059675",
+      "rank": 21
+    },
+    {
+      "title": "超5万非法移民闯西班牙后4.8万人返程",
+      "hot_value": 2003508,
+      "link": "https://www.toutiao.com/trending/7668589630266134035",
+      "rank": 22
+    },
+    {
+      "title": "052D发射鹰击20为啥让美国智库重视",
+      "hot_value": 1812849,
+      "link": "https://www.toutiao.com/trending/7668207254781870130",
+      "rank": 23
+    },
+    {
+      "title": "解放军为何在此时位黄岩岛联合演训",
+      "hot_value": 1640334,
+      "link": "https://www.toutiao.com/trending/7668222291314868230",
+      "rank": 24
+    },
+    {
+      "title": "台风白海豚将迎第四次巅峰",
+      "hot_value": 1484235,
+      "link": "https://www.toutiao.com/trending/7669085996486495798",
+      "rank": 25
+    },
+    {
+      "title": "董路上台领奖面向观众脱帽致谢",
+      "hot_value": 1342991,
+      "link": "https://www.toutiao.com/trending/7668127597876117558",
+      "rank": 26
+    },
+    {
+      "title": "美国两名男子打架 狗为护主互相撕咬",
+      "hot_value": 1215189,
+      "link": "https://www.toutiao.com/trending/7668868014313324586",
+      "rank": 27
+    },
+    {
+      "title": "餐馆211暑假工变家教把孩子上崩溃",
+      "hot_value": 1099548,
+      "link": "https://www.toutiao.com/trending/7668589630266101267",
+      "rank": 28
+    },
+    {
+      "title": "司机占车道换胎不知浙江高速施救免费",
+      "hot_value": 994912,
+      "link": "https://www.toutiao.com/trending/7668337775271428139",
+      "rank": 29
+    },
+    {
+      "title": "上海发布高温橙警 最高温将超37℃",
+      "hot_value": 900234,
+      "link": "https://www.toutiao.com/trending/7669243328419859977",
+      "rank": 30
+    },
+    {
+      "title": "日本强震扰乱世界汽车和芯片供应链",
+      "hot_value": 814565,
+      "link": "https://www.toutiao.com/trending/7669102125950963219",
+      "rank": 31
+    },
+    {
+      "title": "甘肃陇南强降雨已转移2.7万余人",
+      "hot_value": 737049,
+      "link": "https://www.toutiao.com/trending/7668552211543261220",
+      "rank": 32
+    },
+    {
+      "title": "智能系统让规模打击分秒不差",
+      "hot_value": 666910,
+      "link": "https://www.toutiao.com/trending/7669229214013325375",
+      "rank": 33
+    },
+    {
+      "title": "最近北方为何又热又湿",
+      "hot_value": 603445,
+      "link": "https://www.toutiao.com/trending/7669244739748630043",
+      "rank": 34
+    },
+    {
+      "title": "7月1195个赴日航班取消",
+      "hot_value": 546019,
+      "link": "https://www.toutiao.com/trending/7668485510063898687",
+      "rank": 35
+    },
+    {
+      "title": "联合国秘书长呼吁应对极端高温",
+      "hot_value": 494059,
+      "link": "https://www.toutiao.com/trending/7669224926041391113",
+      "rank": 36
+    },
+    {
+      "title": "出生时被抱错两女子错换37年人生",
+      "hot_value": 447043,
+      "link": "https://www.toutiao.com/trending/7668972744050081833",
+      "rank": 37
+    },
+    {
+      "title": "8月乌鲁木齐将有两轮高温来袭",
+      "hot_value": 404501,
+      "link": "https://www.toutiao.com/trending/7668705014755704868",
+      "rank": 38
+    },
+    {
+      "title": "老人给野外驻训官兵送菜",
+      "hot_value": 366007,
+      "link": "https://www.toutiao.com/trending/7669209646162755590",
+      "rank": 39
+    },
+    {
+      "title": "长鑫盛宴下的券商直投赛道",
+      "hot_value": 331177,
+      "link": "https://www.toutiao.com/trending/7668923526771228726",
+      "rank": 40
+    },
+    {
+      "title": "郑钦文止步WTA1000多伦多资格赛",
+      "hot_value": 299661,
+      "link": "https://www.toutiao.com/trending/7669208285664251398",
+      "rank": 41
+    },
+    {
+      "title": "我国首创FuXi-CNOPs集合预报系统",
+      "hot_value": 271145,
+      "link": "https://www.toutiao.com/trending/7668141621032828969",
+      "rank": 42
+    },
+    {
+      "title": "一喝水就尿多说明肾脏不好吗",
+      "hot_value": 245342,
+      "link": "https://www.toutiao.com/trending/7667842827476467721",
+      "rank": 43
+    },
+    {
+      "title": "世界科技巨头疯狂投资AI",
+      "hot_value": 221995,
+      "link": "https://www.toutiao.com/trending/7669098837687930414",
+      "rank": 44
+    },
+    {
+      "title": "济南发布高温橙警 个别街道可达39℃",
+      "hot_value": 200869,
+      "link": "https://www.toutiao.com/trending/7669242042391727679",
+      "rank": 45
+    },
+    {
+      "title": "《奥德赛》影评",
+      "hot_value": 181754,
+      "link": "https://www.toutiao.com/trending/7669088208918941220",
+      "rank": 46
+    },
+    {
+      "title": "萌娃打翻面粉满地打滚变“粉蒸肉”",
+      "hot_value": 164457,
+      "link": "https://www.toutiao.com/trending/7669009944766890047",
+      "rank": 47
+    },
+    {
+      "title": "周锡玮谈大陆行：美到无法想象",
+      "hot_value": 148807,
+      "link": "https://www.toutiao.com/trending/7668937640892235782",
+      "rank": 48
+    },
+    {
+      "title": "赵心童回应止步上海大师赛四强",
+      "hot_value": 134646,
+      "link": "https://www.toutiao.com/trending/7668787178646929444",
+      "rank": 49
+    },
+    {
+      "title": "上海南京路步行街大屏播放老兵影像",
+      "hot_value": 121833,
+      "link": "https://www.toutiao.com/trending/7669080152223285291",
+      "rank": 50
+    }
+  ]
+}
