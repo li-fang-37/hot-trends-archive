@@ -1,0 +1,307 @@
+{
+  "platform": "weibo",
+  "platform_name": "微博热搜",
+  "time": "2026-08-03 09:03:54",
+  "items": [
+    {
+      "title": "赛里木湖景区7人被行拘",
+      "hot_value": 2245772,
+      "link": "https://s.weibo.com/weibo?q=%E8%B5%9B%E9%87%8C%E6%9C%A8%E6%B9%96%E6%99%AF%E5%8C%BA7%E4%BA%BA%E8%A2%AB%E8%A1%8C%E6%8B%98",
+      "rank": 1
+    },
+    {
+      "title": "赛里木湖按人收费改为按车收费",
+      "hot_value": 1311565,
+      "link": "https://s.weibo.com/weibo?q=%E8%B5%9B%E9%87%8C%E6%9C%A8%E6%B9%96%E6%8C%89%E4%BA%BA%E6%94%B6%E8%B4%B9%E6%94%B9%E4%B8%BA%E6%8C%89%E8%BD%A6%E6%94%B6%E8%B4%B9",
+      "rank": 2
+    },
+    {
+      "title": "6图看中欧班列开行规模稳步向上",
+      "hot_value": 1108844,
+      "link": "https://s.weibo.com/weibo?q=6%E5%9B%BE%E7%9C%8B%E4%B8%AD%E6%AC%A7%E7%8F%AD%E5%88%97%E5%BC%80%E8%A1%8C%E8%A7%84%E6%A8%A1%E7%A8%B3%E6%AD%A5%E5%90%91%E4%B8%8A",
+      "rank": 3
+    },
+    {
+      "title": "赛里木湖景区情况通报",
+      "hot_value": 1071445,
+      "link": "https://s.weibo.com/weibo?q=%E8%B5%9B%E9%87%8C%E6%9C%A8%E6%B9%96%E6%99%AF%E5%8C%BA%E6%83%85%E5%86%B5%E9%80%9A%E6%8A%A5",
+      "rank": 4
+    },
+    {
+      "title": "迪丽热巴裙子里面是牛仔裤",
+      "hot_value": 1035418,
+      "link": "https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E8%A3%99%E5%AD%90%E9%87%8C%E9%9D%A2%E6%98%AF%E7%89%9B%E4%BB%94%E8%A3%A4",
+      "rank": 5
+    },
+    {
+      "title": "显卡跳涨",
+      "hot_value": 726488,
+      "link": "https://s.weibo.com/weibo?q=%E6%98%BE%E5%8D%A1%E8%B7%B3%E6%B6%A8",
+      "rank": 6
+    },
+    {
+      "title": "河南三支一扶案件相关负责人停职",
+      "hot_value": 709639,
+      "link": "https://s.weibo.com/weibo?q=%E6%B2%B3%E5%8D%97%E4%B8%89%E6%94%AF%E4%B8%80%E6%89%B6%E6%A1%88%E4%BB%B6%E7%9B%B8%E5%85%B3%E8%B4%9F%E8%B4%A3%E4%BA%BA%E5%81%9C%E8%81%8C",
+      "rank": 7
+    },
+    {
+      "title": "蔡徐坤说终于撕掉爱豆标签",
+      "hot_value": 674370,
+      "link": "https://s.weibo.com/weibo?q=%E8%94%A1%E5%BE%90%E5%9D%A4%E8%AF%B4%E7%BB%88%E4%BA%8E%E6%92%95%E6%8E%89%E7%88%B1%E8%B1%86%E6%A0%87%E7%AD%BE",
+      "rank": 8
+    },
+    {
+      "title": "手机不好卖 芯片出货量暴跌",
+      "hot_value": 336970,
+      "link": "https://s.weibo.com/weibo?q=%E6%89%8B%E6%9C%BA%E4%B8%8D%E5%A5%BD%E5%8D%96%20%E8%8A%AF%E7%89%87%E5%87%BA%E8%B4%A7%E9%87%8F%E6%9A%B4%E8%B7%8C",
+      "rank": 9
+    },
+    {
+      "title": "孙颖莎因伤退赛",
+      "hot_value": 335728,
+      "link": "https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E%E5%9B%A0%E4%BC%A4%E9%80%80%E8%B5%9B",
+      "rank": 10
+    },
+    {
+      "title": "网友吐槽天才女友女主四败爱因斯坦",
+      "hot_value": 334032,
+      "link": "https://s.weibo.com/weibo?q=%E7%BD%91%E5%8F%8B%E5%90%90%E6%A7%BD%E5%A4%A9%E6%89%8D%E5%A5%B3%E5%8F%8B%E5%A5%B3%E4%B8%BB%E5%9B%9B%E8%B4%A5%E7%88%B1%E5%9B%A0%E6%96%AF%E5%9D%A6",
+      "rank": 11
+    },
+    {
+      "title": "宜宾地震",
+      "hot_value": 333696,
+      "link": "https://s.weibo.com/weibo?q=%E5%AE%9C%E5%AE%BE%E5%9C%B0%E9%9C%87",
+      "rank": 12
+    },
+    {
+      "title": "释小龙时隔30年再次探班周星驰",
+      "hot_value": 331264,
+      "link": "https://s.weibo.com/weibo?q=%E9%87%8A%E5%B0%8F%E9%BE%99%E6%97%B6%E9%9A%9430%E5%B9%B4%E5%86%8D%E6%AC%A1%E6%8E%A2%E7%8F%AD%E5%91%A8%E6%98%9F%E9%A9%B0",
+      "rank": 13
+    },
+    {
+      "title": "可以抵抗空虚的低成本爱好",
+      "hot_value": 329282,
+      "link": "https://s.weibo.com/weibo?q=%E5%8F%AF%E4%BB%A5%E6%8A%B5%E6%8A%97%E7%A9%BA%E8%99%9A%E7%9A%84%E4%BD%8E%E6%88%90%E6%9C%AC%E7%88%B1%E5%A5%BD",
+      "rank": 14
+    },
+    {
+      "title": "认知差 人生真正的分水岭",
+      "hot_value": 327446,
+      "link": "https://s.weibo.com/weibo?q=%E8%AE%A4%E7%9F%A5%E5%B7%AE%20%E4%BA%BA%E7%94%9F%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%88%86%E6%B0%B4%E5%B2%AD",
+      "rank": 15
+    },
+    {
+      "title": "左奇函 陈奕恒",
+      "hot_value": 326251,
+      "link": "https://s.weibo.com/weibo?q=%E5%B7%A6%E5%A5%87%E5%87%BD%20%E9%99%88%E5%A5%95%E6%81%92",
+      "rank": 16
+    },
+    {
+      "title": "八仙",
+      "hot_value": 325121,
+      "link": "https://s.weibo.com/weibo?q=%E5%85%AB%E4%BB%99",
+      "rank": 17
+    },
+    {
+      "title": "河南将严惩三支一扶作弊人员",
+      "hot_value": 323393,
+      "link": "https://s.weibo.com/weibo?q=%E6%B2%B3%E5%8D%97%E5%B0%86%E4%B8%A5%E6%83%A9%E4%B8%89%E6%94%AF%E4%B8%80%E6%89%B6%E4%BD%9C%E5%BC%8A%E4%BA%BA%E5%91%98",
+      "rank": 18
+    },
+    {
+      "title": "PCB大牛股业绩暴涨1562%",
+      "hot_value": 322440,
+      "link": "https://s.weibo.com/weibo?q=PCB%E5%A4%A7%E7%89%9B%E8%82%A1%E4%B8%9A%E7%BB%A9%E6%9A%B4%E6%B6%A81562%25",
+      "rank": 19
+    },
+    {
+      "title": "C罗乔治娜婚礼更多细节曝光",
+      "hot_value": 320363,
+      "link": "https://s.weibo.com/weibo?q=C%E7%BD%97%E4%B9%94%E6%B2%BB%E5%A8%9C%E5%A9%9A%E7%A4%BC%E6%9B%B4%E5%A4%9A%E7%BB%86%E8%8A%82%E6%9B%9D%E5%85%89",
+      "rank": 20
+    },
+    {
+      "title": "刚出生宝宝不哭反而开心大笑",
+      "hot_value": 317954,
+      "link": "https://s.weibo.com/weibo?q=%E5%88%9A%E5%87%BA%E7%94%9F%E5%AE%9D%E5%AE%9D%E4%B8%8D%E5%93%AD%E5%8F%8D%E8%80%8C%E5%BC%80%E5%BF%83%E5%A4%A7%E7%AC%91",
+      "rank": 21
+    },
+    {
+      "title": "赛里木湖多名负责人被免职处分",
+      "hot_value": 317366,
+      "link": "https://s.weibo.com/weibo?q=%E8%B5%9B%E9%87%8C%E6%9C%A8%E6%B9%96%E5%A4%9A%E5%90%8D%E8%B4%9F%E8%B4%A3%E4%BA%BA%E8%A2%AB%E5%85%8D%E8%81%8C%E5%A4%84%E5%88%86",
+      "rank": 22
+    },
+    {
+      "title": "弟媳照顾去世大哥5个孩子5年",
+      "hot_value": 316227,
+      "link": "https://s.weibo.com/weibo?q=%E5%BC%9F%E5%AA%B3%E7%85%A7%E9%A1%BE%E5%8E%BB%E4%B8%96%E5%A4%A7%E5%93%A55%E4%B8%AA%E5%AD%A9%E5%AD%905%E5%B9%B4",
+      "rank": 23
+    },
+    {
+      "title": "北京地铁14号线",
+      "hot_value": 313678,
+      "link": "https://s.weibo.com/weibo?q=%E5%8C%97%E4%BA%AC%E5%9C%B0%E9%93%8114%E5%8F%B7%E7%BA%BF",
+      "rank": 24
+    },
+    {
+      "title": "窦文涛问鲁豫是否抑郁",
+      "hot_value": 311598,
+      "link": "https://s.weibo.com/weibo?q=%E7%AA%A6%E6%96%87%E6%B6%9B%E9%97%AE%E9%B2%81%E8%B1%AB%E6%98%AF%E5%90%A6%E6%8A%91%E9%83%81",
+      "rank": 25
+    },
+    {
+      "title": "王垲智齐昕苒感情时间线",
+      "hot_value": 310587,
+      "link": "https://s.weibo.com/weibo?q=%E7%8E%8B%E5%9E%B2%E6%99%BA%E9%BD%90%E6%98%95%E8%8B%92%E6%84%9F%E6%83%85%E6%97%B6%E9%97%B4%E7%BA%BF",
+      "rank": 26
+    },
+    {
+      "title": "人扮美人鱼把鱼看懵了",
+      "hot_value": 309567,
+      "link": "https://s.weibo.com/weibo?q=%E4%BA%BA%E6%89%AE%E7%BE%8E%E4%BA%BA%E9%B1%BC%E6%8A%8A%E9%B1%BC%E7%9C%8B%E6%87%B5%E4%BA%86",
+      "rank": 27
+    },
+    {
+      "title": "迪丽热巴和御木本总裁的合照",
+      "hot_value": 307514,
+      "link": "https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%92%8C%E5%BE%A1%E6%9C%A8%E6%9C%AC%E6%80%BB%E8%A3%81%E7%9A%84%E5%90%88%E7%85%A7",
+      "rank": 28
+    },
+    {
+      "title": "Lucas19岁了",
+      "hot_value": 306050,
+      "link": "https://s.weibo.com/weibo?q=Lucas19%E5%B2%81%E4%BA%86",
+      "rank": 29
+    },
+    {
+      "title": "多名驻日美军士兵被捕",
+      "hot_value": 304817,
+      "link": "https://s.weibo.com/weibo?q=%E5%A4%9A%E5%90%8D%E9%A9%BB%E6%97%A5%E7%BE%8E%E5%86%9B%E5%A3%AB%E5%85%B5%E8%A2%AB%E6%8D%95",
+      "rank": 30
+    },
+    {
+      "title": "网上爆火的AI短剧男主",
+      "hot_value": 302862,
+      "link": "https://s.weibo.com/weibo?q=%E7%BD%91%E4%B8%8A%E7%88%86%E7%81%AB%E7%9A%84AI%E7%9F%AD%E5%89%A7%E7%94%B7%E4%B8%BB",
+      "rank": 31
+    },
+    {
+      "title": "爱情公寓片头有每个人的英文名",
+      "hot_value": 300545,
+      "link": "https://s.weibo.com/weibo?q=%E7%88%B1%E6%83%85%E5%85%AC%E5%AF%93%E7%89%87%E5%A4%B4%E6%9C%89%E6%AF%8F%E4%B8%AA%E4%BA%BA%E7%9A%84%E8%8B%B1%E6%96%87%E5%90%8D",
+      "rank": 32
+    },
+    {
+      "title": "房地产市场进入存量时代",
+      "hot_value": 300265,
+      "link": "https://s.weibo.com/weibo?q=%E6%88%BF%E5%9C%B0%E4%BA%A7%E5%B8%82%E5%9C%BA%E8%BF%9B%E5%85%A5%E5%AD%98%E9%87%8F%E6%97%B6%E4%BB%A3",
+      "rank": 33
+    },
+    {
+      "title": "薛之谦演唱会",
+      "hot_value": 298264,
+      "link": "https://s.weibo.com/weibo?q=%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%BC%94%E5%94%B1%E4%BC%9A",
+      "rank": 34
+    },
+    {
+      "title": "丁程鑫的手还是有点肿",
+      "hot_value": 297153,
+      "link": "https://s.weibo.com/weibo?q=%E4%B8%81%E7%A8%8B%E9%91%AB%E7%9A%84%E6%89%8B%E8%BF%98%E6%98%AF%E6%9C%89%E7%82%B9%E8%82%BF",
+      "rank": 35
+    },
+    {
+      "title": "赛里木湖",
+      "hot_value": 294433,
+      "link": "https://s.weibo.com/weibo?q=%E8%B5%9B%E9%87%8C%E6%9C%A8%E6%B9%96",
+      "rank": 36
+    },
+    {
+      "title": "29岁的侯明昊",
+      "hot_value": 293338,
+      "link": "https://s.weibo.com/weibo?q=29%E5%B2%81%E7%9A%84%E4%BE%AF%E6%98%8E%E6%98%8A",
+      "rank": 37
+    },
+    {
+      "title": "难听",
+      "hot_value": 292307,
+      "link": "https://s.weibo.com/weibo?q=%E9%9A%BE%E5%90%AC",
+      "rank": 38
+    },
+    {
+      "title": "银鹭回应万元赔偿转账备注顾客敲诈",
+      "hot_value": 289843,
+      "link": "https://s.weibo.com/weibo?q=%E9%93%B6%E9%B9%AD%E5%9B%9E%E5%BA%94%E4%B8%87%E5%85%83%E8%B5%94%E5%81%BF%E8%BD%AC%E8%B4%A6%E5%A4%87%E6%B3%A8%E9%A1%BE%E5%AE%A2%E6%95%B2%E8%AF%88",
+      "rank": 39
+    },
+    {
+      "title": "心动的信号6 背调",
+      "hot_value": 288258,
+      "link": "https://s.weibo.com/weibo?q=%E5%BF%83%E5%8A%A8%E7%9A%84%E4%BF%A1%E5%8F%B76%20%E8%83%8C%E8%B0%83",
+      "rank": 40
+    },
+    {
+      "title": "瑞幸员工对嘴喷奶油",
+      "hot_value": 286881,
+      "link": "https://s.weibo.com/weibo?q=%E7%91%9E%E5%B9%B8%E5%91%98%E5%B7%A5%E5%AF%B9%E5%98%B4%E5%96%B7%E5%A5%B6%E6%B2%B9",
+      "rank": 41
+    },
+    {
+      "title": "杨博文真的写了100遍我想你了",
+      "hot_value": 285399,
+      "link": "https://s.weibo.com/weibo?q=%E6%9D%A8%E5%8D%9A%E6%96%87%E7%9C%9F%E7%9A%84%E5%86%99%E4%BA%86100%E9%81%8D%E6%88%91%E6%83%B3%E4%BD%A0%E4%BA%86",
+      "rank": 42
+    },
+    {
+      "title": "胖东来直饮水被大量占用将被管控",
+      "hot_value": 283894,
+      "link": "https://s.weibo.com/weibo?q=%E8%83%96%E4%B8%9C%E6%9D%A5%E7%9B%B4%E9%A5%AE%E6%B0%B4%E8%A2%AB%E5%A4%A7%E9%87%8F%E5%8D%A0%E7%94%A8%E5%B0%86%E8%A2%AB%E7%AE%A1%E6%8E%A7",
+      "rank": 43
+    },
+    {
+      "title": "恋综男嘉宾被曝分手原因",
+      "hot_value": 282061,
+      "link": "https://s.weibo.com/weibo?q=%E6%81%8B%E7%BB%BC%E7%94%B7%E5%98%89%E5%AE%BE%E8%A2%AB%E6%9B%9D%E5%88%86%E6%89%8B%E5%8E%9F%E5%9B%A0",
+      "rank": 44
+    },
+    {
+      "title": "空中校车让3小时上学山路变30分钟",
+      "hot_value": 280412,
+      "link": "https://s.weibo.com/weibo?q=%E7%A9%BA%E4%B8%AD%E6%A0%A1%E8%BD%A6%E8%AE%A93%E5%B0%8F%E6%97%B6%E4%B8%8A%E5%AD%A6%E5%B1%B1%E8%B7%AF%E5%8F%9830%E5%88%86%E9%92%9F",
+      "rank": 45
+    },
+    {
+      "title": "近30家A股公司披露并购重组公告",
+      "hot_value": 279405,
+      "link": "https://s.weibo.com/weibo?q=%E8%BF%9130%E5%AE%B6A%E8%82%A1%E5%85%AC%E5%8F%B8%E6%8A%AB%E9%9C%B2%E5%B9%B6%E8%B4%AD%E9%87%8D%E7%BB%84%E5%85%AC%E5%91%8A",
+      "rank": 46
+    },
+    {
+      "title": "王楚钦暂别享受热爱且珍惜的赛场",
+      "hot_value": 277121,
+      "link": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%E6%9A%82%E5%88%AB%E4%BA%AB%E5%8F%97%E7%83%AD%E7%88%B1%E4%B8%94%E7%8F%8D%E6%83%9C%E7%9A%84%E8%B5%9B%E5%9C%BA",
+      "rank": 47
+    },
+    {
+      "title": "米哈游已经终止云南昊曦合作",
+      "hot_value": 276592,
+      "link": "https://s.weibo.com/weibo?q=%E7%B1%B3%E5%93%88%E6%B8%B8%E5%B7%B2%E7%BB%8F%E7%BB%88%E6%AD%A2%E4%BA%91%E5%8D%97%E6%98%8A%E6%9B%A6%E5%90%88%E4%BD%9C",
+      "rank": 48
+    },
+    {
+      "title": "徐洁云说要鼓励真牛打击吹牛",
+      "hot_value": 274107,
+      "link": "https://s.weibo.com/weibo?q=%E5%BE%90%E6%B4%81%E4%BA%91%E8%AF%B4%E8%A6%81%E9%BC%93%E5%8A%B1%E7%9C%9F%E7%89%9B%E6%89%93%E5%87%BB%E5%90%B9%E7%89%9B",
+      "rank": 49
+    },
+    {
+      "title": "一个爱侧睡的人轻轻的碎了",
+      "hot_value": 273281,
+      "link": "https://s.weibo.com/weibo?q=%E4%B8%80%E4%B8%AA%E7%88%B1%E4%BE%A7%E7%9D%A1%E7%9A%84%E4%BA%BA%E8%BD%BB%E8%BD%BB%E7%9A%84%E7%A2%8E%E4%BA%86",
+      "rank": 50
+    }
+  ]
+}
