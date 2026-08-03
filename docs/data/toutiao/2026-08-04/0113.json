@@ -1,0 +1,307 @@
+{
+  "platform": "toutiao",
+  "platform_name": "今日头条",
+  "time": "2026-08-04 01:13:37",
+  "items": [
+    {
+      "title": "A股4000只股票上涨为何科技股暴跌",
+      "hot_value": 10282633,
+      "link": "https://www.toutiao.com/trending/7669788116869189162",
+      "rank": 1
+    },
+    {
+      "title": "赛力斯7月新能源汽车销量同比降45%",
+      "hot_value": 9304111,
+      "link": "https://www.toutiao.com/trending/7669619798967484459",
+      "rank": 2
+    },
+    {
+      "title": "全国海洋生产总值5.5万亿元",
+      "hot_value": 8418708,
+      "link": "https://www.toutiao.com/article/7669637685489467945",
+      "rank": 3
+    },
+    {
+      "title": "贵阳“半夜”马路上还大排长龙",
+      "hot_value": 7617562,
+      "link": "https://www.toutiao.com/trending/7669721259705974811",
+      "rank": 4
+    },
+    {
+      "title": "U17国足3-2绝杀阿森纳U17",
+      "hot_value": 6892655,
+      "link": "https://www.toutiao.com/trending/7669800533523172873",
+      "rank": 5
+    },
+    {
+      "title": "青岛火车站好多人拖着铁桶扎啤返乡",
+      "hot_value": 6236732,
+      "link": "https://www.toutiao.com/trending/7669683677127704619",
+      "rank": 6
+    },
+    {
+      "title": "三部门向陕西调拨6.5万件中央救灾物资",
+      "hot_value": 5643228,
+      "link": "https://www.toutiao.com/trending/7668978183279411246",
+      "rank": 7
+    },
+    {
+      "title": "媒体：台湾“维持现状”幻想正在破灭",
+      "hot_value": 5106204,
+      "link": "https://www.toutiao.com/trending/7668732962887745572",
+      "rank": 8
+    },
+    {
+      "title": "美国制裁洽洽瓜子思念水饺七匹狼男装",
+      "hot_value": 4620285,
+      "link": "https://www.toutiao.com/trending/7668995465958051347",
+      "rank": 9
+    },
+    {
+      "title": "各国武官排队打卡中餐美食",
+      "hot_value": 4180606,
+      "link": "https://www.toutiao.com/trending/7668896884770308132",
+      "rank": 10
+    },
+    {
+      "title": "国博严正声明：从未授权馆外扫码",
+      "hot_value": 3782769,
+      "link": "https://www.toutiao.com/trending/7668872180515995691",
+      "rank": 11
+    },
+    {
+      "title": "婚外胚胎案患癌妻子已报案",
+      "hot_value": 3422791,
+      "link": "https://www.toutiao.com/trending/7669518703347846692",
+      "rank": 12
+    },
+    {
+      "title": "演员孙浩：从翻红至今没有赚一分钱",
+      "hot_value": 3097069,
+      "link": "https://www.toutiao.com/trending/7669534587266990089",
+      "rank": 13
+    },
+    {
+      "title": "福建漳州全面核查抗生素牛蛙",
+      "hot_value": 2802344,
+      "link": "https://www.toutiao.com/trending/7669643929184144938",
+      "rank": 14
+    },
+    {
+      "title": "空调24小时不关更省电吗",
+      "hot_value": 2535666,
+      "link": "https://www.toutiao.com/trending/7668640492518883382",
+      "rank": 15
+    },
+    {
+      "title": "中方黄岩岛“亮剑”释放何信号",
+      "hot_value": 2294365,
+      "link": "https://www.toutiao.com/trending/7669778843183353407",
+      "rank": 16
+    },
+    {
+      "title": "DeepSeek模型单日吞下8万亿Token",
+      "hot_value": 2076027,
+      "link": "https://www.toutiao.com/trending/7669679149316836902",
+      "rank": 17
+    },
+    {
+      "title": "小米澎程销售称N70售价或低于20万",
+      "hot_value": 1878467,
+      "link": "https://www.toutiao.com/trending/7669420949327347754",
+      "rank": 18
+    },
+    {
+      "title": "东风系列导弹罕见集中亮相",
+      "hot_value": 1699707,
+      "link": "https://www.toutiao.com/trending/7669064820716716082",
+      "rank": 19
+    },
+    {
+      "title": "国乒男单世界排名前5仅剩王楚钦",
+      "hot_value": 1537959,
+      "link": "https://www.toutiao.com/trending/7669430596620927019",
+      "rank": 20
+    },
+    {
+      "title": "男子抓泥地里的“黄鳝”被咬",
+      "hot_value": 1391603,
+      "link": "https://www.toutiao.com/trending/7668941934124056585",
+      "rank": 21
+    },
+    {
+      "title": "韩国股民有多疯狂",
+      "hot_value": 1259174,
+      "link": "https://www.toutiao.com/trending/7669774692051324458",
+      "rank": 22
+    },
+    {
+      "title": "占用应急车道女子要求前车挪车让路",
+      "hot_value": 1139348,
+      "link": "https://www.toutiao.com/trending/7668890231705436202",
+      "rank": 23
+    },
+    {
+      "title": "中央考核巡查组检查工地时连连摇头",
+      "hot_value": 1030924,
+      "link": "https://www.toutiao.com/trending/7669266579925958666",
+      "rank": 24
+    },
+    {
+      "title": "今年以来赴泰外国游客同比降3.19%",
+      "hot_value": 932819,
+      "link": "https://www.toutiao.com/trending/7669013299879493678",
+      "rank": 25
+    },
+    {
+      "title": "辽宁致4死中毒事故调查报告公布",
+      "hot_value": 844049,
+      "link": "https://www.toutiao.com/trending/7669751527099826219",
+      "rank": 26
+    },
+    {
+      "title": "男子采菌没看见旁边的五步蛇",
+      "hot_value": 763727,
+      "link": "https://www.toutiao.com/trending/7669441805079019563",
+      "rank": 27
+    },
+    {
+      "title": "女童无人照顾夜宿路边 多部门介入",
+      "hot_value": 691049,
+      "link": "https://www.toutiao.com/trending/7669662136973951012",
+      "rank": 28
+    },
+    {
+      "title": "辽宁1年“砍掉”49家省级经开区",
+      "hot_value": 625287,
+      "link": "https://www.toutiao.com/trending/7669783604675330057",
+      "rank": 29
+    },
+    {
+      "title": "长鑫科技为何能问鼎A股市值第一",
+      "hot_value": 565783,
+      "link": "https://www.toutiao.com/trending/7669800779284221476",
+      "rank": 30
+    },
+    {
+      "title": "伊朗谴责美沙联合打击伊拉克民兵武装",
+      "hot_value": 511942,
+      "link": "https://www.toutiao.com/trending/7669421086660247594",
+      "rank": 31
+    },
+    {
+      "title": "李亚鹏昆明民宿开业",
+      "hot_value": 463224,
+      "link": "https://www.toutiao.com/trending/7669299851364368435",
+      "rank": 32
+    },
+    {
+      "title": "老师在学校拍跳舞视频被家长投诉",
+      "hot_value": 419142,
+      "link": "https://www.toutiao.com/trending/7669345063701118995",
+      "rank": 33
+    },
+    {
+      "title": "苏州独墅湖周末上演“湖面堵船”",
+      "hot_value": 379256,
+      "link": "https://www.toutiao.com/trending/7669316126660689961",
+      "rank": 34
+    },
+    {
+      "title": "比亚迪攻入日本汽车腹地",
+      "hot_value": 343165,
+      "link": "https://www.toutiao.com/trending/7669798854924963366",
+      "rank": 35
+    },
+    {
+      "title": "媒体：WTT请正视运动员身体负荷",
+      "hot_value": 310508,
+      "link": "https://www.toutiao.com/trending/7669785974985556011",
+      "rank": 36
+    },
+    {
+      "title": "药明康德上半年净利润110.8亿元",
+      "hot_value": 280959,
+      "link": "https://www.toutiao.com/trending/7668984461220544518",
+      "rank": 37
+    },
+    {
+      "title": "亚朵门店回应保洁被指误扔贵重品",
+      "hot_value": 254222,
+      "link": "https://www.toutiao.com/trending/7669782080716603433",
+      "rank": 38
+    },
+    {
+      "title": "以色列议会批准延长军队紧急动员令",
+      "hot_value": 230030,
+      "link": "https://www.toutiao.com/trending/7669496752696999990",
+      "rank": 39
+    },
+    {
+      "title": "官方回应加油站油枪空转自动跳表",
+      "hot_value": 208140,
+      "link": "https://www.toutiao.com/trending/7669726400974700587",
+      "rank": 40
+    },
+    {
+      "title": "专家：黑海港口停摆正抽干乌克兰的血",
+      "hot_value": 188333,
+      "link": "https://www.toutiao.com/trending/7669770257589866020",
+      "rank": 41
+    },
+    {
+      "title": "当市场失去主线还有什么可以买",
+      "hot_value": 170410,
+      "link": "https://www.toutiao.com/trending/7669781545892187684",
+      "rank": 42
+    },
+    {
+      "title": "大V：《制胜》震撼细节不止导弹",
+      "hot_value": 154194,
+      "link": "https://www.toutiao.com/trending/7669786611747393060",
+      "rank": 43
+    },
+    {
+      "title": "华为半导体首席科学家大赞梁文锋",
+      "hot_value": 139520,
+      "link": "https://www.toutiao.com/trending/7669025220200546330",
+      "rank": 44
+    },
+    {
+      "title": "官方辟谣西平发生5人灭门惨案",
+      "hot_value": 126243,
+      "link": "https://www.toutiao.com/trending/7669801785845878323",
+      "rank": 45
+    },
+    {
+      "title": "专家：关税战让美企集体回流中国",
+      "hot_value": 114229,
+      "link": "https://www.toutiao.com/trending/7669774984373341750",
+      "rank": 46
+    },
+    {
+      "title": "大V：特朗普卖帖文是权力变现",
+      "hot_value": 103359,
+      "link": "https://www.toutiao.com/trending/7669773952511643190",
+      "rank": 47
+    },
+    {
+      "title": "河南重庆湖北等地有大到暴雨",
+      "hot_value": 93523,
+      "link": "https://www.toutiao.com/trending/7669336481832435754",
+      "rank": 48
+    },
+    {
+      "title": "无锡一地通报牛蛙产品涉嫌抗生素超标",
+      "hot_value": 84623,
+      "link": "https://www.toutiao.com/trending/7669779636871499306",
+      "rank": 49
+    },
+    {
+      "title": "菲总统姐姐将矛头指向“美菲合作”",
+      "hot_value": 76570,
+      "link": "https://www.toutiao.com/trending/7669597375518277641",
+      "rank": 50
+    }
+  ]
+}
