@@ -1,0 +1,307 @@
+{
+  "platform": "toutiao",
+  "platform_name": "今日头条",
+  "time": "2026-08-04 14:11:34",
+  "items": [
+    {
+      "title": "反内卷？建行员工午休暂停柜面服务",
+      "hot_value": 9386207,
+      "link": "https://www.toutiao.com/trending/7668998862102970387",
+      "rank": 1
+    },
+    {
+      "title": "女主持人回应与蔡崇信合照",
+      "hot_value": 8492991,
+      "link": "https://www.toutiao.com/trending/7669795434546102323",
+      "rank": 2
+    },
+    {
+      "title": "全国海洋旅游消费潜力持续释放",
+      "hot_value": 7684776,
+      "link": "https://www.toutiao.com/article/7669794152817492516",
+      "rank": 3
+    },
+    {
+      "title": "歼-16南海上空“训转战”画面公开",
+      "hot_value": 6953473,
+      "link": "https://www.toutiao.com/trending/7669008700711157801",
+      "rank": 4
+    },
+    {
+      "title": "钓友一晚狂钓几千斤鱼塞满后备箱",
+      "hot_value": 6291762,
+      "link": "https://www.toutiao.com/trending/7669347082087448603",
+      "rank": 5
+    },
+    {
+      "title": "伊朗：乌克兰道歉了",
+      "hot_value": 5693022,
+      "link": "https://www.toutiao.com/trending/7668954284482134058",
+      "rank": 6
+    },
+    {
+      "title": "顾客结账时把钱扔地上服务员霸气回应",
+      "hot_value": 5151259,
+      "link": "https://www.toutiao.com/trending/7669969615870820378",
+      "rank": 7
+    },
+    {
+      "title": "婚外试管丈夫声称离婚5个0不属实",
+      "hot_value": 4661052,
+      "link": "https://www.toutiao.com/trending/7670045174197751342",
+      "rank": 8
+    },
+    {
+      "title": "女子在内蒙古旅居离别时马儿落泪",
+      "hot_value": 4217494,
+      "link": "https://www.toutiao.com/trending/7669820635446837289",
+      "rank": 9
+    },
+    {
+      "title": "111岁奶奶的长寿秘诀藏在4个习惯里",
+      "hot_value": 3816146,
+      "link": "https://www.toutiao.com/trending/7669656059872084004",
+      "rank": 10
+    },
+    {
+      "title": "2人用AI造谣小米车祸视频被罚",
+      "hot_value": 3452992,
+      "link": "https://www.toutiao.com/trending/7669754577818828854",
+      "rank": 11
+    },
+    {
+      "title": "云南水富巨石滚落砸中行驶汽车",
+      "hot_value": 3124396,
+      "link": "https://www.toutiao.com/trending/7670003902872879113",
+      "rank": 12
+    },
+    {
+      "title": "香港传奇影星葛兰去世",
+      "hot_value": 2827071,
+      "link": "https://www.toutiao.com/trending/7669806919556939814",
+      "rank": 13
+    },
+    {
+      "title": "字节跳动、哔哩哔哩启动2027校园招聘",
+      "hot_value": 2558039,
+      "link": "https://www.toutiao.com/trending/7669628803548397609",
+      "rank": 14
+    },
+    {
+      "title": "上海飞东京航班险与飞行检查机相撞",
+      "hot_value": 2314610,
+      "link": "https://www.toutiao.com/trending/7669635137369538623",
+      "rank": 15
+    },
+    {
+      "title": "“江西球王”杨志军单场轰101分",
+      "hot_value": 2094345,
+      "link": "https://www.toutiao.com/trending/7668995465958100499",
+      "rank": 16
+    },
+    {
+      "title": "去年全国幼儿园减少2.14万所",
+      "hot_value": 1895042,
+      "link": "https://www.toutiao.com/trending/7669743741017112618",
+      "rank": 17
+    },
+    {
+      "title": "中方在黄岩岛联合演训有何意义",
+      "hot_value": 1714705,
+      "link": "https://www.toutiao.com/trending/7669679178257534502",
+      "rank": 18
+    },
+    {
+      "title": "日本8成制造业高管对稀土采购不安",
+      "hot_value": 1551529,
+      "link": "https://www.toutiao.com/trending/7668937655410442283",
+      "rank": 19
+    },
+    {
+      "title": "婚外胚胎案患癌妻子已报案",
+      "hot_value": 1403882,
+      "link": "https://www.toutiao.com/trending/7669518703347846692",
+      "rank": 20
+    },
+    {
+      "title": "媒体：中国不会任由谁在家门口撒野",
+      "hot_value": 1270284,
+      "link": "https://www.toutiao.com/trending/7669359819253612563",
+      "rank": 21
+    },
+    {
+      "title": "4岁男童深夜游走因家里垃圾成山",
+      "hot_value": 1149401,
+      "link": "https://www.toutiao.com/trending/7669693881878183987",
+      "rank": 22
+    },
+    {
+      "title": "1994年夏天杭州人抢购空调场面火爆",
+      "hot_value": 1040021,
+      "link": "https://www.toutiao.com/trending/7669928632806211625",
+      "rank": 23
+    },
+    {
+      "title": "从韩国股灾到天才爆仓有何教训",
+      "hot_value": 941050,
+      "link": "https://www.toutiao.com/trending/7670020658604019206",
+      "rank": 24
+    },
+    {
+      "title": "母牛把小牛弄丢了被主人叨叨",
+      "hot_value": 851497,
+      "link": "https://www.toutiao.com/trending/7668968375787880486",
+      "rank": 25
+    },
+    {
+      "title": "“烤斯克”马建平回应走红",
+      "hot_value": 770466,
+      "link": "https://www.toutiao.com/trending/7669000196890247210",
+      "rank": 26
+    },
+    {
+      "title": "2028台湾地区领导人选举提前开打",
+      "hot_value": 697147,
+      "link": "https://www.toutiao.com/trending/7668932790897033258",
+      "rank": 27
+    },
+    {
+      "title": "钟美美留学读的是人类学专业",
+      "hot_value": 630804,
+      "link": "https://www.toutiao.com/trending/7669261059970629675",
+      "rank": 28
+    },
+    {
+      "title": "女子再婚后得病 丈夫起诉离婚被驳",
+      "hot_value": 570775,
+      "link": "https://www.toutiao.com/trending/7669799089323638794",
+      "rank": 29
+    },
+    {
+      "title": "8月或有2到3个台风登陆或影响我国",
+      "hot_value": 516459,
+      "link": "https://www.toutiao.com/trending/7669240201714073650",
+      "rank": 30
+    },
+    {
+      "title": "大兴安岭冰柜卖爆",
+      "hot_value": 467311,
+      "link": "https://www.toutiao.com/trending/7669666344858124324",
+      "rank": 31
+    },
+    {
+      "title": "河南一企业项目垫资740万被搁置5年",
+      "hot_value": 422841,
+      "link": "https://www.toutiao.com/trending/7669810908625403954",
+      "rank": 32
+    },
+    {
+      "title": "锂电池VC的又一场翻身仗",
+      "hot_value": 382602,
+      "link": "https://www.toutiao.com/trending/7670026166786330163",
+      "rank": 33
+    },
+    {
+      "title": "比亚迪已在全国建成超7000座闪充站",
+      "hot_value": 346193,
+      "link": "https://www.toutiao.com/trending/7669748294653837318",
+      "rank": 34
+    },
+    {
+      "title": "媒体：当以雷霆手段整治招录考试舞弊",
+      "hot_value": 313248,
+      "link": "https://www.toutiao.com/trending/7668681572685709375",
+      "rank": 35
+    },
+    {
+      "title": "部分幼儿园“变身”养老院",
+      "hot_value": 283438,
+      "link": "https://www.toutiao.com/trending/7669297930733748265",
+      "rank": 36
+    },
+    {
+      "title": "尹乃菁：蒋万安像马英九全盛时期样子",
+      "hot_value": 256466,
+      "link": "https://www.toutiao.com/trending/7669739970999664691",
+      "rank": 37
+    },
+    {
+      "title": "解放军火力打击高燃现场",
+      "hot_value": 232060,
+      "link": "https://www.toutiao.com/trending/7669356789112537131",
+      "rank": 38
+    },
+    {
+      "title": "樊振东恩师吴敬平将去德国探望他",
+      "hot_value": 209976,
+      "link": "https://www.toutiao.com/trending/7669423439639642148",
+      "rank": 39
+    },
+    {
+      "title": "美日联手干预汇市？学者解读",
+      "hot_value": 189994,
+      "link": "https://www.toutiao.com/trending/7670022908659371574",
+      "rank": 40
+    },
+    {
+      "title": "陈幸同晋级WTT横滨冠军赛女单16强",
+      "hot_value": 171914,
+      "link": "https://www.toutiao.com/trending/7669944661263843378",
+      "rank": 41
+    },
+    {
+      "title": "王楚钦将缺席两站WTT国际赛事",
+      "hot_value": 155554,
+      "link": "https://www.toutiao.com/trending/7668597278098473023",
+      "rank": 42
+    },
+    {
+      "title": "非洲拥抱中国机遇2.0",
+      "hot_value": 140751,
+      "link": "https://www.toutiao.com/trending/7669986741633158719",
+      "rank": 43
+    },
+    {
+      "title": "新能源车卷完电池开始卷充电时速了吗",
+      "hot_value": 127357,
+      "link": "https://www.toutiao.com/trending/7669998368529075718",
+      "rank": 44
+    },
+    {
+      "title": "7月20万吨铜运抵美国",
+      "hot_value": 115237,
+      "link": "https://www.toutiao.com/trending/7669322271853723690",
+      "rank": 45
+    },
+    {
+      "title": "为何说日本不敢断供光刻胶",
+      "hot_value": 104271,
+      "link": "https://www.toutiao.com/trending/7669991570125652014",
+      "rank": 46
+    },
+    {
+      "title": "评论员：A股调整或为蓄势",
+      "hot_value": 94348,
+      "link": "https://www.toutiao.com/trending/7670027721287667263",
+      "rank": 47
+    },
+    {
+      "title": "周杰伦广告女主角变身功夫女足撒娇精",
+      "hot_value": 85370,
+      "link": "https://www.toutiao.com/trending/7670005398845440042",
+      "rank": 48
+    },
+    {
+      "title": "电力公司回应短时外出要不要关空调",
+      "hot_value": 77246,
+      "link": "https://www.toutiao.com/trending/7669007609202622491",
+      "rank": 49
+    },
+    {
+      "title": "评论员：A股调整之后新高仍可期待",
+      "hot_value": 69895,
+      "link": "https://www.toutiao.com/trending/7670007616143101494",
+      "rank": 50
+    }
+  ]
+}
