@@ -1,0 +1,307 @@
+{
+  "platform": "toutiao",
+  "platform_name": "今日头条",
+  "time": "2026-08-04 08:57:31",
+  "items": [
+    {
+      "title": "媒体：中国不会任由谁在家门口撒野",
+      "hot_value": 13747626,
+      "link": "https://www.toutiao.com/trending/7669359819253612563",
+      "rank": 1
+    },
+    {
+      "title": "少年考取国防科大 高中校长送2万奖金",
+      "hot_value": 12439366,
+      "link": "https://www.toutiao.com/trending/7669084794336100394",
+      "rank": 2
+    },
+    {
+      "title": "全国海洋生产总值5.5万亿元",
+      "hot_value": 11255604,
+      "link": "https://www.toutiao.com/article/7669637685489467945",
+      "rank": 3
+    },
+    {
+      "title": "香港传奇影星葛兰去世",
+      "hot_value": 10184491,
+      "link": "https://www.toutiao.com/trending/7669806919556939814",
+      "rank": 4
+    },
+    {
+      "title": "男子两次恶意别车还醉驾逃逸拘10日",
+      "hot_value": 9215309,
+      "link": "https://www.toutiao.com/trending/7669414997931393033",
+      "rank": 5
+    },
+    {
+      "title": "母牛把小牛弄丢了被主人叨叨",
+      "hot_value": 8338356,
+      "link": "https://www.toutiao.com/trending/7668968375787880486",
+      "rank": 6
+    },
+    {
+      "title": "中央气象台回应我国天气预报准确率",
+      "hot_value": 7544857,
+      "link": "https://www.toutiao.com/trending/7668936680003125302",
+      "rank": 7
+    },
+    {
+      "title": "门店回应将已食用蒸蛋收回后2次上桌",
+      "hot_value": 6826869,
+      "link": "https://www.toutiao.com/trending/7669943116904042022",
+      "rank": 8
+    },
+    {
+      "title": "菲防长威胁“偏袒中国的官员应辞职”",
+      "hot_value": 6177206,
+      "link": "https://www.toutiao.com/trending/7669041079387258926",
+      "rank": 9
+    },
+    {
+      "title": "哈尔滨甜妹到哪儿不忘宣传家乡",
+      "hot_value": 5589367,
+      "link": "https://www.toutiao.com/trending/7669677470232182838",
+      "rank": 10
+    },
+    {
+      "title": "国博严正声明：从未授权馆外扫码",
+      "hot_value": 5057468,
+      "link": "https://www.toutiao.com/trending/7668872180515995691",
+      "rank": 11
+    },
+    {
+      "title": "婚外胚胎案患癌妻子已报案",
+      "hot_value": 4576187,
+      "link": "https://www.toutiao.com/trending/7669518703347846692",
+      "rank": 12
+    },
+    {
+      "title": "俄一海滩度假村遭袭已致6死",
+      "hot_value": 4140705,
+      "link": "https://www.toutiao.com/trending/7669750469991874586",
+      "rank": 13
+    },
+    {
+      "title": "残疾媳妇笑对生活 人美又能干",
+      "hot_value": 3746665,
+      "link": "https://www.toutiao.com/trending/7669643400911847474",
+      "rank": 14
+    },
+    {
+      "title": "美股三大指数集体收涨 纳指涨逾2%",
+      "hot_value": 3390122,
+      "link": "https://www.toutiao.com/trending/7669943981744066086",
+      "rank": 15
+    },
+    {
+      "title": "福建漳州全面核查抗生素牛蛙",
+      "hot_value": 3067509,
+      "link": "https://www.toutiao.com/trending/7669643929184144938",
+      "rank": 16
+    },
+    {
+      "title": "乌方称俄方战略上已陷入被动局面",
+      "hot_value": 2775597,
+      "link": "https://www.toutiao.com/trending/7669821439599447558",
+      "rank": 17
+    },
+    {
+      "title": "在台海周边频繁演习 美军在怕什么",
+      "hot_value": 2511464,
+      "link": "https://www.toutiao.com/trending/7669555084738363434",
+      "rank": 18
+    },
+    {
+      "title": "河北一法院执行局长骚扰索贿被停职",
+      "hot_value": 2272467,
+      "link": "https://www.toutiao.com/trending/7669967687212076598",
+      "rank": 19
+    },
+    {
+      "title": "055大驱加高超音速导弹有多强",
+      "hot_value": 2056213,
+      "link": "https://www.toutiao.com/trending/7669939120482815531",
+      "rank": 20
+    },
+    {
+      "title": "东风系列导弹罕见集中亮相",
+      "hot_value": 1860538,
+      "link": "https://www.toutiao.com/trending/7669064820716716082",
+      "rank": 21
+    },
+    {
+      "title": "演员孙浩：从翻红至今没有赚一分钱",
+      "hot_value": 1683485,
+      "link": "https://www.toutiao.com/trending/7669534587266990089",
+      "rank": 22
+    },
+    {
+      "title": "民警帮女研究生寻回存论文资料手机",
+      "hot_value": 1523280,
+      "link": "https://www.toutiao.com/trending/7669823410453790762",
+      "rank": 23
+    },
+    {
+      "title": "俄从南部攻入重镇多布罗皮利亚",
+      "hot_value": 1378321,
+      "link": "https://www.toutiao.com/trending/7669940294749523498",
+      "rank": 24
+    },
+    {
+      "title": "客串“侨领”的演员是真侨领",
+      "hot_value": 1247156,
+      "link": "https://www.toutiao.com/trending/7669421770105077823",
+      "rank": 25
+    },
+    {
+      "title": "各国武官排队打卡中餐美食",
+      "hot_value": 1128473,
+      "link": "https://www.toutiao.com/trending/7668896884770308132",
+      "rank": 26
+    },
+    {
+      "title": "终结七年魔咒 张帅横扫苦主普丁塞娃",
+      "hot_value": 1021085,
+      "link": "https://www.toutiao.com/trending/7669957241943887401",
+      "rank": 27
+    },
+    {
+      "title": "台积电熊本第一工厂恢复正常运行",
+      "hot_value": 923916,
+      "link": "https://www.toutiao.com/trending/7669609944978784319",
+      "rank": 28
+    },
+    {
+      "title": "周星驰让林子聪开号发视频",
+      "hot_value": 835993,
+      "link": "https://www.toutiao.com/trending/7669330084075143204",
+      "rank": 29
+    },
+    {
+      "title": "委内瑞拉石油出口量创五个月低点",
+      "hot_value": 756438,
+      "link": "https://www.toutiao.com/trending/7669063344065658931",
+      "rank": 30
+    },
+    {
+      "title": "张国伟回应“为什么当网红”",
+      "hot_value": 684453,
+      "link": "https://www.toutiao.com/trending/7669743777280000006",
+      "rank": 31
+    },
+    {
+      "title": "亚马逊完成对OpenAI的500亿美元注资",
+      "hot_value": 619319,
+      "link": "https://www.toutiao.com/trending/7669941010582998591",
+      "rank": 32
+    },
+    {
+      "title": "女子煮火锅突发爆炸全屋溅满红油",
+      "hot_value": 560383,
+      "link": "https://www.toutiao.com/trending/7669648027867316265",
+      "rank": 33
+    },
+    {
+      "title": "韩国股民有多疯狂",
+      "hot_value": 507055,
+      "link": "https://www.toutiao.com/trending/7669774692051324458",
+      "rank": 34
+    },
+    {
+      "title": "中央政法委：严厉打击村霸乡霸",
+      "hot_value": 458803,
+      "link": "https://www.toutiao.com/trending/7668842041186582569",
+      "rank": 35
+    },
+    {
+      "title": "连沈阳都出现35℃高温了",
+      "hot_value": 415142,
+      "link": "https://www.toutiao.com/trending/7669527239658356799",
+      "rank": 36
+    },
+    {
+      "title": "美国制裁洽洽瓜子思念水饺七匹狼男装",
+      "hot_value": 375636,
+      "link": "https://www.toutiao.com/trending/7668995465958051347",
+      "rank": 37
+    },
+    {
+      "title": "老铺黄金为何不被看好了",
+      "hot_value": 339889,
+      "link": "https://www.toutiao.com/trending/7669470423263871019",
+      "rank": 38
+    },
+    {
+      "title": "贵阳“半夜”马路上还大排长龙",
+      "hot_value": 307545,
+      "link": "https://www.toutiao.com/trending/7669721259705974811",
+      "rank": 39
+    },
+    {
+      "title": "李亚鹏昆明民宿开业",
+      "hot_value": 278278,
+      "link": "https://www.toutiao.com/trending/7669299851364368435",
+      "rank": 40
+    },
+    {
+      "title": "喝酒被送回家已死亡男子家属发声",
+      "hot_value": 251796,
+      "link": "https://www.toutiao.com/trending/7669708470895755302",
+      "rank": 41
+    },
+    {
+      "title": "DeepSeek模型单日吞下8万亿Token",
+      "hot_value": 227834,
+      "link": "https://www.toutiao.com/trending/7669679149316836902",
+      "rank": 42
+    },
+    {
+      "title": "男子抓泥地里的“黄鳝”被咬",
+      "hot_value": 206153,
+      "link": "https://www.toutiao.com/trending/7668941934124056585",
+      "rank": 43
+    },
+    {
+      "title": "青岛火车站好多人拖着铁桶扎啤返乡",
+      "hot_value": 186535,
+      "link": "https://www.toutiao.com/trending/7669683677127704619",
+      "rank": 44
+    },
+    {
+      "title": "2025年老年社会保障“成绩单”来了",
+      "hot_value": 168784,
+      "link": "https://www.toutiao.com/trending/7669548839036764214",
+      "rank": 45
+    },
+    {
+      "title": "空调24小时不关更省电吗",
+      "hot_value": 152722,
+      "link": "https://www.toutiao.com/trending/7668640492518883382",
+      "rank": 46
+    },
+    {
+      "title": "蓝盈莹：女性的力量不只有一种样子",
+      "hot_value": 138188,
+      "link": "https://www.toutiao.com/trending/7669453329542184966",
+      "rank": 47
+    },
+    {
+      "title": "华为半导体首席科学家大赞梁文锋",
+      "hot_value": 125038,
+      "link": "https://www.toutiao.com/trending/7669025220200546330",
+      "rank": 48
+    },
+    {
+      "title": "莫斯科餐厅爆炸案暗杀对象是谁",
+      "hot_value": 113139,
+      "link": "https://www.toutiao.com/trending/7669769576564919859",
+      "rank": 49
+    },
+    {
+      "title": "男子坐高铁进京运20万涉诈现金被抓",
+      "hot_value": 102372,
+      "link": "https://www.toutiao.com/trending/7669724901150605355",
+      "rank": 50
+    }
+  ]
+}
