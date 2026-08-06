@@ -1,0 +1,307 @@
+{
+  "platform": "toutiao",
+  "platform_name": "今日头条",
+  "time": "2026-08-06 19:41:58",
+  "items": [
+    {
+      "title": "日本自卫队3架反潜巡逻机在东海活动",
+      "hot_value": 8982990,
+      "link": "https://www.toutiao.com/trending/7670833787848101382",
+      "rank": 1
+    },
+    {
+      "title": "中国“五箭齐发”反制美国",
+      "hot_value": 8128146,
+      "link": "https://www.toutiao.com/trending/7670706969024184358",
+      "rank": 2
+    },
+    {
+      "title": "知识产权强国建设驶入“快车道”",
+      "hot_value": 7354650,
+      "link": "https://www.toutiao.com/article/7670726448923116086",
+      "rank": 3
+    },
+    {
+      "title": "女子利用漏洞0元薅走3000多件家电",
+      "hot_value": 6654763,
+      "link": "https://www.toutiao.com/trending/7670546861320732713",
+      "rank": 4
+    },
+    {
+      "title": "台风“白海豚”7日起影响上海",
+      "hot_value": 6021478,
+      "link": "https://www.toutiao.com/trending/7670849600051220009",
+      "rank": 5
+    },
+    {
+      "title": "李亚鹏向地铁吐血女孩捐99999元",
+      "hot_value": 5448459,
+      "link": "https://www.toutiao.com/trending/7670496020695859238",
+      "rank": 6
+    },
+    {
+      "title": "伊朗总统：最高领袖决策过程遭人利用",
+      "hot_value": 4929969,
+      "link": "https://www.toutiao.com/trending/7670008339098750483",
+      "rank": 7
+    },
+    {
+      "title": "养老院即将关停 80岁老太无人接手",
+      "hot_value": 4460821,
+      "link": "https://www.toutiao.com/trending/7670349570833367082",
+      "rank": 8
+    },
+    {
+      "title": "父母为陪女儿在大学食堂承包档口2年",
+      "hot_value": 4036318,
+      "link": "https://www.toutiao.com/trending/7670822610300567588",
+      "rank": 9
+    },
+    {
+      "title": "90后女子自然受孕怀上四胞胎",
+      "hot_value": 3652211,
+      "link": "https://www.toutiao.com/trending/7670515295626428467",
+      "rank": 10
+    },
+    {
+      "title": "“深圳地面沉降致车辆损坏”不实",
+      "hot_value": 3304657,
+      "link": "https://www.toutiao.com/trending/7670854015919509042",
+      "rank": 11
+    },
+    {
+      "title": "女子从行驶货车上跳下 警方介入",
+      "hot_value": 2990177,
+      "link": "https://www.toutiao.com/trending/7670828645746245695",
+      "rank": 12
+    },
+    {
+      "title": "村民2千万拆迁款被分掉8年后才知晓",
+      "hot_value": 2705624,
+      "link": "https://www.toutiao.com/trending/7670830148002234394",
+      "rank": 13
+    },
+    {
+      "title": "民警发现救助的拾荒老人是逃犯",
+      "hot_value": 2448150,
+      "link": "https://www.toutiao.com/trending/7670803263299338281",
+      "rank": 14
+    },
+    {
+      "title": "80后女柜员逆袭成4200亿银行副行长",
+      "hot_value": 2215178,
+      "link": "https://www.toutiao.com/trending/7670734565728272447",
+      "rank": 15
+    },
+    {
+      "title": "银行午休1.5小时 留个窗口行不行",
+      "hot_value": 2004376,
+      "link": "https://www.toutiao.com/trending/7670365802210131978",
+      "rank": 16
+    },
+    {
+      "title": "泰国一女公务员妆容引争议 本人回应",
+      "hot_value": 1813634,
+      "link": "https://www.toutiao.com/trending/7670782358530342939",
+      "rank": 17
+    },
+    {
+      "title": "台风逼近东海 养殖户抢收成熟青蟹",
+      "hot_value": 1641044,
+      "link": "https://www.toutiao.com/trending/7670845551441625129",
+      "rank": 18
+    },
+    {
+      "title": "常吃鸭蛋有哪些好处",
+      "hot_value": 1484878,
+      "link": "https://www.toutiao.com/trending/7670696026604322858",
+      "rank": 19
+    },
+    {
+      "title": "申聪回应梅姨真名：正义永不缺席",
+      "hot_value": 1343573,
+      "link": "https://www.toutiao.com/trending/7670748880237104690",
+      "rank": 20
+    },
+    {
+      "title": "中央气象台发布台风黄色预警",
+      "hot_value": 1215715,
+      "link": "https://www.toutiao.com/trending/7670860118707146294",
+      "rank": 21
+    },
+    {
+      "title": "下半年首个“10连板”释放什么信号",
+      "hot_value": 1100024,
+      "link": "https://www.toutiao.com/trending/7670050700743000107",
+      "rank": 22
+    },
+    {
+      "title": "俄无人机厂负责人遭暗杀说明什么",
+      "hot_value": 995343,
+      "link": "https://www.toutiao.com/trending/7670846452062490155",
+      "rank": 23
+    },
+    {
+      "title": "日本：冲绳等地或出现狂风暴雨",
+      "hot_value": 900624,
+      "link": "https://www.toutiao.com/trending/7670158318849622062",
+      "rank": 24
+    },
+    {
+      "title": "24小时不关空调 电费会更低吗",
+      "hot_value": 814918,
+      "link": "https://www.toutiao.com/trending/7670134203891728410",
+      "rank": 25
+    },
+    {
+      "title": "泽连斯基：盟友援乌导弹拦截器大降",
+      "hot_value": 737368,
+      "link": "https://www.toutiao.com/trending/7670438060685410345",
+      "rank": 26
+    },
+    {
+      "title": "媒体：“领导先休假”是个必要的开始",
+      "hot_value": 667198,
+      "link": "https://www.toutiao.com/trending/7670698477164396570",
+      "rank": 27
+    },
+    {
+      "title": "价格在坐过山车 谁在坚持买黄金",
+      "hot_value": 603706,
+      "link": "https://www.toutiao.com/trending/7670819025380163593",
+      "rank": 28
+    },
+    {
+      "title": "律师称“梅姨”若满75岁或不适用死刑",
+      "hot_value": 546256,
+      "link": "https://www.toutiao.com/trending/7670690502052167723",
+      "rank": 29
+    },
+    {
+      "title": "村民见眼镜王蛇茶地筑窝报警求助",
+      "hot_value": 494273,
+      "link": "https://www.toutiao.com/trending/7670698699731337270",
+      "rank": 30
+    },
+    {
+      "title": "小伙突然抽搐倒地 医院3人跳窗救人",
+      "hot_value": 447236,
+      "link": "https://www.toutiao.com/trending/7670535714903228479",
+      "rank": 31
+    },
+    {
+      "title": "沙利文为何改口称滥用制裁正掏空美国",
+      "hot_value": 404676,
+      "link": "https://www.toutiao.com/trending/7670862236541259318",
+      "rank": 32
+    },
+    {
+      "title": "浙江舟山21条水上客运航线停航",
+      "hot_value": 366166,
+      "link": "https://www.toutiao.com/trending/7670469547938086975",
+      "rank": 33
+    },
+    {
+      "title": "今年已有4位周星驰电影配角去世",
+      "hot_value": 331321,
+      "link": "https://www.toutiao.com/trending/7670849799788281919",
+      "rank": 34
+    },
+    {
+      "title": "江钨装备：无注入矿山资产安排",
+      "hot_value": 299791,
+      "link": "https://www.toutiao.com/trending/7670489601068482596",
+      "rank": 35
+    },
+    {
+      "title": "“印度制造”为何还没成功",
+      "hot_value": 271262,
+      "link": "https://www.toutiao.com/trending/7670835379464850998",
+      "rank": 36
+    },
+    {
+      "title": "名嘴谈南部战区黄岩岛海域演训",
+      "hot_value": 245448,
+      "link": "https://www.toutiao.com/trending/7670377864344338438",
+      "rank": 37
+    },
+    {
+      "title": "宇树科技能复刻长鑫的造富神话吗",
+      "hot_value": 222091,
+      "link": "https://www.toutiao.com/trending/7670828220937145919",
+      "rank": 38
+    },
+    {
+      "title": "日《防卫白皮书》涉解放军数据靠谱吗",
+      "hot_value": 200956,
+      "link": "https://www.toutiao.com/trending/7670846002441489963",
+      "rank": 39
+    },
+    {
+      "title": "弱日元之下中国资本能否抄底日本公司",
+      "hot_value": 181832,
+      "link": "https://www.toutiao.com/trending/7670791935287627274",
+      "rank": 40
+    },
+    {
+      "title": "老人一个月瘦十斤查出肠道有三条虫",
+      "hot_value": 164529,
+      "link": "https://www.toutiao.com/trending/7670718432312148009",
+      "rank": 41
+    },
+    {
+      "title": "外交部：中国一贯奉行防御性国防政策",
+      "hot_value": 148872,
+      "link": "https://www.toutiao.com/trending/7670869076971929663",
+      "rank": 42
+    },
+    {
+      "title": "桥梁被山洪冲垮 居民雇吊车运车",
+      "hot_value": 134705,
+      "link": "https://www.toutiao.com/trending/7670531396545380395",
+      "rank": 43
+    },
+    {
+      "title": "俄导弹释放子母弹头摧毁基辅物流仓库",
+      "hot_value": 121886,
+      "link": "https://www.toutiao.com/trending/7670665235145179145",
+      "rank": 44
+    },
+    {
+      "title": "中国军舰发现跟踪的美无人艇了吗",
+      "hot_value": 110287,
+      "link": "https://www.toutiao.com/trending/7670503536181906987",
+      "rank": 45
+    },
+    {
+      "title": "日本熊本地震后半导体供应链恢复如何",
+      "hot_value": 99792,
+      "link": "https://www.toutiao.com/trending/7670479119376715315",
+      "rank": 46
+    },
+    {
+      "title": "地铁吐血女孩称很多治疗药物没法用",
+      "hot_value": 90295,
+      "link": "https://www.toutiao.com/trending/7670704464912433188",
+      "rank": 47
+    },
+    {
+      "title": "台军上演“丢盔弃甲现代版”",
+      "hot_value": 81702,
+      "link": "https://www.toutiao.com/trending/7670826063353613833",
+      "rank": 48
+    },
+    {
+      "title": "邵永灵：俄军终于打了场漂亮的反击",
+      "hot_value": 73927,
+      "link": "https://www.toutiao.com/trending/7670793901568953892",
+      "rank": 49
+    },
+    {
+      "title": "评论员：日本才是威胁制造者",
+      "hot_value": 66892,
+      "link": "https://www.toutiao.com/trending/7670839551820041769",
+      "rank": 50
+    }
+  ]
+}
