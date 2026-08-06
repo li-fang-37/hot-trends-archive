@@ -1,0 +1,307 @@
+{
+  "platform": "weibo",
+  "platform_name": "微博热搜",
+  "time": "2026-08-06 17:23:11",
+  "items": [
+    {
+      "title": "女子用漏洞0元买了3千台电器",
+      "hot_value": 1473009,
+      "link": "https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%90%E7%94%A8%E6%BC%8F%E6%B4%9E0%E5%85%83%E4%B9%B0%E4%BA%863%E5%8D%83%E5%8F%B0%E7%94%B5%E5%99%A8",
+      "rank": 1
+    },
+    {
+      "title": "工作其实是很养人的",
+      "hot_value": 997513,
+      "link": "https://s.weibo.com/weibo?q=%E5%B7%A5%E4%BD%9C%E5%85%B6%E5%AE%9E%E6%98%AF%E5%BE%88%E5%85%BB%E4%BA%BA%E7%9A%84",
+      "rank": 2
+    },
+    {
+      "title": "6图看我国海洋经济稳步增长",
+      "hot_value": 896248,
+      "link": "https://s.weibo.com/weibo?q=6%E5%9B%BE%E7%9C%8B%E6%88%91%E5%9B%BD%E6%B5%B7%E6%B4%8B%E7%BB%8F%E6%B5%8E%E7%A8%B3%E6%AD%A5%E5%A2%9E%E9%95%BF",
+      "rank": 3
+    },
+    {
+      "title": "双休",
+      "hot_value": 830449,
+      "link": "https://s.weibo.com/weibo?q=%E5%8F%8C%E4%BC%91",
+      "rank": 4
+    },
+    {
+      "title": "上海 床虱",
+      "hot_value": 729192,
+      "link": "https://s.weibo.com/weibo?q=%E4%B8%8A%E6%B5%B7%20%E5%BA%8A%E8%99%B1",
+      "rank": 5
+    },
+    {
+      "title": "金鹰奖",
+      "hot_value": 667227,
+      "link": "https://s.weibo.com/weibo?q=%E9%87%91%E9%B9%B0%E5%A5%96",
+      "rank": 6
+    },
+    {
+      "title": "王腾回应吐槽小米汽车",
+      "hot_value": 502700,
+      "link": "https://s.weibo.com/weibo?q=%E7%8E%8B%E8%85%BE%E5%9B%9E%E5%BA%94%E5%90%90%E6%A7%BD%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6",
+      "rank": 7
+    },
+    {
+      "title": "苏泊尔 擦边",
+      "hot_value": 500961,
+      "link": "https://s.weibo.com/weibo?q=%E8%8B%8F%E6%B3%8A%E5%B0%94%20%E6%93%A6%E8%BE%B9",
+      "rank": 8
+    },
+    {
+      "title": "披荆斩棘的哥哥阵容前瞻",
+      "hot_value": 498299,
+      "link": "https://s.weibo.com/weibo?q=%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E7%9A%84%E5%93%A5%E5%93%A5%E9%98%B5%E5%AE%B9%E5%89%8D%E7%9E%BB",
+      "rank": 9
+    },
+    {
+      "title": "阿根廷世界杯决赛前3人受伤",
+      "hot_value": 492607,
+      "link": "https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%B3%E8%B5%9B%E5%89%8D3%E4%BA%BA%E5%8F%97%E4%BC%A4",
+      "rank": 10
+    },
+    {
+      "title": "田曦薇 有刘海儿漂亮没刘海儿也漂亮",
+      "hot_value": 488373,
+      "link": "https://s.weibo.com/weibo?q=%E7%94%B0%E6%9B%A6%E8%96%87%20%E6%9C%89%E5%88%98%E6%B5%B7%E5%84%BF%E6%BC%82%E4%BA%AE%E6%B2%A1%E5%88%98%E6%B5%B7%E5%84%BF%E4%B9%9F%E6%BC%82%E4%BA%AE",
+      "rank": 11
+    },
+    {
+      "title": "千山茶客 来日有信",
+      "hot_value": 487247,
+      "link": "https://s.weibo.com/weibo?q=%E5%8D%83%E5%B1%B1%E8%8C%B6%E5%AE%A2%20%E6%9D%A5%E6%97%A5%E6%9C%89%E4%BF%A1",
+      "rank": 12
+    },
+    {
+      "title": "张韶涵发文悼念化妆师",
+      "hot_value": 476571,
+      "link": "https://s.weibo.com/weibo?q=%E5%BC%A0%E9%9F%B6%E6%B6%B5%E5%8F%91%E6%96%87%E6%82%BC%E5%BF%B5%E5%8C%96%E5%A6%86%E5%B8%88",
+      "rank": 13
+    },
+    {
+      "title": "儿子举报身价上亿父亲说家已破碎",
+      "hot_value": 466351,
+      "link": "https://s.weibo.com/weibo?q=%E5%84%BF%E5%AD%90%E4%B8%BE%E6%8A%A5%E8%BA%AB%E4%BB%B7%E4%B8%8A%E4%BA%BF%E7%88%B6%E4%BA%B2%E8%AF%B4%E5%AE%B6%E5%B7%B2%E7%A0%B4%E7%A2%8E",
+      "rank": 14
+    },
+    {
+      "title": "酸萝卜老鸭汤",
+      "hot_value": 445478,
+      "link": "https://s.weibo.com/weibo?q=%E9%85%B8%E8%90%9D%E5%8D%9C%E8%80%81%E9%B8%AD%E6%B1%A4",
+      "rank": 15
+    },
+    {
+      "title": "南大数院院长 辞职信",
+      "hot_value": 420186,
+      "link": "https://s.weibo.com/weibo?q=%E5%8D%97%E5%A4%A7%E6%95%B0%E9%99%A2%E9%99%A2%E9%95%BF%20%E8%BE%9E%E8%81%8C%E4%BF%A1",
+      "rank": 16
+    },
+    {
+      "title": "田曦薇连续16部铁刘海剧",
+      "hot_value": 409066,
+      "link": "https://s.weibo.com/weibo?q=%E7%94%B0%E6%9B%A6%E8%96%87%E8%BF%9E%E7%BB%AD16%E9%83%A8%E9%93%81%E5%88%98%E6%B5%B7%E5%89%A7",
+      "rank": 17
+    },
+    {
+      "title": "曝侯明昊违反交规被约谈",
+      "hot_value": 362481,
+      "link": "https://s.weibo.com/weibo?q=%E6%9B%9D%E4%BE%AF%E6%98%8E%E6%98%8A%E8%BF%9D%E5%8F%8D%E4%BA%A4%E8%A7%84%E8%A2%AB%E7%BA%A6%E8%B0%88",
+      "rank": 18
+    },
+    {
+      "title": "小米徐洁云回应孩go言论",
+      "hot_value": 361618,
+      "link": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E5%BE%90%E6%B4%81%E4%BA%91%E5%9B%9E%E5%BA%94%E5%AD%A9go%E8%A8%80%E8%AE%BA",
+      "rank": 19
+    },
+    {
+      "title": "为什么理性的长期主义者更喜欢租",
+      "hot_value": 357388,
+      "link": "https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%90%86%E6%80%A7%E7%9A%84%E9%95%BF%E6%9C%9F%E4%B8%BB%E4%B9%89%E8%80%85%E6%9B%B4%E5%96%9C%E6%AC%A2%E7%A7%9F",
+      "rank": 20
+    },
+    {
+      "title": "患癌妻子质问到底销毁几个胚胎",
+      "hot_value": 351714,
+      "link": "https://s.weibo.com/weibo?q=%E6%82%A3%E7%99%8C%E5%A6%BB%E5%AD%90%E8%B4%A8%E9%97%AE%E5%88%B0%E5%BA%95%E9%94%80%E6%AF%81%E5%87%A0%E4%B8%AA%E8%83%9A%E8%83%8E",
+      "rank": 21
+    },
+    {
+      "title": "周也疑似分手",
+      "hot_value": 348904,
+      "link": "https://s.weibo.com/weibo?q=%E5%91%A8%E4%B9%9F%E7%96%91%E4%BC%BC%E5%88%86%E6%89%8B",
+      "rank": 22
+    },
+    {
+      "title": "关之琳模特新男友才27岁",
+      "hot_value": 345809,
+      "link": "https://s.weibo.com/weibo?q=%E5%85%B3%E4%B9%8B%E7%90%B3%E6%A8%A1%E7%89%B9%E6%96%B0%E7%94%B7%E5%8F%8B%E6%89%8D27%E5%B2%81",
+      "rank": 23
+    },
+    {
+      "title": "弟弟落水妈妈哥哥下水救人不幸溺亡",
+      "hot_value": 342450,
+      "link": "https://s.weibo.com/weibo?q=%E5%BC%9F%E5%BC%9F%E8%90%BD%E6%B0%B4%E5%A6%88%E5%A6%88%E5%93%A5%E5%93%A5%E4%B8%8B%E6%B0%B4%E6%95%91%E4%BA%BA%E4%B8%8D%E5%B9%B8%E6%BA%BA%E4%BA%A1",
+      "rank": 24
+    },
+    {
+      "title": "侯卓成曾和杨汝晴提过分手",
+      "hot_value": 340399,
+      "link": "https://s.weibo.com/weibo?q=%E4%BE%AF%E5%8D%93%E6%88%90%E6%9B%BE%E5%92%8C%E6%9D%A8%E6%B1%9D%E6%99%B4%E6%8F%90%E8%BF%87%E5%88%86%E6%89%8B",
+      "rank": 25
+    },
+    {
+      "title": "陈伟霆看见开始上水果天塌了",
+      "hot_value": 337083,
+      "link": "https://s.weibo.com/weibo?q=%E9%99%88%E4%BC%9F%E9%9C%86%E7%9C%8B%E8%A7%81%E5%BC%80%E5%A7%8B%E4%B8%8A%E6%B0%B4%E6%9E%9C%E5%A4%A9%E5%A1%8C%E4%BA%86",
+      "rank": 26
+    },
+    {
+      "title": "无限暖暖",
+      "hot_value": 336446,
+      "link": "https://s.weibo.com/weibo?q=%E6%97%A0%E9%99%90%E6%9A%96%E6%9A%96",
+      "rank": 27
+    },
+    {
+      "title": "白鹿回应开到荼蘼剧本",
+      "hot_value": 331037,
+      "link": "https://s.weibo.com/weibo?q=%E7%99%BD%E9%B9%BF%E5%9B%9E%E5%BA%94%E5%BC%80%E5%88%B0%E8%8D%BC%E8%98%BC%E5%89%A7%E6%9C%AC",
+      "rank": 28
+    },
+    {
+      "title": "韩国到底有多热",
+      "hot_value": 329147,
+      "link": "https://s.weibo.com/weibo?q=%E9%9F%A9%E5%9B%BD%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E7%83%AD",
+      "rank": 29
+    },
+    {
+      "title": "时代少年团喊你来疯四",
+      "hot_value": 327400,
+      "link": "https://s.weibo.com/weibo?q=%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E5%96%8A%E4%BD%A0%E6%9D%A5%E7%96%AF%E5%9B%9B",
+      "rank": 30
+    },
+    {
+      "title": "侯卓成前女友",
+      "hot_value": 323245,
+      "link": "https://s.weibo.com/weibo?q=%E4%BE%AF%E5%8D%93%E6%88%90%E5%89%8D%E5%A5%B3%E5%8F%8B",
+      "rank": 31
+    },
+    {
+      "title": "白海豚将打破山竹纪录",
+      "hot_value": 321475,
+      "link": "https://s.weibo.com/weibo?q=%E7%99%BD%E6%B5%B7%E8%B1%9A%E5%B0%86%E6%89%93%E7%A0%B4%E5%B1%B1%E7%AB%B9%E7%BA%AA%E5%BD%95",
+      "rank": 32
+    },
+    {
+      "title": "张雅琪的性格",
+      "hot_value": 316344,
+      "link": "https://s.weibo.com/weibo?q=%E5%BC%A0%E9%9B%85%E7%90%AA%E7%9A%84%E6%80%A7%E6%A0%BC",
+      "rank": 33
+    },
+    {
+      "title": "呵呵力挺白鹿",
+      "hot_value": 311865,
+      "link": "https://s.weibo.com/weibo?q=%E5%91%B5%E5%91%B5%E5%8A%9B%E6%8C%BA%E7%99%BD%E9%B9%BF",
+      "rank": 34
+    },
+    {
+      "title": "儿子举报父亲伪造证件为私生子落户",
+      "hot_value": 306872,
+      "link": "https://s.weibo.com/weibo?q=%E5%84%BF%E5%AD%90%E4%B8%BE%E6%8A%A5%E7%88%B6%E4%BA%B2%E4%BC%AA%E9%80%A0%E8%AF%81%E4%BB%B6%E4%B8%BA%E7%A7%81%E7%94%9F%E5%AD%90%E8%90%BD%E6%88%B7",
+      "rank": 35
+    },
+    {
+      "title": "戚薇真的把自己做成AI了",
+      "hot_value": 306820,
+      "link": "https://s.weibo.com/weibo?q=%E6%88%9A%E8%96%87%E7%9C%9F%E7%9A%84%E6%8A%8A%E8%87%AA%E5%B7%B1%E5%81%9A%E6%88%90AI%E4%BA%86",
+      "rank": 36
+    },
+    {
+      "title": "金鹰奖下午公布提名名单",
+      "hot_value": 270816,
+      "link": "https://s.weibo.com/weibo?q=%E9%87%91%E9%B9%B0%E5%A5%96%E4%B8%8B%E5%8D%88%E5%85%AC%E5%B8%83%E6%8F%90%E5%90%8D%E5%90%8D%E5%8D%95",
+      "rank": 37
+    },
+    {
+      "title": "妈妈偷改女儿高考志愿",
+      "hot_value": 246762,
+      "link": "https://s.weibo.com/weibo?q=%E5%A6%88%E5%A6%88%E5%81%B7%E6%94%B9%E5%A5%B3%E5%84%BF%E9%AB%98%E8%80%83%E5%BF%97%E6%84%BF",
+      "rank": 38
+    },
+    {
+      "title": "曾舜晞戴瘦脸绷带",
+      "hot_value": 241464,
+      "link": "https://s.weibo.com/weibo?q=%E6%9B%BE%E8%88%9C%E6%99%9E%E6%88%B4%E7%98%A6%E8%84%B8%E7%BB%B7%E5%B8%A6",
+      "rank": 39
+    },
+    {
+      "title": "老图更新 DeepSeek加入战场",
+      "hot_value": 236458,
+      "link": "https://s.weibo.com/weibo?q=%E8%80%81%E5%9B%BE%E6%9B%B4%E6%96%B0%20DeepSeek%E5%8A%A0%E5%85%A5%E6%88%98%E5%9C%BA",
+      "rank": 40
+    },
+    {
+      "title": "大白兔奶糖的包装纸火了",
+      "hot_value": 233153,
+      "link": "https://s.weibo.com/weibo?q=%E5%A4%A7%E7%99%BD%E5%85%94%E5%A5%B6%E7%B3%96%E7%9A%84%E5%8C%85%E8%A3%85%E7%BA%B8%E7%81%AB%E4%BA%86",
+      "rank": 41
+    },
+    {
+      "title": "梅姨反侦察能力极强再晚都不住酒店",
+      "hot_value": 228724,
+      "link": "https://s.weibo.com/weibo?q=%E6%A2%85%E5%A7%A8%E5%8F%8D%E4%BE%A6%E5%AF%9F%E8%83%BD%E5%8A%9B%E6%9E%81%E5%BC%BA%E5%86%8D%E6%99%9A%E9%83%BD%E4%B8%8D%E4%BD%8F%E9%85%92%E5%BA%97",
+      "rank": 42
+    },
+    {
+      "title": "王俊凯王源易烊千玺未公开合照",
+      "hot_value": 222831,
+      "link": "https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%E7%8E%8B%E6%BA%90%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E6%9C%AA%E5%85%AC%E5%BC%80%E5%90%88%E7%85%A7",
+      "rank": 43
+    },
+    {
+      "title": "传销犯 国学大师",
+      "hot_value": 221208,
+      "link": "https://s.weibo.com/weibo?q=%E4%BC%A0%E9%94%80%E7%8A%AF%20%E5%9B%BD%E5%AD%A6%E5%A4%A7%E5%B8%88",
+      "rank": 44
+    },
+    {
+      "title": "内娱进化到床戏都有路透了",
+      "hot_value": 178851,
+      "link": "https://s.weibo.com/weibo?q=%E5%86%85%E5%A8%B1%E8%BF%9B%E5%8C%96%E5%88%B0%E5%BA%8A%E6%88%8F%E9%83%BD%E6%9C%89%E8%B7%AF%E9%80%8F%E4%BA%86",
+      "rank": 45
+    },
+    {
+      "title": "刺棠 郭虎",
+      "hot_value": 178746,
+      "link": "https://s.weibo.com/weibo?q=%E5%88%BA%E6%A3%A0%20%E9%83%AD%E8%99%8E",
+      "rank": 46
+    },
+    {
+      "title": "今年的秋奶我0点就要喝",
+      "hot_value": 173675,
+      "link": "https://s.weibo.com/weibo?q=%E4%BB%8A%E5%B9%B4%E7%9A%84%E7%A7%8B%E5%A5%B6%E6%88%910%E7%82%B9%E5%B0%B1%E8%A6%81%E5%96%9D",
+      "rank": 47
+    },
+    {
+      "title": "曝维尼修斯给姆巴佩情侣牵线",
+      "hot_value": 172713,
+      "link": "https://s.weibo.com/weibo?q=%E6%9B%9D%E7%BB%B4%E5%B0%BC%E4%BF%AE%E6%96%AF%E7%BB%99%E5%A7%86%E5%B7%B4%E4%BD%A9%E6%83%85%E4%BE%A3%E7%89%B5%E7%BA%BF",
+      "rank": 48
+    },
+    {
+      "title": "可以抄底黄金了吗",
+      "hot_value": 168810,
+      "link": "https://s.weibo.com/weibo?q=%E5%8F%AF%E4%BB%A5%E6%8A%84%E5%BA%95%E9%BB%84%E9%87%91%E4%BA%86%E5%90%97",
+      "rank": 49
+    },
+    {
+      "title": "周五下午弹性离岗",
+      "hot_value": 166682,
+      "link": "https://s.weibo.com/weibo?q=%E5%91%A8%E4%BA%94%E4%B8%8B%E5%8D%88%E5%BC%B9%E6%80%A7%E7%A6%BB%E5%B2%97",
+      "rank": 50
+    }
+  ]
+}
