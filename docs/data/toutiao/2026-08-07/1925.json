@@ -1,0 +1,307 @@
+{
+  "platform": "toutiao",
+  "platform_name": "今日头条",
+  "time": "2026-08-07 19:25:20",
+  "items": [
+    {
+      "title": "北京暴雨",
+      "hot_value": 13577690,
+      "link": "https://www.toutiao.com/trending/7670777290070507583",
+      "rank": 1
+    },
+    {
+      "title": "泉州市委书记张毅恭被查",
+      "hot_value": 12285602,
+      "link": "https://www.toutiao.com/trending/7671237921617219108",
+      "rank": 2
+    },
+    {
+      "title": "我国货物贸易进出口超30万亿元",
+      "hot_value": 11116472,
+      "link": "https://www.toutiao.com/trending/7671186471851789874",
+      "rank": 3
+    },
+    {
+      "title": "河南三支一扶笔试将重考",
+      "hot_value": 10058600,
+      "link": "https://www.toutiao.com/trending/7670910281817227300",
+      "rank": 4
+    },
+    {
+      "title": "《新闻联播》正在直播",
+      "hot_value": 9101398,
+      "link": "https://webcast-open.douyin.com/open/media_live/330698468897",
+      "rank": 5
+    },
+    {
+      "title": "女儿卖房定价9000被母亲7500签约",
+      "hot_value": 8235285,
+      "link": "https://www.toutiao.com/trending/7671197679598501942",
+      "rank": 6
+    },
+    {
+      "title": "日本医院开颅手术错将健康部位切除",
+      "hot_value": 7451594,
+      "link": "https://www.toutiao.com/trending/7671194655917473838",
+      "rank": 7
+    },
+    {
+      "title": "孙宇晨回应在富豪榜上超王健林",
+      "hot_value": 6742481,
+      "link": "https://www.toutiao.com/trending/7670789431783800895",
+      "rank": 8
+    },
+    {
+      "title": "《九门》证明了真人演员的不可替代吗",
+      "hot_value": 6100849,
+      "link": "https://www.toutiao.com/trending/7670912531212517382",
+      "rank": 9
+    },
+    {
+      "title": "从731部队交易到海外实验室网络",
+      "hot_value": 5520277,
+      "link": "https://www.toutiao.com/trending/7671098096596025385",
+      "rank": 10
+    },
+    {
+      "title": "“新疆阿勒泰八月能滑雪”不实",
+      "hot_value": 4994953,
+      "link": "https://www.toutiao.com/trending/7670555247555035178",
+      "rank": 11
+    },
+    {
+      "title": "北京辟谣｜汛期受污染食品坚决不能食用",
+      "hot_value": 4519620,
+      "link": "https://www.toutiao.com/trending/7671220976402779699",
+      "rank": 12
+    },
+    {
+      "title": "46岁的殷桃看着像20岁",
+      "hot_value": 4089521,
+      "link": "https://www.toutiao.com/trending/7670098494267342890",
+      "rank": 13
+    },
+    {
+      "title": "被误会的节气：立秋到底是个啥",
+      "hot_value": 3700352,
+      "link": "https://www.toutiao.com/trending/7671213007820557850",
+      "rank": 14
+    },
+    {
+      "title": "23岁博士确诊胃癌晚期",
+      "hot_value": 3348217,
+      "link": "https://www.toutiao.com/trending/7671006022714081334",
+      "rank": 15
+    },
+    {
+      "title": "四川宜宾地震网友称睡觉被摇醒",
+      "hot_value": 3029592,
+      "link": "https://www.toutiao.com/trending/7671132302990262291",
+      "rank": 16
+    },
+    {
+      "title": "今年是闭眼秋",
+      "hot_value": 2741288,
+      "link": "https://www.toutiao.com/trending/7670017499157266475",
+      "rank": 17
+    },
+    {
+      "title": "国防部：坚决反制任何闹海挑衅图谋",
+      "hot_value": 2480420,
+      "link": "https://www.toutiao.com/trending/7671185536593805375",
+      "rank": 18
+    },
+    {
+      "title": "游客在沙滩游玩遇剧组拍摄被要求离开",
+      "hot_value": 2244377,
+      "link": "https://www.toutiao.com/trending/7671192782574829587",
+      "rank": 19
+    },
+    {
+      "title": "今日立秋你咬秋了吗",
+      "hot_value": 2030796,
+      "link": "https://www.toutiao.com/trending/7670927462168428570",
+      "rank": 20
+    },
+    {
+      "title": "菲律宾频繁在南海挑衅中方意欲何为",
+      "hot_value": 1837540,
+      "link": "https://www.toutiao.com/trending/7671208410267782719",
+      "rank": 21
+    },
+    {
+      "title": "河南三支一扶考试存规模性组织作弊",
+      "hot_value": 1662675,
+      "link": "https://www.toutiao.com/trending/7671204001785843241",
+      "rank": 22
+    },
+    {
+      "title": "越来越多高分考生放弃985选警校",
+      "hot_value": 1504451,
+      "link": "https://www.toutiao.com/trending/7670392664409899058",
+      "rank": 23
+    },
+    {
+      "title": "东北立秋迎降温暴击有人穿羽绒服",
+      "hot_value": 1361283,
+      "link": "https://www.toutiao.com/trending/7670851398259146802",
+      "rank": 24
+    },
+    {
+      "title": "两名乘客在飞机上因调节座椅起冲突",
+      "hot_value": 1231740,
+      "link": "https://www.toutiao.com/trending/7670335388749168646",
+      "rank": 25
+    },
+    {
+      "title": "伊朗发视频隐喻美国国运衰落原因",
+      "hot_value": 1114524,
+      "link": "https://www.toutiao.com/trending/7671188288800899082",
+      "rank": 26
+    },
+    {
+      "title": "陈幸同晋级WTT横滨冠军赛8强",
+      "hot_value": 1008463,
+      "link": "https://www.toutiao.com/trending/7670779706326040595",
+      "rank": 27
+    },
+    {
+      "title": "台风白海豚或吞并鲸鱼 登陆地点更新",
+      "hot_value": 912495,
+      "link": "https://www.toutiao.com/trending/7670771193105743923",
+      "rank": 28
+    },
+    {
+      "title": "宫鲁鸣：减重后的张子宇提高跑动速度",
+      "hot_value": 825660,
+      "link": "https://www.toutiao.com/trending/7670498372188405814",
+      "rank": 29
+    },
+    {
+      "title": "网红峰哥8月份三天“回血”46万",
+      "hot_value": 747088,
+      "link": "https://www.toutiao.com/trending/7670284781363707967",
+      "rank": 30
+    },
+    {
+      "title": "台风白海豚中心风力增强",
+      "hot_value": 675993,
+      "link": "https://www.toutiao.com/trending/7671231818850373161",
+      "rank": 31
+    },
+    {
+      "title": "国航原党委书记樊澄否认大多数指控",
+      "hot_value": 611664,
+      "link": "https://www.toutiao.com/trending/7671212446723981348",
+      "rank": 32
+    },
+    {
+      "title": "谁是宇树科技背后赢家",
+      "hot_value": 553456,
+      "link": "https://www.toutiao.com/trending/7671113266424368678",
+      "rank": 33
+    },
+    {
+      "title": "辽宁本溪为何火了",
+      "hot_value": 500788,
+      "link": "https://www.toutiao.com/trending/7671167121046732846",
+      "rank": 34
+    },
+    {
+      "title": "评论员：乌朝两国事实上处于敌对状态",
+      "hot_value": 453131,
+      "link": "https://www.toutiao.com/trending/7670101316647092287",
+      "rank": 35
+    },
+    {
+      "title": "谁还在信“秋天第一杯奶茶”的营销",
+      "hot_value": 410010,
+      "link": "https://www.toutiao.com/trending/7671196820676021810",
+      "rank": 36
+    },
+    {
+      "title": "乌公布对俄作战外籍军人规模",
+      "hot_value": 370993,
+      "link": "https://www.toutiao.com/trending/7670083003179352083",
+      "rank": 37
+    },
+    {
+      "title": "对话捐赠日军侵华铁证遭威胁少年",
+      "hot_value": 335688,
+      "link": "https://www.toutiao.com/trending/7670083390251057162",
+      "rank": 38
+    },
+    {
+      "title": "河南商超爆火密码是啥",
+      "hot_value": 303743,
+      "link": "https://www.toutiao.com/trending/7671219813015883307",
+      "rank": 39
+    },
+    {
+      "title": "日本拥核野心令人警惕",
+      "hot_value": 274838,
+      "link": "https://www.toutiao.com/trending/7670908557935788073",
+      "rank": 40
+    },
+    {
+      "title": "中国女排亚锦赛争冠添“砝码”",
+      "hot_value": 248684,
+      "link": "https://www.toutiao.com/trending/7671202172894085183",
+      "rank": 41
+    },
+    {
+      "title": "媒体：新方炒作中方导弹试射自取其辱",
+      "hot_value": 225018,
+      "link": "https://www.toutiao.com/trending/7671188342431809577",
+      "rank": 42
+    },
+    {
+      "title": "看“当头炮”如何精准打击破敌阵",
+      "hot_value": 203605,
+      "link": "https://www.toutiao.com/trending/7671213398176153643",
+      "rank": 43
+    },
+    {
+      "title": "中国乒协加强青少年赛事赛风赛纪管理",
+      "hot_value": 184229,
+      "link": "https://www.toutiao.com/trending/7670502787293495302",
+      "rank": 44
+    },
+    {
+      "title": "短剧男演员自曝曾被砸钱拍吻戏",
+      "hot_value": 166697,
+      "link": "https://www.toutiao.com/trending/7671100871882997810",
+      "rank": 45
+    },
+    {
+      "title": "韩企捐水被日本网友骂只配用来冲马桶",
+      "hot_value": 150834,
+      "link": "https://www.toutiao.com/trending/7670820538520469510",
+      "rank": 46
+    },
+    {
+      "title": "四川高县4.9级地震致部分列车晚点",
+      "hot_value": 136480,
+      "link": "https://www.toutiao.com/trending/7671217759224725540",
+      "rank": 47
+    },
+    {
+      "title": "大V：中国反制西方越来越精准",
+      "hot_value": 123492,
+      "link": "https://www.toutiao.com/trending/7671218135717907987",
+      "rank": 48
+    },
+    {
+      "title": "非洲开发者更愿用中国AI模型说明啥",
+      "hot_value": 111740,
+      "link": "https://www.toutiao.com/trending/7671214313847131702",
+      "rank": 49
+    },
+    {
+      "title": "中国是怎么解决高温下电力短缺的",
+      "hot_value": 101107,
+      "link": "https://www.toutiao.com/trending/7671220264973127210",
+      "rank": 50
+    }
+  ]
+}
