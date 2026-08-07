@@ -1,0 +1,307 @@
+{
+  "platform": "weibo",
+  "platform_name": "微博热搜",
+  "time": "2026-08-08 00:04:11",
+  "items": [
+    {
+      "title": "胡彦斌歌王",
+      "hot_value": 9011908,
+      "link": "https://s.weibo.com/weibo?q=%E8%83%A1%E5%BD%A6%E6%96%8C%E6%AD%8C%E7%8E%8B",
+      "rank": 1
+    },
+    {
+      "title": "歌手排名",
+      "hot_value": 3323778,
+      "link": "https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B%E6%8E%92%E5%90%8D",
+      "rank": 2
+    },
+    {
+      "title": "暑期档票房超80亿",
+      "hot_value": 1643734,
+      "link": "https://s.weibo.com/weibo?q=%E6%9A%91%E6%9C%9F%E6%A1%A3%E7%A5%A8%E6%88%BF%E8%B6%8580%E4%BA%BF",
+      "rank": 3
+    },
+    {
+      "title": "一个没有空调外挂机的城市",
+      "hot_value": 813686,
+      "link": "https://s.weibo.com/weibo?q=%E4%B8%80%E4%B8%AA%E6%B2%A1%E6%9C%89%E7%A9%BA%E8%B0%83%E5%A4%96%E6%8C%82%E6%9C%BA%E7%9A%84%E5%9F%8E%E5%B8%82",
+      "rank": 4
+    },
+    {
+      "title": "原来戴泳帽真的会影响颜值",
+      "hot_value": 557815,
+      "link": "https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E6%88%B4%E6%B3%B3%E5%B8%BD%E7%9C%9F%E7%9A%84%E4%BC%9A%E5%BD%B1%E5%93%8D%E9%A2%9C%E5%80%BC",
+      "rank": 5
+    },
+    {
+      "title": "齐豫 躲歌王",
+      "hot_value": 554337,
+      "link": "https://s.weibo.com/weibo?q=%E9%BD%90%E8%B1%AB%20%E8%BA%B2%E6%AD%8C%E7%8E%8B",
+      "rank": 6
+    },
+    {
+      "title": "歌手总决赛",
+      "hot_value": 548686,
+      "link": "https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B%E6%80%BB%E5%86%B3%E8%B5%9B",
+      "rank": 7
+    },
+    {
+      "title": "中山大学23岁直博生确诊胃癌晚期",
+      "hot_value": 434256,
+      "link": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%B1%B1%E5%A4%A7%E5%AD%A623%E5%B2%81%E7%9B%B4%E5%8D%9A%E7%94%9F%E7%A1%AE%E8%AF%8A%E8%83%83%E7%99%8C%E6%99%9A%E6%9C%9F",
+      "rank": 8
+    },
+    {
+      "title": "湖人 詹姆斯",
+      "hot_value": 364523,
+      "link": "https://s.weibo.com/weibo?q=%E6%B9%96%E4%BA%BA%20%E8%A9%B9%E5%A7%86%E6%96%AF",
+      "rank": 9
+    },
+    {
+      "title": "外国网友也认了中式天庭",
+      "hot_value": 299807,
+      "link": "https://s.weibo.com/weibo?q=%E5%A4%96%E5%9B%BD%E7%BD%91%E5%8F%8B%E4%B9%9F%E8%AE%A4%E4%BA%86%E4%B8%AD%E5%BC%8F%E5%A4%A9%E5%BA%AD",
+      "rank": 10
+    },
+    {
+      "title": "歌手总决赛 孙燕姿吴青峰太伟大了",
+      "hot_value": 297606,
+      "link": "https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B%E6%80%BB%E5%86%B3%E8%B5%9B%20%E5%AD%99%E7%87%95%E5%A7%BF%E5%90%B4%E9%9D%92%E5%B3%B0%E5%A4%AA%E4%BC%9F%E5%A4%A7%E4%BA%86",
+      "rank": 11
+    },
+    {
+      "title": "杨幂晒贵阳旅行照",
+      "hot_value": 295693,
+      "link": "https://s.weibo.com/weibo?q=%E6%9D%A8%E5%B9%82%E6%99%92%E8%B4%B5%E9%98%B3%E6%97%85%E8%A1%8C%E7%85%A7",
+      "rank": 12
+    },
+    {
+      "title": "黄金",
+      "hot_value": 293600,
+      "link": "https://s.weibo.com/weibo?q=%E9%BB%84%E9%87%91",
+      "rank": 13
+    },
+    {
+      "title": "金智秀发文道歉",
+      "hot_value": 290552,
+      "link": "https://s.weibo.com/weibo?q=%E9%87%91%E6%99%BA%E7%A7%80%E5%8F%91%E6%96%87%E9%81%93%E6%AD%89",
+      "rank": 14
+    },
+    {
+      "title": "陈情令外鹅版VS内鹅版",
+      "hot_value": 285560,
+      "link": "https://s.weibo.com/weibo?q=%E9%99%88%E6%83%85%E4%BB%A4%E5%A4%96%E9%B9%85%E7%89%88VS%E5%86%85%E9%B9%85%E7%89%88",
+      "rank": 15
+    },
+    {
+      "title": "国乒男单 梯队建设",
+      "hot_value": 284343,
+      "link": "https://s.weibo.com/weibo?q=%E5%9B%BD%E4%B9%92%E7%94%B7%E5%8D%95%20%E6%A2%AF%E9%98%9F%E5%BB%BA%E8%AE%BE",
+      "rank": 16
+    },
+    {
+      "title": "娄艺潇海南租房1个月15000",
+      "hot_value": 279924,
+      "link": "https://s.weibo.com/weibo?q=%E5%A8%84%E8%89%BA%E6%BD%87%E6%B5%B7%E5%8D%97%E7%A7%9F%E6%88%BF1%E4%B8%AA%E6%9C%8815000",
+      "rank": 17
+    },
+    {
+      "title": "这居然是李行亮",
+      "hot_value": 277837,
+      "link": "https://s.weibo.com/weibo?q=%E8%BF%99%E5%B1%85%E7%84%B6%E6%98%AF%E6%9D%8E%E8%A1%8C%E4%BA%AE",
+      "rank": 18
+    },
+    {
+      "title": "TES战胜BLG",
+      "hot_value": 276015,
+      "link": "https://s.weibo.com/weibo?q=TES%E6%88%98%E8%83%9CBLG",
+      "rank": 19
+    },
+    {
+      "title": "员工刻意隐瞒自身价值遭索赔200万",
+      "hot_value": 273665,
+      "link": "https://s.weibo.com/weibo?q=%E5%91%98%E5%B7%A5%E5%88%BB%E6%84%8F%E9%9A%90%E7%9E%92%E8%87%AA%E8%BA%AB%E4%BB%B7%E5%80%BC%E9%81%AD%E7%B4%A2%E8%B5%94200%E4%B8%87",
+      "rank": 20
+    },
+    {
+      "title": "刘浩存红裙跳舞",
+      "hot_value": 265660,
+      "link": "https://s.weibo.com/weibo?q=%E5%88%98%E6%B5%A9%E5%AD%98%E7%BA%A2%E8%A3%99%E8%B7%B3%E8%88%9E",
+      "rank": 21
+    },
+    {
+      "title": "TF三代常驻综艺",
+      "hot_value": 257558,
+      "link": "https://s.weibo.com/weibo?q=TF%E4%B8%89%E4%BB%A3%E5%B8%B8%E9%A9%BB%E7%BB%BC%E8%89%BA",
+      "rank": 22
+    },
+    {
+      "title": "女子生下4胞胎被全家宠上天称嫁对人了",
+      "hot_value": 248431,
+      "link": "https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%90%E7%94%9F%E4%B8%8B4%E8%83%9E%E8%83%8E%E8%A2%AB%E5%85%A8%E5%AE%B6%E5%AE%A0%E4%B8%8A%E5%A4%A9%E7%A7%B0%E5%AB%81%E5%AF%B9%E4%BA%BA%E4%BA%86",
+      "rank": 23
+    },
+    {
+      "title": "歌手第一轮排名",
+      "hot_value": 240421,
+      "link": "https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B%E7%AC%AC%E4%B8%80%E8%BD%AE%E6%8E%92%E5%90%8D",
+      "rank": 24
+    },
+    {
+      "title": "万妮达第三",
+      "hot_value": 232648,
+      "link": "https://s.weibo.com/weibo?q=%E4%B8%87%E5%A6%AE%E8%BE%BE%E7%AC%AC%E4%B8%89",
+      "rank": 25
+    },
+    {
+      "title": "理解了孩子平庸就承欢膝下的意义",
+      "hot_value": 225385,
+      "link": "https://s.weibo.com/weibo?q=%E7%90%86%E8%A7%A3%E4%BA%86%E5%AD%A9%E5%AD%90%E5%B9%B3%E5%BA%B8%E5%B0%B1%E6%89%BF%E6%AC%A2%E8%86%9D%E4%B8%8B%E7%9A%84%E6%84%8F%E4%B9%89",
+      "rank": 26
+    },
+    {
+      "title": "非农数据",
+      "hot_value": 225303,
+      "link": "https://s.weibo.com/weibo?q=%E9%9D%9E%E5%86%9C%E6%95%B0%E6%8D%AE",
+      "rank": 27
+    },
+    {
+      "title": "张凌赫苍兰诀婚服里面破洞裤",
+      "hot_value": 224912,
+      "link": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%87%8C%E8%B5%AB%E8%8B%8D%E5%85%B0%E8%AF%80%E5%A9%9A%E6%9C%8D%E9%87%8C%E9%9D%A2%E7%A0%B4%E6%B4%9E%E8%A3%A4",
+      "rank": 28
+    },
+    {
+      "title": "非京籍社保个税缴1年可购房",
+      "hot_value": 224654,
+      "link": "https://s.weibo.com/weibo?q=%E9%9D%9E%E4%BA%AC%E7%B1%8D%E7%A4%BE%E4%BF%9D%E4%B8%AA%E7%A8%8E%E7%BC%B41%E5%B9%B4%E5%8F%AF%E8%B4%AD%E6%88%BF",
+      "rank": 29
+    },
+    {
+      "title": "中国要用5万亿织一张网",
+      "hot_value": 224548,
+      "link": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E8%A6%81%E7%94%A85%E4%B8%87%E4%BA%BF%E7%BB%87%E4%B8%80%E5%BC%A0%E7%BD%91",
+      "rank": 30
+    },
+    {
+      "title": "披荆斩棘",
+      "hot_value": 224217,
+      "link": "https://s.weibo.com/weibo?q=%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98",
+      "rank": 31
+    },
+    {
+      "title": "歌王",
+      "hot_value": 223844,
+      "link": "https://s.weibo.com/weibo?q=%E6%AD%8C%E7%8E%8B",
+      "rank": 32
+    },
+    {
+      "title": "北京出台房地产新政策",
+      "hot_value": 223678,
+      "link": "https://s.weibo.com/weibo?q=%E5%8C%97%E4%BA%AC%E5%87%BA%E5%8F%B0%E6%88%BF%E5%9C%B0%E4%BA%A7%E6%96%B0%E6%94%BF%E7%AD%96",
+      "rank": 33
+    },
+    {
+      "title": "天赐给侯明昊肚子打码",
+      "hot_value": 223533,
+      "link": "https://s.weibo.com/weibo?q=%E5%A4%A9%E8%B5%90%E7%BB%99%E4%BE%AF%E6%98%8E%E6%98%8A%E8%82%9A%E5%AD%90%E6%89%93%E7%A0%81",
+      "rank": 34
+    },
+    {
+      "title": "歌手",
+      "hot_value": 223084,
+      "link": "https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B",
+      "rank": 35
+    },
+    {
+      "title": "iPhone18Pro起售或破万",
+      "hot_value": 223010,
+      "link": "https://s.weibo.com/weibo?q=iPhone18Pro%E8%B5%B7%E5%94%AE%E6%88%96%E7%A0%B4%E4%B8%87",
+      "rank": 36
+    },
+    {
+      "title": "Jennie出道十周年发文",
+      "hot_value": 222736,
+      "link": "https://s.weibo.com/weibo?q=Jennie%E5%87%BA%E9%81%93%E5%8D%81%E5%91%A8%E5%B9%B4%E5%8F%91%E6%96%87",
+      "rank": 37
+    },
+    {
+      "title": "万妮达你让我哭",
+      "hot_value": 222383,
+      "link": "https://s.weibo.com/weibo?q=%E4%B8%87%E5%A6%AE%E8%BE%BE%E4%BD%A0%E8%AE%A9%E6%88%91%E5%93%AD",
+      "rank": 38
+    },
+    {
+      "title": "立秋",
+      "hot_value": 222199,
+      "link": "https://s.weibo.com/weibo?q=%E7%AB%8B%E7%A7%8B",
+      "rank": 39
+    },
+    {
+      "title": "雪佛兰将停止在华销售",
+      "hot_value": 221882,
+      "link": "https://s.weibo.com/weibo?q=%E9%9B%AA%E4%BD%9B%E5%85%B0%E5%B0%86%E5%81%9C%E6%AD%A2%E5%9C%A8%E5%8D%8E%E9%94%80%E5%94%AE",
+      "rank": 40
+    },
+    {
+      "title": "BLACKPINK十周年",
+      "hot_value": 221563,
+      "link": "https://s.weibo.com/weibo?q=BLACKPINK%E5%8D%81%E5%91%A8%E5%B9%B4",
+      "rank": 41
+    },
+    {
+      "title": "宋亚轩张真源彩排合照",
+      "hot_value": 221373,
+      "link": "https://s.weibo.com/weibo?q=%E5%AE%8B%E4%BA%9A%E8%BD%A9%E5%BC%A0%E7%9C%9F%E6%BA%90%E5%BD%A9%E6%8E%92%E5%90%88%E7%85%A7",
+      "rank": 42
+    },
+    {
+      "title": "Bin归队吧",
+      "hot_value": 221038,
+      "link": "https://s.weibo.com/weibo?q=Bin%E5%BD%92%E9%98%9F%E5%90%A7",
+      "rank": 43
+    },
+    {
+      "title": "兰州公交不开空调罚司机300元",
+      "hot_value": 220690,
+      "link": "https://s.weibo.com/weibo?q=%E5%85%B0%E5%B7%9E%E5%85%AC%E4%BA%A4%E4%B8%8D%E5%BC%80%E7%A9%BA%E8%B0%83%E7%BD%9A%E5%8F%B8%E6%9C%BA300%E5%85%83",
+      "rank": 44
+    },
+    {
+      "title": "美联储9月加息预期下降",
+      "hot_value": 220506,
+      "link": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%81%94%E5%82%A89%E6%9C%88%E5%8A%A0%E6%81%AF%E9%A2%84%E6%9C%9F%E4%B8%8B%E9%99%8D",
+      "rank": 45
+    },
+    {
+      "title": "齐豫毛阿敏秒了",
+      "hot_value": 220377,
+      "link": "https://s.weibo.com/weibo?q=%E9%BD%90%E8%B1%AB%E6%AF%9B%E9%98%BF%E6%95%8F%E7%A7%92%E4%BA%86",
+      "rank": 46
+    },
+    {
+      "title": "aespa最伟大的Drama回来了",
+      "hot_value": 219102,
+      "link": "https://s.weibo.com/weibo?q=aespa%E6%9C%80%E4%BC%9F%E5%A4%A7%E7%9A%84Drama%E5%9B%9E%E6%9D%A5%E4%BA%86",
+      "rank": 47
+    },
+    {
+      "title": "突然理解了大爷的绝望感",
+      "hot_value": 212249,
+      "link": "https://s.weibo.com/weibo?q=%E7%AA%81%E7%84%B6%E7%90%86%E8%A7%A3%E4%BA%86%E5%A4%A7%E7%88%B7%E7%9A%84%E7%BB%9D%E6%9C%9B%E6%84%9F",
+      "rank": 48
+    },
+    {
+      "title": "胚胎案妻子称如胚胎销毁定要离婚",
+      "hot_value": 210874,
+      "link": "https://s.weibo.com/weibo?q=%E8%83%9A%E8%83%8E%E6%A1%88%E5%A6%BB%E5%AD%90%E7%A7%B0%E5%A6%82%E8%83%9A%E8%83%8E%E9%94%80%E6%AF%81%E5%AE%9A%E8%A6%81%E7%A6%BB%E5%A9%9A",
+      "rank": 49
+    },
+    {
+      "title": "Gemini一言不合就开始生图",
+      "hot_value": 210380,
+      "link": "https://s.weibo.com/weibo?q=Gemini%E4%B8%80%E8%A8%80%E4%B8%8D%E5%90%88%E5%B0%B1%E5%BC%80%E5%A7%8B%E7%94%9F%E5%9B%BE",
+      "rank": 50
+    }
+  ]
+}
