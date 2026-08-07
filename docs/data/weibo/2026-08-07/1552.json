@@ -1,0 +1,307 @@
+{
+  "platform": "weibo",
+  "platform_name": "微博热搜",
+  "time": "2026-08-07 15:52:46",
+  "items": [
+    {
+      "title": "ai漫剧男主唯一塌房方式被找到了",
+      "hot_value": 1663297,
+      "link": "https://s.weibo.com/weibo?q=ai%E6%BC%AB%E5%89%A7%E7%94%B7%E4%B8%BB%E5%94%AF%E4%B8%80%E5%A1%8C%E6%88%BF%E6%96%B9%E5%BC%8F%E8%A2%AB%E6%89%BE%E5%88%B0%E4%BA%86",
+      "rank": 1
+    },
+    {
+      "title": "曝念相思停拍 男女主不和",
+      "hot_value": 1163437,
+      "link": "https://s.weibo.com/weibo?q=%E6%9B%9D%E5%BF%B5%E7%9B%B8%E6%80%9D%E5%81%9C%E6%8B%8D%20%E7%94%B7%E5%A5%B3%E4%B8%BB%E4%B8%8D%E5%92%8C",
+      "rank": 2
+    },
+    {
+      "title": "前7个月货物贸易进出口超30万亿元",
+      "hot_value": 980794,
+      "link": "https://s.weibo.com/weibo?q=%E5%89%8D7%E4%B8%AA%E6%9C%88%E8%B4%A7%E7%89%A9%E8%B4%B8%E6%98%93%E8%BF%9B%E5%87%BA%E5%8F%A3%E8%B6%8530%E4%B8%87%E4%BA%BF%E5%85%83",
+      "rank": 3
+    },
+    {
+      "title": "现在的小学生已经是庞然大物了",
+      "hot_value": 940489,
+      "link": "https://s.weibo.com/weibo?q=%E7%8E%B0%E5%9C%A8%E7%9A%84%E5%B0%8F%E5%AD%A6%E7%94%9F%E5%B7%B2%E7%BB%8F%E6%98%AF%E5%BA%9E%E7%84%B6%E5%A4%A7%E7%89%A9%E4%BA%86",
+      "rank": 4
+    },
+    {
+      "title": "戚薇AI短剧 雷霆视角",
+      "hot_value": 921582,
+      "link": "https://s.weibo.com/weibo?q=%E6%88%9A%E8%96%87AI%E7%9F%AD%E5%89%A7%20%E9%9B%B7%E9%9C%86%E8%A7%86%E8%A7%92",
+      "rank": 5
+    },
+    {
+      "title": "泸溪河牙冠事件消费者已致歉",
+      "hot_value": 865984,
+      "link": "https://s.weibo.com/weibo?q=%E6%B3%B8%E6%BA%AA%E6%B2%B3%E7%89%99%E5%86%A0%E4%BA%8B%E4%BB%B6%E6%B6%88%E8%B4%B9%E8%80%85%E5%B7%B2%E8%87%B4%E6%AD%89",
+      "rank": 6
+    },
+    {
+      "title": "提离职被知道要裁员的领导硬留下",
+      "hot_value": 690138,
+      "link": "https://s.weibo.com/weibo?q=%E6%8F%90%E7%A6%BB%E8%81%8C%E8%A2%AB%E7%9F%A5%E9%81%93%E8%A6%81%E8%A3%81%E5%91%98%E7%9A%84%E9%A2%86%E5%AF%BC%E7%A1%AC%E7%95%99%E4%B8%8B",
+      "rank": 7
+    },
+    {
+      "title": "你上班银行上班你午休银行午休",
+      "hot_value": 662103,
+      "link": "https://s.weibo.com/weibo?q=%E4%BD%A0%E4%B8%8A%E7%8F%AD%E9%93%B6%E8%A1%8C%E4%B8%8A%E7%8F%AD%E4%BD%A0%E5%8D%88%E4%BC%91%E9%93%B6%E8%A1%8C%E5%8D%88%E4%BC%91",
+      "rank": 8
+    },
+    {
+      "title": "张雅琪晒中餐厅10图",
+      "hot_value": 621721,
+      "link": "https://s.weibo.com/weibo?q=%E5%BC%A0%E9%9B%85%E7%90%AA%E6%99%92%E4%B8%AD%E9%A4%90%E5%8E%8510%E5%9B%BE",
+      "rank": 9
+    },
+    {
+      "title": "韩国被爆性贿赂世预赛裁判",
+      "hot_value": 617543,
+      "link": "https://s.weibo.com/weibo?q=%E9%9F%A9%E5%9B%BD%E8%A2%AB%E7%88%86%E6%80%A7%E8%B4%BF%E8%B5%82%E4%B8%96%E9%A2%84%E8%B5%9B%E8%A3%81%E5%88%A4",
+      "rank": 10
+    },
+    {
+      "title": "好演员从不无缝进组",
+      "hot_value": 605794,
+      "link": "https://s.weibo.com/weibo?q=%E5%A5%BD%E6%BC%94%E5%91%98%E4%BB%8E%E4%B8%8D%E6%97%A0%E7%BC%9D%E8%BF%9B%E7%BB%84",
+      "rank": 11
+    },
+    {
+      "title": "Mina同学发声",
+      "hot_value": 554687,
+      "link": "https://s.weibo.com/weibo?q=Mina%E5%90%8C%E5%AD%A6%E5%8F%91%E5%A3%B0",
+      "rank": 12
+    },
+    {
+      "title": "星巴克 秋天第一场商战",
+      "hot_value": 494432,
+      "link": "https://s.weibo.com/weibo?q=%E6%98%9F%E5%B7%B4%E5%85%8B%20%E7%A7%8B%E5%A4%A9%E7%AC%AC%E4%B8%80%E5%9C%BA%E5%95%86%E6%88%98",
+      "rank": 13
+    },
+    {
+      "title": "吴倩女儿长这么大了",
+      "hot_value": 494360,
+      "link": "https://s.weibo.com/weibo?q=%E5%90%B4%E5%80%A9%E5%A5%B3%E5%84%BF%E9%95%BF%E8%BF%99%E4%B9%88%E5%A4%A7%E4%BA%86",
+      "rank": 14
+    },
+    {
+      "title": "情绪冷漠症",
+      "hot_value": 488082,
+      "link": "https://s.weibo.com/weibo?q=%E6%83%85%E7%BB%AA%E5%86%B7%E6%BC%A0%E7%97%87",
+      "rank": 15
+    },
+    {
+      "title": "婚外胚胎案离婚诉讼延期开庭",
+      "hot_value": 476256,
+      "link": "https://s.weibo.com/weibo?q=%E5%A9%9A%E5%A4%96%E8%83%9A%E8%83%8E%E6%A1%88%E7%A6%BB%E5%A9%9A%E8%AF%89%E8%AE%BC%E5%BB%B6%E6%9C%9F%E5%BC%80%E5%BA%AD",
+      "rank": 16
+    },
+    {
+      "title": "刘若雪方辟谣与周杰伦私生子传闻",
+      "hot_value": 470493,
+      "link": "https://s.weibo.com/weibo?q=%E5%88%98%E8%8B%A5%E9%9B%AA%E6%96%B9%E8%BE%9F%E8%B0%A3%E4%B8%8E%E5%91%A8%E6%9D%B0%E4%BC%A6%E7%A7%81%E7%94%9F%E5%AD%90%E4%BC%A0%E9%97%BB",
+      "rank": 17
+    },
+    {
+      "title": "女儿卖房定价9000被母亲7500签约",
+      "hot_value": 448055,
+      "link": "https://s.weibo.com/weibo?q=%E5%A5%B3%E5%84%BF%E5%8D%96%E6%88%BF%E5%AE%9A%E4%BB%B79000%E8%A2%AB%E6%AF%8D%E4%BA%B27500%E7%AD%BE%E7%BA%A6",
+      "rank": 18
+    },
+    {
+      "title": "泰国校园枪击已致7死",
+      "hot_value": 416956,
+      "link": "https://s.weibo.com/weibo?q=%E6%B3%B0%E5%9B%BD%E6%A0%A1%E5%9B%AD%E6%9E%AA%E5%87%BB%E5%B7%B2%E8%87%B47%E6%AD%BB",
+      "rank": 19
+    },
+    {
+      "title": "宜宾地震",
+      "hot_value": 414626,
+      "link": "https://s.weibo.com/weibo?q=%E5%AE%9C%E5%AE%BE%E5%9C%B0%E9%9C%87",
+      "rank": 20
+    },
+    {
+      "title": "于适 平儿都长这么大了",
+      "hot_value": 384878,
+      "link": "https://s.weibo.com/weibo?q=%E4%BA%8E%E9%80%82%20%E5%B9%B3%E5%84%BF%E9%83%BD%E9%95%BF%E8%BF%99%E4%B9%88%E5%A4%A7%E4%BA%86",
+      "rank": 21
+    },
+    {
+      "title": "老中医提醒立秋一定要管住嘴",
+      "hot_value": 343017,
+      "link": "https://s.weibo.com/weibo?q=%E8%80%81%E4%B8%AD%E5%8C%BB%E6%8F%90%E9%86%92%E7%AB%8B%E7%A7%8B%E4%B8%80%E5%AE%9A%E8%A6%81%E7%AE%A1%E4%BD%8F%E5%98%B4",
+      "rank": 22
+    },
+    {
+      "title": "戚薇 授权AI",
+      "hot_value": 338732,
+      "link": "https://s.weibo.com/weibo?q=%E6%88%9A%E8%96%87%20%E6%8E%88%E6%9D%83AI",
+      "rank": 23
+    },
+    {
+      "title": "伦纳德被曝第三份阴阳合同",
+      "hot_value": 338302,
+      "link": "https://s.weibo.com/weibo?q=%E4%BC%A6%E7%BA%B3%E5%BE%B7%E8%A2%AB%E6%9B%9D%E7%AC%AC%E4%B8%89%E4%BB%BD%E9%98%B4%E9%98%B3%E5%90%88%E5%90%8C",
+      "rank": 24
+    },
+    {
+      "title": "孙燕姿演唱会抢票",
+      "hot_value": 338074,
+      "link": "https://s.weibo.com/weibo?q=%E5%AD%99%E7%87%95%E5%A7%BF%E6%BC%94%E5%94%B1%E4%BC%9A%E6%8A%A2%E7%A5%A8",
+      "rank": 25
+    },
+    {
+      "title": "时代少年团黄牛落网",
+      "hot_value": 337129,
+      "link": "https://s.weibo.com/weibo?q=%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E9%BB%84%E7%89%9B%E8%90%BD%E7%BD%91",
+      "rank": 26
+    },
+    {
+      "title": "iPhone18Pro十二大升级",
+      "hot_value": 336481,
+      "link": "https://s.weibo.com/weibo?q=iPhone18Pro%E5%8D%81%E4%BA%8C%E5%A4%A7%E5%8D%87%E7%BA%A7",
+      "rank": 27
+    },
+    {
+      "title": "百花奖",
+      "hot_value": 335895,
+      "link": "https://s.weibo.com/weibo?q=%E7%99%BE%E8%8A%B1%E5%A5%96",
+      "rank": 28
+    },
+    {
+      "title": "建议成立中国稀土出口总公司总部设新疆",
+      "hot_value": 334919,
+      "link": "https://s.weibo.com/weibo?q=%E5%BB%BA%E8%AE%AE%E6%88%90%E7%AB%8B%E4%B8%AD%E5%9B%BD%E7%A8%80%E5%9C%9F%E5%87%BA%E5%8F%A3%E6%80%BB%E5%85%AC%E5%8F%B8%E6%80%BB%E9%83%A8%E8%AE%BE%E6%96%B0%E7%96%86",
+      "rank": 29
+    },
+    {
+      "title": "云南茶园发现眼镜王蛇一家38口",
+      "hot_value": 334863,
+      "link": "https://s.weibo.com/weibo?q=%E4%BA%91%E5%8D%97%E8%8C%B6%E5%9B%AD%E5%8F%91%E7%8E%B0%E7%9C%BC%E9%95%9C%E7%8E%8B%E8%9B%87%E4%B8%80%E5%AE%B638%E5%8F%A3",
+      "rank": 30
+    },
+    {
+      "title": "面试面出了吃火锅的感觉",
+      "hot_value": 334226,
+      "link": "https://s.weibo.com/weibo?q=%E9%9D%A2%E8%AF%95%E9%9D%A2%E5%87%BA%E4%BA%86%E5%90%83%E7%81%AB%E9%94%85%E7%9A%84%E6%84%9F%E8%A7%89",
+      "rank": 31
+    },
+    {
+      "title": "BLACKPINK全员确认出席十周年",
+      "hot_value": 332473,
+      "link": "https://s.weibo.com/weibo?q=BLACKPINK%E5%85%A8%E5%91%98%E7%A1%AE%E8%AE%A4%E5%87%BA%E5%B8%AD%E5%8D%81%E5%91%A8%E5%B9%B4",
+      "rank": 32
+    },
+    {
+      "title": "人大教授花35万公款考证莫言家世",
+      "hot_value": 300884,
+      "link": "https://s.weibo.com/weibo?q=%E4%BA%BA%E5%A4%A7%E6%95%99%E6%8E%88%E8%8A%B135%E4%B8%87%E5%85%AC%E6%AC%BE%E8%80%83%E8%AF%81%E8%8E%AB%E8%A8%80%E5%AE%B6%E4%B8%96",
+      "rank": 33
+    },
+    {
+      "title": "饭后秒洗碗的人太狠了",
+      "hot_value": 266726,
+      "link": "https://s.weibo.com/weibo?q=%E9%A5%AD%E5%90%8E%E7%A7%92%E6%B4%97%E7%A2%97%E7%9A%84%E4%BA%BA%E5%A4%AA%E7%8B%A0%E4%BA%86",
+      "rank": 34
+    },
+    {
+      "title": "婚外胚胎案当事人遭公公打电话指责",
+      "hot_value": 248107,
+      "link": "https://s.weibo.com/weibo?q=%E5%A9%9A%E5%A4%96%E8%83%9A%E8%83%8E%E6%A1%88%E5%BD%93%E4%BA%8B%E4%BA%BA%E9%81%AD%E5%85%AC%E5%85%AC%E6%89%93%E7%94%B5%E8%AF%9D%E6%8C%87%E8%B4%A3",
+      "rank": 35
+    },
+    {
+      "title": "西村力大吧发长文回应",
+      "hot_value": 216453,
+      "link": "https://s.weibo.com/weibo?q=%E8%A5%BF%E6%9D%91%E5%8A%9B%E5%A4%A7%E5%90%A7%E5%8F%91%E9%95%BF%E6%96%87%E5%9B%9E%E5%BA%94",
+      "rank": 36
+    },
+    {
+      "title": "泸溪河牙冠事件 反转",
+      "hot_value": 206953,
+      "link": "https://s.weibo.com/weibo?q=%E6%B3%B8%E6%BA%AA%E6%B2%B3%E7%89%99%E5%86%A0%E4%BA%8B%E4%BB%B6%20%E5%8F%8D%E8%BD%AC",
+      "rank": 37
+    },
+    {
+      "title": "最尊重立秋的城市出现了",
+      "hot_value": 206490,
+      "link": "https://s.weibo.com/weibo?q=%E6%9C%80%E5%B0%8A%E9%87%8D%E7%AB%8B%E7%A7%8B%E7%9A%84%E5%9F%8E%E5%B8%82%E5%87%BA%E7%8E%B0%E4%BA%86",
+      "rank": 38
+    },
+    {
+      "title": "曝念相思停拍换男主",
+      "hot_value": 206359,
+      "link": "https://s.weibo.com/weibo?q=%E6%9B%9D%E5%BF%B5%E7%9B%B8%E6%80%9D%E5%81%9C%E6%8B%8D%E6%8D%A2%E7%94%B7%E4%B8%BB",
+      "rank": 39
+    },
+    {
+      "title": "立秋 万千茶饮师的噩梦",
+      "hot_value": 197707,
+      "link": "https://s.weibo.com/weibo?q=%E7%AB%8B%E7%A7%8B%20%E4%B8%87%E5%8D%83%E8%8C%B6%E9%A5%AE%E5%B8%88%E7%9A%84%E5%99%A9%E6%A2%A6",
+      "rank": 40
+    },
+    {
+      "title": "恋与制作人",
+      "hot_value": 197580,
+      "link": "https://s.weibo.com/weibo?q=%E6%81%8B%E4%B8%8E%E5%88%B6%E4%BD%9C%E4%BA%BA",
+      "rank": 41
+    },
+    {
+      "title": "AI推演2078年的00后",
+      "hot_value": 183853,
+      "link": "https://s.weibo.com/weibo?q=AI%E6%8E%A8%E6%BC%942078%E5%B9%B4%E7%9A%8400%E5%90%8E",
+      "rank": 42
+    },
+    {
+      "title": "周深听到大张伟秀恩爱的反应",
+      "hot_value": 182325,
+      "link": "https://s.weibo.com/weibo?q=%E5%91%A8%E6%B7%B1%E5%90%AC%E5%88%B0%E5%A4%A7%E5%BC%A0%E4%BC%9F%E7%A7%80%E6%81%A9%E7%88%B1%E7%9A%84%E5%8F%8D%E5%BA%94",
+      "rank": 43
+    },
+    {
+      "title": "张若昀其实是老抽来的",
+      "hot_value": 182225,
+      "link": "https://s.weibo.com/weibo?q=%E5%BC%A0%E8%8B%A5%E6%98%80%E5%85%B6%E5%AE%9E%E6%98%AF%E8%80%81%E6%8A%BD%E6%9D%A5%E7%9A%84",
+      "rank": 44
+    },
+    {
+      "title": "同事和我通勤包里的生态环境",
+      "hot_value": 182139,
+      "link": "https://s.weibo.com/weibo?q=%E5%90%8C%E4%BA%8B%E5%92%8C%E6%88%91%E9%80%9A%E5%8B%A4%E5%8C%85%E9%87%8C%E7%9A%84%E7%94%9F%E6%80%81%E7%8E%AF%E5%A2%83",
+      "rank": 45
+    },
+    {
+      "title": "iPhone18Pro系列价格预测",
+      "hot_value": 173906,
+      "link": "https://s.weibo.com/weibo?q=iPhone18Pro%E7%B3%BB%E5%88%97%E4%BB%B7%E6%A0%BC%E9%A2%84%E6%B5%8B",
+      "rank": 46
+    },
+    {
+      "title": "俄军28枚导弹全部突破乌防线",
+      "hot_value": 170847,
+      "link": "https://s.weibo.com/weibo?q=%E4%BF%84%E5%86%9B28%E6%9E%9A%E5%AF%BC%E5%BC%B9%E5%85%A8%E9%83%A8%E7%AA%81%E7%A0%B4%E4%B9%8C%E9%98%B2%E7%BA%BF",
+      "rank": 47
+    },
+    {
+      "title": "奶茶店爆单近400杯店员7点开始摇奶茶",
+      "hot_value": 169792,
+      "link": "https://s.weibo.com/weibo?q=%E5%A5%B6%E8%8C%B6%E5%BA%97%E7%88%86%E5%8D%95%E8%BF%91400%E6%9D%AF%E5%BA%97%E5%91%987%E7%82%B9%E5%BC%80%E5%A7%8B%E6%91%87%E5%A5%B6%E8%8C%B6",
+      "rank": 48
+    },
+    {
+      "title": "王俊凯做艺人的自觉",
+      "hot_value": 169751,
+      "link": "https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%E5%81%9A%E8%89%BA%E4%BA%BA%E7%9A%84%E8%87%AA%E8%A7%89",
+      "rank": 49
+    },
+    {
+      "title": "王垲智向侯卓成致歉",
+      "hot_value": 169626,
+      "link": "https://s.weibo.com/weibo?q=%E7%8E%8B%E5%9E%B2%E6%99%BA%E5%90%91%E4%BE%AF%E5%8D%93%E6%88%90%E8%87%B4%E6%AD%89",
+      "rank": 50
+    }
+  ]
+}
