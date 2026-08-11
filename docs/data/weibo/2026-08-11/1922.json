@@ -1,0 +1,307 @@
+{
+  "platform": "weibo",
+  "platform_name": "微博热搜",
+  "time": "2026-08-11 19:22:19",
+  "items": [
+    {
+      "title": "北京暴雨",
+      "hot_value": 1276320,
+      "link": "https://s.weibo.com/weibo?q=%E5%8C%97%E4%BA%AC%E6%9A%B4%E9%9B%A8",
+      "rank": 1
+    },
+    {
+      "title": "台风白海豚停止编号",
+      "hot_value": 1257700,
+      "link": "https://s.weibo.com/weibo?q=%E5%8F%B0%E9%A3%8E%E7%99%BD%E6%B5%B7%E8%B1%9A%E5%81%9C%E6%AD%A2%E7%BC%96%E5%8F%B7",
+      "rank": 2
+    },
+    {
+      "title": "遇城市内涝这些事千万不能做",
+      "hot_value": 1149401,
+      "link": "https://s.weibo.com/weibo?q=%E9%81%87%E5%9F%8E%E5%B8%82%E5%86%85%E6%B6%9D%E8%BF%99%E4%BA%9B%E4%BA%8B%E5%8D%83%E4%B8%87%E4%B8%8D%E8%83%BD%E5%81%9A",
+      "rank": 3
+    },
+    {
+      "title": "7旬老人被女主播崩了3年",
+      "hot_value": 1085063,
+      "link": "https://s.weibo.com/weibo?q=7%E6%97%AC%E8%80%81%E4%BA%BA%E8%A2%AB%E5%A5%B3%E4%B8%BB%E6%92%AD%E5%B4%A9%E4%BA%863%E5%B9%B4",
+      "rank": 4
+    },
+    {
+      "title": "龙翔被判死缓",
+      "hot_value": 992096,
+      "link": "https://s.weibo.com/weibo?q=%E9%BE%99%E7%BF%94%E8%A2%AB%E5%88%A4%E6%AD%BB%E7%BC%93",
+      "rank": 5
+    },
+    {
+      "title": "建议女生不要在网上过度分享",
+      "hot_value": 977047,
+      "link": "https://s.weibo.com/weibo?q=%E5%BB%BA%E8%AE%AE%E5%A5%B3%E7%94%9F%E4%B8%8D%E8%A6%81%E5%9C%A8%E7%BD%91%E4%B8%8A%E8%BF%87%E5%BA%A6%E5%88%86%E4%BA%AB",
+      "rank": 6
+    },
+    {
+      "title": "科目二挂了教练换的头像",
+      "hot_value": 917910,
+      "link": "https://s.weibo.com/weibo?q=%E7%A7%91%E7%9B%AE%E4%BA%8C%E6%8C%82%E4%BA%86%E6%95%99%E7%BB%83%E6%8D%A2%E7%9A%84%E5%A4%B4%E5%83%8F",
+      "rank": 7
+    },
+    {
+      "title": "买车的欲望已经到了极致",
+      "hot_value": 425688,
+      "link": "https://s.weibo.com/weibo?q=%E4%B9%B0%E8%BD%A6%E7%9A%84%E6%AC%B2%E6%9C%9B%E5%B7%B2%E7%BB%8F%E5%88%B0%E4%BA%86%E6%9E%81%E8%87%B4",
+      "rank": 8
+    },
+    {
+      "title": "JDG零封淘汰EDG",
+      "hot_value": 419578,
+      "link": "https://s.weibo.com/weibo?q=JDG%E9%9B%B6%E5%B0%81%E6%B7%98%E6%B1%B0EDG",
+      "rank": 9
+    },
+    {
+      "title": "BLG上单三选二",
+      "hot_value": 383473,
+      "link": "https://s.weibo.com/weibo?q=BLG%E4%B8%8A%E5%8D%95%E4%B8%89%E9%80%89%E4%BA%8C",
+      "rank": 10
+    },
+    {
+      "title": "陈思诚连夜从泰国回来",
+      "hot_value": 358026,
+      "link": "https://s.weibo.com/weibo?q=%E9%99%88%E6%80%9D%E8%AF%9A%E8%BF%9E%E5%A4%9C%E4%BB%8E%E6%B3%B0%E5%9B%BD%E5%9B%9E%E6%9D%A5",
+      "rank": 11
+    },
+    {
+      "title": "巴旦木公主晒结婚证",
+      "hot_value": 329910,
+      "link": "https://s.weibo.com/weibo?q=%E5%B7%B4%E6%97%A6%E6%9C%A8%E5%85%AC%E4%B8%BB%E6%99%92%E7%BB%93%E5%A9%9A%E8%AF%81",
+      "rank": 12
+    },
+    {
+      "title": "建议大家装修不要太大众",
+      "hot_value": 317511,
+      "link": "https://s.weibo.com/weibo?q=%E5%BB%BA%E8%AE%AE%E5%A4%A7%E5%AE%B6%E8%A3%85%E4%BF%AE%E4%B8%8D%E8%A6%81%E5%A4%AA%E5%A4%A7%E4%BC%97",
+      "rank": 13
+    },
+    {
+      "title": "马斯克母子强推中国游",
+      "hot_value": 283526,
+      "link": "https://s.weibo.com/weibo?q=%E9%A9%AC%E6%96%AF%E5%85%8B%E6%AF%8D%E5%AD%90%E5%BC%BA%E6%8E%A8%E4%B8%AD%E5%9B%BD%E6%B8%B8",
+      "rank": 14
+    },
+    {
+      "title": "PDD祝福巴旦木公主",
+      "hot_value": 283506,
+      "link": "https://s.weibo.com/weibo?q=PDD%E7%A5%9D%E7%A6%8F%E5%B7%B4%E6%97%A6%E6%9C%A8%E5%85%AC%E4%B8%BB",
+      "rank": 15
+    },
+    {
+      "title": "严浩翔方回应说唱巅峰乐评人发言",
+      "hot_value": 283240,
+      "link": "https://s.weibo.com/weibo?q=%E4%B8%A5%E6%B5%A9%E7%BF%94%E6%96%B9%E5%9B%9E%E5%BA%94%E8%AF%B4%E5%94%B1%E5%B7%85%E5%B3%B0%E4%B9%90%E8%AF%84%E4%BA%BA%E5%8F%91%E8%A8%80",
+      "rank": 16
+    },
+    {
+      "title": "丢了半个月的耳机我奶给蒸了",
+      "hot_value": 260171,
+      "link": "https://s.weibo.com/weibo?q=%E4%B8%A2%E4%BA%86%E5%8D%8A%E4%B8%AA%E6%9C%88%E7%9A%84%E8%80%B3%E6%9C%BA%E6%88%91%E5%A5%B6%E7%BB%99%E8%92%B8%E4%BA%86",
+      "rank": 17
+    },
+    {
+      "title": "陈俊生150万年薪让罗子君买8万的鞋",
+      "hot_value": 247309,
+      "link": "https://s.weibo.com/weibo?q=%E9%99%88%E4%BF%8A%E7%94%9F150%E4%B8%87%E5%B9%B4%E8%96%AA%E8%AE%A9%E7%BD%97%E5%AD%90%E5%90%9B%E4%B9%B08%E4%B8%87%E7%9A%84%E9%9E%8B",
+      "rank": 18
+    },
+    {
+      "title": "马旭东送考王传君",
+      "hot_value": 219995,
+      "link": "https://s.weibo.com/weibo?q=%E9%A9%AC%E6%97%AD%E4%B8%9C%E9%80%81%E8%80%83%E7%8E%8B%E4%BC%A0%E5%90%9B",
+      "rank": 19
+    },
+    {
+      "title": "俄少女逃出电诈园仍处严重应激状态",
+      "hot_value": 219845,
+      "link": "https://s.weibo.com/weibo?q=%E4%BF%84%E5%B0%91%E5%A5%B3%E9%80%83%E5%87%BA%E7%94%B5%E8%AF%88%E5%9B%AD%E4%BB%8D%E5%A4%84%E4%B8%A5%E9%87%8D%E5%BA%94%E6%BF%80%E7%8A%B6%E6%80%81",
+      "rank": 20
+    },
+    {
+      "title": "哪吒159亿票房为何换不来全体起立",
+      "hot_value": 218852,
+      "link": "https://s.weibo.com/weibo?q=%E5%93%AA%E5%90%92159%E4%BA%BF%E7%A5%A8%E6%88%BF%E4%B8%BA%E4%BD%95%E6%8D%A2%E4%B8%8D%E6%9D%A5%E5%85%A8%E4%BD%93%E8%B5%B7%E7%AB%8B",
+      "rank": 21
+    },
+    {
+      "title": "网红雅典娜事件始末",
+      "hot_value": 218241,
+      "link": "https://s.weibo.com/weibo?q=%E7%BD%91%E7%BA%A2%E9%9B%85%E5%85%B8%E5%A8%9C%E4%BA%8B%E4%BB%B6%E5%A7%8B%E6%9C%AB",
+      "rank": 22
+    },
+    {
+      "title": "女子做核磁忘摘金手镯疯狂抖动",
+      "hot_value": 217389,
+      "link": "https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%90%E5%81%9A%E6%A0%B8%E7%A3%81%E5%BF%98%E6%91%98%E9%87%91%E6%89%8B%E9%95%AF%E7%96%AF%E7%8B%82%E6%8A%96%E5%8A%A8",
+      "rank": 23
+    },
+    {
+      "title": "张婉婷疑似怀三胎了",
+      "hot_value": 217028,
+      "link": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%A9%89%E5%A9%B7%E7%96%91%E4%BC%BC%E6%80%80%E4%B8%89%E8%83%8E%E4%BA%86",
+      "rank": 24
+    },
+    {
+      "title": "于东来自掏65亿建商场当包租公",
+      "hot_value": 216076,
+      "link": "https://s.weibo.com/weibo?q=%E4%BA%8E%E4%B8%9C%E6%9D%A5%E8%87%AA%E6%8E%8F65%E4%BA%BF%E5%BB%BA%E5%95%86%E5%9C%BA%E5%BD%93%E5%8C%85%E7%A7%9F%E5%85%AC",
+      "rank": 25
+    },
+    {
+      "title": "姐弟打架奶奶拉偏架妈妈心疼痛哭",
+      "hot_value": 215477,
+      "link": "https://s.weibo.com/weibo?q=%E5%A7%90%E5%BC%9F%E6%89%93%E6%9E%B6%E5%A5%B6%E5%A5%B6%E6%8B%89%E5%81%8F%E6%9E%B6%E5%A6%88%E5%A6%88%E5%BF%83%E7%96%BC%E7%97%9B%E5%93%AD",
+      "rank": 26
+    },
+    {
+      "title": "阚清子咋又瘦了",
+      "hot_value": 214907,
+      "link": "https://s.weibo.com/weibo?q=%E9%98%9A%E6%B8%85%E5%AD%90%E5%92%8B%E5%8F%88%E7%98%A6%E4%BA%86",
+      "rank": 27
+    },
+    {
+      "title": "百万网红姜小柔遗体在广州安葬",
+      "hot_value": 213545,
+      "link": "https://s.weibo.com/weibo?q=%E7%99%BE%E4%B8%87%E7%BD%91%E7%BA%A2%E5%A7%9C%E5%B0%8F%E6%9F%94%E9%81%97%E4%BD%93%E5%9C%A8%E5%B9%BF%E5%B7%9E%E5%AE%89%E8%91%AC",
+      "rank": 28
+    },
+    {
+      "title": "俄女子称逃离缅甸电诈园游河到泰国",
+      "hot_value": 213274,
+      "link": "https://s.weibo.com/weibo?q=%E4%BF%84%E5%A5%B3%E5%AD%90%E7%A7%B0%E9%80%83%E7%A6%BB%E7%BC%85%E7%94%B8%E7%94%B5%E8%AF%88%E5%9B%AD%E6%B8%B8%E6%B2%B3%E5%88%B0%E6%B3%B0%E5%9B%BD",
+      "rank": 29
+    },
+    {
+      "title": "女子买西瓜切出膜状异物",
+      "hot_value": 212436,
+      "link": "https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%90%E4%B9%B0%E8%A5%BF%E7%93%9C%E5%88%87%E5%87%BA%E8%86%9C%E7%8A%B6%E5%BC%82%E7%89%A9",
+      "rank": 30
+    },
+    {
+      "title": "白鹿黑丝御姐黑西装",
+      "hot_value": 212051,
+      "link": "https://s.weibo.com/weibo?q=%E7%99%BD%E9%B9%BF%E9%BB%91%E4%B8%9D%E5%BE%A1%E5%A7%90%E9%BB%91%E8%A5%BF%E8%A3%85",
+      "rank": 31
+    },
+    {
+      "title": "如果我是王宝强谁是我的陈思诚",
+      "hot_value": 210080,
+      "link": "https://s.weibo.com/weibo?q=%E5%A6%82%E6%9E%9C%E6%88%91%E6%98%AF%E7%8E%8B%E5%AE%9D%E5%BC%BA%E8%B0%81%E6%98%AF%E6%88%91%E7%9A%84%E9%99%88%E6%80%9D%E8%AF%9A",
+      "rank": 32
+    },
+    {
+      "title": "学习老辈子断亲态度",
+      "hot_value": 208791,
+      "link": "https://s.weibo.com/weibo?q=%E5%AD%A6%E4%B9%A0%E8%80%81%E8%BE%88%E5%AD%90%E6%96%AD%E4%BA%B2%E6%80%81%E5%BA%A6",
+      "rank": 33
+    },
+    {
+      "title": "你永远猜不到小孩把东西藏哪",
+      "hot_value": 200794,
+      "link": "https://s.weibo.com/weibo?q=%E4%BD%A0%E6%B0%B8%E8%BF%9C%E7%8C%9C%E4%B8%8D%E5%88%B0%E5%B0%8F%E5%AD%A9%E6%8A%8A%E4%B8%9C%E8%A5%BF%E8%97%8F%E5%93%AA",
+      "rank": 34
+    },
+    {
+      "title": "雅典娜遇害名单截图出自反诈片",
+      "hot_value": 198239,
+      "link": "https://s.weibo.com/weibo?q=%E9%9B%85%E5%85%B8%E5%A8%9C%E9%81%87%E5%AE%B3%E5%90%8D%E5%8D%95%E6%88%AA%E5%9B%BE%E5%87%BA%E8%87%AA%E5%8F%8D%E8%AF%88%E7%89%87",
+      "rank": 35
+    },
+    {
+      "title": "雅典娜",
+      "hot_value": 194299,
+      "link": "https://s.weibo.com/weibo?q=%E9%9B%85%E5%85%B8%E5%A8%9C",
+      "rank": 36
+    },
+    {
+      "title": "KPL今日审美积累已达成",
+      "hot_value": 170894,
+      "link": "https://s.weibo.com/weibo?q=KPL%E4%BB%8A%E6%97%A5%E5%AE%A1%E7%BE%8E%E7%A7%AF%E7%B4%AF%E5%B7%B2%E8%BE%BE%E6%88%90",
+      "rank": 37
+    },
+    {
+      "title": "狗头萝莉检测传染病四项",
+      "hot_value": 168265,
+      "link": "https://s.weibo.com/weibo?q=%E7%8B%97%E5%A4%B4%E8%90%9D%E8%8E%89%E6%A3%80%E6%B5%8B%E4%BC%A0%E6%9F%93%E7%97%85%E5%9B%9B%E9%A1%B9",
+      "rank": 38
+    },
+    {
+      "title": "娜扎18岁拍的红尘客栈MV",
+      "hot_value": 158585,
+      "link": "https://s.weibo.com/weibo?q=%E5%A8%9C%E6%89%8E18%E5%B2%81%E6%8B%8D%E7%9A%84%E7%BA%A2%E5%B0%98%E5%AE%A2%E6%A0%88MV",
+      "rank": 39
+    },
+    {
+      "title": "马斯克母亲称几乎每个月都会来中国",
+      "hot_value": 158300,
+      "link": "https://s.weibo.com/weibo?q=%E9%A9%AC%E6%96%AF%E5%85%8B%E6%AF%8D%E4%BA%B2%E7%A7%B0%E5%87%A0%E4%B9%8E%E6%AF%8F%E4%B8%AA%E6%9C%88%E9%83%BD%E4%BC%9A%E6%9D%A5%E4%B8%AD%E5%9B%BD",
+      "rank": 40
+    },
+    {
+      "title": "虚假的九门vs真正的九门",
+      "hot_value": 158164,
+      "link": "https://s.weibo.com/weibo?q=%E8%99%9A%E5%81%87%E7%9A%84%E4%B9%9D%E9%97%A8vs%E7%9C%9F%E6%AD%A3%E7%9A%84%E4%B9%9D%E9%97%A8",
+      "rank": 41
+    },
+    {
+      "title": "娃娃脸是一种职场优势",
+      "hot_value": 156388,
+      "link": "https://s.weibo.com/weibo?q=%E5%A8%83%E5%A8%83%E8%84%B8%E6%98%AF%E4%B8%80%E7%A7%8D%E8%81%8C%E5%9C%BA%E4%BC%98%E5%8A%BF",
+      "rank": 42
+    },
+    {
+      "title": "龙餐馆包场",
+      "hot_value": 154914,
+      "link": "https://s.weibo.com/weibo?q=%E9%BE%99%E9%A4%90%E9%A6%86%E5%8C%85%E5%9C%BA",
+      "rank": 43
+    },
+    {
+      "title": "偷偷藏不住疑似撤档",
+      "hot_value": 153163,
+      "link": "https://s.weibo.com/weibo?q=%E5%81%B7%E5%81%B7%E8%97%8F%E4%B8%8D%E4%BD%8F%E7%96%91%E4%BC%BC%E6%92%A4%E6%A1%A3",
+      "rank": 44
+    },
+    {
+      "title": "转账备注不求结婚分手索赔11万",
+      "hot_value": 152426,
+      "link": "https://s.weibo.com/weibo?q=%E8%BD%AC%E8%B4%A6%E5%A4%87%E6%B3%A8%E4%B8%8D%E6%B1%82%E7%BB%93%E5%A9%9A%E5%88%86%E6%89%8B%E7%B4%A2%E8%B5%9411%E4%B8%87",
+      "rank": 45
+    },
+    {
+      "title": "河南4胞胎每天40瓶奶60片尿不湿",
+      "hot_value": 152130,
+      "link": "https://s.weibo.com/weibo?q=%E6%B2%B3%E5%8D%974%E8%83%9E%E8%83%8E%E6%AF%8F%E5%A4%A940%E7%93%B6%E5%A5%B660%E7%89%87%E5%B0%BF%E4%B8%8D%E6%B9%BF",
+      "rank": 46
+    },
+    {
+      "title": "AI漫剧已申请角色版权保护",
+      "hot_value": 151721,
+      "link": "https://s.weibo.com/weibo?q=AI%E6%BC%AB%E5%89%A7%E5%B7%B2%E7%94%B3%E8%AF%B7%E8%A7%92%E8%89%B2%E7%89%88%E6%9D%83%E4%BF%9D%E6%8A%A4",
+      "rank": 47
+    },
+    {
+      "title": "曝TF四代五公后宣布开启出道计划",
+      "hot_value": 151189,
+      "link": "https://s.weibo.com/weibo?q=%E6%9B%9DTF%E5%9B%9B%E4%BB%A3%E4%BA%94%E5%85%AC%E5%90%8E%E5%AE%A3%E5%B8%83%E5%BC%80%E5%90%AF%E5%87%BA%E9%81%93%E8%AE%A1%E5%88%92",
+      "rank": 48
+    },
+    {
+      "title": "猫耳声刻2026阵容",
+      "hot_value": 151030,
+      "link": "https://s.weibo.com/weibo?q=%E7%8C%AB%E8%80%B3%E5%A3%B0%E5%88%BB2026%E9%98%B5%E5%AE%B9",
+      "rank": 49
+    },
+    {
+      "title": "帕拉梅拉价格跌破百万",
+      "hot_value": 150355,
+      "link": "https://s.weibo.com/weibo?q=%E5%B8%95%E6%8B%89%E6%A2%85%E6%8B%89%E4%BB%B7%E6%A0%BC%E8%B7%8C%E7%A0%B4%E7%99%BE%E4%B8%87",
+      "rank": 50
+    }
+  ]
+}
