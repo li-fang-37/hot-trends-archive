@@ -1,0 +1,307 @@
+{
+  "platform": "weibo",
+  "platform_name": "微博热搜",
+  "time": "2026-10-20 12:26:24",
+  "items": [
+    {
+      "title": "女子每天2杯咖啡打喷嚏震断肋骨",
+      "hot_value": 1361478,
+      "link": "https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%90%E6%AF%8F%E5%A4%A92%E6%9D%AF%E5%92%96%E5%95%A1%E6%89%93%E5%96%B7%E5%9A%8F%E9%9C%87%E6%96%AD%E8%82%8B%E9%AA%A8",
+      "rank": 1
+    },
+    {
+      "title": "小天才手表回应封闭社交",
+      "hot_value": 1058917,
+      "link": "https://s.weibo.com/weibo?q=%E5%B0%8F%E5%A4%A9%E6%89%8D%E6%89%8B%E8%A1%A8%E5%9B%9E%E5%BA%94%E5%B0%81%E9%97%AD%E7%A4%BE%E4%BA%A4",
+      "rank": 2
+    },
+    {
+      "title": "何以中国当惊世界殊",
+      "hot_value": 995646,
+      "link": "https://s.weibo.com/weibo?q=%E4%BD%95%E4%BB%A5%E4%B8%AD%E5%9B%BD%E5%BD%93%E6%83%8A%E4%B8%96%E7%95%8C%E6%AE%8A",
+      "rank": 3
+    },
+    {
+      "title": "独生女车祸离世八旬父母再获赔生活费",
+      "hot_value": 972329,
+      "link": "https://s.weibo.com/weibo?q=%E7%8B%AC%E7%94%9F%E5%A5%B3%E8%BD%A6%E7%A5%B8%E7%A6%BB%E4%B8%96%E5%85%AB%E6%97%AC%E7%88%B6%E6%AF%8D%E5%86%8D%E8%8E%B7%E8%B5%94%E7%94%9F%E6%B4%BB%E8%B4%B9",
+      "rank": 4
+    },
+    {
+      "title": "12岁女孩打工致残前连续上班13天",
+      "hot_value": 442623,
+      "link": "https://s.weibo.com/weibo?q=12%E5%B2%81%E5%A5%B3%E5%AD%A9%E6%89%93%E5%B7%A5%E8%87%B4%E6%AE%8B%E5%89%8D%E8%BF%9E%E7%BB%AD%E4%B8%8A%E7%8F%AD13%E5%A4%A9",
+      "rank": 5
+    },
+    {
+      "title": "人民日报评留学生身披旭日旗",
+      "hot_value": 371737,
+      "link": "https://s.weibo.com/weibo?q=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E7%95%99%E5%AD%A6%E7%94%9F%E8%BA%AB%E6%8A%AB%E6%97%AD%E6%97%A5%E6%97%97",
+      "rank": 6
+    },
+    {
+      "title": "肖战刘铮亮二胎弟弟灵魂拷问",
+      "hot_value": 342166,
+      "link": "https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E5%88%98%E9%93%AE%E4%BA%AE%E4%BA%8C%E8%83%8E%E5%BC%9F%E5%BC%9F%E7%81%B5%E9%AD%82%E6%8B%B7%E9%97%AE",
+      "rank": 7
+    },
+    {
+      "title": "LPL四队承包S16瑞士轮前四场",
+      "hot_value": 282763,
+      "link": "https://s.weibo.com/weibo?q=LPL%E5%9B%9B%E9%98%9F%E6%89%BF%E5%8C%85S16%E7%91%9E%E5%A3%AB%E8%BD%AE%E5%89%8D%E5%9B%9B%E5%9C%BA",
+      "rank": 8
+    },
+    {
+      "title": "嫁金钗",
+      "hot_value": 254746,
+      "link": "https://s.weibo.com/weibo?q=%E5%AB%81%E9%87%91%E9%92%97",
+      "rank": 9
+    },
+    {
+      "title": "C罗主动承认指控",
+      "hot_value": 254139,
+      "link": "https://s.weibo.com/weibo?q=C%E7%BD%97%E4%B8%BB%E5%8A%A8%E6%89%BF%E8%AE%A4%E6%8C%87%E6%8E%A7",
+      "rank": 10
+    },
+    {
+      "title": "刘恺威黎纪君承认恋情",
+      "hot_value": 253862,
+      "link": "https://s.weibo.com/weibo?q=%E5%88%98%E6%81%BA%E5%A8%81%E9%BB%8E%E7%BA%AA%E5%90%9B%E6%89%BF%E8%AE%A4%E6%81%8B%E6%83%85",
+      "rank": 11
+    },
+    {
+      "title": "李小冉一忍再忍不想占用公共资源",
+      "hot_value": 253720,
+      "link": "https://s.weibo.com/weibo?q=%E6%9D%8E%E5%B0%8F%E5%86%89%E4%B8%80%E5%BF%8D%E5%86%8D%E5%BF%8D%E4%B8%8D%E6%83%B3%E5%8D%A0%E7%94%A8%E5%85%AC%E5%85%B1%E8%B5%84%E6%BA%90",
+      "rank": 12
+    },
+    {
+      "title": "王者荣耀",
+      "hot_value": 253329,
+      "link": "https://s.weibo.com/weibo?q=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80",
+      "rank": 13
+    },
+    {
+      "title": "何宣林 高铭辰",
+      "hot_value": 252663,
+      "link": "https://s.weibo.com/weibo?q=%E4%BD%95%E5%AE%A3%E6%9E%97%20%E9%AB%98%E9%93%AD%E8%BE%B0",
+      "rank": 14
+    },
+    {
+      "title": "匹克球",
+      "hot_value": 252443,
+      "link": "https://s.weibo.com/weibo?q=%E5%8C%B9%E5%85%8B%E7%90%83",
+      "rank": 15
+    },
+    {
+      "title": "倪萍当年手撕金鸡奖太勇",
+      "hot_value": 252208,
+      "link": "https://s.weibo.com/weibo?q=%E5%80%AA%E8%90%8D%E5%BD%93%E5%B9%B4%E6%89%8B%E6%92%95%E9%87%91%E9%B8%A1%E5%A5%96%E5%A4%AA%E5%8B%87",
+      "rank": 16
+    },
+    {
+      "title": "李小冉曾回应十年婚姻未生育原因",
+      "hot_value": 251651,
+      "link": "https://s.weibo.com/weibo?q=%E6%9D%8E%E5%B0%8F%E5%86%89%E6%9B%BE%E5%9B%9E%E5%BA%94%E5%8D%81%E5%B9%B4%E5%A9%9A%E5%A7%BB%E6%9C%AA%E7%94%9F%E8%82%B2%E5%8E%9F%E5%9B%A0",
+      "rank": 17
+    },
+    {
+      "title": "小天才手表封闭社交被质疑",
+      "hot_value": 251322,
+      "link": "https://s.weibo.com/weibo?q=%E5%B0%8F%E5%A4%A9%E6%89%8D%E6%89%8B%E8%A1%A8%E5%B0%81%E9%97%AD%E7%A4%BE%E4%BA%A4%E8%A2%AB%E8%B4%A8%E7%96%91",
+      "rank": 18
+    },
+    {
+      "title": "董明珠称格力技工学校禁止谈恋爱",
+      "hot_value": 251149,
+      "link": "https://s.weibo.com/weibo?q=%E8%91%A3%E6%98%8E%E7%8F%A0%E7%A7%B0%E6%A0%BC%E5%8A%9B%E6%8A%80%E5%B7%A5%E5%AD%A6%E6%A0%A1%E7%A6%81%E6%AD%A2%E8%B0%88%E6%81%8B%E7%88%B1",
+      "rank": 19
+    },
+    {
+      "title": "内娱诞生了4个戏疯子",
+      "hot_value": 230095,
+      "link": "https://s.weibo.com/weibo?q=%E5%86%85%E5%A8%B1%E8%AF%9E%E7%94%9F%E4%BA%864%E4%B8%AA%E6%88%8F%E7%96%AF%E5%AD%90",
+      "rank": 20
+    },
+    {
+      "title": "iPhone18外观曝光",
+      "hot_value": 227653,
+      "link": "https://s.weibo.com/weibo?q=iPhone18%E5%A4%96%E8%A7%82%E6%9B%9D%E5%85%89",
+      "rank": 21
+    },
+    {
+      "title": "维密靠什么赚钱",
+      "hot_value": 226878,
+      "link": "https://s.weibo.com/weibo?q=%E7%BB%B4%E5%AF%86%E9%9D%A0%E4%BB%80%E4%B9%88%E8%B5%9A%E9%92%B1",
+      "rank": 22
+    },
+    {
+      "title": "王腾官宣今日宜休首款产品",
+      "hot_value": 223864,
+      "link": "https://s.weibo.com/weibo?q=%E7%8E%8B%E8%85%BE%E5%AE%98%E5%AE%A3%E4%BB%8A%E6%97%A5%E5%AE%9C%E4%BC%91%E9%A6%96%E6%AC%BE%E4%BA%A7%E5%93%81",
+      "rank": 23
+    },
+    {
+      "title": "刘恺威52岁生日黎纪君发文庆祝",
+      "hot_value": 220440,
+      "link": "https://s.weibo.com/weibo?q=%E5%88%98%E6%81%BA%E5%A8%8152%E5%B2%81%E7%94%9F%E6%97%A5%E9%BB%8E%E7%BA%AA%E5%90%9B%E5%8F%91%E6%96%87%E5%BA%86%E7%A5%9D",
+      "rank": 24
+    },
+    {
+      "title": "被丈夫抱断肋骨女子天天喝咖啡",
+      "hot_value": 218106,
+      "link": "https://s.weibo.com/weibo?q=%E8%A2%AB%E4%B8%88%E5%A4%AB%E6%8A%B1%E6%96%AD%E8%82%8B%E9%AA%A8%E5%A5%B3%E5%AD%90%E5%A4%A9%E5%A4%A9%E5%96%9D%E5%92%96%E5%95%A1",
+      "rank": 25
+    },
+    {
+      "title": "早买iPhone18Pro的人开始烧心了",
+      "hot_value": 216044,
+      "link": "https://s.weibo.com/weibo?q=%E6%97%A9%E4%B9%B0iPhone18Pro%E7%9A%84%E4%BA%BA%E5%BC%80%E5%A7%8B%E7%83%A7%E5%BF%83%E4%BA%86",
+      "rank": 26
+    },
+    {
+      "title": "曝何宣林恋情",
+      "hot_value": 215074,
+      "link": "https://s.weibo.com/weibo?q=%E6%9B%9D%E4%BD%95%E5%AE%A3%E6%9E%97%E6%81%8B%E6%83%85",
+      "rank": 27
+    },
+    {
+      "title": "沈腾马丽新片",
+      "hot_value": 211953,
+      "link": "https://s.weibo.com/weibo?q=%E6%B2%88%E8%85%BE%E9%A9%AC%E4%B8%BD%E6%96%B0%E7%89%87",
+      "rank": 28
+    },
+    {
+      "title": "咖啡会不会掏空骨头",
+      "hot_value": 210406,
+      "link": "https://s.weibo.com/weibo?q=%E5%92%96%E5%95%A1%E4%BC%9A%E4%B8%8D%E4%BC%9A%E6%8E%8F%E7%A9%BA%E9%AA%A8%E5%A4%B4",
+      "rank": 29
+    },
+    {
+      "title": "成都游客觉得香港规矩多太拘束",
+      "hot_value": 209276,
+      "link": "https://s.weibo.com/weibo?q=%E6%88%90%E9%83%BD%E6%B8%B8%E5%AE%A2%E8%A7%89%E5%BE%97%E9%A6%99%E6%B8%AF%E8%A7%84%E7%9F%A9%E5%A4%9A%E5%A4%AA%E6%8B%98%E6%9D%9F",
+      "rank": 30
+    },
+    {
+      "title": "肖战小飞侠震撼内娱群",
+      "hot_value": 209069,
+      "link": "https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E5%B0%8F%E9%A3%9E%E4%BE%A0%E9%9C%87%E6%92%BC%E5%86%85%E5%A8%B1%E7%BE%A4",
+      "rank": 31
+    },
+    {
+      "title": "iPhone18粉色曝光",
+      "hot_value": 208690,
+      "link": "https://s.weibo.com/weibo?q=iPhone18%E7%B2%89%E8%89%B2%E6%9B%9D%E5%85%89",
+      "rank": 32
+    },
+    {
+      "title": "喝咖啡应每年检测骨密度维生素D",
+      "hot_value": 207895,
+      "link": "https://s.weibo.com/weibo?q=%E5%96%9D%E5%92%96%E5%95%A1%E5%BA%94%E6%AF%8F%E5%B9%B4%E6%A3%80%E6%B5%8B%E9%AA%A8%E5%AF%86%E5%BA%A6%E7%BB%B4%E7%94%9F%E7%B4%A0D",
+      "rank": 33
+    },
+    {
+      "title": "S16瑞士轮赛程照顾LPL观众",
+      "hot_value": 207607,
+      "link": "https://s.weibo.com/weibo?q=S16%E7%91%9E%E5%A3%AB%E8%BD%AE%E8%B5%9B%E7%A8%8B%E7%85%A7%E9%A1%BELPL%E8%A7%82%E4%BC%97",
+      "rank": 34
+    },
+    {
+      "title": "李勒优生病都是一个人去医院",
+      "hot_value": 207411,
+      "link": "https://s.weibo.com/weibo?q=%E6%9D%8E%E5%8B%92%E4%BC%98%E7%94%9F%E7%97%85%E9%83%BD%E6%98%AF%E4%B8%80%E4%B8%AA%E4%BA%BA%E5%8E%BB%E5%8C%BB%E9%99%A2",
+      "rank": 35
+    },
+    {
+      "title": "法国300刀一块的面包",
+      "hot_value": 194027,
+      "link": "https://s.weibo.com/weibo?q=%E6%B3%95%E5%9B%BD300%E5%88%80%E4%B8%80%E5%9D%97%E7%9A%84%E9%9D%A2%E5%8C%85",
+      "rank": 36
+    },
+    {
+      "title": "4个无意识长胖行为",
+      "hot_value": 184070,
+      "link": "https://s.weibo.com/weibo?q=4%E4%B8%AA%E6%97%A0%E6%84%8F%E8%AF%86%E9%95%BF%E8%83%96%E8%A1%8C%E4%B8%BA",
+      "rank": 37
+    },
+    {
+      "title": "田曦薇剧宣真穿的婚纱",
+      "hot_value": 170755,
+      "link": "https://s.weibo.com/weibo?q=%E7%94%B0%E6%9B%A6%E8%96%87%E5%89%A7%E5%AE%A3%E7%9C%9F%E7%A9%BF%E7%9A%84%E5%A9%9A%E7%BA%B1",
+      "rank": 38
+    },
+    {
+      "title": "内娱95生花现在的困境",
+      "hot_value": 169039,
+      "link": "https://s.weibo.com/weibo?q=%E5%86%85%E5%A8%B195%E7%94%9F%E8%8A%B1%E7%8E%B0%E5%9C%A8%E7%9A%84%E5%9B%B0%E5%A2%83",
+      "rank": 39
+    },
+    {
+      "title": "汽车之家白嫖韩路",
+      "hot_value": 169034,
+      "link": "https://s.weibo.com/weibo?q=%E6%B1%BD%E8%BD%A6%E4%B9%8B%E5%AE%B6%E7%99%BD%E5%AB%96%E9%9F%A9%E8%B7%AF",
+      "rank": 40
+    },
+    {
+      "title": "iPhone18Pro天猫首降",
+      "hot_value": 169030,
+      "link": "https://s.weibo.com/weibo?q=iPhone18Pro%E5%A4%A9%E7%8C%AB%E9%A6%96%E9%99%8D",
+      "rank": 41
+    },
+    {
+      "title": "小城良方主创直播",
+      "hot_value": 169029,
+      "link": "https://s.weibo.com/weibo?q=%E5%B0%8F%E5%9F%8E%E8%89%AF%E6%96%B9%E4%B8%BB%E5%88%9B%E7%9B%B4%E6%92%AD",
+      "rank": 42
+    },
+    {
+      "title": "法国爆发严重骚乱马克龙出访中东",
+      "hot_value": 164110,
+      "link": "https://s.weibo.com/weibo?q=%E6%B3%95%E5%9B%BD%E7%88%86%E5%8F%91%E4%B8%A5%E9%87%8D%E9%AA%9A%E4%B9%B1%E9%A9%AC%E5%85%8B%E9%BE%99%E5%87%BA%E8%AE%BF%E4%B8%AD%E4%B8%9C",
+      "rank": 43
+    },
+    {
+      "title": "咖啡和防晒正透支你的骨头",
+      "hot_value": 163981,
+      "link": "https://s.weibo.com/weibo?q=%E5%92%96%E5%95%A1%E5%92%8C%E9%98%B2%E6%99%92%E6%AD%A3%E9%80%8F%E6%94%AF%E4%BD%A0%E7%9A%84%E9%AA%A8%E5%A4%B4",
+      "rank": 44
+    },
+    {
+      "title": "科技新一谈iPhone18外观",
+      "hot_value": 160576,
+      "link": "https://s.weibo.com/weibo?q=%E7%A7%91%E6%8A%80%E6%96%B0%E4%B8%80%E8%B0%88iPhone18%E5%A4%96%E8%A7%82",
+      "rank": 45
+    },
+    {
+      "title": "美国禁止政府使用DeepSeek",
+      "hot_value": 155884,
+      "link": "https://s.weibo.com/weibo?q=%E7%BE%8E%E5%9B%BD%E7%A6%81%E6%AD%A2%E6%94%BF%E5%BA%9C%E4%BD%BF%E7%94%A8DeepSeek",
+      "rank": 46
+    },
+    {
+      "title": "克内克特420万合同交易价值为负",
+      "hot_value": 154697,
+      "link": "https://s.weibo.com/weibo?q=%E5%85%8B%E5%86%85%E5%85%8B%E7%89%B9420%E4%B8%87%E5%90%88%E5%90%8C%E4%BA%A4%E6%98%93%E4%BB%B7%E5%80%BC%E4%B8%BA%E8%B4%9F",
+      "rank": 47
+    },
+    {
+      "title": "韩国不愧是撑起亚洲恐怖片半壁江山",
+      "hot_value": 153821,
+      "link": "https://s.weibo.com/weibo?q=%E9%9F%A9%E5%9B%BD%E4%B8%8D%E6%84%A7%E6%98%AF%E6%92%91%E8%B5%B7%E4%BA%9A%E6%B4%B2%E6%81%90%E6%80%96%E7%89%87%E5%8D%8A%E5%A3%81%E6%B1%9F%E5%B1%B1",
+      "rank": 48
+    },
+    {
+      "title": "王猛谈湖人裁掉克内克特",
+      "hot_value": 144219,
+      "link": "https://s.weibo.com/weibo?q=%E7%8E%8B%E7%8C%9B%E8%B0%88%E6%B9%96%E4%BA%BA%E8%A3%81%E6%8E%89%E5%85%8B%E5%86%85%E5%85%8B%E7%89%B9",
+      "rank": 49
+    },
+    {
+      "title": "我的全身护理哲学",
+      "hot_value": 144053,
+      "link": "https://s.weibo.com/weibo?q=%E6%88%91%E7%9A%84%E5%85%A8%E8%BA%AB%E6%8A%A4%E7%90%86%E5%93%B2%E5%AD%A6",
+      "rank": 50
+    }
+  ]
+}
