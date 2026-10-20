@@ -1,0 +1,307 @@
+{
+  "platform": "weibo",
+  "platform_name": "微博热搜",
+  "time": "2026-10-20 08:49:13",
+  "items": [
+    {
+      "title": "圆通深夜致歉",
+      "hot_value": 1318485,
+      "link": "https://s.weibo.com/weibo?q=%E5%9C%86%E9%80%9A%E6%B7%B1%E5%A4%9C%E8%87%B4%E6%AD%89",
+      "rank": 1
+    },
+    {
+      "title": "身披旭日旗中国留学生已被遣返",
+      "hot_value": 1092730,
+      "link": "https://s.weibo.com/weibo?q=%E8%BA%AB%E6%8A%AB%E6%97%AD%E6%97%A5%E6%97%97%E4%B8%AD%E5%9B%BD%E7%95%99%E5%AD%A6%E7%94%9F%E5%B7%B2%E8%A2%AB%E9%81%A3%E8%BF%94",
+      "rank": 2
+    },
+    {
+      "title": "六个字读懂中国经济新亮点",
+      "hot_value": 770540,
+      "link": "https://s.weibo.com/weibo?q=%E5%85%AD%E4%B8%AA%E5%AD%97%E8%AF%BB%E6%87%82%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%96%B0%E4%BA%AE%E7%82%B9",
+      "rank": 3
+    },
+    {
+      "title": "C罗主动承认指控",
+      "hot_value": 754776,
+      "link": "https://s.weibo.com/weibo?q=C%E7%BD%97%E4%B8%BB%E5%8A%A8%E6%89%BF%E8%AE%A4%E6%8C%87%E6%8E%A7",
+      "rank": 4
+    },
+    {
+      "title": "蒙古国草原大火为何没烧进来",
+      "hot_value": 721146,
+      "link": "https://s.weibo.com/weibo?q=%E8%92%99%E5%8F%A4%E5%9B%BD%E8%8D%89%E5%8E%9F%E5%A4%A7%E7%81%AB%E4%B8%BA%E4%BD%95%E6%B2%A1%E7%83%A7%E8%BF%9B%E6%9D%A5",
+      "rank": 5
+    },
+    {
+      "title": "董明珠称格力技工学校禁止谈恋爱",
+      "hot_value": 721084,
+      "link": "https://s.weibo.com/weibo?q=%E8%91%A3%E6%98%8E%E7%8F%A0%E7%A7%B0%E6%A0%BC%E5%8A%9B%E6%8A%80%E5%B7%A5%E5%AD%A6%E6%A0%A1%E7%A6%81%E6%AD%A2%E8%B0%88%E6%81%8B%E7%88%B1",
+      "rank": 6
+    },
+    {
+      "title": "马斯克向特朗普账户捐80亿美元",
+      "hot_value": 608016,
+      "link": "https://s.weibo.com/weibo?q=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%90%91%E7%89%B9%E6%9C%97%E6%99%AE%E8%B4%A6%E6%88%B7%E6%8D%9080%E4%BA%BF%E7%BE%8E%E5%85%83",
+      "rank": 7
+    },
+    {
+      "title": "谭松韵刘学义像疲惫了一天的新郎新娘",
+      "hot_value": 386620,
+      "link": "https://s.weibo.com/weibo?q=%E8%B0%AD%E6%9D%BE%E9%9F%B5%E5%88%98%E5%AD%A6%E4%B9%89%E5%83%8F%E7%96%B2%E6%83%AB%E4%BA%86%E4%B8%80%E5%A4%A9%E7%9A%84%E6%96%B0%E9%83%8E%E6%96%B0%E5%A8%98",
+      "rank": 8
+    },
+    {
+      "title": "湖人正式裁掉克内克特",
+      "hot_value": 378861,
+      "link": "https://s.weibo.com/weibo?q=%E6%B9%96%E4%BA%BA%E6%AD%A3%E5%BC%8F%E8%A3%81%E6%8E%89%E5%85%8B%E5%86%85%E5%85%8B%E7%89%B9",
+      "rank": 9
+    },
+    {
+      "title": "苹果本月第2场发布会定档",
+      "hot_value": 363540,
+      "link": "https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C%E6%9C%AC%E6%9C%88%E7%AC%AC2%E5%9C%BA%E5%8F%91%E5%B8%83%E4%BC%9A%E5%AE%9A%E6%A1%A3",
+      "rank": 10
+    },
+    {
+      "title": "李小冉一忍再忍不想占用公共资源",
+      "hot_value": 358461,
+      "link": "https://s.weibo.com/weibo?q=%E6%9D%8E%E5%B0%8F%E5%86%89%E4%B8%80%E5%BF%8D%E5%86%8D%E5%BF%8D%E4%B8%8D%E6%83%B3%E5%8D%A0%E7%94%A8%E5%85%AC%E5%85%B1%E8%B5%84%E6%BA%90",
+      "rank": 11
+    },
+    {
+      "title": "首个二手房涨价的城市出现了",
+      "hot_value": 355802,
+      "link": "https://s.weibo.com/weibo?q=%E9%A6%96%E4%B8%AA%E4%BA%8C%E6%89%8B%E6%88%BF%E6%B6%A8%E4%BB%B7%E7%9A%84%E5%9F%8E%E5%B8%82%E5%87%BA%E7%8E%B0%E4%BA%86",
+      "rank": 12
+    },
+    {
+      "title": "C罗遭葡萄牙足协处罚",
+      "hot_value": 342515,
+      "link": "https://s.weibo.com/weibo?q=C%E7%BD%97%E9%81%AD%E8%91%A1%E8%90%84%E7%89%99%E8%B6%B3%E5%8D%8F%E5%A4%84%E7%BD%9A",
+      "rank": 13
+    },
+    {
+      "title": "徐佳宁求婚时说给你五个亿让你作",
+      "hot_value": 335647,
+      "link": "https://s.weibo.com/weibo?q=%E5%BE%90%E4%BD%B3%E5%AE%81%E6%B1%82%E5%A9%9A%E6%97%B6%E8%AF%B4%E7%BB%99%E4%BD%A0%E4%BA%94%E4%B8%AA%E4%BA%BF%E8%AE%A9%E4%BD%A0%E4%BD%9C",
+      "rank": 14
+    },
+    {
+      "title": "C罗禁赛30天",
+      "hot_value": 319552,
+      "link": "https://s.weibo.com/weibo?q=C%E7%BD%97%E7%A6%81%E8%B5%9B30%E5%A4%A9",
+      "rank": 15
+    },
+    {
+      "title": "李小冉参加乘风时徐佳宁打赏至榜一",
+      "hot_value": 318563,
+      "link": "https://s.weibo.com/weibo?q=%E6%9D%8E%E5%B0%8F%E5%86%89%E5%8F%82%E5%8A%A0%E4%B9%98%E9%A3%8E%E6%97%B6%E5%BE%90%E4%BD%B3%E5%AE%81%E6%89%93%E8%B5%8F%E8%87%B3%E6%A6%9C%E4%B8%80",
+      "rank": 16
+    },
+    {
+      "title": "男子出狱发现账户50多万只剩六块四",
+      "hot_value": 316890,
+      "link": "https://s.weibo.com/weibo?q=%E7%94%B7%E5%AD%90%E5%87%BA%E7%8B%B1%E5%8F%91%E7%8E%B0%E8%B4%A6%E6%88%B750%E5%A4%9A%E4%B8%87%E5%8F%AA%E5%89%A9%E5%85%AD%E5%9D%97%E5%9B%9B",
+      "rank": 17
+    },
+    {
+      "title": "外网热议奚梦瑶重返维密走秀",
+      "hot_value": 314810,
+      "link": "https://s.weibo.com/weibo?q=%E5%A4%96%E7%BD%91%E7%83%AD%E8%AE%AE%E5%A5%9A%E6%A2%A6%E7%91%B6%E9%87%8D%E8%BF%94%E7%BB%B4%E5%AF%86%E8%B5%B0%E7%A7%80",
+      "rank": 18
+    },
+    {
+      "title": "田曦薇剧宣真穿的婚纱",
+      "hot_value": 303154,
+      "link": "https://s.weibo.com/weibo?q=%E7%94%B0%E6%9B%A6%E8%96%87%E5%89%A7%E5%AE%A3%E7%9C%9F%E7%A9%BF%E7%9A%84%E5%A9%9A%E7%BA%B1",
+      "rank": 19
+    },
+    {
+      "title": "S16瑞士轮首日赛程",
+      "hot_value": 293182,
+      "link": "https://s.weibo.com/weibo?q=S16%E7%91%9E%E5%A3%AB%E8%BD%AE%E9%A6%96%E6%97%A5%E8%B5%9B%E7%A8%8B",
+      "rank": 20
+    },
+    {
+      "title": "仙人跳后报警被强奸多名受害人被抓",
+      "hot_value": 290980,
+      "link": "https://s.weibo.com/weibo?q=%E4%BB%99%E4%BA%BA%E8%B7%B3%E5%90%8E%E6%8A%A5%E8%AD%A6%E8%A2%AB%E5%BC%BA%E5%A5%B8%E5%A4%9A%E5%90%8D%E5%8F%97%E5%AE%B3%E4%BA%BA%E8%A2%AB%E6%8A%93",
+      "rank": 21
+    },
+    {
+      "title": "代谢快的人vs代谢慢的人",
+      "hot_value": 290297,
+      "link": "https://s.weibo.com/weibo?q=%E4%BB%A3%E8%B0%A2%E5%BF%AB%E7%9A%84%E4%BA%BAvs%E4%BB%A3%E8%B0%A2%E6%85%A2%E7%9A%84%E4%BA%BA",
+      "rank": 22
+    },
+    {
+      "title": "原来学霸是这样背书的",
+      "hot_value": 288548,
+      "link": "https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E5%AD%A6%E9%9C%B8%E6%98%AF%E8%BF%99%E6%A0%B7%E8%83%8C%E4%B9%A6%E7%9A%84",
+      "rank": 23
+    },
+    {
+      "title": "C罗致电葡足协主席告知要退出集训营",
+      "hot_value": 270995,
+      "link": "https://s.weibo.com/weibo?q=C%E7%BD%97%E8%87%B4%E7%94%B5%E8%91%A1%E8%B6%B3%E5%8D%8F%E4%B8%BB%E5%B8%AD%E5%91%8A%E7%9F%A5%E8%A6%81%E9%80%80%E5%87%BA%E9%9B%86%E8%AE%AD%E8%90%A5",
+      "rank": 24
+    },
+    {
+      "title": "萨摩耶走秀时突然憋不住了",
+      "hot_value": 249507,
+      "link": "https://s.weibo.com/weibo?q=%E8%90%A8%E6%91%A9%E8%80%B6%E8%B5%B0%E7%A7%80%E6%97%B6%E7%AA%81%E7%84%B6%E6%86%8B%E4%B8%8D%E4%BD%8F%E4%BA%86",
+      "rank": 25
+    },
+    {
+      "title": "肖战小城良方开播品牌助阵",
+      "hot_value": 227156,
+      "link": "https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E5%B0%8F%E5%9F%8E%E8%89%AF%E6%96%B9%E5%BC%80%E6%92%AD%E5%93%81%E7%89%8C%E5%8A%A9%E9%98%B5",
+      "rank": 26
+    },
+    {
+      "title": "留学生披旭日旗暴露个人精神的病态",
+      "hot_value": 202710,
+      "link": "https://s.weibo.com/weibo?q=%E7%95%99%E5%AD%A6%E7%94%9F%E6%8A%AB%E6%97%AD%E6%97%A5%E6%97%97%E6%9A%B4%E9%9C%B2%E4%B8%AA%E4%BA%BA%E7%B2%BE%E7%A5%9E%E7%9A%84%E7%97%85%E6%80%81",
+      "rank": 27
+    },
+    {
+      "title": "C罗此前19天预防性停赛可以抵扣",
+      "hot_value": 202247,
+      "link": "https://s.weibo.com/weibo?q=C%E7%BD%97%E6%AD%A4%E5%89%8D19%E5%A4%A9%E9%A2%84%E9%98%B2%E6%80%A7%E5%81%9C%E8%B5%9B%E5%8F%AF%E4%BB%A5%E6%8A%B5%E6%89%A3",
+      "rank": 28
+    },
+    {
+      "title": "98岁爷爷嫌吃不饱要打工",
+      "hot_value": 187603,
+      "link": "https://s.weibo.com/weibo?q=98%E5%B2%81%E7%88%B7%E7%88%B7%E5%AB%8C%E5%90%83%E4%B8%8D%E9%A5%B1%E8%A6%81%E6%89%93%E5%B7%A5",
+      "rank": 29
+    },
+    {
+      "title": "法国骚乱反差一幕",
+      "hot_value": 174820,
+      "link": "https://s.weibo.com/weibo?q=%E6%B3%95%E5%9B%BD%E9%AA%9A%E4%B9%B1%E5%8F%8D%E5%B7%AE%E4%B8%80%E5%B9%95",
+      "rank": 30
+    },
+    {
+      "title": "维密全球扭亏中国营收大涨",
+      "hot_value": 170553,
+      "link": "https://s.weibo.com/weibo?q=%E7%BB%B4%E5%AF%86%E5%85%A8%E7%90%83%E6%89%AD%E4%BA%8F%E4%B8%AD%E5%9B%BD%E8%90%A5%E6%94%B6%E5%A4%A7%E6%B6%A8",
+      "rank": 31
+    },
+    {
+      "title": "出去玩十天回来被追着还钱",
+      "hot_value": 164803,
+      "link": "https://s.weibo.com/weibo?q=%E5%87%BA%E5%8E%BB%E7%8E%A9%E5%8D%81%E5%A4%A9%E5%9B%9E%E6%9D%A5%E8%A2%AB%E8%BF%BD%E7%9D%80%E8%BF%98%E9%92%B1",
+      "rank": 32
+    },
+    {
+      "title": "岳云鹏演出 听不清",
+      "hot_value": 158402,
+      "link": "https://s.weibo.com/weibo?q=%E5%B2%B3%E4%BA%91%E9%B9%8F%E6%BC%94%E5%87%BA%20%E5%90%AC%E4%B8%8D%E6%B8%85",
+      "rank": 33
+    },
+    {
+      "title": "魏娆夜香妇身份暴露",
+      "hot_value": 153177,
+      "link": "https://s.weibo.com/weibo?q=%E9%AD%8F%E5%A8%86%E5%A4%9C%E9%A6%99%E5%A6%87%E8%BA%AB%E4%BB%BD%E6%9A%B4%E9%9C%B2",
+      "rank": 34
+    },
+    {
+      "title": "南太行徒步失联女子已找到",
+      "hot_value": 150804,
+      "link": "https://s.weibo.com/weibo?q=%E5%8D%97%E5%A4%AA%E8%A1%8C%E5%BE%92%E6%AD%A5%E5%A4%B1%E8%81%94%E5%A5%B3%E5%AD%90%E5%B7%B2%E6%89%BE%E5%88%B0",
+      "rank": 35
+    },
+    {
+      "title": "Aijing",
+      "hot_value": 147770,
+      "link": "https://s.weibo.com/weibo?q=Aijing",
+      "rank": 36
+    },
+    {
+      "title": "苹果手机很多人不知道的操作",
+      "hot_value": 145827,
+      "link": "https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E5%BE%88%E5%A4%9A%E4%BA%BA%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84%E6%93%8D%E4%BD%9C",
+      "rank": 37
+    },
+    {
+      "title": "想要的晚年状态被10后老人具象化了",
+      "hot_value": 145559,
+      "link": "https://s.weibo.com/weibo?q=%E6%83%B3%E8%A6%81%E7%9A%84%E6%99%9A%E5%B9%B4%E7%8A%B6%E6%80%81%E8%A2%AB10%E5%90%8E%E8%80%81%E4%BA%BA%E5%85%B7%E8%B1%A1%E5%8C%96%E4%BA%86",
+      "rank": 38
+    },
+    {
+      "title": "法国女友因不让洗袜子生气",
+      "hot_value": 142068,
+      "link": "https://s.weibo.com/weibo?q=%E6%B3%95%E5%9B%BD%E5%A5%B3%E5%8F%8B%E5%9B%A0%E4%B8%8D%E8%AE%A9%E6%B4%97%E8%A2%9C%E5%AD%90%E7%94%9F%E6%B0%94",
+      "rank": 39
+    },
+    {
+      "title": "房子降到150万好卖多了",
+      "hot_value": 125980,
+      "link": "https://s.weibo.com/weibo?q=%E6%88%BF%E5%AD%90%E9%99%8D%E5%88%B0150%E4%B8%87%E5%A5%BD%E5%8D%96%E5%A4%9A%E4%BA%86",
+      "rank": 40
+    },
+    {
+      "title": "狗狗有蜱虫主人找鸡帮忙",
+      "hot_value": 120309,
+      "link": "https://s.weibo.com/weibo?q=%E7%8B%97%E7%8B%97%E6%9C%89%E8%9C%B1%E8%99%AB%E4%B8%BB%E4%BA%BA%E6%89%BE%E9%B8%A1%E5%B8%AE%E5%BF%99",
+      "rank": 41
+    },
+    {
+      "title": "王一博拍摄华北豹",
+      "hot_value": 111428,
+      "link": "https://s.weibo.com/weibo?q=%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%8B%8D%E6%91%84%E5%8D%8E%E5%8C%97%E8%B1%B9",
+      "rank": 42
+    },
+    {
+      "title": "圆通浙江省区网管负责人被罚",
+      "hot_value": 111245,
+      "link": "https://s.weibo.com/weibo?q=%E5%9C%86%E9%80%9A%E6%B5%99%E6%B1%9F%E7%9C%81%E5%8C%BA%E7%BD%91%E7%AE%A1%E8%B4%9F%E8%B4%A3%E4%BA%BA%E8%A2%AB%E7%BD%9A",
+      "rank": 43
+    },
+    {
+      "title": "沙特宣布处决两名孟加拉国公民",
+      "hot_value": 110578,
+      "link": "https://s.weibo.com/weibo?q=%E6%B2%99%E7%89%B9%E5%AE%A3%E5%B8%83%E5%A4%84%E5%86%B3%E4%B8%A4%E5%90%8D%E5%AD%9F%E5%8A%A0%E6%8B%89%E5%9B%BD%E5%85%AC%E6%B0%91",
+      "rank": 44
+    },
+    {
+      "title": "祖孙三人被杀害凶手被执行死刑",
+      "hot_value": 107865,
+      "link": "https://s.weibo.com/weibo?q=%E7%A5%96%E5%AD%99%E4%B8%89%E4%BA%BA%E8%A2%AB%E6%9D%80%E5%AE%B3%E5%87%B6%E6%89%8B%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91",
+      "rank": 45
+    },
+    {
+      "title": "数码店老板吐槽iPhone18Pro卖不动",
+      "hot_value": 106667,
+      "link": "https://s.weibo.com/weibo?q=%E6%95%B0%E7%A0%81%E5%BA%97%E8%80%81%E6%9D%BF%E5%90%90%E6%A7%BDiPhone18Pro%E5%8D%96%E4%B8%8D%E5%8A%A8",
+      "rank": 46
+    },
+    {
+      "title": "奔跑吧大湾区篇",
+      "hot_value": 104412,
+      "link": "https://s.weibo.com/weibo?q=%E5%A5%94%E8%B7%91%E5%90%A7%E5%A4%A7%E6%B9%BE%E5%8C%BA%E7%AF%87",
+      "rank": 47
+    },
+    {
+      "title": "仙人跳团伙利用15岁成员作诱饵敲诈",
+      "hot_value": 102581,
+      "link": "https://s.weibo.com/weibo?q=%E4%BB%99%E4%BA%BA%E8%B7%B3%E5%9B%A2%E4%BC%99%E5%88%A9%E7%94%A815%E5%B2%81%E6%88%90%E5%91%98%E4%BD%9C%E8%AF%B1%E9%A5%B5%E6%95%B2%E8%AF%88",
+      "rank": 48
+    },
+    {
+      "title": "谭松韵刘学义直播避嫌避成啥样了",
+      "hot_value": 90773,
+      "link": "https://s.weibo.com/weibo?q=%E8%B0%AD%E6%9D%BE%E9%9F%B5%E5%88%98%E5%AD%A6%E4%B9%89%E7%9B%B4%E6%92%AD%E9%81%BF%E5%AB%8C%E9%81%BF%E6%88%90%E5%95%A5%E6%A0%B7%E4%BA%86",
+      "rank": 49
+    },
+    {
+      "title": "盛艾敬妈妈和裴珠泫一样大",
+      "hot_value": 89670,
+      "link": "https://s.weibo.com/weibo?q=%E7%9B%9B%E8%89%BE%E6%95%AC%E5%A6%88%E5%A6%88%E5%92%8C%E8%A3%B4%E7%8F%A0%E6%B3%AB%E4%B8%80%E6%A0%B7%E5%A4%A7",
+      "rank": 50
+    }
+  ]
+}
