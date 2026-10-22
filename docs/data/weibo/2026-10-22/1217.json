@@ -1,0 +1,307 @@
+{
+  "platform": "weibo",
+  "platform_name": "微博热搜",
+  "time": "2026-10-22 12:17:26",
+  "items": [
+    {
+      "title": "iPhoneDuo微信不适配",
+      "hot_value": 1771187,
+      "link": "https://s.weibo.com/weibo?q=iPhoneDuo%E5%BE%AE%E4%BF%A1%E4%B8%8D%E9%80%82%E9%85%8D",
+      "rank": 1
+    },
+    {
+      "title": "女子称地铁站内看5小时书被扣15元",
+      "hot_value": 1385890,
+      "link": "https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%90%E7%A7%B0%E5%9C%B0%E9%93%81%E7%AB%99%E5%86%85%E7%9C%8B5%E5%B0%8F%E6%97%B6%E4%B9%A6%E8%A2%AB%E6%89%A315%E5%85%83",
+      "rank": 2
+    },
+    {
+      "title": "走好属于我们这一代的长征路",
+      "hot_value": 763705,
+      "link": "https://s.weibo.com/weibo?q=%E8%B5%B0%E5%A5%BD%E5%B1%9E%E4%BA%8E%E6%88%91%E4%BB%AC%E8%BF%99%E4%B8%80%E4%BB%A3%E7%9A%84%E9%95%BF%E5%BE%81%E8%B7%AF",
+      "rank": 3
+    },
+    {
+      "title": "君黛喝毒酒下线",
+      "hot_value": 637743,
+      "link": "https://s.weibo.com/weibo?q=%E5%90%9B%E9%BB%9B%E5%96%9D%E6%AF%92%E9%85%92%E4%B8%8B%E7%BA%BF",
+      "rank": 4
+    },
+    {
+      "title": "上海婚纱店疑删除祖海高定内容",
+      "hot_value": 601225,
+      "link": "https://s.weibo.com/weibo?q=%E4%B8%8A%E6%B5%B7%E5%A9%9A%E7%BA%B1%E5%BA%97%E7%96%91%E5%88%A0%E9%99%A4%E7%A5%96%E6%B5%B7%E9%AB%98%E5%AE%9A%E5%86%85%E5%AE%B9",
+      "rank": 5
+    },
+    {
+      "title": "肖战能否达成电视剧三平台破万",
+      "hot_value": 495942,
+      "link": "https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E8%83%BD%E5%90%A6%E8%BE%BE%E6%88%90%E7%94%B5%E8%A7%86%E5%89%A7%E4%B8%89%E5%B9%B3%E5%8F%B0%E7%A0%B4%E4%B8%87",
+      "rank": 6
+    },
+    {
+      "title": "原来用AI写论文是会有痕迹的",
+      "hot_value": 490148,
+      "link": "https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E7%94%A8AI%E5%86%99%E8%AE%BA%E6%96%87%E6%98%AF%E4%BC%9A%E6%9C%89%E7%97%95%E8%BF%B9%E7%9A%84",
+      "rank": 7
+    },
+    {
+      "title": "嫁金钗单更一周",
+      "hot_value": 489248,
+      "link": "https://s.weibo.com/weibo?q=%E5%AB%81%E9%87%91%E9%92%97%E5%8D%95%E6%9B%B4%E4%B8%80%E5%91%A8",
+      "rank": 8
+    },
+    {
+      "title": "VOGUE盛典红毯",
+      "hot_value": 478498,
+      "link": "https://s.weibo.com/weibo?q=VOGUE%E7%9B%9B%E5%85%B8%E7%BA%A2%E6%AF%AF",
+      "rank": 9
+    },
+    {
+      "title": "一天杀一只白马股",
+      "hot_value": 477643,
+      "link": "https://s.weibo.com/weibo?q=%E4%B8%80%E5%A4%A9%E6%9D%80%E4%B8%80%E5%8F%AA%E7%99%BD%E9%A9%AC%E8%82%A1",
+      "rank": 10
+    },
+    {
+      "title": "纪念长征胜利90周年全场唱国歌",
+      "hot_value": 475831,
+      "link": "https://s.weibo.com/weibo?q=%E7%BA%AA%E5%BF%B5%E9%95%BF%E5%BE%81%E8%83%9C%E5%88%A990%E5%91%A8%E5%B9%B4%E5%85%A8%E5%9C%BA%E5%94%B1%E5%9B%BD%E6%AD%8C",
+      "rank": 11
+    },
+    {
+      "title": "曝自费高定艺人名字",
+      "hot_value": 474978,
+      "link": "https://s.weibo.com/weibo?q=%E6%9B%9D%E8%87%AA%E8%B4%B9%E9%AB%98%E5%AE%9A%E8%89%BA%E4%BA%BA%E5%90%8D%E5%AD%97",
+      "rank": 12
+    },
+    {
+      "title": "离婚后发现前夫婚内继承400余万",
+      "hot_value": 473636,
+      "link": "https://s.weibo.com/weibo?q=%E7%A6%BB%E5%A9%9A%E5%90%8E%E5%8F%91%E7%8E%B0%E5%89%8D%E5%A4%AB%E5%A9%9A%E5%86%85%E7%BB%A7%E6%89%BF400%E4%BD%99%E4%B8%87",
+      "rank": 13
+    },
+    {
+      "title": "马克龙点名抨击特朗普",
+      "hot_value": 471190,
+      "link": "https://s.weibo.com/weibo?q=%E9%A9%AC%E5%85%8B%E9%BE%99%E7%82%B9%E5%90%8D%E6%8A%A8%E5%87%BB%E7%89%B9%E6%9C%97%E6%99%AE",
+      "rank": 14
+    },
+    {
+      "title": "郑欣宜在沈殿霞墓前哭",
+      "hot_value": 469312,
+      "link": "https://s.weibo.com/weibo?q=%E9%83%91%E6%AC%A3%E5%AE%9C%E5%9C%A8%E6%B2%88%E6%AE%BF%E9%9C%9E%E5%A2%93%E5%89%8D%E5%93%AD",
+      "rank": 15
+    },
+    {
+      "title": "曝文咏珊生女",
+      "hot_value": 469078,
+      "link": "https://s.weibo.com/weibo?q=%E6%9B%9D%E6%96%87%E5%92%8F%E7%8F%8A%E7%94%9F%E5%A5%B3",
+      "rank": 16
+    },
+    {
+      "title": "张小斐体面人",
+      "hot_value": 442419,
+      "link": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%B0%8F%E6%96%90%E4%BD%93%E9%9D%A2%E4%BA%BA",
+      "rank": 17
+    },
+    {
+      "title": "负债7w另有1万信用卡即将逾期",
+      "hot_value": 438201,
+      "link": "https://s.weibo.com/weibo?q=%E8%B4%9F%E5%80%BA7w%E5%8F%A6%E6%9C%891%E4%B8%87%E4%BF%A1%E7%94%A8%E5%8D%A1%E5%8D%B3%E5%B0%86%E9%80%BE%E6%9C%9F",
+      "rank": 18
+    },
+    {
+      "title": "A股",
+      "hot_value": 358747,
+      "link": "https://s.weibo.com/weibo?q=A%E8%82%A1",
+      "rank": 19
+    },
+    {
+      "title": "沈殿霞6000万信托",
+      "hot_value": 357944,
+      "link": "https://s.weibo.com/weibo?q=%E6%B2%88%E6%AE%BF%E9%9C%9E6000%E4%B8%87%E4%BF%A1%E6%89%98",
+      "rank": 20
+    },
+    {
+      "title": "杨幂美人心计扮丑是真扮丑",
+      "hot_value": 351844,
+      "link": "https://s.weibo.com/weibo?q=%E6%9D%A8%E5%B9%82%E7%BE%8E%E4%BA%BA%E5%BF%83%E8%AE%A1%E6%89%AE%E4%B8%91%E6%98%AF%E7%9C%9F%E6%89%AE%E4%B8%91",
+      "rank": 21
+    },
+    {
+      "title": "红果开始忘本",
+      "hot_value": 349980,
+      "link": "https://s.weibo.com/weibo?q=%E7%BA%A2%E6%9E%9C%E5%BC%80%E5%A7%8B%E5%BF%98%E6%9C%AC",
+      "rank": 22
+    },
+    {
+      "title": "业内澄清给艺人买高定",
+      "hot_value": 347562,
+      "link": "https://s.weibo.com/weibo?q=%E4%B8%9A%E5%86%85%E6%BE%84%E6%B8%85%E7%BB%99%E8%89%BA%E4%BA%BA%E4%B9%B0%E9%AB%98%E5%AE%9A",
+      "rank": 23
+    },
+    {
+      "title": "东契奇中圈压哨三分",
+      "hot_value": 335489,
+      "link": "https://s.weibo.com/weibo?q=%E4%B8%9C%E5%A5%91%E5%A5%87%E4%B8%AD%E5%9C%88%E5%8E%8B%E5%93%A8%E4%B8%89%E5%88%86",
+      "rank": 24
+    },
+    {
+      "title": "字母哥35分 爱德华兹45分",
+      "hot_value": 332879,
+      "link": "https://s.weibo.com/weibo?q=%E5%AD%97%E6%AF%8D%E5%93%A535%E5%88%86%20%E7%88%B1%E5%BE%B7%E5%8D%8E%E5%85%B945%E5%88%86",
+      "rank": 25
+    },
+    {
+      "title": "君黛到死都没叫魏恒娥一声阿母",
+      "hot_value": 331141,
+      "link": "https://s.weibo.com/weibo?q=%E5%90%9B%E9%BB%9B%E5%88%B0%E6%AD%BB%E9%83%BD%E6%B2%A1%E5%8F%AB%E9%AD%8F%E6%81%92%E5%A8%A5%E4%B8%80%E5%A3%B0%E9%98%BF%E6%AF%8D",
+      "rank": 26
+    },
+    {
+      "title": "周杰伦说我是中国人有什么可讨论的",
+      "hot_value": 328168,
+      "link": "https://s.weibo.com/weibo?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%E8%AF%B4%E6%88%91%E6%98%AF%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%9C%89%E4%BB%80%E4%B9%88%E5%8F%AF%E8%AE%A8%E8%AE%BA%E7%9A%84",
+      "rank": 27
+    },
+    {
+      "title": "红果免费看剧广告变现模式已跑通",
+      "hot_value": 278070,
+      "link": "https://s.weibo.com/weibo?q=%E7%BA%A2%E6%9E%9C%E5%85%8D%E8%B4%B9%E7%9C%8B%E5%89%A7%E5%B9%BF%E5%91%8A%E5%8F%98%E7%8E%B0%E6%A8%A1%E5%BC%8F%E5%B7%B2%E8%B7%91%E9%80%9A",
+      "rank": 28
+    },
+    {
+      "title": "浓眉奇才首秀34分12篮板",
+      "hot_value": 276208,
+      "link": "https://s.weibo.com/weibo?q=%E6%B5%93%E7%9C%89%E5%A5%87%E6%89%8D%E9%A6%96%E7%A7%8034%E5%88%8612%E7%AF%AE%E6%9D%BF",
+      "rank": 29
+    },
+    {
+      "title": "料酒去腥的惊天骗局",
+      "hot_value": 275195,
+      "link": "https://s.weibo.com/weibo?q=%E6%96%99%E9%85%92%E5%8E%BB%E8%85%A5%E7%9A%84%E6%83%8A%E5%A4%A9%E9%AA%97%E5%B1%80",
+      "rank": 30
+    },
+    {
+      "title": "嫁金钗君黛死在魏娆怀里",
+      "hot_value": 274373,
+      "link": "https://s.weibo.com/weibo?q=%E5%AB%81%E9%87%91%E9%92%97%E5%90%9B%E9%BB%9B%E6%AD%BB%E5%9C%A8%E9%AD%8F%E5%A8%86%E6%80%80%E9%87%8C",
+      "rank": 31
+    },
+    {
+      "title": "蔡文静工作留痕的重要性",
+      "hot_value": 253704,
+      "link": "https://s.weibo.com/weibo?q=%E8%94%A1%E6%96%87%E9%9D%99%E5%B7%A5%E4%BD%9C%E7%95%99%E7%97%95%E7%9A%84%E9%87%8D%E8%A6%81%E6%80%A7",
+      "rank": 32
+    },
+    {
+      "title": "红果短剧暂无全面收费计划",
+      "hot_value": 248295,
+      "link": "https://s.weibo.com/weibo?q=%E7%BA%A2%E6%9E%9C%E7%9F%AD%E5%89%A7%E6%9A%82%E6%97%A0%E5%85%A8%E9%9D%A2%E6%94%B6%E8%B4%B9%E8%AE%A1%E5%88%92",
+      "rank": 33
+    },
+    {
+      "title": "肖战演唱会二开",
+      "hot_value": 240756,
+      "link": "https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E6%BC%94%E5%94%B1%E4%BC%9A%E4%BA%8C%E5%BC%80",
+      "rank": 34
+    },
+    {
+      "title": "全球首款乙肝功能性治愈药物",
+      "hot_value": 236888,
+      "link": "https://s.weibo.com/weibo?q=%E5%85%A8%E7%90%83%E9%A6%96%E6%AC%BE%E4%B9%99%E8%82%9D%E5%8A%9F%E8%83%BD%E6%80%A7%E6%B2%BB%E6%84%88%E8%8D%AF%E7%89%A9",
+      "rank": 35
+    },
+    {
+      "title": "宇树机器人展示举起汽车救人",
+      "hot_value": 220198,
+      "link": "https://s.weibo.com/weibo?q=%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%B1%95%E7%A4%BA%E4%B8%BE%E8%B5%B7%E6%B1%BD%E8%BD%A6%E6%95%91%E4%BA%BA",
+      "rank": 36
+    },
+    {
+      "title": "嫁金钗",
+      "hot_value": 214940,
+      "link": "https://s.weibo.com/weibo?q=%E5%AB%81%E9%87%91%E9%92%97",
+      "rank": 37
+    },
+    {
+      "title": "奥黛丽厚本称自己站在红毯上无比自信",
+      "hot_value": 214137,
+      "link": "https://s.weibo.com/weibo?q=%E5%A5%A5%E9%BB%9B%E4%B8%BD%E5%8E%9A%E6%9C%AC%E7%A7%B0%E8%87%AA%E5%B7%B1%E7%AB%99%E5%9C%A8%E7%BA%A2%E6%AF%AF%E4%B8%8A%E6%97%A0%E6%AF%94%E8%87%AA%E4%BF%A1",
+      "rank": 38
+    },
+    {
+      "title": "碧桃是为了救魏娆牺牲的",
+      "hot_value": 208213,
+      "link": "https://s.weibo.com/weibo?q=%E7%A2%A7%E6%A1%83%E6%98%AF%E4%B8%BA%E4%BA%86%E6%95%91%E9%AD%8F%E5%A8%86%E7%89%BA%E7%89%B2%E7%9A%84",
+      "rank": 39
+    },
+    {
+      "title": "TheShy力挺Kiin",
+      "hot_value": 207831,
+      "link": "https://s.weibo.com/weibo?q=TheShy%E5%8A%9B%E6%8C%BAKiin",
+      "rank": 40
+    },
+    {
+      "title": "iPhoneDuo屏下前摄翻车",
+      "hot_value": 206333,
+      "link": "https://s.weibo.com/weibo?q=iPhoneDuo%E5%B1%8F%E4%B8%8B%E5%89%8D%E6%91%84%E7%BF%BB%E8%BD%A6",
+      "rank": 41
+    },
+    {
+      "title": "在东北真的听不得你试试这仨字",
+      "hot_value": 205417,
+      "link": "https://s.weibo.com/weibo?q=%E5%9C%A8%E4%B8%9C%E5%8C%97%E7%9C%9F%E7%9A%84%E5%90%AC%E4%B8%8D%E5%BE%97%E4%BD%A0%E8%AF%95%E8%AF%95%E8%BF%99%E4%BB%A8%E5%AD%97",
+      "rank": 42
+    },
+    {
+      "title": "侯明昊在雪中飞",
+      "hot_value": 201330,
+      "link": "https://s.weibo.com/weibo?q=%E4%BE%AF%E6%98%8E%E6%98%8A%E5%9C%A8%E9%9B%AA%E4%B8%AD%E9%A3%9E",
+      "rank": 43
+    },
+    {
+      "title": "孙千的理想出逃计划",
+      "hot_value": 200053,
+      "link": "https://s.weibo.com/weibo?q=%E5%AD%99%E5%8D%83%E7%9A%84%E7%90%86%E6%83%B3%E5%87%BA%E9%80%83%E8%AE%A1%E5%88%92",
+      "rank": 44
+    },
+    {
+      "title": "人民日报评老师被家长无理举报",
+      "hot_value": 198726,
+      "link": "https://s.weibo.com/weibo?q=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E8%80%81%E5%B8%88%E8%A2%AB%E5%AE%B6%E9%95%BF%E6%97%A0%E7%90%86%E4%B8%BE%E6%8A%A5",
+      "rank": 45
+    },
+    {
+      "title": "小城良方前四集观后感",
+      "hot_value": 189115,
+      "link": "https://s.weibo.com/weibo?q=%E5%B0%8F%E5%9F%8E%E8%89%AF%E6%96%B9%E5%89%8D%E5%9B%9B%E9%9B%86%E8%A7%82%E5%90%8E%E6%84%9F",
+      "rank": 46
+    },
+    {
+      "title": "刘铮亮父亲冬泳溺亡",
+      "hot_value": 187898,
+      "link": "https://s.weibo.com/weibo?q=%E5%88%98%E9%93%AE%E4%BA%AE%E7%88%B6%E4%BA%B2%E5%86%AC%E6%B3%B3%E6%BA%BA%E4%BA%A1",
+      "rank": 47
+    },
+    {
+      "title": "iPhoneDuo仅适合特定人群",
+      "hot_value": 178969,
+      "link": "https://s.weibo.com/weibo?q=iPhoneDuo%E4%BB%85%E9%80%82%E5%90%88%E7%89%B9%E5%AE%9A%E4%BA%BA%E7%BE%A4",
+      "rank": 48
+    },
+    {
+      "title": "客栈新组合疯抢京东组合购",
+      "hot_value": 169410,
+      "link": "https://s.weibo.com/weibo?q=%E5%AE%A2%E6%A0%88%E6%96%B0%E7%BB%84%E5%90%88%E7%96%AF%E6%8A%A2%E4%BA%AC%E4%B8%9C%E7%BB%84%E5%90%88%E8%B4%AD",
+      "rank": 49
+    },
+    {
+      "title": "广州白云代孕窝点无人开门难处置",
+      "hot_value": 169335,
+      "link": "https://s.weibo.com/weibo?q=%E5%B9%BF%E5%B7%9E%E7%99%BD%E4%BA%91%E4%BB%A3%E5%AD%95%E7%AA%9D%E7%82%B9%E6%97%A0%E4%BA%BA%E5%BC%80%E9%97%A8%E9%9A%BE%E5%A4%84%E7%BD%AE",
+      "rank": 50
+    }
+  ]
+}
