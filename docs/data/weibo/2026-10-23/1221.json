@@ -1,0 +1,307 @@
+{
+  "platform": "weibo",
+  "platform_name": "微博热搜",
+  "time": "2026-10-23 12:21:29",
+  "items": [
+    {
+      "title": "别再嫌再见朋友请来的咖糊了",
+      "hot_value": 1152067,
+      "link": "https://s.weibo.com/weibo?q=%E5%88%AB%E5%86%8D%E5%AB%8C%E5%86%8D%E8%A7%81%E6%9C%8B%E5%8F%8B%E8%AF%B7%E6%9D%A5%E7%9A%84%E5%92%96%E7%B3%8A%E4%BA%86",
+      "rank": 1
+    },
+    {
+      "title": "西藏7级地震",
+      "hot_value": 830927,
+      "link": "https://s.weibo.com/weibo?q=%E8%A5%BF%E8%97%8F7%E7%BA%A7%E5%9C%B0%E9%9C%87",
+      "rank": 2
+    },
+    {
+      "title": "多方救援力量赶往震中",
+      "hot_value": 676703,
+      "link": "https://s.weibo.com/weibo?q=%E5%A4%9A%E6%96%B9%E6%95%91%E6%8F%B4%E5%8A%9B%E9%87%8F%E8%B5%B6%E5%BE%80%E9%9C%87%E4%B8%AD",
+      "rank": 3
+    },
+    {
+      "title": "NBA回应76人29分大逆转骑士",
+      "hot_value": 673097,
+      "link": "https://s.weibo.com/weibo?q=NBA%E5%9B%9E%E5%BA%9476%E4%BA%BA29%E5%88%86%E5%A4%A7%E9%80%86%E8%BD%AC%E9%AA%91%E5%A3%AB",
+      "rank": 4
+    },
+    {
+      "title": "胡锡进说股票跌得心疼",
+      "hot_value": 668298,
+      "link": "https://s.weibo.com/weibo?q=%E8%83%A1%E9%94%A1%E8%BF%9B%E8%AF%B4%E8%82%A1%E7%A5%A8%E8%B7%8C%E5%BE%97%E5%BF%83%E7%96%BC",
+      "rank": 5
+    },
+    {
+      "title": "VOGUE明星出图",
+      "hot_value": 662862,
+      "link": "https://s.weibo.com/weibo?q=VOGUE%E6%98%8E%E6%98%9F%E5%87%BA%E5%9B%BE",
+      "rank": 6
+    },
+    {
+      "title": "孟子义尚公主剧宣排面",
+      "hot_value": 660975,
+      "link": "https://s.weibo.com/weibo?q=%E5%AD%9F%E5%AD%90%E4%B9%89%E5%B0%9A%E5%85%AC%E4%B8%BB%E5%89%A7%E5%AE%A3%E6%8E%92%E9%9D%A2",
+      "rank": 7
+    },
+    {
+      "title": "苹果折叠屏开售",
+      "hot_value": 656637,
+      "link": "https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C%E6%8A%98%E5%8F%A0%E5%B1%8F%E5%BC%80%E5%94%AE",
+      "rank": 8
+    },
+    {
+      "title": "金饰价格一夜崩了",
+      "hot_value": 648043,
+      "link": "https://s.weibo.com/weibo?q=%E9%87%91%E9%A5%B0%E4%BB%B7%E6%A0%BC%E4%B8%80%E5%A4%9C%E5%B4%A9%E4%BA%86",
+      "rank": 9
+    },
+    {
+      "title": "小城良方刘铮亮居然能交到2个前女友",
+      "hot_value": 645665,
+      "link": "https://s.weibo.com/weibo?q=%E5%B0%8F%E5%9F%8E%E8%89%AF%E6%96%B9%E5%88%98%E9%93%AE%E4%BA%AE%E5%B1%85%E7%84%B6%E8%83%BD%E4%BA%A4%E5%88%B02%E4%B8%AA%E5%89%8D%E5%A5%B3%E5%8F%8B",
+      "rank": 10
+    },
+    {
+      "title": "撕完苹果内屏磨砂膜再贴回去要花398",
+      "hot_value": 642690,
+      "link": "https://s.weibo.com/weibo?q=%E6%92%95%E5%AE%8C%E8%8B%B9%E6%9E%9C%E5%86%85%E5%B1%8F%E7%A3%A8%E7%A0%82%E8%86%9C%E5%86%8D%E8%B4%B4%E5%9B%9E%E5%8E%BB%E8%A6%81%E8%8A%B1398",
+      "rank": 11
+    },
+    {
+      "title": "黄子韬公司被强制执行2040万",
+      "hot_value": 637589,
+      "link": "https://s.weibo.com/weibo?q=%E9%BB%84%E5%AD%90%E9%9F%AC%E5%85%AC%E5%8F%B8%E8%A2%AB%E5%BC%BA%E5%88%B6%E6%89%A7%E8%A1%8C2040%E4%B8%87",
+      "rank": 12
+    },
+    {
+      "title": "再见朋友厉娜许飞好纯粹的恨",
+      "hot_value": 630507,
+      "link": "https://s.weibo.com/weibo?q=%E5%86%8D%E8%A7%81%E6%9C%8B%E5%8F%8B%E5%8E%89%E5%A8%9C%E8%AE%B8%E9%A3%9E%E5%A5%BD%E7%BA%AF%E7%B2%B9%E7%9A%84%E6%81%A8",
+      "rank": 13
+    },
+    {
+      "title": "华强北商家说iPhoneDuo毫无技术含量",
+      "hot_value": 628703,
+      "link": "https://s.weibo.com/weibo?q=%E5%8D%8E%E5%BC%BA%E5%8C%97%E5%95%86%E5%AE%B6%E8%AF%B4iPhoneDuo%E6%AF%AB%E6%97%A0%E6%8A%80%E6%9C%AF%E5%90%AB%E9%87%8F",
+      "rank": 14
+    },
+    {
+      "title": "A股跌破3600点原因曝光",
+      "hot_value": 621370,
+      "link": "https://s.weibo.com/weibo?q=A%E8%82%A1%E8%B7%8C%E7%A0%B43600%E7%82%B9%E5%8E%9F%E5%9B%A0%E6%9B%9D%E5%85%89",
+      "rank": 15
+    },
+    {
+      "title": "A股跌破3600点",
+      "hot_value": 619298,
+      "link": "https://s.weibo.com/weibo?q=A%E8%82%A1%E8%B7%8C%E7%A0%B43600%E7%82%B9",
+      "rank": 16
+    },
+    {
+      "title": "北京卫视小城良方",
+      "hot_value": 619102,
+      "link": "https://s.weibo.com/weibo?q=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86%E5%B0%8F%E5%9F%8E%E8%89%AF%E6%96%B9",
+      "rank": 17
+    },
+    {
+      "title": "张亮请张亮吃张亮",
+      "hot_value": 617133,
+      "link": "https://s.weibo.com/weibo?q=%E5%BC%A0%E4%BA%AE%E8%AF%B7%E5%BC%A0%E4%BA%AE%E5%90%83%E5%BC%A0%E4%BA%AE",
+      "rank": 18
+    },
+    {
+      "title": "欧阳娜娜帮何穗策划VOGUE造型",
+      "hot_value": 614313,
+      "link": "https://s.weibo.com/weibo?q=%E6%AC%A7%E9%98%B3%E5%A8%9C%E5%A8%9C%E5%B8%AE%E4%BD%95%E7%A9%97%E7%AD%96%E5%88%92VOGUE%E9%80%A0%E5%9E%8B",
+      "rank": 19
+    },
+    {
+      "title": "丁禹兮怪好吃认证",
+      "hot_value": 612489,
+      "link": "https://s.weibo.com/weibo?q=%E4%B8%81%E7%A6%B9%E5%85%AE%E6%80%AA%E5%A5%BD%E5%90%83%E8%AE%A4%E8%AF%81",
+      "rank": 20
+    },
+    {
+      "title": "肖战演唱会可通过其他方式关注",
+      "hot_value": 611656,
+      "link": "https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E6%BC%94%E5%94%B1%E4%BC%9A%E5%8F%AF%E9%80%9A%E8%BF%87%E5%85%B6%E4%BB%96%E6%96%B9%E5%BC%8F%E5%85%B3%E6%B3%A8",
+      "rank": 21
+    },
+    {
+      "title": "何穗 拿到大结果了",
+      "hot_value": 609752,
+      "link": "https://s.weibo.com/weibo?q=%E4%BD%95%E7%A9%97%20%E6%8B%BF%E5%88%B0%E5%A4%A7%E7%BB%93%E6%9E%9C%E4%BA%86",
+      "rank": 22
+    },
+    {
+      "title": "两女生投150万开无烟酒吧倒闭",
+      "hot_value": 608965,
+      "link": "https://s.weibo.com/weibo?q=%E4%B8%A4%E5%A5%B3%E7%94%9F%E6%8A%95150%E4%B8%87%E5%BC%80%E6%97%A0%E7%83%9F%E9%85%92%E5%90%A7%E5%80%92%E9%97%AD",
+      "rank": 23
+    },
+    {
+      "title": "张志超案改判无罪",
+      "hot_value": 570614,
+      "link": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%BF%97%E8%B6%85%E6%A1%88%E6%94%B9%E5%88%A4%E6%97%A0%E7%BD%AA",
+      "rank": 24
+    },
+    {
+      "title": "骚扰来电不接和挂断区别很大",
+      "hot_value": 556501,
+      "link": "https://s.weibo.com/weibo?q=%E9%AA%9A%E6%89%B0%E6%9D%A5%E7%94%B5%E4%B8%8D%E6%8E%A5%E5%92%8C%E6%8C%82%E6%96%AD%E5%8C%BA%E5%88%AB%E5%BE%88%E5%A4%A7",
+      "rank": 25
+    },
+    {
+      "title": "iPhoneDuo PuraXMax",
+      "hot_value": 498902,
+      "link": "https://s.weibo.com/weibo?q=iPhoneDuo%20PuraXMax",
+      "rank": 26
+    },
+    {
+      "title": "曝VOGUE盛典红毯女明星高定",
+      "hot_value": 450887,
+      "link": "https://s.weibo.com/weibo?q=%E6%9B%9DVOGUE%E7%9B%9B%E5%85%B8%E7%BA%A2%E6%AF%AF%E5%A5%B3%E6%98%8E%E6%98%9F%E9%AB%98%E5%AE%9A",
+      "rank": 27
+    },
+    {
+      "title": "盛艾敬被批不尊重前辈只顾着自己跳舞",
+      "hot_value": 368541,
+      "link": "https://s.weibo.com/weibo?q=%E7%9B%9B%E8%89%BE%E6%95%AC%E8%A2%AB%E6%89%B9%E4%B8%8D%E5%B0%8A%E9%87%8D%E5%89%8D%E8%BE%88%E5%8F%AA%E9%A1%BE%E7%9D%80%E8%87%AA%E5%B7%B1%E8%B7%B3%E8%88%9E",
+      "rank": 28
+    },
+    {
+      "title": "在星巴克开会1小时被提醒点单5次",
+      "hot_value": 346041,
+      "link": "https://s.weibo.com/weibo?q=%E5%9C%A8%E6%98%9F%E5%B7%B4%E5%85%8B%E5%BC%80%E4%BC%9A1%E5%B0%8F%E6%97%B6%E8%A2%AB%E6%8F%90%E9%86%92%E7%82%B9%E5%8D%955%E6%AC%A1",
+      "rank": 29
+    },
+    {
+      "title": "76人首发爆砍105分",
+      "hot_value": 336103,
+      "link": "https://s.weibo.com/weibo?q=76%E4%BA%BA%E9%A6%96%E5%8F%91%E7%88%86%E7%A0%8D105%E5%88%86",
+      "rank": 30
+    },
+    {
+      "title": "在德打工留学生被机器人卡住身亡",
+      "hot_value": 333006,
+      "link": "https://s.weibo.com/weibo?q=%E5%9C%A8%E5%BE%B7%E6%89%93%E5%B7%A5%E7%95%99%E5%AD%A6%E7%94%9F%E8%A2%AB%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%8D%A1%E4%BD%8F%E8%BA%AB%E4%BA%A1",
+      "rank": 31
+    },
+    {
+      "title": "曾舜晞叫孟子义暮晚摇王法姐",
+      "hot_value": 331342,
+      "link": "https://s.weibo.com/weibo?q=%E6%9B%BE%E8%88%9C%E6%99%9E%E5%8F%AB%E5%AD%9F%E5%AD%90%E4%B9%89%E6%9A%AE%E6%99%9A%E6%91%87%E7%8E%8B%E6%B3%95%E5%A7%90",
+      "rank": 32
+    },
+    {
+      "title": "曝迪丽热巴VOGUE盛典穿祖海高定",
+      "hot_value": 315319,
+      "link": "https://s.weibo.com/weibo?q=%E6%9B%9D%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4VOGUE%E7%9B%9B%E5%85%B8%E7%A9%BF%E7%A5%96%E6%B5%B7%E9%AB%98%E5%AE%9A",
+      "rank": 33
+    },
+    {
+      "title": "Skip谈76人29分大逆转骑士",
+      "hot_value": 314857,
+      "link": "https://s.weibo.com/weibo?q=Skip%E8%B0%8876%E4%BA%BA29%E5%88%86%E5%A4%A7%E9%80%86%E8%BD%AC%E9%AA%91%E5%A3%AB",
+      "rank": 34
+    },
+    {
+      "title": "大火逼近中国日本道歉只道一半",
+      "hot_value": 298016,
+      "link": "https://s.weibo.com/weibo?q=%E5%A4%A7%E7%81%AB%E9%80%BC%E8%BF%91%E4%B8%AD%E5%9B%BD%E6%97%A5%E6%9C%AC%E9%81%93%E6%AD%89%E5%8F%AA%E9%81%93%E4%B8%80%E5%8D%8A",
+      "rank": 35
+    },
+    {
+      "title": "曝杨紫琼刘亦菲压轴VOGUE红毯",
+      "hot_value": 295780,
+      "link": "https://s.weibo.com/weibo?q=%E6%9B%9D%E6%9D%A8%E7%B4%AB%E7%90%BC%E5%88%98%E4%BA%A6%E8%8F%B2%E5%8E%8B%E8%BD%B4VOGUE%E7%BA%A2%E6%AF%AF",
+      "rank": 36
+    },
+    {
+      "title": "马天宇低谷期找杨幂谈心",
+      "hot_value": 264760,
+      "link": "https://s.weibo.com/weibo?q=%E9%A9%AC%E5%A4%A9%E5%AE%87%E4%BD%8E%E8%B0%B7%E6%9C%9F%E6%89%BE%E6%9D%A8%E5%B9%82%E8%B0%88%E5%BF%83",
+      "rank": 37
+    },
+    {
+      "title": "华为折叠老用户首批买到Duo",
+      "hot_value": 264260,
+      "link": "https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BA%E6%8A%98%E5%8F%A0%E8%80%81%E7%94%A8%E6%88%B7%E9%A6%96%E6%89%B9%E4%B9%B0%E5%88%B0Duo",
+      "rank": 38
+    },
+    {
+      "title": "昀牵孟绕",
+      "hot_value": 252654,
+      "link": "https://s.weibo.com/weibo?q=%E6%98%80%E7%89%B5%E5%AD%9F%E7%BB%95",
+      "rank": 39
+    },
+    {
+      "title": "iPhoneDuo仅被加价2000回收",
+      "hot_value": 251636,
+      "link": "https://s.weibo.com/weibo?q=iPhoneDuo%E4%BB%85%E8%A2%AB%E5%8A%A0%E4%BB%B72000%E5%9B%9E%E6%94%B6",
+      "rank": 40
+    },
+    {
+      "title": "76人29分算个屁啊",
+      "hot_value": 249820,
+      "link": "https://s.weibo.com/weibo?q=76%E4%BA%BA29%E5%88%86%E7%AE%97%E4%B8%AA%E5%B1%81%E5%95%8A",
+      "rank": 41
+    },
+    {
+      "title": "范玮琪到不了因音色再爆红",
+      "hot_value": 248283,
+      "link": "https://s.weibo.com/weibo?q=%E8%8C%83%E7%8E%AE%E7%90%AA%E5%88%B0%E4%B8%8D%E4%BA%86%E5%9B%A0%E9%9F%B3%E8%89%B2%E5%86%8D%E7%88%86%E7%BA%A2",
+      "rank": 42
+    },
+    {
+      "title": "爸妈给儿子过十八岁生日礼看哭网友",
+      "hot_value": 230305,
+      "link": "https://s.weibo.com/weibo?q=%E7%88%B8%E5%A6%88%E7%BB%99%E5%84%BF%E5%AD%90%E8%BF%87%E5%8D%81%E5%85%AB%E5%B2%81%E7%94%9F%E6%97%A5%E7%A4%BC%E7%9C%8B%E5%93%AD%E7%BD%91%E5%8F%8B",
+      "rank": 43
+    },
+    {
+      "title": "土耳其新教材虚构新疆历史",
+      "hot_value": 223936,
+      "link": "https://s.weibo.com/weibo?q=%E5%9C%9F%E8%80%B3%E5%85%B6%E6%96%B0%E6%95%99%E6%9D%90%E8%99%9A%E6%9E%84%E6%96%B0%E7%96%86%E5%8E%86%E5%8F%B2",
+      "rank": 44
+    },
+    {
+      "title": "婚礼发言说虽然不是我的妻子",
+      "hot_value": 219952,
+      "link": "https://s.weibo.com/weibo?q=%E5%A9%9A%E7%A4%BC%E5%8F%91%E8%A8%80%E8%AF%B4%E8%99%BD%E7%84%B6%E4%B8%8D%E6%98%AF%E6%88%91%E7%9A%84%E5%A6%BB%E5%AD%90",
+      "rank": 45
+    },
+    {
+      "title": "肖战还提到了没抢到票的朋友",
+      "hot_value": 202360,
+      "link": "https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E8%BF%98%E6%8F%90%E5%88%B0%E4%BA%86%E6%B2%A1%E6%8A%A2%E5%88%B0%E7%A5%A8%E7%9A%84%E6%9C%8B%E5%8F%8B",
+      "rank": 46
+    },
+    {
+      "title": "魏娆要为陆濯殉情",
+      "hot_value": 201943,
+      "link": "https://s.weibo.com/weibo?q=%E9%AD%8F%E5%A8%86%E8%A6%81%E4%B8%BA%E9%99%86%E6%BF%AF%E6%AE%89%E6%83%85",
+      "rank": 47
+    },
+    {
+      "title": "男子月入6000拿5000替发小还债",
+      "hot_value": 197558,
+      "link": "https://s.weibo.com/weibo?q=%E7%94%B7%E5%AD%90%E6%9C%88%E5%85%A56000%E6%8B%BF5000%E6%9B%BF%E5%8F%91%E5%B0%8F%E8%BF%98%E5%80%BA",
+      "rank": 48
+    },
+    {
+      "title": "巴青地震像几百头牦牛奔跑",
+      "hot_value": 193849,
+      "link": "https://s.weibo.com/weibo?q=%E5%B7%B4%E9%9D%92%E5%9C%B0%E9%9C%87%E5%83%8F%E5%87%A0%E7%99%BE%E5%A4%B4%E7%89%A6%E7%89%9B%E5%A5%94%E8%B7%91",
+      "rank": 49
+    },
+    {
+      "title": "曝VOGUE盛典改为录播",
+      "hot_value": 190407,
+      "link": "https://s.weibo.com/weibo?q=%E6%9B%9DVOGUE%E7%9B%9B%E5%85%B8%E6%94%B9%E4%B8%BA%E5%BD%95%E6%92%AD",
+      "rank": 50
+    }
+  ]
+}
