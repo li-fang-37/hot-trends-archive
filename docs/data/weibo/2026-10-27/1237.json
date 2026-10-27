@@ -1,0 +1,307 @@
+{
+  "platform": "weibo",
+  "platform_name": "微博热搜",
+  "time": "2026-10-27 12:37:38",
+  "items": [
+    {
+      "title": "东鹏饮料终止与姆巴佩合作",
+      "hot_value": 16251127,
+      "link": "https://s.weibo.com/weibo?q=%E4%B8%9C%E9%B9%8F%E9%A5%AE%E6%96%99%E7%BB%88%E6%AD%A2%E4%B8%8E%E5%A7%86%E5%B7%B4%E4%BD%A9%E5%90%88%E4%BD%9C",
+      "rank": 1
+    },
+    {
+      "title": "多个品牌终止与姆巴佩合作",
+      "hot_value": 9437054,
+      "link": "https://s.weibo.com/weibo?q=%E5%A4%9A%E4%B8%AA%E5%93%81%E7%89%8C%E7%BB%88%E6%AD%A2%E4%B8%8E%E5%A7%86%E5%B7%B4%E4%BD%A9%E5%90%88%E4%BD%9C",
+      "rank": 2
+    },
+    {
+      "title": "老字号新顶流",
+      "hot_value": 7184621,
+      "link": "https://s.weibo.com/weibo?q=%E8%80%81%E5%AD%97%E5%8F%B7%E6%96%B0%E9%A1%B6%E6%B5%81",
+      "rank": 3
+    },
+    {
+      "title": "球迷发声抵制姆巴佩",
+      "hot_value": 5740549,
+      "link": "https://s.weibo.com/weibo?q=%E7%90%83%E8%BF%B7%E5%8F%91%E5%A3%B0%E6%8A%B5%E5%88%B6%E5%A7%86%E5%B7%B4%E4%BD%A9",
+      "rank": 4
+    },
+    {
+      "title": "德国总统抵达安徽",
+      "hot_value": 417710,
+      "link": "https://s.weibo.com/weibo?q=%E5%BE%B7%E5%9B%BD%E6%80%BB%E7%BB%9F%E6%8A%B5%E8%BE%BE%E5%AE%89%E5%BE%BD",
+      "rank": 5
+    },
+    {
+      "title": "懂球帝对姆巴佩不当发言不翻译不接受",
+      "hot_value": 414763,
+      "link": "https://s.weibo.com/weibo?q=%E6%87%82%E7%90%83%E5%B8%9D%E5%AF%B9%E5%A7%86%E5%B7%B4%E4%BD%A9%E4%B8%8D%E5%BD%93%E5%8F%91%E8%A8%80%E4%B8%8D%E7%BF%BB%E8%AF%91%E4%B8%8D%E6%8E%A5%E5%8F%97",
+      "rank": 6
+    },
+    {
+      "title": "参加婚礼吃了一桌子外卖",
+      "hot_value": 413225,
+      "link": "https://s.weibo.com/weibo?q=%E5%8F%82%E5%8A%A0%E5%A9%9A%E7%A4%BC%E5%90%83%E4%BA%86%E4%B8%80%E6%A1%8C%E5%AD%90%E5%A4%96%E5%8D%96",
+      "rank": 7
+    },
+    {
+      "title": "蒙牛终止与姆巴佩合作",
+      "hot_value": 409559,
+      "link": "https://s.weibo.com/weibo?q=%E8%92%99%E7%89%9B%E7%BB%88%E6%AD%A2%E4%B8%8E%E5%A7%86%E5%B7%B4%E4%BD%A9%E5%90%88%E4%BD%9C",
+      "rank": 8
+    },
+    {
+      "title": "藏族女孩给子弟兵当翻译",
+      "hot_value": 405560,
+      "link": "https://s.weibo.com/weibo?q=%E8%97%8F%E6%97%8F%E5%A5%B3%E5%AD%A9%E7%BB%99%E5%AD%90%E5%BC%9F%E5%85%B5%E5%BD%93%E7%BF%BB%E8%AF%91",
+      "rank": 9
+    },
+    {
+      "title": "小城良方发生重大退展",
+      "hot_value": 402054,
+      "link": "https://s.weibo.com/weibo?q=%E5%B0%8F%E5%9F%8E%E8%89%AF%E6%96%B9%E5%8F%91%E7%94%9F%E9%87%8D%E5%A4%A7%E9%80%80%E5%B1%95",
+      "rank": 10
+    },
+    {
+      "title": "金球奖排名",
+      "hot_value": 398469,
+      "link": "https://s.weibo.com/weibo?q=%E9%87%91%E7%90%83%E5%A5%96%E6%8E%92%E5%90%8D",
+      "rank": 11
+    },
+    {
+      "title": "东鹏解约姆巴佩或无需赔偿",
+      "hot_value": 395818,
+      "link": "https://s.weibo.com/weibo?q=%E4%B8%9C%E9%B9%8F%E8%A7%A3%E7%BA%A6%E5%A7%86%E5%B7%B4%E4%BD%A9%E6%88%96%E6%97%A0%E9%9C%80%E8%B5%94%E5%81%BF",
+      "rank": 12
+    },
+    {
+      "title": "姥姥介意被叫外婆",
+      "hot_value": 390921,
+      "link": "https://s.weibo.com/weibo?q=%E5%A7%A5%E5%A7%A5%E4%BB%8B%E6%84%8F%E8%A2%AB%E5%8F%AB%E5%A4%96%E5%A9%86",
+      "rank": 13
+    },
+    {
+      "title": "懂球帝删除姆巴佩金球奖排名",
+      "hot_value": 387777,
+      "link": "https://s.weibo.com/weibo?q=%E6%87%82%E7%90%83%E5%B8%9D%E5%88%A0%E9%99%A4%E5%A7%86%E5%B7%B4%E4%BD%A9%E9%87%91%E7%90%83%E5%A5%96%E6%8E%92%E5%90%8D",
+      "rank": 14
+    },
+    {
+      "title": "肖战做好拿奖的准备吧",
+      "hot_value": 387161,
+      "link": "https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E5%81%9A%E5%A5%BD%E6%8B%BF%E5%A5%96%E7%9A%84%E5%87%86%E5%A4%87%E5%90%A7",
+      "rank": 15
+    },
+    {
+      "title": "虎扑删除姆巴佩金球奖排名",
+      "hot_value": 386547,
+      "link": "https://s.weibo.com/weibo?q=%E8%99%8E%E6%89%91%E5%88%A0%E9%99%A4%E5%A7%86%E5%B7%B4%E4%BD%A9%E9%87%91%E7%90%83%E5%A5%96%E6%8E%92%E5%90%8D",
+      "rank": 16
+    },
+    {
+      "title": "A股 科技股",
+      "hot_value": 385036,
+      "link": "https://s.weibo.com/weibo?q=A%E8%82%A1%20%E7%A7%91%E6%8A%80%E8%82%A1",
+      "rank": 17
+    },
+    {
+      "title": "蒙牛下架与姆巴佩相关内容",
+      "hot_value": 372235,
+      "link": "https://s.weibo.com/weibo?q=%E8%92%99%E7%89%9B%E4%B8%8B%E6%9E%B6%E4%B8%8E%E5%A7%86%E5%B7%B4%E4%BD%A9%E7%9B%B8%E5%85%B3%E5%86%85%E5%AE%B9",
+      "rank": 18
+    },
+    {
+      "title": "横店痛城",
+      "hot_value": 356927,
+      "link": "https://s.weibo.com/weibo?q=%E6%A8%AA%E5%BA%97%E7%97%9B%E5%9F%8E",
+      "rank": 19
+    },
+    {
+      "title": "富士康员工曝iPhoneDuo碎屏原因",
+      "hot_value": 356644,
+      "link": "https://s.weibo.com/weibo?q=%E5%AF%8C%E5%A3%AB%E5%BA%B7%E5%91%98%E5%B7%A5%E6%9B%9DiPhoneDuo%E7%A2%8E%E5%B1%8F%E5%8E%9F%E5%9B%A0",
+      "rank": 20
+    },
+    {
+      "title": "郑钦文配樊振东小作文笑点加倍",
+      "hot_value": 356567,
+      "link": "https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%87%E9%85%8D%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%B0%8F%E4%BD%9C%E6%96%87%E7%AC%91%E7%82%B9%E5%8A%A0%E5%80%8D",
+      "rank": 21
+    },
+    {
+      "title": "蔡天凤案发当天电话疑似被挂断",
+      "hot_value": 353920,
+      "link": "https://s.weibo.com/weibo?q=%E8%94%A1%E5%A4%A9%E5%87%A4%E6%A1%88%E5%8F%91%E5%BD%93%E5%A4%A9%E7%94%B5%E8%AF%9D%E7%96%91%E4%BC%BC%E8%A2%AB%E6%8C%82%E6%96%AD",
+      "rank": 22
+    },
+    {
+      "title": "张子萱一见面就扑进陈赫怀里",
+      "hot_value": 349477,
+      "link": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%AD%90%E8%90%B1%E4%B8%80%E8%A7%81%E9%9D%A2%E5%B0%B1%E6%89%91%E8%BF%9B%E9%99%88%E8%B5%AB%E6%80%80%E9%87%8C",
+      "rank": 23
+    },
+    {
+      "title": "演技好到突然懂了不搭噶的两个人",
+      "hot_value": 343517,
+      "link": "https://s.weibo.com/weibo?q=%E6%BC%94%E6%8A%80%E5%A5%BD%E5%88%B0%E7%AA%81%E7%84%B6%E6%87%82%E4%BA%86%E4%B8%8D%E6%90%AD%E5%99%B6%E7%9A%84%E4%B8%A4%E4%B8%AA%E4%BA%BA",
+      "rank": 24
+    },
+    {
+      "title": "中资网贷在印度亏七十亿退场",
+      "hot_value": 342017,
+      "link": "https://s.weibo.com/weibo?q=%E4%B8%AD%E8%B5%84%E7%BD%91%E8%B4%B7%E5%9C%A8%E5%8D%B0%E5%BA%A6%E4%BA%8F%E4%B8%83%E5%8D%81%E4%BA%BF%E9%80%80%E5%9C%BA",
+      "rank": 25
+    },
+    {
+      "title": "朋友女儿美国没读完就回国",
+      "hot_value": 336376,
+      "link": "https://s.weibo.com/weibo?q=%E6%9C%8B%E5%8F%8B%E5%A5%B3%E5%84%BF%E7%BE%8E%E5%9B%BD%E6%B2%A1%E8%AF%BB%E5%AE%8C%E5%B0%B1%E5%9B%9E%E5%9B%BD",
+      "rank": 26
+    },
+    {
+      "title": "李健在朋友婚礼上的发言",
+      "hot_value": 332618,
+      "link": "https://s.weibo.com/weibo?q=%E6%9D%8E%E5%81%A5%E5%9C%A8%E6%9C%8B%E5%8F%8B%E5%A9%9A%E7%A4%BC%E4%B8%8A%E7%9A%84%E5%8F%91%E8%A8%80",
+      "rank": 27
+    },
+    {
+      "title": "补水啦终止与姆巴佩合作",
+      "hot_value": 325487,
+      "link": "https://s.weibo.com/weibo?q=%E8%A1%A5%E6%B0%B4%E5%95%A6%E7%BB%88%E6%AD%A2%E4%B8%8E%E5%A7%86%E5%B7%B4%E4%BD%A9%E5%90%88%E4%BD%9C",
+      "rank": 28
+    },
+    {
+      "title": "玉簟秋这能播吗",
+      "hot_value": 306780,
+      "link": "https://s.weibo.com/weibo?q=%E7%8E%89%E7%B0%9F%E7%A7%8B%E8%BF%99%E8%83%BD%E6%92%AD%E5%90%97",
+      "rank": 29
+    },
+    {
+      "title": "城管摇了摊主好了顾客笑了",
+      "hot_value": 301170,
+      "link": "https://s.weibo.com/weibo?q=%E5%9F%8E%E7%AE%A1%E6%91%87%E4%BA%86%E6%91%8A%E4%B8%BB%E5%A5%BD%E4%BA%86%E9%A1%BE%E5%AE%A2%E7%AC%91%E4%BA%86",
+      "rank": 30
+    },
+    {
+      "title": "刚入职叫女领导一个月熊大",
+      "hot_value": 296192,
+      "link": "https://s.weibo.com/weibo?q=%E5%88%9A%E5%85%A5%E8%81%8C%E5%8F%AB%E5%A5%B3%E9%A2%86%E5%AF%BC%E4%B8%80%E4%B8%AA%E6%9C%88%E7%86%8A%E5%A4%A7",
+      "rank": 31
+    },
+    {
+      "title": "刘亦菲抓到子弹时间精髓了",
+      "hot_value": 283484,
+      "link": "https://s.weibo.com/weibo?q=%E5%88%98%E4%BA%A6%E8%8F%B2%E6%8A%93%E5%88%B0%E5%AD%90%E5%BC%B9%E6%97%B6%E9%97%B4%E7%B2%BE%E9%AB%93%E4%BA%86",
+      "rank": 32
+    },
+    {
+      "title": "被穷养长大的人有多能忍",
+      "hot_value": 279386,
+      "link": "https://s.weibo.com/weibo?q=%E8%A2%AB%E7%A9%B7%E5%85%BB%E9%95%BF%E5%A4%A7%E7%9A%84%E4%BA%BA%E6%9C%89%E5%A4%9A%E8%83%BD%E5%BF%8D",
+      "rank": 33
+    },
+    {
+      "title": "网友说许飞21年这个视频像怀孕的样子",
+      "hot_value": 275163,
+      "link": "https://s.weibo.com/weibo?q=%E7%BD%91%E5%8F%8B%E8%AF%B4%E8%AE%B8%E9%A3%9E21%E5%B9%B4%E8%BF%99%E4%B8%AA%E8%A7%86%E9%A2%91%E5%83%8F%E6%80%80%E5%AD%95%E7%9A%84%E6%A0%B7%E5%AD%90",
+      "rank": 34
+    },
+    {
+      "title": "张一鸣刷新中国首富财富纪录",
+      "hot_value": 272946,
+      "link": "https://s.weibo.com/weibo?q=%E5%BC%A0%E4%B8%80%E9%B8%A3%E5%88%B7%E6%96%B0%E4%B8%AD%E5%9B%BD%E9%A6%96%E5%AF%8C%E8%B4%A2%E5%AF%8C%E7%BA%AA%E5%BD%95",
+      "rank": 35
+    },
+    {
+      "title": "于正晒朝玉阶白鹿造型",
+      "hot_value": 264539,
+      "link": "https://s.weibo.com/weibo?q=%E4%BA%8E%E6%AD%A3%E6%99%92%E6%9C%9D%E7%8E%89%E9%98%B6%E7%99%BD%E9%B9%BF%E9%80%A0%E5%9E%8B",
+      "rank": 36
+    },
+    {
+      "title": "肖战刘铮亮手机绑着皮筋",
+      "hot_value": 262714,
+      "link": "https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E5%88%98%E9%93%AE%E4%BA%AE%E6%89%8B%E6%9C%BA%E7%BB%91%E7%9D%80%E7%9A%AE%E7%AD%8B",
+      "rank": 37
+    },
+    {
+      "title": "孟子义李昀锐分手感",
+      "hot_value": 256003,
+      "link": "https://s.weibo.com/weibo?q=%E5%AD%9F%E5%AD%90%E4%B9%89%E6%9D%8E%E6%98%80%E9%94%90%E5%88%86%E6%89%8B%E6%84%9F",
+      "rank": 38
+    },
+    {
+      "title": "福布斯写樊振东入选理由",
+      "hot_value": 253468,
+      "link": "https://s.weibo.com/weibo?q=%E7%A6%8F%E5%B8%83%E6%96%AF%E5%86%99%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%85%A5%E9%80%89%E7%90%86%E7%94%B1",
+      "rank": 39
+    },
+    {
+      "title": "LPL三个队都输不过AL",
+      "hot_value": 253348,
+      "link": "https://s.weibo.com/weibo?q=LPL%E4%B8%89%E4%B8%AA%E9%98%9F%E9%83%BD%E8%BE%93%E4%B8%8D%E8%BF%87AL",
+      "rank": 40
+    },
+    {
+      "title": "双十一天猫5折抢羽绒服",
+      "hot_value": 232860,
+      "link": "https://s.weibo.com/weibo?q=%E5%8F%8C%E5%8D%81%E4%B8%80%E5%A4%A9%E7%8C%AB5%E6%8A%98%E6%8A%A2%E7%BE%BD%E7%BB%92%E6%9C%8D",
+      "rank": 41
+    },
+    {
+      "title": "陈赫回应评论男主播可爱",
+      "hot_value": 227803,
+      "link": "https://s.weibo.com/weibo?q=%E9%99%88%E8%B5%AB%E5%9B%9E%E5%BA%94%E8%AF%84%E8%AE%BA%E7%94%B7%E4%B8%BB%E6%92%AD%E5%8F%AF%E7%88%B1",
+      "rank": 42
+    },
+    {
+      "title": "iOS27.2出现Apple智能",
+      "hot_value": 226596,
+      "link": "https://s.weibo.com/weibo?q=iOS27.2%E5%87%BA%E7%8E%B0Apple%E6%99%BA%E8%83%BD",
+      "rank": 43
+    },
+    {
+      "title": "消毒级卫生巾呵护女性经期健康",
+      "hot_value": 224135,
+      "link": "https://s.weibo.com/weibo?q=%E6%B6%88%E6%AF%92%E7%BA%A7%E5%8D%AB%E7%94%9F%E5%B7%BE%E5%91%B5%E6%8A%A4%E5%A5%B3%E6%80%A7%E7%BB%8F%E6%9C%9F%E5%81%A5%E5%BA%B7",
+      "rank": 44
+    },
+    {
+      "title": "曝AL人员变动",
+      "hot_value": 223591,
+      "link": "https://s.weibo.com/weibo?q=%E6%9B%9DAL%E4%BA%BA%E5%91%98%E5%8F%98%E5%8A%A8",
+      "rank": 45
+    },
+    {
+      "title": "西安警方连夜通报",
+      "hot_value": 222180,
+      "link": "https://s.weibo.com/weibo?q=%E8%A5%BF%E5%AE%89%E8%AD%A6%E6%96%B9%E8%BF%9E%E5%A4%9C%E9%80%9A%E6%8A%A5",
+      "rank": 46
+    },
+    {
+      "title": "樊振东入选福布斯最具影响力华人精英",
+      "hot_value": 215748,
+      "link": "https://s.weibo.com/weibo?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%85%A5%E9%80%89%E7%A6%8F%E5%B8%83%E6%96%AF%E6%9C%80%E5%85%B7%E5%BD%B1%E5%93%8D%E5%8A%9B%E5%8D%8E%E4%BA%BA%E7%B2%BE%E8%8B%B1",
+      "rank": 47
+    },
+    {
+      "title": "吴彦祖老婆也参加了VOGUE",
+      "hot_value": 211758,
+      "link": "https://s.weibo.com/weibo?q=%E5%90%B4%E5%BD%A6%E7%A5%96%E8%80%81%E5%A9%86%E4%B9%9F%E5%8F%82%E5%8A%A0%E4%BA%86VOGUE",
+      "rank": 48
+    },
+    {
+      "title": "存储芯片股集体上涨",
+      "hot_value": 210656,
+      "link": "https://s.weibo.com/weibo?q=%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87%E8%82%A1%E9%9B%86%E4%BD%93%E4%B8%8A%E6%B6%A8",
+      "rank": 49
+    },
+    {
+      "title": "奔跑吧",
+      "hot_value": 209868,
+      "link": "https://s.weibo.com/weibo?q=%E5%A5%94%E8%B7%91%E5%90%A7",
+      "rank": 50
+    }
+  ]
+}
