@@ -1,0 +1,307 @@
+{
+  "platform": "weibo",
+  "platform_name": "微博热搜",
+  "time": "2026-10-31 09:14:58",
+  "items": [
+    {
+      "title": "吾恩去世",
+      "hot_value": 2744926,
+      "link": "https://s.weibo.com/weibo?q=%E5%90%BE%E6%81%A9%E5%8E%BB%E4%B8%96",
+      "rank": 1
+    },
+    {
+      "title": "BLG晋级S16八强难度骤降",
+      "hot_value": 1078746,
+      "link": "https://s.weibo.com/weibo?q=BLG%E6%99%8B%E7%BA%A7S16%E5%85%AB%E5%BC%BA%E9%9A%BE%E5%BA%A6%E9%AA%A4%E9%99%8D",
+      "rank": 2
+    },
+    {
+      "title": "开创新时代管党治党兴党强党新局面",
+      "hot_value": 809641,
+      "link": "https://s.weibo.com/weibo?q=%E5%BC%80%E5%88%9B%E6%96%B0%E6%97%B6%E4%BB%A3%E7%AE%A1%E5%85%9A%E6%B2%BB%E5%85%9A%E5%85%B4%E5%85%9A%E5%BC%BA%E5%85%9A%E6%96%B0%E5%B1%80%E9%9D%A2",
+      "rank": 3
+    },
+    {
+      "title": "S16抽签",
+      "hot_value": 801606,
+      "link": "https://s.weibo.com/weibo?q=S16%E6%8A%BD%E7%AD%BE",
+      "rank": 4
+    },
+    {
+      "title": "今年全国实现生娃基本不花钱",
+      "hot_value": 374957,
+      "link": "https://s.weibo.com/weibo?q=%E4%BB%8A%E5%B9%B4%E5%85%A8%E5%9B%BD%E5%AE%9E%E7%8E%B0%E7%94%9F%E5%A8%83%E5%9F%BA%E6%9C%AC%E4%B8%8D%E8%8A%B1%E9%92%B1",
+      "rank": 5
+    },
+    {
+      "title": "小沈阳披荆斩棘冠军",
+      "hot_value": 363273,
+      "link": "https://s.weibo.com/weibo?q=%E5%B0%8F%E6%B2%88%E9%98%B3%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E5%86%A0%E5%86%9B",
+      "rank": 6
+    },
+    {
+      "title": "HLE晋级瑞士轮最后一轮",
+      "hot_value": 346442,
+      "link": "https://s.weibo.com/weibo?q=HLE%E6%99%8B%E7%BA%A7%E7%91%9E%E5%A3%AB%E8%BD%AE%E6%9C%80%E5%90%8E%E4%B8%80%E8%BD%AE",
+      "rank": 7
+    },
+    {
+      "title": "披荆斩棘成团名单",
+      "hot_value": 305731,
+      "link": "https://s.weibo.com/weibo?q=%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E6%88%90%E5%9B%A2%E5%90%8D%E5%8D%95",
+      "rank": 8
+    },
+    {
+      "title": "S16瑞士轮最后一次抽签",
+      "hot_value": 285692,
+      "link": "https://s.weibo.com/weibo?q=S16%E7%91%9E%E5%A3%AB%E8%BD%AE%E6%9C%80%E5%90%8E%E4%B8%80%E6%AC%A1%E6%8A%BD%E7%AD%BE",
+      "rank": 9
+    },
+    {
+      "title": "金球奖公布投票详情",
+      "hot_value": 266521,
+      "link": "https://s.weibo.com/weibo?q=%E9%87%91%E7%90%83%E5%A5%96%E5%85%AC%E5%B8%83%E6%8A%95%E7%A5%A8%E8%AF%A6%E6%83%85",
+      "rank": 10
+    },
+    {
+      "title": "宋仲基宋慧乔当初离婚的原因",
+      "hot_value": 263129,
+      "link": "https://s.weibo.com/weibo?q=%E5%AE%8B%E4%BB%B2%E5%9F%BA%E5%AE%8B%E6%85%A7%E4%B9%94%E5%BD%93%E5%88%9D%E7%A6%BB%E5%A9%9A%E7%9A%84%E5%8E%9F%E5%9B%A0",
+      "rank": 11
+    },
+    {
+      "title": "赵丽颖不鸣则已一鸣惊人",
+      "hot_value": 253658,
+      "link": "https://s.weibo.com/weibo?q=%E8%B5%B5%E4%B8%BD%E9%A2%96%E4%B8%8D%E9%B8%A3%E5%88%99%E5%B7%B2%E4%B8%80%E9%B8%A3%E6%83%8A%E4%BA%BA",
+      "rank": 12
+    },
+    {
+      "title": "黄金",
+      "hot_value": 245066,
+      "link": "https://s.weibo.com/weibo?q=%E9%BB%84%E9%87%91",
+      "rank": 13
+    },
+    {
+      "title": "黄金又大跳水了",
+      "hot_value": 238143,
+      "link": "https://s.weibo.com/weibo?q=%E9%BB%84%E9%87%91%E5%8F%88%E5%A4%A7%E8%B7%B3%E6%B0%B4%E4%BA%86",
+      "rank": 14
+    },
+    {
+      "title": "波兰",
+      "hot_value": 228967,
+      "link": "https://s.weibo.com/weibo?q=%E6%B3%A2%E5%85%B0",
+      "rank": 15
+    },
+    {
+      "title": "宋慧乔是宋仲基的逆鳞",
+      "hot_value": 220512,
+      "link": "https://s.weibo.com/weibo?q=%E5%AE%8B%E6%85%A7%E4%B9%94%E6%98%AF%E5%AE%8B%E4%BB%B2%E5%9F%BA%E7%9A%84%E9%80%86%E9%B3%9E",
+      "rank": 16
+    },
+    {
+      "title": "好剧本都要从赵丽颖手中过一遍",
+      "hot_value": 219029,
+      "link": "https://s.weibo.com/weibo?q=%E5%A5%BD%E5%89%A7%E6%9C%AC%E9%83%BD%E8%A6%81%E4%BB%8E%E8%B5%B5%E4%B8%BD%E9%A2%96%E6%89%8B%E4%B8%AD%E8%BF%87%E4%B8%80%E9%81%8D",
+      "rank": 17
+    },
+    {
+      "title": "曹骏成团",
+      "hot_value": 212099,
+      "link": "https://s.weibo.com/weibo?q=%E6%9B%B9%E9%AA%8F%E6%88%90%E5%9B%A2",
+      "rank": 18
+    },
+    {
+      "title": "蔡磊妻子落泪称不甘心",
+      "hot_value": 204918,
+      "link": "https://s.weibo.com/weibo?q=%E8%94%A1%E7%A3%8A%E5%A6%BB%E5%AD%90%E8%90%BD%E6%B3%AA%E7%A7%B0%E4%B8%8D%E7%94%98%E5%BF%83",
+      "rank": 19
+    },
+    {
+      "title": "苹果智能国行12月拟正式上线",
+      "hot_value": 181665,
+      "link": "https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C%E6%99%BA%E8%83%BD%E5%9B%BD%E8%A1%8C12%E6%9C%88%E6%8B%9F%E6%AD%A3%E5%BC%8F%E4%B8%8A%E7%BA%BF",
+      "rank": 20
+    },
+    {
+      "title": "外网爆火的心脏病征兆",
+      "hot_value": 181146,
+      "link": "https://s.weibo.com/weibo?q=%E5%A4%96%E7%BD%91%E7%88%86%E7%81%AB%E7%9A%84%E5%BF%83%E8%84%8F%E7%97%85%E5%BE%81%E5%85%86",
+      "rank": 21
+    },
+    {
+      "title": "魏娆陆濯圆房了",
+      "hot_value": 180740,
+      "link": "https://s.weibo.com/weibo?q=%E9%AD%8F%E5%A8%86%E9%99%86%E6%BF%AF%E5%9C%86%E6%88%BF%E4%BA%86",
+      "rank": 22
+    },
+    {
+      "title": "A股 半导体",
+      "hot_value": 180528,
+      "link": "https://s.weibo.com/weibo?q=A%E8%82%A1%20%E5%8D%8A%E5%AF%BC%E4%BD%93",
+      "rank": 23
+    },
+    {
+      "title": "睡醒别立刻刷手机",
+      "hot_value": 179820,
+      "link": "https://s.weibo.com/weibo?q=%E7%9D%A1%E9%86%92%E5%88%AB%E7%AB%8B%E5%88%BB%E5%88%B7%E6%89%8B%E6%9C%BA",
+      "rank": 24
+    },
+    {
+      "title": "马天宇劝文吉儿不要做的太绝情",
+      "hot_value": 179489,
+      "link": "https://s.weibo.com/weibo?q=%E9%A9%AC%E5%A4%A9%E5%AE%87%E5%8A%9D%E6%96%87%E5%90%89%E5%84%BF%E4%B8%8D%E8%A6%81%E5%81%9A%E7%9A%84%E5%A4%AA%E7%BB%9D%E6%83%85",
+      "rank": 25
+    },
+    {
+      "title": "小城良方品牌方攀比起来了",
+      "hot_value": 178648,
+      "link": "https://s.weibo.com/weibo?q=%E5%B0%8F%E5%9F%8E%E8%89%AF%E6%96%B9%E5%93%81%E7%89%8C%E6%96%B9%E6%94%80%E6%AF%94%E8%B5%B7%E6%9D%A5%E4%BA%86",
+      "rank": 26
+    },
+    {
+      "title": "以色列女演员直播翻车当场离席",
+      "hot_value": 178275,
+      "link": "https://s.weibo.com/weibo?q=%E4%BB%A5%E8%89%B2%E5%88%97%E5%A5%B3%E6%BC%94%E5%91%98%E7%9B%B4%E6%92%AD%E7%BF%BB%E8%BD%A6%E5%BD%93%E5%9C%BA%E7%A6%BB%E5%B8%AD",
+      "rank": 27
+    },
+    {
+      "title": "披荆斩棘 分猪肉",
+      "hot_value": 177844,
+      "link": "https://s.weibo.com/weibo?q=%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%20%E5%88%86%E7%8C%AA%E8%82%89",
+      "rank": 28
+    },
+    {
+      "title": "周启豪3比1F勒布伦",
+      "hot_value": 177486,
+      "link": "https://s.weibo.com/weibo?q=%E5%91%A8%E5%90%AF%E8%B1%AA3%E6%AF%941F%E5%8B%92%E5%B8%83%E4%BC%A6",
+      "rank": 29
+    },
+    {
+      "title": "韩国男子炒股失败刺杀一日籍女子",
+      "hot_value": 173574,
+      "link": "https://s.weibo.com/weibo?q=%E9%9F%A9%E5%9B%BD%E7%94%B7%E5%AD%90%E7%82%92%E8%82%A1%E5%A4%B1%E8%B4%A5%E5%88%BA%E6%9D%80%E4%B8%80%E6%97%A5%E7%B1%8D%E5%A5%B3%E5%AD%90",
+      "rank": 30
+    },
+    {
+      "title": "全英语区不如中国人懂英文",
+      "hot_value": 173457,
+      "link": "https://s.weibo.com/weibo?q=%E5%85%A8%E8%8B%B1%E8%AF%AD%E5%8C%BA%E4%B8%8D%E5%A6%82%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%87%82%E8%8B%B1%E6%96%87",
+      "rank": 31
+    },
+    {
+      "title": "曝文吉儿的书有三个人写序",
+      "hot_value": 173443,
+      "link": "https://s.weibo.com/weibo?q=%E6%9B%9D%E6%96%87%E5%90%89%E5%84%BF%E7%9A%84%E4%B9%A6%E6%9C%89%E4%B8%89%E4%B8%AA%E4%BA%BA%E5%86%99%E5%BA%8F",
+      "rank": 32
+    },
+    {
+      "title": "Zeus神王回归",
+      "hot_value": 172787,
+      "link": "https://s.weibo.com/weibo?q=Zeus%E7%A5%9E%E7%8E%8B%E5%9B%9E%E5%BD%92",
+      "rank": 33
+    },
+    {
+      "title": "我觉得我都要爱上厉娜了",
+      "hot_value": 170946,
+      "link": "https://s.weibo.com/weibo?q=%E6%88%91%E8%A7%89%E5%BE%97%E6%88%91%E9%83%BD%E8%A6%81%E7%88%B1%E4%B8%8A%E5%8E%89%E5%A8%9C%E4%BA%86",
+      "rank": 34
+    },
+    {
+      "title": "大批理发店关停10元快剪走红",
+      "hot_value": 158416,
+      "link": "https://s.weibo.com/weibo?q=%E5%A4%A7%E6%89%B9%E7%90%86%E5%8F%91%E5%BA%97%E5%85%B3%E5%81%9C10%E5%85%83%E5%BF%AB%E5%89%AA%E8%B5%B0%E7%BA%A2",
+      "rank": 35
+    },
+    {
+      "title": "美股",
+      "hot_value": 154244,
+      "link": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1",
+      "rank": 36
+    },
+    {
+      "title": "G2止步S16十六强",
+      "hot_value": 147282,
+      "link": "https://s.weibo.com/weibo?q=G2%E6%AD%A2%E6%AD%A5S16%E5%8D%81%E5%85%AD%E5%BC%BA",
+      "rank": 37
+    },
+    {
+      "title": "国乒3人晋级男单8强",
+      "hot_value": 145333,
+      "link": "https://s.weibo.com/weibo?q=%E5%9B%BD%E4%B9%923%E4%BA%BA%E6%99%8B%E7%BA%A7%E7%94%B7%E5%8D%958%E5%BC%BA",
+      "rank": 38
+    },
+    {
+      "title": "厉娜一年到头这样拍还没发现狼人",
+      "hot_value": 142433,
+      "link": "https://s.weibo.com/weibo?q=%E5%8E%89%E5%A8%9C%E4%B8%80%E5%B9%B4%E5%88%B0%E5%A4%B4%E8%BF%99%E6%A0%B7%E6%8B%8D%E8%BF%98%E6%B2%A1%E5%8F%91%E7%8E%B0%E7%8B%BC%E4%BA%BA",
+      "rank": 39
+    },
+    {
+      "title": "Kanavi打野统治力",
+      "hot_value": 141303,
+      "link": "https://s.weibo.com/weibo?q=Kanavi%E6%89%93%E9%87%8E%E7%BB%9F%E6%B2%BB%E5%8A%9B",
+      "rank": 40
+    },
+    {
+      "title": "阿维塔省钱救不了销量",
+      "hot_value": 140524,
+      "link": "https://s.weibo.com/weibo?q=%E9%98%BF%E7%BB%B4%E5%A1%94%E7%9C%81%E9%92%B1%E6%95%91%E4%B8%8D%E4%BA%86%E9%94%80%E9%87%8F",
+      "rank": 41
+    },
+    {
+      "title": "12306回应卧铺女子被手机砸伤",
+      "hot_value": 136687,
+      "link": "https://s.weibo.com/weibo?q=12306%E5%9B%9E%E5%BA%94%E5%8D%A7%E9%93%BA%E5%A5%B3%E5%AD%90%E8%A2%AB%E6%89%8B%E6%9C%BA%E7%A0%B8%E4%BC%A4",
+      "rank": 42
+    },
+    {
+      "title": "TL只赢AL",
+      "hot_value": 128658,
+      "link": "https://s.weibo.com/weibo?q=TL%E5%8F%AA%E8%B5%A2AL",
+      "rank": 43
+    },
+    {
+      "title": "披荆斩棘历届总冠军",
+      "hot_value": 128562,
+      "link": "https://s.weibo.com/weibo?q=%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E5%8E%86%E5%B1%8A%E6%80%BB%E5%86%A0%E5%86%9B",
+      "rank": 44
+    },
+    {
+      "title": "G2对战HLE",
+      "hot_value": 121603,
+      "link": "https://s.weibo.com/weibo?q=G2%E5%AF%B9%E6%88%98HLE",
+      "rank": 45
+    },
+    {
+      "title": "金银杀跌原因",
+      "hot_value": 115629,
+      "link": "https://s.weibo.com/weibo?q=%E9%87%91%E9%93%B6%E6%9D%80%E8%B7%8C%E5%8E%9F%E5%9B%A0",
+      "rank": 46
+    },
+    {
+      "title": "姜乘澜结婚了",
+      "hot_value": 115167,
+      "link": "https://s.weibo.com/weibo?q=%E5%A7%9C%E4%B9%98%E6%BE%9C%E7%BB%93%E5%A9%9A%E4%BA%86",
+      "rank": 47
+    },
+    {
+      "title": "发的钱哪有抢的香",
+      "hot_value": 109349,
+      "link": "https://s.weibo.com/weibo?q=%E5%8F%91%E7%9A%84%E9%92%B1%E5%93%AA%E6%9C%89%E6%8A%A2%E7%9A%84%E9%A6%99",
+      "rank": 48
+    },
+    {
+      "title": "这种家庭养出的小孩一定很暖",
+      "hot_value": 108813,
+      "link": "https://s.weibo.com/weibo?q=%E8%BF%99%E7%A7%8D%E5%AE%B6%E5%BA%AD%E5%85%BB%E5%87%BA%E7%9A%84%E5%B0%8F%E5%AD%A9%E4%B8%80%E5%AE%9A%E5%BE%88%E6%9A%96",
+      "rank": 49
+    },
+    {
+      "title": "张睿什么奖都没有有点太虐了",
+      "hot_value": 105882,
+      "link": "https://s.weibo.com/weibo?q=%E5%BC%A0%E7%9D%BF%E4%BB%80%E4%B9%88%E5%A5%96%E9%83%BD%E6%B2%A1%E6%9C%89%E6%9C%89%E7%82%B9%E5%A4%AA%E8%99%90%E4%BA%86",
+      "rank": 50
+    }
+  ]
+}
