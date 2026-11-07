@@ -1,0 +1,307 @@
+{
+  "platform": "weibo",
+  "platform_name": "微博热搜",
+  "time": "2026-11-07 20:47:26",
+  "items": [
+    {
+      "title": "乘客车上削苹果急刹车水果刀插心脏",
+      "hot_value": 1108266,
+      "link": "https://s.weibo.com/weibo?q=%E4%B9%98%E5%AE%A2%E8%BD%A6%E4%B8%8A%E5%89%8A%E8%8B%B9%E6%9E%9C%E6%80%A5%E5%88%B9%E8%BD%A6%E6%B0%B4%E6%9E%9C%E5%88%80%E6%8F%92%E5%BF%83%E8%84%8F",
+      "rank": 1
+    },
+    {
+      "title": "男子被小奶狗抓伤确诊狂犬病",
+      "hot_value": 873398,
+      "link": "https://s.weibo.com/weibo?q=%E7%94%B7%E5%AD%90%E8%A2%AB%E5%B0%8F%E5%A5%B6%E7%8B%97%E6%8A%93%E4%BC%A4%E7%A1%AE%E8%AF%8A%E7%8B%82%E7%8A%AC%E7%97%85",
+      "rank": 2
+    },
+    {
+      "title": "共赴APEC之约",
+      "hot_value": 647028,
+      "link": "https://s.weibo.com/weibo?q=%E5%85%B1%E8%B5%B4APEC%E4%B9%8B%E7%BA%A6",
+      "rank": 3
+    },
+    {
+      "title": "闫桉看田曦薇哭的反应",
+      "hot_value": 367896,
+      "link": "https://s.weibo.com/weibo?q=%E9%97%AB%E6%A1%89%E7%9C%8B%E7%94%B0%E6%9B%A6%E8%96%87%E5%93%AD%E7%9A%84%E5%8F%8D%E5%BA%94",
+      "rank": 4
+    },
+    {
+      "title": "马斯克说我爱中国",
+      "hot_value": 359644,
+      "link": "https://s.weibo.com/weibo?q=%E9%A9%AC%E6%96%AF%E5%85%8B%E8%AF%B4%E6%88%91%E7%88%B1%E4%B8%AD%E5%9B%BD",
+      "rank": 5
+    },
+    {
+      "title": "iPhone20外观",
+      "hot_value": 343003,
+      "link": "https://s.weibo.com/weibo?q=iPhone20%E5%A4%96%E8%A7%82",
+      "rank": 6
+    },
+    {
+      "title": "梁文锋DeepSeek不止国运级",
+      "hot_value": 337318,
+      "link": "https://s.weibo.com/weibo?q=%E6%A2%81%E6%96%87%E9%94%8BDeepSeek%E4%B8%8D%E6%AD%A2%E5%9B%BD%E8%BF%90%E7%BA%A7",
+      "rank": 7
+    },
+    {
+      "title": "坠亡女子父母称女儿为已婚男多次怀孕",
+      "hot_value": 312258,
+      "link": "https://s.weibo.com/weibo?q=%E5%9D%A0%E4%BA%A1%E5%A5%B3%E5%AD%90%E7%88%B6%E6%AF%8D%E7%A7%B0%E5%A5%B3%E5%84%BF%E4%B8%BA%E5%B7%B2%E5%A9%9A%E7%94%B7%E5%A4%9A%E6%AC%A1%E6%80%80%E5%AD%95",
+      "rank": 8
+    },
+    {
+      "title": "宁静推荐陈添祥入选星辰大海",
+      "hot_value": 303254,
+      "link": "https://s.weibo.com/weibo?q=%E5%AE%81%E9%9D%99%E6%8E%A8%E8%8D%90%E9%99%88%E6%B7%BB%E7%A5%A5%E5%85%A5%E9%80%89%E6%98%9F%E8%BE%B0%E5%A4%A7%E6%B5%B7",
+      "rank": 9
+    },
+    {
+      "title": "全球汽车销量前十中国占三席",
+      "hot_value": 291818,
+      "link": "https://s.weibo.com/weibo?q=%E5%85%A8%E7%90%83%E6%B1%BD%E8%BD%A6%E9%94%80%E9%87%8F%E5%89%8D%E5%8D%81%E4%B8%AD%E5%9B%BD%E5%8D%A0%E4%B8%89%E5%B8%AD",
+      "rank": 10
+    },
+    {
+      "title": "马天宇 李明德",
+      "hot_value": 280413,
+      "link": "https://s.weibo.com/weibo?q=%E9%A9%AC%E5%A4%A9%E5%AE%87%20%E6%9D%8E%E6%98%8E%E5%BE%B7",
+      "rank": 11
+    },
+    {
+      "title": "刘熙墨脸部二度烧伤",
+      "hot_value": 263701,
+      "link": "https://s.weibo.com/weibo?q=%E5%88%98%E7%86%99%E5%A2%A8%E8%84%B8%E9%83%A8%E4%BA%8C%E5%BA%A6%E7%83%A7%E4%BC%A4",
+      "rank": 12
+    },
+    {
+      "title": "李一桐疑似内涵芒果",
+      "hot_value": 240164,
+      "link": "https://s.weibo.com/weibo?q=%E6%9D%8E%E4%B8%80%E6%A1%90%E7%96%91%E4%BC%BC%E5%86%85%E6%B6%B5%E8%8A%92%E6%9E%9C",
+      "rank": 13
+    },
+    {
+      "title": "立冬",
+      "hot_value": 239417,
+      "link": "https://s.weibo.com/weibo?q=%E7%AB%8B%E5%86%AC",
+      "rank": 14
+    },
+    {
+      "title": "大S剥虾论八年后被读懂",
+      "hot_value": 239247,
+      "link": "https://s.weibo.com/weibo?q=%E5%A4%A7S%E5%89%A5%E8%99%BE%E8%AE%BA%E5%85%AB%E5%B9%B4%E5%90%8E%E8%A2%AB%E8%AF%BB%E6%87%82",
+      "rank": 15
+    },
+    {
+      "title": "iPhone18电池容量曝光",
+      "hot_value": 238565,
+      "link": "https://s.weibo.com/weibo?q=iPhone18%E7%94%B5%E6%B1%A0%E5%AE%B9%E9%87%8F%E6%9B%9D%E5%85%89",
+      "rank": 16
+    },
+    {
+      "title": "曝90剧花美国待产",
+      "hot_value": 237914,
+      "link": "https://s.weibo.com/weibo?q=%E6%9B%9D90%E5%89%A7%E8%8A%B1%E7%BE%8E%E5%9B%BD%E5%BE%85%E4%BA%A7",
+      "rank": 17
+    },
+    {
+      "title": "黄景瑜回复李昀锐",
+      "hot_value": 237596,
+      "link": "https://s.weibo.com/weibo?q=%E9%BB%84%E6%99%AF%E7%91%9C%E5%9B%9E%E5%A4%8D%E6%9D%8E%E6%98%80%E9%94%90",
+      "rank": 18
+    },
+    {
+      "title": "白小纯 原生家庭",
+      "hot_value": 237222,
+      "link": "https://s.weibo.com/weibo?q=%E7%99%BD%E5%B0%8F%E7%BA%AF%20%E5%8E%9F%E7%94%9F%E5%AE%B6%E5%BA%AD",
+      "rank": 19
+    },
+    {
+      "title": "10岁男孩被撞后确诊肿瘤已离世",
+      "hot_value": 236224,
+      "link": "https://s.weibo.com/weibo?q=10%E5%B2%81%E7%94%B7%E5%AD%A9%E8%A2%AB%E6%92%9E%E5%90%8E%E7%A1%AE%E8%AF%8A%E8%82%BF%E7%98%A4%E5%B7%B2%E7%A6%BB%E4%B8%96",
+      "rank": 20
+    },
+    {
+      "title": "北京的雪有多大",
+      "hot_value": 235750,
+      "link": "https://s.weibo.com/weibo?q=%E5%8C%97%E4%BA%AC%E7%9A%84%E9%9B%AA%E6%9C%89%E5%A4%9A%E5%A4%A7",
+      "rank": 21
+    },
+    {
+      "title": "别人说日照香炉生紫烟我装死",
+      "hot_value": 235554,
+      "link": "https://s.weibo.com/weibo?q=%E5%88%AB%E4%BA%BA%E8%AF%B4%E6%97%A5%E7%85%A7%E9%A6%99%E7%82%89%E7%94%9F%E7%B4%AB%E7%83%9F%E6%88%91%E8%A3%85%E6%AD%BB",
+      "rank": 22
+    },
+    {
+      "title": "江南 今何在",
+      "hot_value": 234749,
+      "link": "https://s.weibo.com/weibo?q=%E6%B1%9F%E5%8D%97%20%E4%BB%8A%E4%BD%95%E5%9C%A8",
+      "rank": 23
+    },
+    {
+      "title": "马天宇直播被工作人员叫停",
+      "hot_value": 234319,
+      "link": "https://s.weibo.com/weibo?q=%E9%A9%AC%E5%A4%A9%E5%AE%87%E7%9B%B4%E6%92%AD%E8%A2%AB%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E5%8F%AB%E5%81%9C",
+      "rank": 24
+    },
+    {
+      "title": "曝青稚被蛐蛐的原因",
+      "hot_value": 234034,
+      "link": "https://s.weibo.com/weibo?q=%E6%9B%9D%E9%9D%92%E7%A8%9A%E8%A2%AB%E8%9B%90%E8%9B%90%E7%9A%84%E5%8E%9F%E5%9B%A0",
+      "rank": 25
+    },
+    {
+      "title": "文吉儿 社会性",
+      "hot_value": 224947,
+      "link": "https://s.weibo.com/weibo?q=%E6%96%87%E5%90%89%E5%84%BF%20%E7%A4%BE%E4%BC%9A%E6%80%A7",
+      "rank": 26
+    },
+    {
+      "title": "苏醒 我怀疑张泉灵老师在说反话",
+      "hot_value": 219243,
+      "link": "https://s.weibo.com/weibo?q=%E8%8B%8F%E9%86%92%20%E6%88%91%E6%80%80%E7%96%91%E5%BC%A0%E6%B3%89%E7%81%B5%E8%80%81%E5%B8%88%E5%9C%A8%E8%AF%B4%E5%8F%8D%E8%AF%9D",
+      "rank": 27
+    },
+    {
+      "title": "iG和GEN热身方式曝光",
+      "hot_value": 197465,
+      "link": "https://s.weibo.com/weibo?q=iG%E5%92%8CGEN%E7%83%AD%E8%BA%AB%E6%96%B9%E5%BC%8F%E6%9B%9D%E5%85%89",
+      "rank": 28
+    },
+    {
+      "title": "白小纯杂志2分钟2000销量",
+      "hot_value": 186521,
+      "link": "https://s.weibo.com/weibo?q=%E7%99%BD%E5%B0%8F%E7%BA%AF%E6%9D%82%E5%BF%972%E5%88%86%E9%92%9F2000%E9%94%80%E9%87%8F",
+      "rank": 29
+    },
+    {
+      "title": "狗狗不明白为什么会输",
+      "hot_value": 185600,
+      "link": "https://s.weibo.com/weibo?q=%E7%8B%97%E7%8B%97%E4%B8%8D%E6%98%8E%E7%99%BD%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BC%9A%E8%BE%93",
+      "rank": 30
+    },
+    {
+      "title": "白小纯销量",
+      "hot_value": 179423,
+      "link": "https://s.weibo.com/weibo?q=%E7%99%BD%E5%B0%8F%E7%BA%AF%E9%94%80%E9%87%8F",
+      "rank": 31
+    },
+    {
+      "title": "今何在 江南是谁",
+      "hot_value": 178251,
+      "link": "https://s.weibo.com/weibo?q=%E4%BB%8A%E4%BD%95%E5%9C%A8%20%E6%B1%9F%E5%8D%97%E6%98%AF%E8%B0%81",
+      "rank": 32
+    },
+    {
+      "title": "北京火锅店立冬排队超1000桌",
+      "hot_value": 173556,
+      "link": "https://s.weibo.com/weibo?q=%E5%8C%97%E4%BA%AC%E7%81%AB%E9%94%85%E5%BA%97%E7%AB%8B%E5%86%AC%E6%8E%92%E9%98%9F%E8%B6%851000%E6%A1%8C",
+      "rank": 33
+    },
+    {
+      "title": "王橹杰台历",
+      "hot_value": 169793,
+      "link": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A9%B9%E6%9D%B0%E5%8F%B0%E5%8E%86",
+      "rank": 34
+    },
+    {
+      "title": "时代峰峻迎来了物料大更新时代",
+      "hot_value": 164239,
+      "link": "https://s.weibo.com/weibo?q=%E6%97%B6%E4%BB%A3%E5%B3%B0%E5%B3%BB%E8%BF%8E%E6%9D%A5%E4%BA%86%E7%89%A9%E6%96%99%E5%A4%A7%E6%9B%B4%E6%96%B0%E6%97%B6%E4%BB%A3",
+      "rank": 35
+    },
+    {
+      "title": "杨颖文咏珊 后会友期",
+      "hot_value": 162981,
+      "link": "https://s.weibo.com/weibo?q=%E6%9D%A8%E9%A2%96%E6%96%87%E5%92%8F%E7%8F%8A%20%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F",
+      "rank": 36
+    },
+    {
+      "title": "史上电池容量最大标准iPhone",
+      "hot_value": 160141,
+      "link": "https://s.weibo.com/weibo?q=%E5%8F%B2%E4%B8%8A%E7%94%B5%E6%B1%A0%E5%AE%B9%E9%87%8F%E6%9C%80%E5%A4%A7%E6%A0%87%E5%87%86iPhone",
+      "rank": 37
+    },
+    {
+      "title": "超长饺子一根直接吃到饱",
+      "hot_value": 160034,
+      "link": "https://s.weibo.com/weibo?q=%E8%B6%85%E9%95%BF%E9%A5%BA%E5%AD%90%E4%B8%80%E6%A0%B9%E7%9B%B4%E6%8E%A5%E5%90%83%E5%88%B0%E9%A5%B1",
+      "rank": 38
+    },
+    {
+      "title": "芒果有条通天路你走不走",
+      "hot_value": 159688,
+      "link": "https://s.weibo.com/weibo?q=%E8%8A%92%E6%9E%9C%E6%9C%89%E6%9D%A1%E9%80%9A%E5%A4%A9%E8%B7%AF%E4%BD%A0%E8%B5%B0%E4%B8%8D%E8%B5%B0",
+      "rank": 39
+    },
+    {
+      "title": "进博会燃油车浓度极高",
+      "hot_value": 159585,
+      "link": "https://s.weibo.com/weibo?q=%E8%BF%9B%E5%8D%9A%E4%BC%9A%E7%87%83%E6%B2%B9%E8%BD%A6%E6%B5%93%E5%BA%A6%E6%9E%81%E9%AB%98",
+      "rank": 40
+    },
+    {
+      "title": "一非法移民来白宫行刺特朗普未遂",
+      "hot_value": 159426,
+      "link": "https://s.weibo.com/weibo?q=%E4%B8%80%E9%9D%9E%E6%B3%95%E7%A7%BB%E6%B0%91%E6%9D%A5%E7%99%BD%E5%AE%AB%E8%A1%8C%E5%88%BA%E7%89%B9%E6%9C%97%E6%99%AE%E6%9C%AA%E9%81%82",
+      "rank": 41
+    },
+    {
+      "title": "汪苏泷告小红书AI助手点点",
+      "hot_value": 159200,
+      "link": "https://s.weibo.com/weibo?q=%E6%B1%AA%E8%8B%8F%E6%B3%B7%E5%91%8A%E5%B0%8F%E7%BA%A2%E4%B9%A6AI%E5%8A%A9%E6%89%8B%E7%82%B9%E7%82%B9",
+      "rank": 42
+    },
+    {
+      "title": "男子被雇主扇耳光昏迷14个月离世",
+      "hot_value": 153924,
+      "link": "https://s.weibo.com/weibo?q=%E7%94%B7%E5%AD%90%E8%A2%AB%E9%9B%87%E4%B8%BB%E6%89%87%E8%80%B3%E5%85%89%E6%98%8F%E8%BF%B714%E4%B8%AA%E6%9C%88%E7%A6%BB%E4%B8%96",
+      "rank": 43
+    },
+    {
+      "title": "王一博585车组获亚军",
+      "hot_value": 153016,
+      "link": "https://s.weibo.com/weibo?q=%E7%8E%8B%E4%B8%80%E5%8D%9A585%E8%BD%A6%E7%BB%84%E8%8E%B7%E4%BA%9A%E5%86%9B",
+      "rank": 44
+    },
+    {
+      "title": "玉簟秋收官礼",
+      "hot_value": 145703,
+      "link": "https://s.weibo.com/weibo?q=%E7%8E%89%E7%B0%9F%E7%A7%8B%E6%94%B6%E5%AE%98%E7%A4%BC",
+      "rank": 45
+    },
+    {
+      "title": "进博会10项黑科技盘点",
+      "hot_value": 140573,
+      "link": "https://s.weibo.com/weibo?q=%E8%BF%9B%E5%8D%9A%E4%BC%9A10%E9%A1%B9%E9%BB%91%E7%A7%91%E6%8A%80%E7%9B%98%E7%82%B9",
+      "rank": 46
+    },
+    {
+      "title": "赵丽颖也得变着法哄自己上班",
+      "hot_value": 140497,
+      "link": "https://s.weibo.com/weibo?q=%E8%B5%B5%E4%B8%BD%E9%A2%96%E4%B9%9F%E5%BE%97%E5%8F%98%E7%9D%80%E6%B3%95%E5%93%84%E8%87%AA%E5%B7%B1%E4%B8%8A%E7%8F%AD",
+      "rank": 47
+    },
+    {
+      "title": "嫁金钗全员谢幕这两分钟",
+      "hot_value": 139130,
+      "link": "https://s.weibo.com/weibo?q=%E5%AB%81%E9%87%91%E9%92%97%E5%85%A8%E5%91%98%E8%B0%A2%E5%B9%95%E8%BF%99%E4%B8%A4%E5%88%86%E9%92%9F",
+      "rank": 48
+    },
+    {
+      "title": "HPV疫苗是不是骗局",
+      "hot_value": 133526,
+      "link": "https://s.weibo.com/weibo?q=HPV%E7%96%AB%E8%8B%97%E6%98%AF%E4%B8%8D%E6%98%AF%E9%AA%97%E5%B1%80",
+      "rank": 49
+    },
+    {
+      "title": "曾辉说用天猫多功能锅做8个菜",
+      "hot_value": 133516,
+      "link": "https://s.weibo.com/weibo?q=%E6%9B%BE%E8%BE%89%E8%AF%B4%E7%94%A8%E5%A4%A9%E7%8C%AB%E5%A4%9A%E5%8A%9F%E8%83%BD%E9%94%85%E5%81%9A8%E4%B8%AA%E8%8F%9C",
+      "rank": 50
+    }
+  ]
+}
