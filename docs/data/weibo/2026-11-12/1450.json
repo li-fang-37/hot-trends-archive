@@ -1,0 +1,307 @@
+{
+  "platform": "weibo",
+  "platform_name": "微博热搜",
+  "time": "2026-11-12 14:50:56",
+  "items": [
+    {
+      "title": "被老师打到抽搐女孩父母常年在外务工",
+      "hot_value": 1151134,
+      "link": "https://s.weibo.com/weibo?q=%E8%A2%AB%E8%80%81%E5%B8%88%E6%89%93%E5%88%B0%E6%8A%BD%E6%90%90%E5%A5%B3%E5%AD%A9%E7%88%B6%E6%AF%8D%E5%B8%B8%E5%B9%B4%E5%9C%A8%E5%A4%96%E5%8A%A1%E5%B7%A5",
+      "rank": 1
+    },
+    {
+      "title": "青稚给文吉儿表白 笑不出来",
+      "hot_value": 843271,
+      "link": "https://s.weibo.com/weibo?q=%E9%9D%92%E7%A8%9A%E7%BB%99%E6%96%87%E5%90%89%E5%84%BF%E8%A1%A8%E7%99%BD%20%E7%AC%91%E4%B8%8D%E5%87%BA%E6%9D%A5",
+      "rank": 2
+    },
+    {
+      "title": "中国外贸跑出好成绩",
+      "hot_value": 673549,
+      "link": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E5%A4%96%E8%B4%B8%E8%B7%91%E5%87%BA%E5%A5%BD%E6%88%90%E7%BB%A9",
+      "rank": 3
+    },
+    {
+      "title": "腾讯辟谣裁员50%",
+      "hot_value": 662408,
+      "link": "https://s.weibo.com/weibo?q=%E8%85%BE%E8%AE%AF%E8%BE%9F%E8%B0%A3%E8%A3%81%E5%91%9850%25",
+      "rank": 4
+    },
+    {
+      "title": "山姆399元羽绒服打脸谁",
+      "hot_value": 655024,
+      "link": "https://s.weibo.com/weibo?q=%E5%B1%B1%E5%A7%86399%E5%85%83%E7%BE%BD%E7%BB%92%E6%9C%8D%E6%89%93%E8%84%B8%E8%B0%81",
+      "rank": 5
+    },
+    {
+      "title": "王子璇 我下次还会收费",
+      "hot_value": 653009,
+      "link": "https://s.weibo.com/weibo?q=%E7%8E%8B%E5%AD%90%E7%92%87%20%E6%88%91%E4%B8%8B%E6%AC%A1%E8%BF%98%E4%BC%9A%E6%94%B6%E8%B4%B9",
+      "rank": 6
+    },
+    {
+      "title": "勇士火箭打架",
+      "hot_value": 646825,
+      "link": "https://s.weibo.com/weibo?q=%E5%8B%87%E5%A3%AB%E7%81%AB%E7%AE%AD%E6%89%93%E6%9E%B6",
+      "rank": 7
+    },
+    {
+      "title": "女子产后遭丈夫拒门外每月药费6千",
+      "hot_value": 529982,
+      "link": "https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%90%E4%BA%A7%E5%90%8E%E9%81%AD%E4%B8%88%E5%A4%AB%E6%8B%92%E9%97%A8%E5%A4%96%E6%AF%8F%E6%9C%88%E8%8D%AF%E8%B4%B96%E5%8D%83",
+      "rank": 8
+    },
+    {
+      "title": "冰尘退役",
+      "hot_value": 496420,
+      "link": "https://s.weibo.com/weibo?q=%E5%86%B0%E5%B0%98%E9%80%80%E5%BD%B9",
+      "rank": 9
+    },
+    {
+      "title": "后会友期",
+      "hot_value": 491667,
+      "link": "https://s.weibo.com/weibo?q=%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F",
+      "rank": 10
+    },
+    {
+      "title": "白小纯让青稚给文吉儿表白",
+      "hot_value": 481538,
+      "link": "https://s.weibo.com/weibo?q=%E7%99%BD%E5%B0%8F%E7%BA%AF%E8%AE%A9%E9%9D%92%E7%A8%9A%E7%BB%99%E6%96%87%E5%90%89%E5%84%BF%E8%A1%A8%E7%99%BD",
+      "rank": 11
+    },
+    {
+      "title": "许飞 我们娜娜子",
+      "hot_value": 477462,
+      "link": "https://s.weibo.com/weibo?q=%E8%AE%B8%E9%A3%9E%20%E6%88%91%E4%BB%AC%E5%A8%9C%E5%A8%9C%E5%AD%90",
+      "rank": 12
+    },
+    {
+      "title": "大美曾因高迪开房调监控",
+      "hot_value": 476141,
+      "link": "https://s.weibo.com/weibo?q=%E5%A4%A7%E7%BE%8E%E6%9B%BE%E5%9B%A0%E9%AB%98%E8%BF%AA%E5%BC%80%E6%88%BF%E8%B0%83%E7%9B%91%E6%8E%A7",
+      "rank": 13
+    },
+    {
+      "title": "谍报上不封顶杀青一年后补拍",
+      "hot_value": 469731,
+      "link": "https://s.weibo.com/weibo?q=%E8%B0%8D%E6%8A%A5%E4%B8%8A%E4%B8%8D%E5%B0%81%E9%A1%B6%E6%9D%80%E9%9D%92%E4%B8%80%E5%B9%B4%E5%90%8E%E8%A1%A5%E6%8B%8D",
+      "rank": 14
+    },
+    {
+      "title": "大美被实名举报偷税漏税",
+      "hot_value": 464414,
+      "link": "https://s.weibo.com/weibo?q=%E5%A4%A7%E7%BE%8E%E8%A2%AB%E5%AE%9E%E5%90%8D%E4%B8%BE%E6%8A%A5%E5%81%B7%E7%A8%8E%E6%BC%8F%E7%A8%8E",
+      "rank": 15
+    },
+    {
+      "title": "张萌说王子璇已经对文吉儿应激了",
+      "hot_value": 460849,
+      "link": "https://s.weibo.com/weibo?q=%E5%BC%A0%E8%90%8C%E8%AF%B4%E7%8E%8B%E5%AD%90%E7%92%87%E5%B7%B2%E7%BB%8F%E5%AF%B9%E6%96%87%E5%90%89%E5%84%BF%E5%BA%94%E6%BF%80%E4%BA%86",
+      "rank": 16
+    },
+    {
+      "title": "青稚刚哭完就训练",
+      "hot_value": 451831,
+      "link": "https://s.weibo.com/weibo?q=%E9%9D%92%E7%A8%9A%E5%88%9A%E5%93%AD%E5%AE%8C%E5%B0%B1%E8%AE%AD%E7%BB%83",
+      "rank": 17
+    },
+    {
+      "title": "大美回应偷税漏税",
+      "hot_value": 444197,
+      "link": "https://s.weibo.com/weibo?q=%E5%A4%A7%E7%BE%8E%E5%9B%9E%E5%BA%94%E5%81%B7%E7%A8%8E%E6%BC%8F%E7%A8%8E",
+      "rank": 18
+    },
+    {
+      "title": "钎城回应冰尘退役",
+      "hot_value": 440971,
+      "link": "https://s.weibo.com/weibo?q=%E9%92%8E%E5%9F%8E%E5%9B%9E%E5%BA%94%E5%86%B0%E5%B0%98%E9%80%80%E5%BD%B9",
+      "rank": 19
+    },
+    {
+      "title": "泰兰尼斯598元童鞋穿一周鞋底戳穿",
+      "hot_value": 437810,
+      "link": "https://s.weibo.com/weibo?q=%E6%B3%B0%E5%85%B0%E5%B0%BC%E6%96%AF598%E5%85%83%E7%AB%A5%E9%9E%8B%E7%A9%BF%E4%B8%80%E5%91%A8%E9%9E%8B%E5%BA%95%E6%88%B3%E7%A9%BF",
+      "rank": 20
+    },
+    {
+      "title": "青稚在马天宇怀里大哭",
+      "hot_value": 436897,
+      "link": "https://s.weibo.com/weibo?q=%E9%9D%92%E7%A8%9A%E5%9C%A8%E9%A9%AC%E5%A4%A9%E5%AE%87%E6%80%80%E9%87%8C%E5%A4%A7%E5%93%AD",
+      "rank": 21
+    },
+    {
+      "title": "腾讯 员工",
+      "hot_value": 435866,
+      "link": "https://s.weibo.com/weibo?q=%E8%85%BE%E8%AE%AF%20%E5%91%98%E5%B7%A5",
+      "rank": 22
+    },
+    {
+      "title": "赵丽颖起诉红果短剧",
+      "hot_value": 426091,
+      "link": "https://s.weibo.com/weibo?q=%E8%B5%B5%E4%B8%BD%E9%A2%96%E8%B5%B7%E8%AF%89%E7%BA%A2%E6%9E%9C%E7%9F%AD%E5%89%A7",
+      "rank": 23
+    },
+    {
+      "title": "韩红基金会回应张雪改口",
+      "hot_value": 386906,
+      "link": "https://s.weibo.com/weibo?q=%E9%9F%A9%E7%BA%A2%E5%9F%BA%E9%87%91%E4%BC%9A%E5%9B%9E%E5%BA%94%E5%BC%A0%E9%9B%AA%E6%94%B9%E5%8F%A3",
+      "rank": 24
+    },
+    {
+      "title": "霸王茶姬新朋友宋雨琦",
+      "hot_value": 386405,
+      "link": "https://s.weibo.com/weibo?q=%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%E6%96%B0%E6%9C%8B%E5%8F%8B%E5%AE%8B%E9%9B%A8%E7%90%A6",
+      "rank": 25
+    },
+    {
+      "title": "射击教练被控走私81支枪怎么算的",
+      "hot_value": 386145,
+      "link": "https://s.weibo.com/weibo?q=%E5%B0%84%E5%87%BB%E6%95%99%E7%BB%83%E8%A2%AB%E6%8E%A7%E8%B5%B0%E7%A7%8181%E6%94%AF%E6%9E%AA%E6%80%8E%E4%B9%88%E7%AE%97%E7%9A%84",
+      "rank": 26
+    },
+    {
+      "title": "等等15岁",
+      "hot_value": 385982,
+      "link": "https://s.weibo.com/weibo?q=%E7%AD%89%E7%AD%8915%E5%B2%81",
+      "rank": 27
+    },
+    {
+      "title": "徐艺洋儿子拿妈妈应援物",
+      "hot_value": 350546,
+      "link": "https://s.weibo.com/weibo?q=%E5%BE%90%E8%89%BA%E6%B4%8B%E5%84%BF%E5%AD%90%E6%8B%BF%E5%A6%88%E5%A6%88%E5%BA%94%E6%8F%B4%E7%89%A9",
+      "rank": 28
+    },
+    {
+      "title": "曝女子推理社3首录全阵容",
+      "hot_value": 296674,
+      "link": "https://s.weibo.com/weibo?q=%E6%9B%9D%E5%A5%B3%E5%AD%90%E6%8E%A8%E7%90%86%E7%A4%BE3%E9%A6%96%E5%BD%95%E5%85%A8%E9%98%B5%E5%AE%B9",
+      "rank": 29
+    },
+    {
+      "title": "小学生没带课本被打涉事教师已停职",
+      "hot_value": 268194,
+      "link": "https://s.weibo.com/weibo?q=%E5%B0%8F%E5%AD%A6%E7%94%9F%E6%B2%A1%E5%B8%A6%E8%AF%BE%E6%9C%AC%E8%A2%AB%E6%89%93%E6%B6%89%E4%BA%8B%E6%95%99%E5%B8%88%E5%B7%B2%E5%81%9C%E8%81%8C",
+      "rank": 30
+    },
+    {
+      "title": "告别信开机",
+      "hot_value": 258828,
+      "link": "https://s.weibo.com/weibo?q=%E5%91%8A%E5%88%AB%E4%BF%A1%E5%BC%80%E6%9C%BA",
+      "rank": 31
+    },
+    {
+      "title": "厉娜给许飞系扣子",
+      "hot_value": 239582,
+      "link": "https://s.weibo.com/weibo?q=%E5%8E%89%E5%A8%9C%E7%BB%99%E8%AE%B8%E9%A3%9E%E7%B3%BB%E6%89%A3%E5%AD%90",
+      "rank": 32
+    },
+    {
+      "title": "压垮50岁老教师的真的是一句顶嘴吗",
+      "hot_value": 221413,
+      "link": "https://s.weibo.com/weibo?q=%E5%8E%8B%E5%9E%AE50%E5%B2%81%E8%80%81%E6%95%99%E5%B8%88%E7%9A%84%E7%9C%9F%E7%9A%84%E6%98%AF%E4%B8%80%E5%8F%A5%E9%A1%B6%E5%98%B4%E5%90%97",
+      "rank": 33
+    },
+    {
+      "title": "邓超拥抱孙俪说辛苦了",
+      "hot_value": 209441,
+      "link": "https://s.weibo.com/weibo?q=%E9%82%93%E8%B6%85%E6%8B%A5%E6%8A%B1%E5%AD%99%E4%BF%AA%E8%AF%B4%E8%BE%9B%E8%8B%A6%E4%BA%86",
+      "rank": 34
+    },
+    {
+      "title": "库里 申京",
+      "hot_value": 205932,
+      "link": "https://s.weibo.com/weibo?q=%E5%BA%93%E9%87%8C%20%E7%94%B3%E4%BA%AC",
+      "rank": 35
+    },
+    {
+      "title": "班主任崩溃大哭教育不能只靠硬扛",
+      "hot_value": 202232,
+      "link": "https://s.weibo.com/weibo?q=%E7%8F%AD%E4%B8%BB%E4%BB%BB%E5%B4%A9%E6%BA%83%E5%A4%A7%E5%93%AD%E6%95%99%E8%82%B2%E4%B8%8D%E8%83%BD%E5%8F%AA%E9%9D%A0%E7%A1%AC%E6%89%9B",
+      "rank": 36
+    },
+    {
+      "title": "马天宇回应杨幂孙怡求删好友",
+      "hot_value": 196054,
+      "link": "https://s.weibo.com/weibo?q=%E9%A9%AC%E5%A4%A9%E5%AE%87%E5%9B%9E%E5%BA%94%E6%9D%A8%E5%B9%82%E5%AD%99%E6%80%A1%E6%B1%82%E5%88%A0%E5%A5%BD%E5%8F%8B",
+      "rank": 37
+    },
+    {
+      "title": "当今中国的成就已远超孙中山构想",
+      "hot_value": 191465,
+      "link": "https://s.weibo.com/weibo?q=%E5%BD%93%E4%BB%8A%E4%B8%AD%E5%9B%BD%E7%9A%84%E6%88%90%E5%B0%B1%E5%B7%B2%E8%BF%9C%E8%B6%85%E5%AD%99%E4%B8%AD%E5%B1%B1%E6%9E%84%E6%83%B3",
+      "rank": 38
+    },
+    {
+      "title": "火箭主帅回应与勇士冲突",
+      "hot_value": 190453,
+      "link": "https://s.weibo.com/weibo?q=%E7%81%AB%E7%AE%AD%E4%B8%BB%E5%B8%85%E5%9B%9E%E5%BA%94%E4%B8%8E%E5%8B%87%E5%A3%AB%E5%86%B2%E7%AA%81",
+      "rank": 39
+    },
+    {
+      "title": "郑雨陈砚周亲上了",
+      "hot_value": 186715,
+      "link": "https://s.weibo.com/weibo?q=%E9%83%91%E9%9B%A8%E9%99%88%E7%A0%9A%E5%91%A8%E4%BA%B2%E4%B8%8A%E4%BA%86",
+      "rank": 40
+    },
+    {
+      "title": "关晓彤的减脂餐装了4个碗",
+      "hot_value": 182401,
+      "link": "https://s.weibo.com/weibo?q=%E5%85%B3%E6%99%93%E5%BD%A4%E7%9A%84%E5%87%8F%E8%84%82%E9%A4%90%E8%A3%85%E4%BA%864%E4%B8%AA%E7%A2%97",
+      "rank": 41
+    },
+    {
+      "title": "白小纯这是男人该做的事",
+      "hot_value": 179454,
+      "link": "https://s.weibo.com/weibo?q=%E7%99%BD%E5%B0%8F%E7%BA%AF%E8%BF%99%E6%98%AF%E7%94%B7%E4%BA%BA%E8%AF%A5%E5%81%9A%E7%9A%84%E4%BA%8B",
+      "rank": 42
+    },
+    {
+      "title": "原来李宇春是井柏然的老板",
+      "hot_value": 179073,
+      "link": "https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E6%9D%8E%E5%AE%87%E6%98%A5%E6%98%AF%E4%BA%95%E6%9F%8F%E7%84%B6%E7%9A%84%E8%80%81%E6%9D%BF",
+      "rank": 43
+    },
+    {
+      "title": "田曦薇不要给我提裙子我穿秋裤了",
+      "hot_value": 173108,
+      "link": "https://s.weibo.com/weibo?q=%E7%94%B0%E6%9B%A6%E8%96%87%E4%B8%8D%E8%A6%81%E7%BB%99%E6%88%91%E6%8F%90%E8%A3%99%E5%AD%90%E6%88%91%E7%A9%BF%E7%A7%8B%E8%A3%A4%E4%BA%86",
+      "rank": 44
+    },
+    {
+      "title": "15岁等等写什么是孝",
+      "hot_value": 171686,
+      "link": "https://s.weibo.com/weibo?q=15%E5%B2%81%E7%AD%89%E7%AD%89%E5%86%99%E4%BB%80%E4%B9%88%E6%98%AF%E5%AD%9D",
+      "rank": 45
+    },
+    {
+      "title": "霍启刚结婚14周年发文称十分感恩",
+      "hot_value": 170165,
+      "link": "https://s.weibo.com/weibo?q=%E9%9C%8D%E5%90%AF%E5%88%9A%E7%BB%93%E5%A9%9A14%E5%91%A8%E5%B9%B4%E5%8F%91%E6%96%87%E7%A7%B0%E5%8D%81%E5%88%86%E6%84%9F%E6%81%A9",
+      "rank": 46
+    },
+    {
+      "title": "爱用AI的人建议反复观看",
+      "hot_value": 169312,
+      "link": "https://s.weibo.com/weibo?q=%E7%88%B1%E7%94%A8AI%E7%9A%84%E4%BA%BA%E5%BB%BA%E8%AE%AE%E5%8F%8D%E5%A4%8D%E8%A7%82%E7%9C%8B",
+      "rank": 47
+    },
+    {
+      "title": "郭晶晶说很少和霍启刚吵架",
+      "hot_value": 167578,
+      "link": "https://s.weibo.com/weibo?q=%E9%83%AD%E6%99%B6%E6%99%B6%E8%AF%B4%E5%BE%88%E5%B0%91%E5%92%8C%E9%9C%8D%E5%90%AF%E5%88%9A%E5%90%B5%E6%9E%B6",
+      "rank": 48
+    },
+    {
+      "title": "游客反映动物园4个月大的小羊怀孕",
+      "hot_value": 163574,
+      "link": "https://s.weibo.com/weibo?q=%E6%B8%B8%E5%AE%A2%E5%8F%8D%E6%98%A0%E5%8A%A8%E7%89%A9%E5%9B%AD4%E4%B8%AA%E6%9C%88%E5%A4%A7%E7%9A%84%E5%B0%8F%E7%BE%8A%E6%80%80%E5%AD%95",
+      "rank": 49
+    },
+    {
+      "title": "贝莱德资产仅百分之一投向中国",
+      "hot_value": 146330,
+      "link": "https://s.weibo.com/weibo?q=%E8%B4%9D%E8%8E%B1%E5%BE%B7%E8%B5%84%E4%BA%A7%E4%BB%85%E7%99%BE%E5%88%86%E4%B9%8B%E4%B8%80%E6%8A%95%E5%90%91%E4%B8%AD%E5%9B%BD",
+      "rank": 50
+    }
+  ]
+}
