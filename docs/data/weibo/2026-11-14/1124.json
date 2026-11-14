@@ -1,0 +1,307 @@
+{
+  "platform": "weibo",
+  "platform_name": "微博热搜",
+  "time": "2026-11-14 11:24:46",
+  "items": [
+    {
+      "title": "无人健身房火了小伙5年开1300家",
+      "hot_value": 1493253,
+      "link": "https://s.weibo.com/weibo?q=%E6%97%A0%E4%BA%BA%E5%81%A5%E8%BA%AB%E6%88%BF%E7%81%AB%E4%BA%86%E5%B0%8F%E4%BC%995%E5%B9%B4%E5%BC%801300%E5%AE%B6",
+      "rank": 1
+    },
+    {
+      "title": "911后第二次全美停飞",
+      "hot_value": 1043731,
+      "link": "https://s.weibo.com/weibo?q=911%E5%90%8E%E7%AC%AC%E4%BA%8C%E6%AC%A1%E5%85%A8%E7%BE%8E%E5%81%9C%E9%A3%9E",
+      "rank": 2
+    },
+    {
+      "title": "深圳盛装喜迎亚太宾朋",
+      "hot_value": 741486,
+      "link": "https://s.weibo.com/weibo?q=%E6%B7%B1%E5%9C%B3%E7%9B%9B%E8%A3%85%E5%96%9C%E8%BF%8E%E4%BA%9A%E5%A4%AA%E5%AE%BE%E6%9C%8B",
+      "rank": 3
+    },
+    {
+      "title": "全校仅50多岁教师一人自愿当班主任",
+      "hot_value": 545059,
+      "link": "https://s.weibo.com/weibo?q=%E5%85%A8%E6%A0%A1%E4%BB%8550%E5%A4%9A%E5%B2%81%E6%95%99%E5%B8%88%E4%B8%80%E4%BA%BA%E8%87%AA%E6%84%BF%E5%BD%93%E7%8F%AD%E4%B8%BB%E4%BB%BB",
+      "rank": 4
+    },
+    {
+      "title": "老板假装扫了500余次付款码",
+      "hot_value": 508024,
+      "link": "https://s.weibo.com/weibo?q=%E8%80%81%E6%9D%BF%E5%81%87%E8%A3%85%E6%89%AB%E4%BA%86500%E4%BD%99%E6%AC%A1%E4%BB%98%E6%AC%BE%E7%A0%81",
+      "rank": 5
+    },
+    {
+      "title": "许飞 厉娜之下众生平等",
+      "hot_value": 476440,
+      "link": "https://s.weibo.com/weibo?q=%E8%AE%B8%E9%A3%9E%20%E5%8E%89%E5%A8%9C%E4%B9%8B%E4%B8%8B%E4%BC%97%E7%94%9F%E5%B9%B3%E7%AD%89",
+      "rank": 6
+    },
+    {
+      "title": "2027英雄联盟赛事举办地公布",
+      "hot_value": 471393,
+      "link": "https://s.weibo.com/weibo?q=2027%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E8%B5%9B%E4%BA%8B%E4%B8%BE%E5%8A%9E%E5%9C%B0%E5%85%AC%E5%B8%83",
+      "rank": 7
+    },
+    {
+      "title": "女子回应读博期间3年生下3个孩子",
+      "hot_value": 421569,
+      "link": "https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%90%E5%9B%9E%E5%BA%94%E8%AF%BB%E5%8D%9A%E6%9C%9F%E9%97%B43%E5%B9%B4%E7%94%9F%E4%B8%8B3%E4%B8%AA%E5%AD%A9%E5%AD%90",
+      "rank": 8
+    },
+    {
+      "title": "江南今何在 你是真的爱我",
+      "hot_value": 336960,
+      "link": "https://s.weibo.com/weibo?q=%E6%B1%9F%E5%8D%97%E4%BB%8A%E4%BD%95%E5%9C%A8%20%E4%BD%A0%E6%98%AF%E7%9C%9F%E7%9A%84%E7%88%B1%E6%88%91",
+      "rank": 9
+    },
+    {
+      "title": "后会友期64%",
+      "hot_value": 279544,
+      "link": "https://s.weibo.com/weibo?q=%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F64%25",
+      "rank": 10
+    },
+    {
+      "title": "产妇求剖腹产遭拒孩子脑瘫丈夫发声",
+      "hot_value": 279304,
+      "link": "https://s.weibo.com/weibo?q=%E4%BA%A7%E5%A6%87%E6%B1%82%E5%89%96%E8%85%B9%E4%BA%A7%E9%81%AD%E6%8B%92%E5%AD%A9%E5%AD%90%E8%84%91%E7%98%AB%E4%B8%88%E5%A4%AB%E5%8F%91%E5%A3%B0",
+      "rank": 11
+    },
+    {
+      "title": "英伟达临时CEO是制衡黄仁勋重要力量",
+      "hot_value": 279204,
+      "link": "https://s.weibo.com/weibo?q=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E4%B8%B4%E6%97%B6CEO%E6%98%AF%E5%88%B6%E8%A1%A1%E9%BB%84%E4%BB%81%E5%8B%8B%E9%87%8D%E8%A6%81%E5%8A%9B%E9%87%8F",
+      "rank": 12
+    },
+    {
+      "title": "英伟达女员工哭了",
+      "hot_value": 278888,
+      "link": "https://s.weibo.com/weibo?q=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%A5%B3%E5%91%98%E5%B7%A5%E5%93%AD%E4%BA%86",
+      "rank": 13
+    },
+    {
+      "title": "Lisa演唱会拿鞭子",
+      "hot_value": 278543,
+      "link": "https://s.weibo.com/weibo?q=Lisa%E6%BC%94%E5%94%B1%E4%BC%9A%E6%8B%BF%E9%9E%AD%E5%AD%90",
+      "rank": 14
+    },
+    {
+      "title": "欧航空安全组织成员国停飞赴美航班",
+      "hot_value": 274095,
+      "link": "https://s.weibo.com/weibo?q=%E6%AC%A7%E8%88%AA%E7%A9%BA%E5%AE%89%E5%85%A8%E7%BB%84%E7%BB%87%E6%88%90%E5%91%98%E5%9B%BD%E5%81%9C%E9%A3%9E%E8%B5%B4%E7%BE%8E%E8%88%AA%E7%8F%AD",
+      "rank": 15
+    },
+    {
+      "title": "纯稚",
+      "hot_value": 271114,
+      "link": "https://s.weibo.com/weibo?q=%E7%BA%AF%E7%A8%9A",
+      "rank": 16
+    },
+    {
+      "title": "请回答1988善宇扮演者酒驾",
+      "hot_value": 270633,
+      "link": "https://s.weibo.com/weibo?q=%E8%AF%B7%E5%9B%9E%E7%AD%941988%E5%96%84%E5%AE%87%E6%89%AE%E6%BC%94%E8%80%85%E9%85%92%E9%A9%BE",
+      "rank": 17
+    },
+    {
+      "title": "2026KPL年总首发名单",
+      "hot_value": 263919,
+      "link": "https://s.weibo.com/weibo?q=2026KPL%E5%B9%B4%E6%80%BB%E9%A6%96%E5%8F%91%E5%90%8D%E5%8D%95",
+      "rank": 18
+    },
+    {
+      "title": "黄仁勋辞职或影响史上最大IPO",
+      "hot_value": 255536,
+      "link": "https://s.weibo.com/weibo?q=%E9%BB%84%E4%BB%81%E5%8B%8B%E8%BE%9E%E8%81%8C%E6%88%96%E5%BD%B1%E5%93%8D%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%A4%A7IPO",
+      "rank": 19
+    },
+    {
+      "title": "曝魏晨被雪藏的原因",
+      "hot_value": 244703,
+      "link": "https://s.weibo.com/weibo?q=%E6%9B%9D%E9%AD%8F%E6%99%A8%E8%A2%AB%E9%9B%AA%E8%97%8F%E7%9A%84%E5%8E%9F%E5%9B%A0",
+      "rank": 20
+    },
+    {
+      "title": "顾客尝了口面整碗扔垃圾桶付钱走人",
+      "hot_value": 243842,
+      "link": "https://s.weibo.com/weibo?q=%E9%A1%BE%E5%AE%A2%E5%B0%9D%E4%BA%86%E5%8F%A3%E9%9D%A2%E6%95%B4%E7%A2%97%E6%89%94%E5%9E%83%E5%9C%BE%E6%A1%B6%E4%BB%98%E9%92%B1%E8%B5%B0%E4%BA%BA",
+      "rank": 21
+    },
+    {
+      "title": "男孩玩手机肘击奶奶被妈妈用胶带绑起",
+      "hot_value": 238490,
+      "link": "https://s.weibo.com/weibo?q=%E7%94%B7%E5%AD%A9%E7%8E%A9%E6%89%8B%E6%9C%BA%E8%82%98%E5%87%BB%E5%A5%B6%E5%A5%B6%E8%A2%AB%E5%A6%88%E5%A6%88%E7%94%A8%E8%83%B6%E5%B8%A6%E7%BB%91%E8%B5%B7",
+      "rank": 22
+    },
+    {
+      "title": "铁路部门通报外籍旅客高铁吸烟",
+      "hot_value": 214241,
+      "link": "https://s.weibo.com/weibo?q=%E9%93%81%E8%B7%AF%E9%83%A8%E9%97%A8%E9%80%9A%E6%8A%A5%E5%A4%96%E7%B1%8D%E6%97%85%E5%AE%A2%E9%AB%98%E9%93%81%E5%90%B8%E7%83%9F",
+      "rank": 23
+    },
+    {
+      "title": "艾薇儿当妈",
+      "hot_value": 211058,
+      "link": "https://s.weibo.com/weibo?q=%E8%89%BE%E8%96%87%E5%84%BF%E5%BD%93%E5%A6%88",
+      "rank": 24
+    },
+    {
+      "title": "原来黑帮真的是统一服装啊",
+      "hot_value": 206041,
+      "link": "https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E9%BB%91%E5%B8%AE%E7%9C%9F%E7%9A%84%E6%98%AF%E7%BB%9F%E4%B8%80%E6%9C%8D%E8%A3%85%E5%95%8A",
+      "rank": 25
+    },
+    {
+      "title": "顾居居 白小纯",
+      "hot_value": 198381,
+      "link": "https://s.weibo.com/weibo?q=%E9%A1%BE%E5%B1%85%E5%B1%85%20%E7%99%BD%E5%B0%8F%E7%BA%AF",
+      "rank": 26
+    },
+    {
+      "title": "李嘉格想让小董出去找工作",
+      "hot_value": 183697,
+      "link": "https://s.weibo.com/weibo?q=%E6%9D%8E%E5%98%89%E6%A0%BC%E6%83%B3%E8%AE%A9%E5%B0%8F%E8%91%A3%E5%87%BA%E5%8E%BB%E6%89%BE%E5%B7%A5%E4%BD%9C",
+      "rank": 27
+    },
+    {
+      "title": "产妇剖腹产第二天头发打结全剃光",
+      "hot_value": 171998,
+      "link": "https://s.weibo.com/weibo?q=%E4%BA%A7%E5%A6%87%E5%89%96%E8%85%B9%E4%BA%A7%E7%AC%AC%E4%BA%8C%E5%A4%A9%E5%A4%B4%E5%8F%91%E6%89%93%E7%BB%93%E5%85%A8%E5%89%83%E5%85%89",
+      "rank": 28
+    },
+    {
+      "title": "女子推理社",
+      "hot_value": 160104,
+      "link": "https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%90%E6%8E%A8%E7%90%86%E7%A4%BE",
+      "rank": 29
+    },
+    {
+      "title": "仙洋为大美发声",
+      "hot_value": 159076,
+      "link": "https://s.weibo.com/weibo?q=%E4%BB%99%E6%B4%8B%E4%B8%BA%E5%A4%A7%E7%BE%8E%E5%8F%91%E5%A3%B0",
+      "rank": 30
+    },
+    {
+      "title": "后会友期因为许飞的小巧思被无限反刍",
+      "hot_value": 159075,
+      "link": "https://s.weibo.com/weibo?q=%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F%E5%9B%A0%E4%B8%BA%E8%AE%B8%E9%A3%9E%E7%9A%84%E5%B0%8F%E5%B7%A7%E6%80%9D%E8%A2%AB%E6%97%A0%E9%99%90%E5%8F%8D%E5%88%8D",
+      "rank": 31
+    },
+    {
+      "title": "全民进入大纳尼时代",
+      "hot_value": 159067,
+      "link": "https://s.weibo.com/weibo?q=%E5%85%A8%E6%B0%91%E8%BF%9B%E5%85%A5%E5%A4%A7%E7%BA%B3%E5%B0%BC%E6%97%B6%E4%BB%A3",
+      "rank": 32
+    },
+    {
+      "title": "税务师考试",
+      "hot_value": 158980,
+      "link": "https://s.weibo.com/weibo?q=%E7%A8%8E%E5%8A%A1%E5%B8%88%E8%80%83%E8%AF%95",
+      "rank": 33
+    },
+    {
+      "title": "10岁男孩花12元2天手搓扫地机器人",
+      "hot_value": 157215,
+      "link": "https://s.weibo.com/weibo?q=10%E5%B2%81%E7%94%B7%E5%AD%A9%E8%8A%B112%E5%85%832%E5%A4%A9%E6%89%8B%E6%90%93%E6%89%AB%E5%9C%B0%E6%9C%BA%E5%99%A8%E4%BA%BA",
+      "rank": 34
+    },
+    {
+      "title": "深夜徐老师怀孕13周胖7斤",
+      "hot_value": 148723,
+      "link": "https://s.weibo.com/weibo?q=%E6%B7%B1%E5%A4%9C%E5%BE%90%E8%80%81%E5%B8%88%E6%80%80%E5%AD%9513%E5%91%A8%E8%83%967%E6%96%A4",
+      "rank": 35
+    },
+    {
+      "title": "美全国范围实施地面停飞",
+      "hot_value": 141464,
+      "link": "https://s.weibo.com/weibo?q=%E7%BE%8E%E5%85%A8%E5%9B%BD%E8%8C%83%E5%9B%B4%E5%AE%9E%E6%96%BD%E5%9C%B0%E9%9D%A2%E5%81%9C%E9%A3%9E",
+      "rank": 36
+    },
+    {
+      "title": "产妇羊水栓塞母子双亡医院赔119万",
+      "hot_value": 137188,
+      "link": "https://s.weibo.com/weibo?q=%E4%BA%A7%E5%A6%87%E7%BE%8A%E6%B0%B4%E6%A0%93%E5%A1%9E%E6%AF%8D%E5%AD%90%E5%8F%8C%E4%BA%A1%E5%8C%BB%E9%99%A2%E8%B5%94119%E4%B8%87",
+      "rank": 37
+    },
+    {
+      "title": "高迪预告曝光聊天记录",
+      "hot_value": 136826,
+      "link": "https://s.weibo.com/weibo?q=%E9%AB%98%E8%BF%AA%E9%A2%84%E5%91%8A%E6%9B%9D%E5%85%89%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95",
+      "rank": 38
+    },
+    {
+      "title": "印度男子误食炸弹被炸身亡",
+      "hot_value": 133193,
+      "link": "https://s.weibo.com/weibo?q=%E5%8D%B0%E5%BA%A6%E7%94%B7%E5%AD%90%E8%AF%AF%E9%A3%9F%E7%82%B8%E5%BC%B9%E8%A2%AB%E7%82%B8%E8%BA%AB%E4%BA%A1",
+      "rank": 39
+    },
+    {
+      "title": "怪不得杨超越能作为第三名出道",
+      "hot_value": 132206,
+      "link": "https://s.weibo.com/weibo?q=%E6%80%AA%E4%B8%8D%E5%BE%97%E6%9D%A8%E8%B6%85%E8%B6%8A%E8%83%BD%E4%BD%9C%E4%B8%BA%E7%AC%AC%E4%B8%89%E5%90%8D%E5%87%BA%E9%81%93",
+      "rank": 40
+    },
+    {
+      "title": "大学生签MCN被迫每天直播3小时",
+      "hot_value": 132006,
+      "link": "https://s.weibo.com/weibo?q=%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%AD%BEMCN%E8%A2%AB%E8%BF%AB%E6%AF%8F%E5%A4%A9%E7%9B%B4%E6%92%AD3%E5%B0%8F%E6%97%B6",
+      "rank": 41
+    },
+    {
+      "title": "孟超谈美国航班停飞对NBA影响",
+      "hot_value": 117331,
+      "link": "https://s.weibo.com/weibo?q=%E5%AD%9F%E8%B6%85%E8%B0%88%E7%BE%8E%E5%9B%BD%E8%88%AA%E7%8F%AD%E5%81%9C%E9%A3%9E%E5%AF%B9NBA%E5%BD%B1%E5%93%8D",
+      "rank": 42
+    },
+    {
+      "title": "青稚天道酬勤 麦子熟了我要回家",
+      "hot_value": 115150,
+      "link": "https://s.weibo.com/weibo?q=%E9%9D%92%E7%A8%9A%E5%A4%A9%E9%81%93%E9%85%AC%E5%8B%A4%20%E9%BA%A6%E5%AD%90%E7%86%9F%E4%BA%86%E6%88%91%E8%A6%81%E5%9B%9E%E5%AE%B6",
+      "rank": 43
+    },
+    {
+      "title": "梓渝说想念的人是YUNI",
+      "hot_value": 109182,
+      "link": "https://s.weibo.com/weibo?q=%E6%A2%93%E6%B8%9D%E8%AF%B4%E6%83%B3%E5%BF%B5%E7%9A%84%E4%BA%BA%E6%98%AFYUNI",
+      "rank": 44
+    },
+    {
+      "title": "BLG和GEN选手对位投票",
+      "hot_value": 108881,
+      "link": "https://s.weibo.com/weibo?q=BLG%E5%92%8CGEN%E9%80%89%E6%89%8B%E5%AF%B9%E4%BD%8D%E6%8A%95%E7%A5%A8",
+      "rank": 45
+    },
+    {
+      "title": "青梅竹马结婚双方妈妈是30年闺蜜",
+      "hot_value": 108810,
+      "link": "https://s.weibo.com/weibo?q=%E9%9D%92%E6%A2%85%E7%AB%B9%E9%A9%AC%E7%BB%93%E5%A9%9A%E5%8F%8C%E6%96%B9%E5%A6%88%E5%A6%88%E6%98%AF30%E5%B9%B4%E9%97%BA%E8%9C%9C",
+      "rank": 46
+    },
+    {
+      "title": "国乒三双打均无缘决赛",
+      "hot_value": 108417,
+      "link": "https://s.weibo.com/weibo?q=%E5%9B%BD%E4%B9%92%E4%B8%89%E5%8F%8C%E6%89%93%E5%9D%87%E6%97%A0%E7%BC%98%E5%86%B3%E8%B5%9B",
+      "rank": 47
+    },
+    {
+      "title": "蔡徐坤让跪着举麦的工作人员站起来",
+      "hot_value": 106244,
+      "link": "https://s.weibo.com/weibo?q=%E8%94%A1%E5%BE%90%E5%9D%A4%E8%AE%A9%E8%B7%AA%E7%9D%80%E4%B8%BE%E9%BA%A6%E7%9A%84%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E7%AB%99%E8%B5%B7%E6%9D%A5",
+      "rank": 48
+    },
+    {
+      "title": "南京零元面馆周边7家店转让",
+      "hot_value": 104963,
+      "link": "https://s.weibo.com/weibo?q=%E5%8D%97%E4%BA%AC%E9%9B%B6%E5%85%83%E9%9D%A2%E9%A6%86%E5%91%A8%E8%BE%B97%E5%AE%B6%E5%BA%97%E8%BD%AC%E8%AE%A9",
+      "rank": 49
+    },
+    {
+      "title": "波切蒂诺泪洒发布会宣布离任",
+      "hot_value": 104492,
+      "link": "https://s.weibo.com/weibo?q=%E6%B3%A2%E5%88%87%E8%92%82%E8%AF%BA%E6%B3%AA%E6%B4%92%E5%8F%91%E5%B8%83%E4%BC%9A%E5%AE%A3%E5%B8%83%E7%A6%BB%E4%BB%BB",
+      "rank": 50
+    }
+  ]
+}
