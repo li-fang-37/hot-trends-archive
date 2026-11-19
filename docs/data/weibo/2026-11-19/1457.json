@@ -1,0 +1,307 @@
+{
+  "platform": "weibo",
+  "platform_name": "微博热搜",
+  "time": "2026-11-19 14:57:26",
+  "items": [
+    {
+      "title": "中美元首深圳会晤",
+      "hot_value": 1188806,
+      "link": "https://s.weibo.com/weibo?q=%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E6%B7%B1%E5%9C%B3%E4%BC%9A%E6%99%A4",
+      "rank": 1
+    },
+    {
+      "title": "马斯克小儿子玩具都是中国制造",
+      "hot_value": 994385,
+      "link": "https://s.weibo.com/weibo?q=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%B0%8F%E5%84%BF%E5%AD%90%E7%8E%A9%E5%85%B7%E9%83%BD%E6%98%AF%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0",
+      "rank": 2
+    },
+    {
+      "title": "共创亚太光明未来",
+      "hot_value": 711429,
+      "link": "https://s.weibo.com/weibo?q=%E5%85%B1%E5%88%9B%E4%BA%9A%E5%A4%AA%E5%85%89%E6%98%8E%E6%9C%AA%E6%9D%A5",
+      "rank": 3
+    },
+    {
+      "title": "APEC领导人休息室温馨画面",
+      "hot_value": 647579,
+      "link": "https://s.weibo.com/weibo?q=APEC%E9%A2%86%E5%AF%BC%E4%BA%BA%E4%BC%91%E6%81%AF%E5%AE%A4%E6%B8%A9%E9%A6%A8%E7%94%BB%E9%9D%A2",
+      "rank": 4
+    },
+    {
+      "title": "APEC重要讲话",
+      "hot_value": 495963,
+      "link": "https://s.weibo.com/weibo?q=APEC%E9%87%8D%E8%A6%81%E8%AE%B2%E8%AF%9D",
+      "rank": 5
+    },
+    {
+      "title": "王子璇白眼",
+      "hot_value": 487923,
+      "link": "https://s.weibo.com/weibo?q=%E7%8E%8B%E5%AD%90%E7%92%87%E7%99%BD%E7%9C%BC",
+      "rank": 6
+    },
+    {
+      "title": "甄嬛传剧组故意没让颖儿学礼仪",
+      "hot_value": 487368,
+      "link": "https://s.weibo.com/weibo?q=%E7%94%84%E5%AC%9B%E4%BC%A0%E5%89%A7%E7%BB%84%E6%95%85%E6%84%8F%E6%B2%A1%E8%AE%A9%E9%A2%96%E5%84%BF%E5%AD%A6%E7%A4%BC%E4%BB%AA",
+      "rank": 7
+    },
+    {
+      "title": "中俄美元首座驾首次同框",
+      "hot_value": 473337,
+      "link": "https://s.weibo.com/weibo?q=%E4%B8%AD%E4%BF%84%E7%BE%8E%E5%85%83%E9%A6%96%E5%BA%A7%E9%A9%BE%E9%A6%96%E6%AC%A1%E5%90%8C%E6%A1%86",
+      "rank": 8
+    },
+    {
+      "title": "APEC中国年亚太共同体建设启新程",
+      "hot_value": 429990,
+      "link": "https://s.weibo.com/weibo?q=APEC%E4%B8%AD%E5%9B%BD%E5%B9%B4%E4%BA%9A%E5%A4%AA%E5%85%B1%E5%90%8C%E4%BD%93%E5%BB%BA%E8%AE%BE%E5%90%AF%E6%96%B0%E7%A8%8B",
+      "rank": 9
+    },
+    {
+      "title": "特朗普在车内未拉窗帘欣赏深圳夜景",
+      "hot_value": 409483,
+      "link": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E8%BD%A6%E5%86%85%E6%9C%AA%E6%8B%89%E7%AA%97%E5%B8%98%E6%AC%A3%E8%B5%8F%E6%B7%B1%E5%9C%B3%E5%A4%9C%E6%99%AF",
+      "rank": 10
+    },
+    {
+      "title": "胖东来撤走后降到四百万依然没有人接盘",
+      "hot_value": 407331,
+      "link": "https://s.weibo.com/weibo?q=%E8%83%96%E4%B8%9C%E6%9D%A5%E6%92%A4%E8%B5%B0%E5%90%8E%E9%99%8D%E5%88%B0%E5%9B%9B%E7%99%BE%E4%B8%87%E4%BE%9D%E7%84%B6%E6%B2%A1%E6%9C%89%E4%BA%BA%E6%8E%A5%E7%9B%98",
+      "rank": 11
+    },
+    {
+      "title": "王子璇说只有文吉儿换了软卧包间",
+      "hot_value": 401687,
+      "link": "https://s.weibo.com/weibo?q=%E7%8E%8B%E5%AD%90%E7%92%87%E8%AF%B4%E5%8F%AA%E6%9C%89%E6%96%87%E5%90%89%E5%84%BF%E6%8D%A2%E4%BA%86%E8%BD%AF%E5%8D%A7%E5%8C%85%E9%97%B4",
+      "rank": 12
+    },
+    {
+      "title": "青稚 先救根儿",
+      "hot_value": 394982,
+      "link": "https://s.weibo.com/weibo?q=%E9%9D%92%E7%A8%9A%20%E5%85%88%E6%95%91%E6%A0%B9%E5%84%BF",
+      "rank": 13
+    },
+    {
+      "title": "马斯克小儿子说爱中国",
+      "hot_value": 391619,
+      "link": "https://s.weibo.com/weibo?q=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%B0%8F%E5%84%BF%E5%AD%90%E8%AF%B4%E7%88%B1%E4%B8%AD%E5%9B%BD",
+      "rank": 14
+    },
+    {
+      "title": "伊能静 张萌马天宇不适合做朋友",
+      "hot_value": 387687,
+      "link": "https://s.weibo.com/weibo?q=%E4%BC%8A%E8%83%BD%E9%9D%99%20%E5%BC%A0%E8%90%8C%E9%A9%AC%E5%A4%A9%E5%AE%87%E4%B8%8D%E9%80%82%E5%90%88%E5%81%9A%E6%9C%8B%E5%8F%8B",
+      "rank": 15
+    },
+    {
+      "title": "许飞 我们没有掰",
+      "hot_value": 379616,
+      "link": "https://s.weibo.com/weibo?q=%E8%AE%B8%E9%A3%9E%20%E6%88%91%E4%BB%AC%E6%B2%A1%E6%9C%89%E6%8E%B0",
+      "rank": 16
+    },
+    {
+      "title": "APEC第33次领导人非正式会议举行",
+      "hot_value": 378996,
+      "link": "https://s.weibo.com/weibo?q=APEC%E7%AC%AC33%E6%AC%A1%E9%A2%86%E5%AF%BC%E4%BA%BA%E9%9D%9E%E6%AD%A3%E5%BC%8F%E4%BC%9A%E8%AE%AE%E4%B8%BE%E8%A1%8C",
+      "rank": 17
+    },
+    {
+      "title": "白敬亭开美颜后秒变张踩玲",
+      "hot_value": 378988,
+      "link": "https://s.weibo.com/weibo?q=%E7%99%BD%E6%95%AC%E4%BA%AD%E5%BC%80%E7%BE%8E%E9%A2%9C%E5%90%8E%E7%A7%92%E5%8F%98%E5%BC%A0%E8%B8%A9%E7%8E%B2",
+      "rank": 18
+    },
+    {
+      "title": "于东来不还价撤店",
+      "hot_value": 378850,
+      "link": "https://s.weibo.com/weibo?q=%E4%BA%8E%E4%B8%9C%E6%9D%A5%E4%B8%8D%E8%BF%98%E4%BB%B7%E6%92%A4%E5%BA%97",
+      "rank": 19
+    },
+    {
+      "title": "华为超薄表",
+      "hot_value": 378535,
+      "link": "https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BA%E8%B6%85%E8%96%84%E8%A1%A8",
+      "rank": 20
+    },
+    {
+      "title": "纯稚",
+      "hot_value": 374893,
+      "link": "https://s.weibo.com/weibo?q=%E7%BA%AF%E7%A8%9A",
+      "rank": 21
+    },
+    {
+      "title": "杨超越董思成亲了4小时的吻戏",
+      "hot_value": 374499,
+      "link": "https://s.weibo.com/weibo?q=%E6%9D%A8%E8%B6%85%E8%B6%8A%E8%91%A3%E6%80%9D%E6%88%90%E4%BA%B2%E4%BA%864%E5%B0%8F%E6%97%B6%E7%9A%84%E5%90%BB%E6%88%8F",
+      "rank": 22
+    },
+    {
+      "title": "后会友期观察室 努力是天赋",
+      "hot_value": 371724,
+      "link": "https://s.weibo.com/weibo?q=%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F%E8%A7%82%E5%AF%9F%E5%AE%A4%20%E5%8A%AA%E5%8A%9B%E6%98%AF%E5%A4%A9%E8%B5%8B",
+      "rank": 23
+    },
+    {
+      "title": "马斯克称是中国的超级粉丝",
+      "hot_value": 370438,
+      "link": "https://s.weibo.com/weibo?q=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%A7%B0%E6%98%AF%E4%B8%AD%E5%9B%BD%E7%9A%84%E8%B6%85%E7%BA%A7%E7%B2%89%E4%B8%9D",
+      "rank": 24
+    },
+    {
+      "title": "伊能静一眼看出许飞委屈和痛苦",
+      "hot_value": 351956,
+      "link": "https://s.weibo.com/weibo?q=%E4%BC%8A%E8%83%BD%E9%9D%99%E4%B8%80%E7%9C%BC%E7%9C%8B%E5%87%BA%E8%AE%B8%E9%A3%9E%E5%A7%94%E5%B1%88%E5%92%8C%E7%97%9B%E8%8B%A6",
+      "rank": 25
+    },
+    {
+      "title": "猪肉上的检疫印章到底能不能吃",
+      "hot_value": 304797,
+      "link": "https://s.weibo.com/weibo?q=%E7%8C%AA%E8%82%89%E4%B8%8A%E7%9A%84%E6%A3%80%E7%96%AB%E5%8D%B0%E7%AB%A0%E5%88%B0%E5%BA%95%E8%83%BD%E4%B8%8D%E8%83%BD%E5%90%83",
+      "rank": 26
+    },
+    {
+      "title": "特朗普和普京握手并拍了拍肩膀",
+      "hot_value": 302459,
+      "link": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E5%92%8C%E6%99%AE%E4%BA%AC%E6%8F%A1%E6%89%8B%E5%B9%B6%E6%8B%8D%E4%BA%86%E6%8B%8D%E8%82%A9%E8%86%80",
+      "rank": 27
+    },
+    {
+      "title": "普京特朗普APEC会议现场画面",
+      "hot_value": 274101,
+      "link": "https://s.weibo.com/weibo?q=%E6%99%AE%E4%BA%AC%E7%89%B9%E6%9C%97%E6%99%AEAPEC%E4%BC%9A%E8%AE%AE%E7%8E%B0%E5%9C%BA%E7%94%BB%E9%9D%A2",
+      "rank": 28
+    },
+    {
+      "title": "APEC经济体领导人戴特色围巾合影",
+      "hot_value": 268129,
+      "link": "https://s.weibo.com/weibo?q=APEC%E7%BB%8F%E6%B5%8E%E4%BD%93%E9%A2%86%E5%AF%BC%E4%BA%BA%E6%88%B4%E7%89%B9%E8%89%B2%E5%9B%B4%E5%B7%BE%E5%90%88%E5%BD%B1",
+      "rank": 29
+    },
+    {
+      "title": "AI版武大郎潘金莲太真实",
+      "hot_value": 264782,
+      "link": "https://s.weibo.com/weibo?q=AI%E7%89%88%E6%AD%A6%E5%A4%A7%E9%83%8E%E6%BD%98%E9%87%91%E8%8E%B2%E5%A4%AA%E7%9C%9F%E5%AE%9E",
+      "rank": 30
+    },
+    {
+      "title": "王一博 演唱会",
+      "hot_value": 262434,
+      "link": "https://s.weibo.com/weibo?q=%E7%8E%8B%E4%B8%80%E5%8D%9A%20%E6%BC%94%E5%94%B1%E4%BC%9A",
+      "rank": 31
+    },
+    {
+      "title": "田栩宁这就是身高191的威力吗",
+      "hot_value": 254213,
+      "link": "https://s.weibo.com/weibo?q=%E7%94%B0%E6%A0%A9%E5%AE%81%E8%BF%99%E5%B0%B1%E6%98%AF%E8%BA%AB%E9%AB%98191%E7%9A%84%E5%A8%81%E5%8A%9B%E5%90%97",
+      "rank": 32
+    },
+    {
+      "title": "养老保险最低缴费年限上调",
+      "hot_value": 236202,
+      "link": "https://s.weibo.com/weibo?q=%E5%85%BB%E8%80%81%E4%BF%9D%E9%99%A9%E6%9C%80%E4%BD%8E%E7%BC%B4%E8%B4%B9%E5%B9%B4%E9%99%90%E4%B8%8A%E8%B0%83",
+      "rank": 33
+    },
+    {
+      "title": "后会友期下期是画地为牢",
+      "hot_value": 230780,
+      "link": "https://s.weibo.com/weibo?q=%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F%E4%B8%8B%E6%9C%9F%E6%98%AF%E7%94%BB%E5%9C%B0%E4%B8%BA%E7%89%A2",
+      "rank": 34
+    },
+    {
+      "title": "前夫曝韦雪生孩子花费百万",
+      "hot_value": 229289,
+      "link": "https://s.weibo.com/weibo?q=%E5%89%8D%E5%A4%AB%E6%9B%9D%E9%9F%A6%E9%9B%AA%E7%94%9F%E5%AD%A9%E5%AD%90%E8%8A%B1%E8%B4%B9%E7%99%BE%E4%B8%87",
+      "rank": 35
+    },
+    {
+      "title": "奔跑吧官宣22位嘉宾",
+      "hot_value": 220363,
+      "link": "https://s.weibo.com/weibo?q=%E5%A5%94%E8%B7%91%E5%90%A7%E5%AE%98%E5%AE%A322%E4%BD%8D%E5%98%89%E5%AE%BE",
+      "rank": 36
+    },
+    {
+      "title": "姚安娜摆摊卖瓷器被游客砍价",
+      "hot_value": 209129,
+      "link": "https://s.weibo.com/weibo?q=%E5%A7%9A%E5%AE%89%E5%A8%9C%E6%91%86%E6%91%8A%E5%8D%96%E7%93%B7%E5%99%A8%E8%A2%AB%E6%B8%B8%E5%AE%A2%E7%A0%8D%E4%BB%B7",
+      "rank": 37
+    },
+    {
+      "title": "原来一个人不快乐脸是会跟着变的",
+      "hot_value": 200740,
+      "link": "https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E4%B8%80%E4%B8%AA%E4%BA%BA%E4%B8%8D%E5%BF%AB%E4%B9%90%E8%84%B8%E6%98%AF%E4%BC%9A%E8%B7%9F%E7%9D%80%E5%8F%98%E7%9A%84",
+      "rank": 38
+    },
+    {
+      "title": "李雪琴第一次拍戏害胡歌抽了一包多烟",
+      "hot_value": 199980,
+      "link": "https://s.weibo.com/weibo?q=%E6%9D%8E%E9%9B%AA%E7%90%B4%E7%AC%AC%E4%B8%80%E6%AC%A1%E6%8B%8D%E6%88%8F%E5%AE%B3%E8%83%A1%E6%AD%8C%E6%8A%BD%E4%BA%86%E4%B8%80%E5%8C%85%E5%A4%9A%E7%83%9F",
+      "rank": 39
+    },
+    {
+      "title": "深圳的含总率太高了",
+      "hot_value": 199644,
+      "link": "https://s.weibo.com/weibo?q=%E6%B7%B1%E5%9C%B3%E7%9A%84%E5%90%AB%E6%80%BB%E7%8E%87%E5%A4%AA%E9%AB%98%E4%BA%86",
+      "rank": 40
+    },
+    {
+      "title": "丁太升评赵本山慌啥子嘛",
+      "hot_value": 199474,
+      "link": "https://s.weibo.com/weibo?q=%E4%B8%81%E5%A4%AA%E5%8D%87%E8%AF%84%E8%B5%B5%E6%9C%AC%E5%B1%B1%E6%85%8C%E5%95%A5%E5%AD%90%E5%98%9B",
+      "rank": 41
+    },
+    {
+      "title": "两京拍了兰香如故送太子那段",
+      "hot_value": 185915,
+      "link": "https://s.weibo.com/weibo?q=%E4%B8%A4%E4%BA%AC%E6%8B%8D%E4%BA%86%E5%85%B0%E9%A6%99%E5%A6%82%E6%95%85%E9%80%81%E5%A4%AA%E5%AD%90%E9%82%A3%E6%AE%B5",
+      "rank": 42
+    },
+    {
+      "title": "高铁偶遇赵丽颖",
+      "hot_value": 184735,
+      "link": "https://s.weibo.com/weibo?q=%E9%AB%98%E9%93%81%E5%81%B6%E9%81%87%E8%B5%B5%E4%B8%BD%E9%A2%96",
+      "rank": 43
+    },
+    {
+      "title": "特朗普细心整理蓝色围巾",
+      "hot_value": 179090,
+      "link": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E7%BB%86%E5%BF%83%E6%95%B4%E7%90%86%E8%93%9D%E8%89%B2%E5%9B%B4%E5%B7%BE",
+      "rank": 44
+    },
+    {
+      "title": "GTA6的彩蛋",
+      "hot_value": 173137,
+      "link": "https://s.weibo.com/weibo?q=GTA6%E7%9A%84%E5%BD%A9%E8%9B%8B",
+      "rank": 45
+    },
+    {
+      "title": "后会友期",
+      "hot_value": 168833,
+      "link": "https://s.weibo.com/weibo?q=%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F",
+      "rank": 46
+    },
+    {
+      "title": "李家超笑称我是东道主啊",
+      "hot_value": 159674,
+      "link": "https://s.weibo.com/weibo?q=%E6%9D%8E%E5%AE%B6%E8%B6%85%E7%AC%91%E7%A7%B0%E6%88%91%E6%98%AF%E4%B8%9C%E9%81%93%E4%B8%BB%E5%95%8A",
+      "rank": 47
+    },
+    {
+      "title": "湖人九连胜遭爵士终结",
+      "hot_value": 158065,
+      "link": "https://s.weibo.com/weibo?q=%E6%B9%96%E4%BA%BA%E4%B9%9D%E8%BF%9E%E8%83%9C%E9%81%AD%E7%88%B5%E5%A3%AB%E7%BB%88%E7%BB%93",
+      "rank": 48
+    },
+    {
+      "title": "奔跑吧回应白鹿",
+      "hot_value": 152500,
+      "link": "https://s.weibo.com/weibo?q=%E5%A5%94%E8%B7%91%E5%90%A7%E5%9B%9E%E5%BA%94%E7%99%BD%E9%B9%BF",
+      "rank": 49
+    },
+    {
+      "title": "中南大学通报附属医院AI论文争议",
+      "hot_value": 152462,
+      "link": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%8D%97%E5%A4%A7%E5%AD%A6%E9%80%9A%E6%8A%A5%E9%99%84%E5%B1%9E%E5%8C%BB%E9%99%A2AI%E8%AE%BA%E6%96%87%E4%BA%89%E8%AE%AE",
+      "rank": 50
+    }
+  ]
+}
